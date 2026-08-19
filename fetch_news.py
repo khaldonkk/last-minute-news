@@ -3,18 +3,16 @@ import json
 import urllib.request
 import feedparser
 
-# 1. قائمة مصادر الـ RSS (يمكنك إضافة أو تغيير أي رابط)
 RSS_FEEDS = [
-    "https://aljazeera.net/aljazeerarss.xml",
-    "https://arabic.rt.com/rss/"
+    {"url": "https://aljazeera.net/aljazeerarss.xml", "source": "الجزيرة"},
+    {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم"}
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def summarize_with_gemini(title, summary):
-    """إرسال الخبر إلى Gemini لتلخيصه وإعادة صياغته"""
     if not GEMINI_API_KEY:
-        return summary # في حال عدم وجود المفتاح يرجع النص الأصلي
+        return summary
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     
@@ -41,24 +39,22 @@ def summarize_with_gemini(title, summary):
 def main():
     all_news = []
     
-    for feed_url in RSS_FEEDS:
-        feed = feedparser.parse(feed_url)
-        # أخذ آخر 5 أخبار من كل مصدر
+    for feed_info in RSS_FEEDS:
+        feed = feedparser.parse(feed_info["url"])
         for entry in feed.entries[:5]:
             title = entry.title
             raw_summary = entry.get('summary', entry.get('description', ''))
-            
-            # تلخيص الخبر عبر Gemini
             ai_summary = summarize_with_gemini(title, raw_summary)
             
             all_news.append({
                 "title": title,
                 "summary": ai_summary,
                 "link": entry.link,
-                "published": entry.get('published', '')
+                "published": entry.get('published', ''),
+                "source": feed_info["source"],
+                "category": feed_info["source"]
             })
 
-    # حفظ الأخبار في ملف news.json
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
 
