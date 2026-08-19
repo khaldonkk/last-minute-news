@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>آخر دقيقة | Last Minute News</title>
+<meta name="description" content="آخر دقيقة — أخبار عاجلة ومحدثة لحظة بلحظة" />
+
+<!-- Fonts: Cairo for display/headlines, Tajawal for body, JetBrains Mono for time & digits -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700;800;900&family=Tajawal:wght@400;500;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+
+<!-- Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    darkMode: 'class',
+    theme: {
+      extend: {
+        fontFamily: {
+          display: ['Cairo', 'sans-serif'],
+          body: ['Tajawal', 'sans-serif'],
+          mono: ['"JetBrains Mono"', 'monospace'],
+        },
+        colors: {
+          ink: {
+            DEFAULT: '#12141C',
+            light: '#F4F3EF',
+          },
+          paper: {
+            DEFAULT: '#0B0E14',
+            light: '#F0EFEA',
+          },
+          surface: {
+            DEFAULT: '#141824',
+            light: '#FFFFFF',
+          },
+          signal: '#E9314A',
+          amber: '#F5A623',
+          slate: {
+            soft: '#8891A3',
+          },
+        },
+        boxShadow: {
+          card: '0 1px 0 0 rgba(0,0,0,0.04)',
+        },
+      },
+    },
+  };
+</script>
+
+<style>
+  html { scroll-behavior: smooth; }
+  body { font-family: 'Tajawal', sans-serif; }
+  .font-display { font-family: 'Cairo', sans-serif; }
+  .font-mono-num { font-family: 'JetBrains Mono', monospace; direction: ltr; unicode-bidi: isolate; }
+
+  /* Breaking ticker marquee */
+  .ticker-track {
+    display: inline-flex;
+    white-space: nowrap;
+    animation: ticker-scroll 32s linear infinite;
+  }
+  .ticker-track:hover { animation-play-state: paused; }
+  @keyframes ticker-scroll {
+    0%   { transform: translateX(0%); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* Live pulse dot */
+  .pulse-dot { position: relative; }
+  .pulse-dot::before {
+    content: '';
+    position: absolute; inset: 0;
+    border-radius: 9999px;
+    background: currentColor;
+    opacity: .6;
+    animation: pulse-ring 1.6s cubic-bezier(0.4,0,0.6,1) infinite;
+  }
+  @keyframes pulse-ring {
+    0% { transform: scale(1); opacity: .6; }
+    75%, 100% { transform: scale(2.4); opacity: 0; }
+  }
+
+  /* Card line clamp */
+  .clamp-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+  /* Skeleton shimmer */
+  .shimmer {
+    background: linear-gradient(90deg, rgba(120,120,130,.12) 25%, rgba(120,120,130,.22) 37%, rgba(120,120,130,.12) 63%);
+    background-size: 400% 100%;
+    animation: shimmer 1.4s ease infinite;
+  }
+  @keyframes shimmer { 0% { background-position: 100% 0; } 100% { background-position: -100% 0; } }
+
+  ::selection { background: #E9314A; color: #fff; }
+
+  /* Visible keyboard focus */
+  a:focus-visible, button:focus-visible, input:focus-visible {
+    outline: 2px solid #E9314A;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ticker-track, .pulse-dot::before, .shimmer { animation: none !important; }
+  }
+</style>
+</head>
+
+<body class="bg-paper-light dark:bg-paper text-ink dark:text-ink-light font-body transition-colors duration-300 min-h-screen">
+
+  <!-- ===================== HEADER ===================== -->
+  <header class="sticky top-0 z-40 backdrop-blur bg-paper-light/90 dark:bg-paper/90 border-b border-black/10 dark:border-white/10">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
+      <div class="flex items-center justify-between h-16">
+
+        <!-- Logo -->
+        <a href="#" class="flex items-center gap-2.5 group">
+          <span class="relative flex items-center justify-center w-9 h-9 rounded-lg bg-signal text-white text-lg shadow-sm">
+            🔔
+            <span class="pulse-dot absolute -top-1 -left-1 w-2.5 h-2.5 bg-signal rounded-full text-signal"></span>
+          </span>
+          <span class="font-display font-900 text-xl sm:text-2xl tracking-tight">
+            آخر <span class="text-signal">دقيقة</span>
+          </span>
+        </a>
+
+        <!-- Live clock + theme toggle -->
+        <div class="flex items-center gap-3 sm:gap-4">
+          <div class="hidden sm:flex items-center gap-2 text-xs text-slate-soft">
+            <span class="w-1.5 h-1.5 rounded-full bg-signal animate-pulse"></span>
+            <span id="live-clock" class="font-mono-num"></span>
+          </div>
+          <button id="theme-toggle" type="button"
+            class="w-9 h-9 grid place-items-center rounded-lg border border-black/10 dark:border-white/15 hover:bg-black/5 dark:hover:bg-white/10 transition"
+            aria-label="تبديل الوضع الداكن والفاتح">
+            <span id="theme-icon">🌙</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Breaking news ticker -->
+    <div class="bg-signal text-white overflow-hidden">
+      <div class="max-w-6xl mx-auto flex items-stretch">
+        <div class="flex items-center gap-1.5 px-3 sm:px-4 py-2 bg-black/15 font-display font-800 text-xs sm:text-sm shrink-0 whitespace-nowrap">
+          <span class="pulse-dot relative w-1.5 h-1.5 bg-white rounded-full text-white"></span>
+          عاجل
+        </div>
+        <div class="relative flex-1 overflow-hidden py-2">
+          <div id="ticker" class="ticker-track text-xs sm:text-sm font-medium"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== SEARCH & FILTER ===================== -->
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pt-6">
+    <div class="flex flex-col sm:flex-row gap-3 sm:items-center sm:justify-between">
+      <div class="relative w-full sm:max-w-sm">
+        <input id="search-input" type="text" placeholder="ابحث في العناوين والملخصات…"
+          class="w-full h-11 rounded-xl border border-black/10 dark:border-white/15 bg-white dark:bg-surface px-4 pr-10 text-sm placeholder:text-slate-soft focus:border-signal outline-none transition" />
+        <span class="absolute right-3.5 top-1/2 -translate-y-1/2 text-slate-soft text-sm">🔎</span>
+      </div>
+      <div id="category-filters" class="flex flex-wrap gap-2 text-sm"></div>
+    </div>
+  </div>
+
+  <!-- ===================== NEWS GRID ===================== -->
+  <main class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+    <div class="flex items-center justify-between mb-4">
+      <h1 class="font-display font-800 text-lg sm:text-xl">آخر الأخبار</h1>
+      <span id="result-count" class="text-xs text-slate-soft font-mono-num"></span>
+    </div>
+
+    <div id="news-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5"></div>
+
+    <div id="empty-state" class="hidden flex-col items-center justify-center text-center py-20">
+      <div class="text-4xl mb-3">📭</div>
+      <p class="font-display font-700 text-lg mb-1">لا توجد نتائج مطابقة</p>
+      <p class="text-sm text-slate-soft">جرّب كلمة بحث مختلفة أو اختر تصنيفاً آخر</p>
+    </div>
+  </main>
+
+  <!-- ===================== FOOTER ===================== -->
+  <footer class="border-t border-black/10 dark:border-white/10 mt-10">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-soft">
+      <p>© 2026 آخر دقيقة — جميع الأخبار مثال توضيحي لأغراض العرض.</p>
+      <p class="font-mono-num">يُحدَّث تلقائياً كل 60 ثانية</p>
+    </div>
+  </footer>
+
+  <script>
+    // ===================== STATE =====================
+    let allNews = [];
+    let activeCategory = 'الكل';
+    let searchTerm = '';
+
+    const CATEGORY_STYLES = {
+      'اقتصاد':  { dot: 'bg-amber',   text: 'text-amber' },
+      'رياضة':   { dot: 'bg-emerald-500', text: 'text-emerald-500' },
+      'تقنية':   { dot: 'bg-sky-500', text: 'text-sky-500' },
+      'محليات':  { dot: 'bg-slate-soft', text: 'text-slate-soft' },
+      'صحة':     { dot: 'bg-teal-500', text: 'text-teal-500' },
+      'عالم':    { dot: 'bg-violet-500', text: 'text-violet-500' },
+    };
+    const DEFAULT_STYLE = { dot: 'bg-slate-soft', text: 'text-slate-soft' };
+
+    // ===================== THEME =====================
+    const themeToggle = document.getElementById('theme-toggle');
+    const themeIcon = document.getElementById('theme-icon');
+    const root = document.documentElement;
+
+    function applyTheme(mode) {
+      if (mode === 'dark') {
+        root.classList.add('dark');
+        themeIcon.textContent = '☀️';
+      } else {
+        root.classList.remove('dark');
+        themeIcon.textContent = '🌙';
+      }
+    }
+    (function initTheme() {
+      const saved = localStorage.getItem('lmn-theme');
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      applyTheme(saved || (prefersDark ? 'dark' : 'light'));
+    })();
+    themeToggle.addEventListener('click', () => {
+      const isDark = root.classList.contains('dark');
+      const next = isDark ? 'light' : 'dark';
+      applyTheme(next);
+      localStorage.setItem('lmn-theme', next);
+    });
+
+    // ===================== LIVE CLOCK =====================
+    function tickClock() {
+      const el = document.getElementById('live-clock');
+      el.textContent = new Date().toLocaleTimeString('en-GB');
+    }
+    tickClock();
+    setInterval(tickClock, 1000);
+
+    // ===================== RELATIVE TIME (Arabic) =====================
+    function relativeTimeAr(iso) {
+      const diffMs = Date.now() - new Date(iso).getTime();
+      const min = Math.floor(diffMs / 60000);
+      if (min < 1) return 'الآن';
+      if (min < 60) return `منذ ${min} ${min === 1 ? 'دقيقة' : min === 2 ? 'دقيقتين' : min <= 10 ? 'دقائق' : 'دقيقة'}`;
+      const hrs = Math.floor(min / 60);
+      if (hrs < 24) return `منذ ${hrs} ${hrs === 1 ? 'ساعة' : hrs === 2 ? 'ساعتين' : hrs <= 10 ? 'ساعات' : 'ساعة'}`;
+      const days = Math.floor(hrs / 24);
+      return `منذ ${days} ${days === 1 ? 'يوم' : days === 2 ? 'يومين' : days <= 10 ? 'أيام' : 'يوماً'}`;
+    }
+
+    // ===================== RENDER: TICKER =====================
+    function renderTicker(items) {
+      const breaking = items.filter(n => n.breaking);
+      const source = breaking.length ? breaking : items.slice(0, 5);
+      const strip = source.map(n => `<span class="px-6 py-0 inline-flex items-center gap-2">${n.title}<span class="opacity-50">•</span></span>`).join('');
+      // duplicate content for seamless loop
+      document.getElementById('ticker').innerHTML = strip + strip;
+    }
+
+    // ===================== RENDER: CATEGORY FILTERS =====================
+    function renderCategoryFilters() {
+      const cats = ['الكل', ...new Set(allNews.map(n => n.category))];
+      const wrap = document.getElementById('category-filters');
+      wrap.innerHTML = cats.map(cat => {
+        const active = cat === activeCategory;
+        return `<button data-cat="${cat}"
+          class="cat-pill px-3.5 h-9 rounded-full border transition font-medium
+          ${active
+            ? 'bg-ink text-white dark:bg-white dark:text-ink border-transparent'
+            : 'border-black/10 dark:border-white/15 hover:bg-black/5 dark:hover:bg-white/10 text-ink dark:text-ink-light'}">
+          ${cat}
+        </button>`;
+      }).join('');
+      wrap.querySelectorAll('.cat-pill').forEach(btn => {
+        btn.addEventListener('click', () => {
+          activeCategory = btn.dataset.cat;
+          renderCategoryFilters();
+          renderGrid();
+        });
+      });
+    }
+
+    // ===================== RENDER: CARD =====================
+    function newsCard(n) {
+      const style = CATEGORY_STYLES[n.category] || DEFAULT_STYLE;
+      return `
+      <article class="group relative flex flex-col rounded-2xl border border-black/10 dark:border-white/10 bg-white dark:bg-surface p-5 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200
+        ${n.breaking ? 'ring-1 ring-signal/30' : ''}">
+        ${n.breaking ? `<span class="absolute -top-2.5 right-5 bg-signal text-white text-[11px] font-display font-800 px-2.5 py-1 rounded-full shadow">عاجل</span>` : ''}
+        <div class="flex items-center gap-2 mb-3">
+          <span class="w-1.5 h-1.5 rounded-full ${style.dot}"></span>
+          <span class="text-xs font-semibold ${style.text}">${n.category}</span>
+          <span class="mr-auto text-[11px] text-slate-soft font-mono-num">${relativeTimeAr(n.published)}</span>
+        </div>
+        <h2 class="font-display font-800 text-base leading-snug mb-2 clamp-2">${n.title}</h2>
+        <p class="text-sm text-ink/70 dark:text-ink-light/70 leading-relaxed clamp-3 mb-4">${n.summary}</p>
+        <a href="${n.link}" class="mt-auto inline-flex items-center gap-1 text-sm font-semibold text-signal hover:gap-2 transition-all">
+          اقرأ المزيد
+          <span aria-hidden="true">←</span>
+        </a>
+      </article>`;
+    }
+
+    // ===================== RENDER: GRID =====================
+    function renderGrid() {
+      const grid = document.getElementById('news-grid');
+      const empty = document.getElementById('empty-state');
+      const countEl = document.getElementById('result-count');
+
+      let filtered = allNews.filter(n => {
+        const matchesCat = activeCategory === 'الكل' || n.category === activeCategory;
+        const haystack = (n.title + ' ' + n.summary).toLowerCase();
+        const matchesSearch = haystack.includes(searchTerm.toLowerCase());
+        return matchesCat && matchesSearch;
+      });
+
+      filtered.sort((a, b) => new Date(b.published) - new Date(a.published));
+
+      countEl.textContent = `${filtered.length} خبر`;
+
+      if (!filtered.length) {
+        grid.innerHTML = '';
+        grid.classList.add('hidden');
+        empty.classList.remove('hidden');
+        empty.classList.add('flex');
+        return;
+      }
+      grid.classList.remove('hidden');
+      empty.classList.add('hidden');
+      empty.classList.remove('flex');
+      grid.innerHTML = filtered.map(newsCard).join('');
+    }
+
+    // ===================== SEARCH INPUT =====================
+    let searchDebounce;
+    document.getElementById('search-input').addEventListener('input', (e) => {
+      clearTimeout(searchDebounce);
+      searchDebounce = setTimeout(() => {
+        searchTerm = e.target.value.trim();
+        renderGrid();
+      }, 150);
+    });
+
+    // ===================== SKELETON WHILE LOADING =====================
+    function renderSkeleton() {
+      const grid = document.getElementById('news-grid');
+      grid.innerHTML = Array.from({ length: 6 }).map(() => `
+        <div class="rounded-2xl border border-black/10 dark:border-white/10 p-5 bg-white dark:bg-surface">
+          <div class="shimmer h-3 w-20 rounded mb-4"></div>
+          <div class="shimmer h-4 w-full rounded mb-2"></div>
+          <div class="shimmer h-4 w-3/4 rounded mb-4"></div>
+          <div class="shimmer h-3 w-full rounded mb-1.5"></div>
+          <div class="shimmer h-3 w-5/6 rounded"></div>
+        </div>`).join('');
+    }
+
+    // ===================== FETCH & INIT =====================
+    async function loadNews() {
+      renderSkeleton();
+      try {
+        const res = await fetch('./news.json');
+        if (!res.ok) throw new Error('تعذّر تحميل الأخبار');
+        allNews = await res.json();
+        renderTicker(allNews);
+        renderCategoryFilters();
+        renderGrid();
+      } catch (err) {
+        document.getElementById('news-grid').innerHTML = `
+          <div class="col-span-full text-center py-16">
+            <p class="font-display font-700 mb-1">تعذّر تحميل الأخبار</p>
+            <p class="text-sm text-slate-soft">تأكد من تشغيل الصفحة عبر خادم محلي حتى يعمل fetch('./news.json') بشكل صحيح.</p>
+          </div>`;
+        console.error(err);
+      }
+    }
+
+    // Refresh relative timestamps every 60s without refetching
+    setInterval(() => { if (allNews.length) renderGrid(); }, 60000);
+
+    loadNews();
+  </script>
+</body>
+</html>
