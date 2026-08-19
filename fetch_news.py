@@ -1,30 +1,33 @@
 import os
 import json
-import urllib.request
+import requests
 import feedparser
 
-# قائمة المصادر الإخبارية المتنوعة
+# قائمة مصادر إخبارية موثوقة ومتنوعة
 RSS_FEEDS = [
-    {"url": "https://aljazeera.net/aljazeerarss.xml", "source": "الجزيرة"},
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم"},
-    {"url": "https://www.alarabiya.net/.mrss/arabic.xml", "source": "العربية"},
-    {"url": "https://www.skynewsarabia.com/rss.xml", "source": "سكاي نيوز"}
+    {"url": "https://feeds.bbci.co.uk/arabic/rss.xml", "source": "BBC عربي"},
+    {"url": "https://www.skynewsarabia.com/rss.xml", "source": "سكاي نيوز"},
+    {"url": "https://aljazeera.net/aljazeerarss.xml", "source": "الجزيرة"}
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-def fetch_feed_with_user_agent(url):
-    """جلب رابط RSS مع التظاهر بأننا متصفح عادي لمنع الحظر"""
-    req = urllib.request.Request(
-        url, 
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    )
+def fetch_feed_data(url):
+    """جلب المحتوى باستخدام requests لتجاوز أي حظر للسيرفرات"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    }
     try:
-        with urllib.request.urlopen(req) as response:
-            return feedparser.parse(response.read())
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            return feedparser.parse(response.content)
     except Exception as e:
         print(f"Error fetching {url}: {e}")
-        return feedparser.parse(url) # محاولة احتياطية
+    
+    # محاولة احتياطية إذا فشل طلب requests
+    return feedparser.parse(url)
 
 def summarize_with_gemini(title, summary):
     if not GEMINI_API_KEY:
@@ -38,40 +41,51 @@ def summarize_with_gemini(title, summary):
     المحتوى: {summary}
     """
     
-    payload = json.dumps({
+    payload = {
         "contents": [{"parts": [{"text": prompt}]}]
-    }).encode('utf-8')
-    
-    req = urllib.request.Request(url, data=payload, headers={'Content-Type': 'application/json'})
+    }
     
     try:
-        with urllib.request.urlopen(req) as response:
-            result = json.loads(response.read().decode('utf-8'))
+        res = requests.post(url, json=payload, timeout=10)
+        if res.status_code == 200:
+            result = res.json()
             return result['candidates'][0]['content']['parts'][0]['text']
     except Exception as e:
-        print(f"Error calling Gemini: {e}")
-        return summary
+        print(f"Error calling Gemini API: {e}")
+    
+    return summary
 
 def main():
     all_news = []
     
     for feed_info in RSS_FEEDS:
-        feed = fetch_feed_with_user_agent(feed_info["url"])
+        print(f"Fetching from: {feed_info['source']}...")
+        feed = fetch_feed_data(feed_info["url"])
         
-        # أخذ 3 أخبار طازجة من كل مصدر لضمان التنوع
-        for entry in feed.entries[:3]:
-            title = entry.title
+        # أخذ أول 3 أخبار من كل مصدر لضمان التنويع
+        count = 0
+        for entry in feed.entries:
+            if count >= 3:
+                break
+                
+            title = entry.get('title', '')
+            if not title:
+                continue
+                
             raw_summary = entry.get('summary', entry.get('description', ''))
             ai_summary = summarize_with_gemini(title, raw_summary)
             
             all_news.append({
                 "title": title,
                 "summary": ai_summary,
-                "link": entry.link,
+                "link": entry.get('link', '#'),
                 "published": entry.get('published', ''),
                 "source": feed_info["source"],
                 "category": feed_info["source"]
             })
+            count += 1
+
+    print(f"Total articles fetched: {len(all_news)}")
 
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
