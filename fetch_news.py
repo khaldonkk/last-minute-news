@@ -4,25 +4,29 @@ import re
 import requests
 import feedparser
 
-# ==================== إعدادات المصادر ====================
+# ==================== إعدادات المصادر (مُحسّنة لمهندس شبكات وأمن معلومات) ====================
 RSS_FEEDS = [
-    # --- تقنية وخدمات سحابية ---
-    {"url": "https://www.unlimit-tech.com/feed/", "source": "التقنية بلا حدود", "category": "تقنية"},
-    {"url": "https://aitnews.com/feed/", "source": "البوابة العربية للأخبار التقنية", "category": "تقنية"},
+    # --- تقنية (مصادر عربية موثوقة) ---
     {"url": "https://ayon-tech.com/feed/", "source": "عُيون التقنية", "category": "تقنية"},
-    {"url": "https://takni.com/feed/", "source": "تقني", "category": "تقنية"},
+    {"url": "https://www.takni.com/feed/", "source": "تقني", "category": "تقنية"},
     {"url": "https://arabeed.com/feed/", "source": "عُرب تيد", "category": "تقنية"},
-    {"url": "https://techblog.sa/feed/", "source": "مدونة التقنية", "category": "تقنية"},
     
-    # --- أمن سيبراني (أخبار عربية + مراجع عالمية) ---
+    # --- أمن سيبراني (مصادر عالمية احترافية - الذهب الحقيقي للمهندسين) ---
+    # SANS ISC: يراقب الثغرات والهجمات لحظياً (مرجع عالمي)
+    {"url": "https://isc.sans.edu/feeds/latest", "source": "SANS ISC", "category": "أمن سيبراني", "lang": "en"},
+    # Dark Reading: أخبار الأمن المؤسسي
+    {"url": "https://www.darkreading.com/rss.xml", "source": "Dark Reading", "category": "أمن سيبراني", "lang": "en"},
+    # BleepingComputer: سريع جداً في نشر الـ CVEs والاختراقات
     {"url": "https://www.bleepingcomputer.com/feed/", "source": "BleepingComputer", "category": "أمن سيبراني", "lang": "en"},
+    # The Hacker News
     {"url": "https://feeds.feedburner.com/TheHackersNews", "source": "The Hacker News", "category": "أمن سيبراني", "lang": "en"},
-    {"url": "https://www.microsoft.com/security/rss.xml", "source": "Microsoft Security", "category": "أمن سيبراني", "lang": "en"},
     
-    # --- شبكات وبنية تحتية ---
-    {"url": "https://www.arabia.com.sa/rss", "source": "أرابيا (شبكات)", "category": "شبكات"},
-    {"url": "https://techblog.sa/feed/", "source": "مدونة التقنية (شبكات)", "category": "شبكات"},
-
+    # --- شبكات وبنية تحتية (Networking & Infra) ---
+    # Network World: متخصص في الشبكات والسيرفرات
+    {"url": "https://www.networkworld.com/feed/", "source": "Network World", "category": "شبكات", "lang": "en"},
+    # InfoWorld: بنية تحتية وتكنولوجيا المعلومات
+    {"url": "https://www.infoworld.com/feed/", "source": "InfoWorld", "category": "شبكات", "lang": "en"},
+    
     # --- رياضة ---
     {"url": "https://www.kooora.com/rss.xml", "source": "كووورة", "category": "رياضة"},
     {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سكاي نيوز رياضة", "category": "رياضة"},
@@ -34,67 +38,68 @@ RSS_FEEDS = [
     # --- صحة وحياة ---
     {"url": "https://www.skynewsarabia.com/rss/varieties.xml", "source": "سكاي نيوز منوعات", "category": "صحة"},
     
-    # --- أخبار عامة وسياسة ---
+    # --- أخبار عامة ---
     {"url": "https://feeds.bbci.co.uk/arabic/rss.xml", "source": "BBC عربي", "category": "عالم"},
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"}
 ]
 
-# مفتاح Gemini API
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-# ==================== دوال مساعدة ====================
+# ==================== الدوال المساعدة ====================
 
 def fetch_feed_data(url, source_name):
-    """جلب بيانات RSS مع Header متوافق مع GitHub Actions والسيرفرات"""
+    """جلب البيانات مع headers متقدمة لتجنب الحظر"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     }
     try:
-        response = requests.get(url, headers=headers, timeout=15)
+        response = requests.get(url, headers=headers, timeout=20) # زدنا الوقت قليلاً للمصادر الخارجية
         response.raise_for_status()
         return feedparser.parse(response.content)
     except Exception as e:
-        print(f"[!] Error fetching {source_name}: {e}")
+        print(f"🚫 Error fetching {source_name}: {e}")
         return None
 
-def summarize_with_gemini(title, summary):
-    """تلخيص الخبر عبر Gemini API"""
+def summarize_with_gemini(title, summary, lang="ar"):
+    """تلخيص الخبر مع الحفاظ على الدقة التقنية للمهندسين"""
     if not GEMINI_API_KEY:
         return summary
-    
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
-    
+
+    # تحسين البرومبت: نطلب من الـ AI الحفاظ على المصطلحات التقنية بالإنجليزية
     prompt = f"""
-    قم بإعادة صياغة هذا الخبر وتلخيصه باللغة العربية بشكل جذاب ومختصر (جمله إلى جملتين).
+    أنت خبير تقني وأمني. قم بتلخيص الخبر التالي باللغة العربية.
+    **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت الأكثر شيوعاً (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
     العنوان: {title}
     المحتوى: {summary}
     """
     
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     
     try:
-        res = requests.post(url, json=payload, timeout=15)
+        res = requests.post(url, json=payload, timeout=20)
         if res.status_code == 200:
             return res.json()['candidates'][0]['content']['parts'][0]['text']
     except Exception as e:
-        print(f"[!] Gemini Error for '{title[:20]}...': {e}")
+        print(f"🤖 Gemini Error for '{title[:30]}...': {e}")
     
     return summary
 
 def is_security_news(item):
-    """فلتر ذكي يميز الأخبار الأمنية من المصادر العامة"""
+    """كشف ذكي للأخبار الأمنية حتى لو كانت في مصدر عام"""
     text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
-    keywords = [
-        r"ثغرة|اختراق|برمجية|DDoS|CVE-|هجوم|تشفير|اختراق|بيانات|معلومات|سайбер|امن سيبراني|فاير وول"
+    # كلمات مفتاحية تقنية دقيقة
+    tech_keywords = [
+        r"CVE-|XSS|SQLi|DDoS|MITM|ransomware|phishing|firewall|encryption|zero-day|exploit|vulnerability|threat|incident|breach|cyber|اختراق|ثغرة|برمجية|هجوم"
     ]
-    return any(re.search(kw, text) for kw in keywords)
+    return any(re.search(kw, text) for kw in tech_keywords)
 
 # ==================== التنفيذ الرئيسي ====================
 
 def main():
     all_news = []
-    print(f"[*] Starting News Aggregator with {len(RSS_FEEDS)} sources...\n")
+    print(f"[*] Starting Advanced Aggregator with {len(RSS_FEEDS)} sources...")
     
     for feed_info in RSS_FEEDS:
         source = feed_info["source"]
@@ -109,23 +114,28 @@ def main():
             
         count = 0
         for entry in feed.entries:
-            if count >= 4:  # زيادة العدد قليلاً للتنوع
+            if count >= 4: # نأخذ عدد مناسب للتنوع
                 break
                 
             title = entry.get('title', '').strip()
             if not title:
                 continue
+            
+            # تنظيف العنوان (بعض المصادر تضيف نص إضافي مثل " - Source Name")
+            if f"- {source}" in title:
+                title = title.replace(f"- {source}", "").strip()
+            elif f"| {source}" in title:
+                title = title.replace(f"| {source}", "").strip()
                 
             raw_summary = entry.get('summary', entry.get('description', ''))
             
-            # تحديد الفئة النهائية للخبر (أمن سيبراني تلقائي أو الفئة المحددة)
+            # تحديد الفئة (أمن سيبراني تلقائي للأخبار التقنية)
             if is_security_news(entry) and cat == "تقنية":
                 final_category = "أمن سيبراني"
             else:
                 final_category = cat
                 
-            # تلخيص الخبر عبر Gemini
-            ai_summary = summarize_with_gemini(title, raw_summary)
+            ai_summary = summarize_with_gemini(title, raw_summary, lang)
             
             all_news.append({
                 "title": title,
@@ -137,6 +147,9 @@ def main():
                 "lang": lang
             })
             count += 1
+
+    # ترتيب الأخبار (الأحدث أولاً)
+    all_news.sort(key=lambda x: x.get('published', ''), reverse=True)
 
     print(f"\n[✓] Successfully collected {len(all_news)} articles.")
     
