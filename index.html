@@ -209,6 +209,14 @@
     };
     const DEFAULT_STYLE = { dot: 'bg-slate-soft', text: 'text-slate-soft' };
 
+    // Guards against missing/undefined/null fields from the feed so the UI
+    // never renders the literal string "undefined" — falls back gracefully instead.
+    function safeText(value, fallback) {
+      if (value === undefined || value === null) return fallback;
+      const str = String(value).trim();
+      return str.length ? str : fallback;
+    }
+
     // ===================== THEME =====================
     const themeToggle = document.getElementById('theme-toggle');
     const themeIcon = document.getElementById('theme-icon');
@@ -266,7 +274,7 @@
 
     // ===================== RENDER: CATEGORY FILTERS =====================
     function renderCategoryFilters() {
-      const cats = ['الكل', ...new Set(allNews.map(n => n.category))];
+      const cats = ['الكل', ...new Set(allNews.map(n => safeText(n.category, 'عام')))];
       const wrap = document.getElementById('category-filters');
       wrap.innerHTML = cats.map(cat => {
         const active = cat === activeCategory;
@@ -289,22 +297,27 @@
 
     // ===================== RENDER: CARD =====================
     function newsCard(n) {
-      const style = CATEGORY_STYLES[n.category] || DEFAULT_STYLE;
+      const category = safeText(n.category, 'عام');
+      const source = safeText(n.source, 'مصدر غير محدد');
+      const style = CATEGORY_STYLES[category] || DEFAULT_STYLE;
       return `
       <article class="group relative flex flex-col rounded-2xl border border-black/10 dark:border-white/10 bg-white dark:bg-surface p-5 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200
         ${n.breaking ? 'ring-1 ring-signal/30' : ''}">
         ${n.breaking ? `<span class="absolute -top-2.5 right-5 bg-signal text-white text-[11px] font-display font-800 px-2.5 py-1 rounded-full shadow">عاجل</span>` : ''}
         <div class="flex items-center gap-2 mb-3">
           <span class="w-1.5 h-1.5 rounded-full ${style.dot}"></span>
-          <span class="text-xs font-semibold ${style.text}">${n.category}</span>
+          <span class="text-xs font-semibold ${style.text}">${category}</span>
           <span class="mr-auto text-[11px] text-slate-soft font-mono-num">${relativeTimeAr(n.published)}</span>
         </div>
         <h2 class="font-display font-800 text-base leading-snug mb-2 clamp-2">${n.title}</h2>
         <p class="text-sm text-ink/70 dark:text-ink-light/70 leading-relaxed clamp-3 mb-4">${n.summary}</p>
-        <a href="${n.link}" class="mt-auto inline-flex items-center gap-1 text-sm font-semibold text-signal hover:gap-2 transition-all">
-          اقرأ المزيد
-          <span aria-hidden="true">←</span>
-        </a>
+        <div class="mt-auto flex items-center justify-between gap-2">
+          <a href="${n.link}" class="inline-flex items-center gap-1 text-sm font-semibold text-signal hover:gap-2 transition-all">
+            اقرأ المزيد
+            <span aria-hidden="true">←</span>
+          </a>
+          <span class="text-[11px] text-slate-soft truncate max-w-[45%]" title="${source}">${source}</span>
+        </div>
       </article>`;
     }
 
@@ -315,8 +328,9 @@
       const countEl = document.getElementById('result-count');
 
       let filtered = allNews.filter(n => {
-        const matchesCat = activeCategory === 'الكل' || n.category === activeCategory;
-        const haystack = (n.title + ' ' + n.summary).toLowerCase();
+        const category = safeText(n.category, 'عام');
+        const matchesCat = activeCategory === 'الكل' || category === activeCategory;
+        const haystack = `${n.title || ''} ${n.summary || ''} ${n.source || ''}`.toLowerCase();
         const matchesSearch = haystack.includes(searchTerm.toLowerCase());
         return matchesCat && matchesSearch;
       });
@@ -365,7 +379,7 @@
     async function loadNews() {
       renderSkeleton();
       try {
-        const res = await fetch('./news.json');
+        const res = await fetch('./news.json?v=' + new Date().getTime());
         if (!res.ok) throw new Error('تعذّر تحميل الأخبار');
         allNews = await res.json();
         renderTicker(allNews);
