@@ -4,28 +4,26 @@ import re
 import requests
 import feedparser
 
-# ==================== إعدادات المصادر (مُحسّنة لمهندس شبكات وأمن معلومات) ====================
+# ==================== إعدادات المصادر (مُحسّنة لمهندس أمن معلومات) ====================
 RSS_FEEDS = [
     # --- تقنية (مصادر عربية موثوقة) ---
     {"url": "https://ayon-tech.com/feed/", "source": "عُيون التقنية", "category": "تقنية"},
     {"url": "https://www.takni.com/feed/", "source": "تقني", "category": "تقنية"},
     {"url": "https://arabeed.com/feed/", "source": "عُرب تيد", "category": "تقنية"},
     
-    # --- أمن سيبراني (مصادر عالمية احترافية - الذهب الحقيقي للمهندسين) ---
+    # --- أمن سيبراني (مصادر عالمية متخصصة - ثغرات، تهديدات، اختراقات) ---
     # SANS ISC: يراقب الثغرات والهجمات لحظياً (مرجع عالمي)
     {"url": "https://isc.sans.edu/feeds/latest", "source": "SANS ISC", "category": "أمن سيبراني", "lang": "en"},
-    # Dark Reading: أخبار الأمن المؤسسي
+    # Dark Reading: الأمن السيبراني المؤسسي
     {"url": "https://www.darkreading.com/rss.xml", "source": "Dark Reading", "category": "أمن سيبراني", "lang": "en"},
     # BleepingComputer: سريع جداً في نشر الـ CVEs والاختراقات
     {"url": "https://www.bleepingcomputer.com/feed/", "source": "BleepingComputer", "category": "أمن سيبراني", "lang": "en"},
     # The Hacker News
     {"url": "https://feeds.feedburner.com/TheHackersNews", "source": "The Hacker News", "category": "أمن سيبراني", "lang": "en"},
-    
-    # --- شبكات وبنية تحتية (Networking & Infra) ---
-    # Network World: متخصص في الشبكات والسيرفرات
-    {"url": "https://www.networkworld.com/feed/", "source": "Network World", "category": "شبكات", "lang": "en"},
-    # InfoWorld: بنية تحتية وتكنولوجيا المعلومات
-    {"url": "https://www.infoworld.com/feed/", "source": "InfoWorld", "category": "شبكات", "lang": "en"},
+    # SecurityWeek: أخبار الأمن والتهديدات العالمية
+    {"url": "https://www.securityweek.com/feed/", "source": "SecurityWeek", "category": "أمن سيبراني", "lang": "en"},
+    # HelpNetSecurity: الأمن السيبراني والتحليلات
+    {"url": "https://www.helpnetsecurity.com/feed/", "source": "HelpNetSecurity", "category": "أمن سيبراني", "lang": "en"},
     
     # --- رياضة ---
     {"url": "https://www.kooora.com/rss.xml", "source": "كووورة", "category": "رياضة"},
@@ -62,14 +60,14 @@ def fetch_feed_data(url, source_name):
         return None
 
 def summarize_with_gemini(title, summary, lang="ar"):
-    """تلخيص الخبر مع الحفاظ على الدقة التقنية للمهندسين"""
+    """تلخيص الخبر مع الحفاظ على الدقة التقنية"""
     if not GEMINI_API_KEY:
         return summary
 
     # تحسين البرومبت: نطلب من الـ AI الحفاظ على المصطلحات التقنية بالإنجليزية
     prompt = f"""
     أنت خبير تقني وأمني. قم بتلخيص الخبر التالي باللغة العربية.
-    **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت الأكثر شيوعاً (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
+    **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت أكثر شيوعًا (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
     العنوان: {title}
     المحتوى: {summary}
     """
@@ -121,7 +119,7 @@ def main():
             if not title:
                 continue
             
-            # تنظيف العنوان (بعض المصادر تضيف نص إضافي مثل " - Source Name")
+            # تنظيف العنوان (بعض المصادر تضيف نص إضافي)
             if f"- {source}" in title:
                 title = title.replace(f"- {source}", "").strip()
             elif f"| {source}" in title:
@@ -134,7 +132,7 @@ def main():
                 final_category = "أمن سيبراني"
             else:
                 final_category = cat
-                
+            
             ai_summary = summarize_with_gemini(title, raw_summary, lang)
             
             all_news.append({
@@ -148,8 +146,8 @@ def main():
             })
             count += 1
 
-    # ترتيب الأخبار (الأحدث أولاً)
-    all_news.sort(key=lambda x: x.get('published', ''), reverse=True)
+    # ترتيب الأخبار (الأولوية للأخبار الأمنية)
+    all_news.sort(key=lambda x: (x['category'] != 'أمن سيبراني', x.get('published', ''), reverse=True))
 
     print(f"\n[✓] Successfully collected {len(all_news)} articles.")
     
