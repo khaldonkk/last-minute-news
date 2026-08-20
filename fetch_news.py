@@ -52,7 +52,7 @@ def fetch_feed_data(url, source_name):
         'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     }
     try:
-        response = requests.get(url, headers=headers, timeout=20) # زدنا الوقت قليلاً للمصادر الخارجية
+        response = requests.get(url, headers=headers, timeout=20)  # زدنا الوقت قليلاً للمصادر الخارجية
         response.raise_for_status()
         return feedparser.parse(response.content)
     except Exception as e:
@@ -67,7 +67,7 @@ def summarize_with_gemini(title, summary, lang="ar"):
     # تحسين البرومبت: نطلب من الـ AI الحفاظ على المصطلحات التقنية بالإنجليزية
     prompt = f"""
     أنت خبير تقني وأمني. قم بتلخيص الخبر التالي باللغة العربية.
-    **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت أكثر شيوعًا (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
+    **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت أكثر شيوعاً (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
     العنوان: {title}
     المحتوى: {summary}
     """
@@ -104,50 +104,54 @@ def main():
         cat = feed_info["category"]
         lang = feed_info.get("lang", "ar")
         
-        print(f"📥 Fetching [{cat}] from {source}...")
-        feed = fetch_feed_data(feed_info["url"], source)
-        
-        if not feed:
-            continue
+        try:
+            print(f"📥 Fetching [{cat}] from {source}...")
+            feed = fetch_feed_data(feed_info["url"], source)
             
-        count = 0
-        for entry in feed.entries:
-            if count >= 4: # نأخذ عدد مناسب للتنوع
-                break
-                
-            title = entry.get('title', '').strip()
-            if not title:
+            if not feed:
                 continue
             
-            # تنظيف العنوان (بعض المصادر تضيف نص إضافي)
-            if f"- {source}" in title:
-                title = title.replace(f"- {source}", "").strip()
-            elif f"| {source}" in title:
-                title = title.replace(f"| {source}", "").strip()
+            count = 0
+            for entry in feed.entries:
+                if count >= 4:  # نأخذ عدد مناسب للتنوع
+                    break
                 
-            raw_summary = entry.get('summary', entry.get('description', ''))
-            
-            # تحديد الفئة (أمن سيبراني تلقائي للأخبار التقنية)
-            if is_security_news(entry) and cat == "تقنية":
-                final_category = "أمن سيبراني"
-            else:
-                final_category = cat
-            
-            ai_summary = summarize_with_gemini(title, raw_summary, lang)
-            
-            all_news.append({
-                "title": title,
-                "summary": ai_summary,
-                "link": entry.get('link', '#'),
-                "published": entry.get('published', 'الآن'),
-                "source": source,
-                "category": final_category,
-                "lang": lang
-            })
-            count += 1
-
-    # ترتيب الأخبار (الأولوية للأخبار الأمنية)
-    all_news.sort(key=lambda x: (x['category'] != 'أمن سيبراني', x.get('published', ''), reverse=True))
+                title = entry.get('title', '').strip()
+                if not title:
+                    continue
+                
+                # تنظيف العنوان (بعض المصادر تضيف نص إضافي)
+                if f"- {source}" in title:
+                    title = title.replace(f"- {source}", "").strip()
+                elif f"| {source}" in title:
+                    title = title.replace(f"| {source}", "").strip()
+                
+                raw_summary = entry.get('summary', entry.get('description', ''))
+                
+                # تحديد الفئة (أمن سيبراني تلقائي للأخبار التقنية)
+                if is_security_news(entry) and cat == "تقنية":
+                    final_category = "أمن سيبراني"
+                else:
+                    final_category = cat
+                
+                ai_summary = summarize_with_gemini(title, raw_summary, lang)
+                
+                all_news.append({
+                    "title": title,
+                    "summary": ai_summary,
+                    "link": entry.get('link', '#'),
+                    "published": entry.get('published', 'الآن'),
+                    "source": source,
+                    "category": final_category,
+                    "lang": lang
+                })
+                count += 1
+        except Exception as e:
+            print(f"❌ Failed processing {source}: {e}")
+            continue
+    
+    # ✅ ترتيب صحيح: الأمنية أولاً ثم الأحدث
+    all_news.sort(key=lambda x: (x['category'] != 'أمن سيبراني', x.get('published', '')))
 
     print(f"\n[✓] Successfully collected {len(all_news)} articles.")
     
