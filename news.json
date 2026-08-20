@@ -1,1 +1,362 @@
 [
+  {
+    "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+    "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+    "published": "Thu, 20 Aug 2026 13:30:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+    "published": "Wed, 19 Aug 2026 20:32:09 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "Agentic AI Presents New Insider Threat Model for Orgs",
+    "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+    "published": "Wed, 19 Aug 2026 19:54:43 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+    "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
+    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+    "published": "Wed, 19 Aug 2026 16:58:23 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "How MSPs can catch phishing attacks email filters miss",
+    "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+    "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+    "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+    "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+    "published": "Thu, 20 Aug 2026 07:06:14 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "New Manic Android malware can exfiltrate data through nearby devices",
+    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+    "published": "Thu, 20 Aug 2026 06:02:02 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.\n\nThe attack, which the researchers named \"Zombie Card,\" requires physical",
+    "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+    "published": "Thu, 20 Aug 2026 17:31:24 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+    "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp;\n\nThe incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
+    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+    "published": "Thu, 20 Aug 2026 17:15:00 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+    "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server.\n\nThe attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
+    "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+    "published": "Thu, 20 Aug 2026 17:09:35 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications.\n\n\"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
+    "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+    "published": "Thu, 20 Aug 2026 16:56:08 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
+    "summary": "دخل نادي توتنهام الإنجليزي في مفاوضات جادة مع مانشستر سيتي للتعاقد مع النجم المصري عمر مرموش، بهدف تدعيم خط هجومه الذي عانى الموسم الماضي.",
+    "link": "https://www.skynewsarabia.com/sport/1887181-%D9%85%D8%B1%D9%85%D9%88%D8%B4-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%88%D8%AC%D9%87%D8%AA%D9%87-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B9%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%AA%D9%8A",
+    "published": "Thu, 20 Aug 2026 12:35:49 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
+    "summary": "تدرس اتحادات قارية لكرة القدم، هي الاتحاد الأوروبي (اليويفا)، والاتحاد الآسيوي، واتحاد أميركا الشمالية والوسطى والكاريبي (الكونكاكاف) – إمكانية طرح تصويت بحجب الثقة عن رئيس الفيفا جياني إنفانتينو.",
+    "link": "https://www.skynewsarabia.com/sport/1887162-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-122-%D8%B9%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%84%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88",
+    "published": "Thu, 20 Aug 2026 11:23:56 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
+    "summary": "أعلنت نجمة كرة السلة الأميركية ننيكا أوجومايكي، الأربعاء، اعتزالها اللعب بنهاية الموسم الحالي، لتسدل الستار على مسيرة امتدت 15 موسما في دوري كرة السلة الأميركي للسيدات \"WNBA\".",
+    "link": "https://www.skynewsarabia.com/sport/1887094-15-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%82-%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%AF%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8",
+    "published": "Wed, 19 Aug 2026 23:29:03 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
+    "summary": "أعلنت الوكالة الدولية لنزاهة التنس إيقاف الأسترالي نيك كيريوس مؤقتاً، بعد ثبوت إيجابية عينة فحص للكوكايين خلال مشاركته في بطولة من فئة ATP 250 في جزيرة مايوركا الإسبانية، في 22 يونيو الماضي.",
+    "link": "https://www.skynewsarabia.com/sport/1887050-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D8%B3-%D9%86%D9%8A%D9%83-%D9%83%D9%8A%D8%B1%D9%8A%D9%88%D8%B3-%D8%AB%D8%A8%D9%88%D8%AA-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
+    "published": "Wed, 19 Aug 2026 20:39:57 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "\"باركن\" الإماراتية تستكشف إدارة المواقف والتنقل الذكي بمصر",
+    "summary": "وقعت شركة باركن ش.م.ع “باركن” مذكرة تفاهم مع شركة مدن مصر لإدارة الأصول والمرافق، وشركة مواصلات مصر، وشركة ريدكون العقارية، لاستكشاف فرص التعاون في تطوير حلول إدارة المواقف والتنقل الذكي في جمهورية مصر العربية، في أول دخول للشركة إلى السوق المصري.",
+    "link": "https://www.skynewsarabia.com/business/1887172-%D8%A8%D8%A7%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%83%D8%B4%D9%81-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D9%8A-%D8%A8%D9%85%D8%B5%D8%B1",
+    "published": "Thu, 20 Aug 2026 12:03:22 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "رويترز: قطاعات جديدة تعيد رسم خريطة النفوذ في واشنطن",
+    "summary": "يرى مقال نشرته وكالة رويترز، أن شركات العملات المشفرة والذكاء الاصطناعي والمراهنات الإلكترونية، أصبحت من أبرز القوى التي تمول انتخابات التجديد النصفي الأميركية لعام 2026، لتنافس قطاعات تقليدية هيمنت لعقود على دوائر النفوذ السياسي في واشنطن.",
+    "link": "https://www.skynewsarabia.com/business/1887165-%D8%B1%D9%88%D9%8A%D8%AA%D8%B1%D8%B2-%D9%82%D8%B7%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%B1%D8%B3%D9%85-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D9%88%D8%B0-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86",
+    "published": "Thu, 20 Aug 2026 11:50:42 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "أسواق التنبؤ تضاعف مخاطر الاستطلاعات المزيفة",
+    "summary": "في وقت تتزايد فيه المخاوف بشأن نزاهة المعلومات المتداولة خلال المواسم الانتخابية الأميركية، كشفت شركة غامضة تحمل اسم \"ميديان ستراتيجيز\" (Median Strategies) أنها نشرت استطلاعات رأي مزيفة بشأن عدد من السباقات الانتخابية المحلية والفيدرالية، ونجحت في تمريرها على أنها بيانات حقيقية جرى تداولها على نطاق واسع عبر منصات التواصل الاجتماعي، بحسب تقرير لوكالة بلومبرغ نيوز.",
+    "link": "https://www.skynewsarabia.com/business/1887167-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D8%A4-%D8%AA%D8%B6%D8%A7%D8%B9%D9%81-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D9%81%D8%A9",
+    "published": "Thu, 20 Aug 2026 11:36:47 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
+    "summary": "عززت روسيا موقعها كأكبر مورد للنفط الخام إلى الصين خلال يوليو، مع ارتفاع الشحنات الروسية خمسة بالمئة على أساس سنوي، في وقت أعادت فيه بكين توزيع مشترياتها بين عدد من الموردين، وسط اضطراب الإمدادات القادمة من الشرق الأوسط.",
+    "link": "https://www.skynewsarabia.com/business/1887152-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87%D8%A7-%D9%84%D9%85%D9%88%D8%B1%D8%AF%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
+    "published": "Thu, 20 Aug 2026 10:58:23 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "تراجع طلبات إعانة البطالة في الولايات المتحدة الأسبوع الماضي",
+    "summary": "انخفض عدد الأمريكيين المتقدمين للمرة الأولى بطلبات للحصول على إعانة البطالة الأسبوع الماضي، في مؤشر على استمرار استقرار سوق العمل رغم التراجع المفاجئ في وتيرة التوظيف خلال يوليو.",
+    "link": "https://arabic.rt.com/business/1823364-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B9%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A/",
+    "published": "Thu, 20 Aug 2026 14:03:46 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "المصريون يحولون أموالا بالدولارات من الخارج بشكل غير مسبوق",
+    "summary": "سجلت تحويلات المصريين العاملين في الخارج قفزة قياسية غير مسبوقة خلال السنة المالية 2025/2026، مستمرة في مسارها التصاعدي الذي يعكس نموا متزايدا في التدفقات النقدية.",
+    "link": "https://arabic.rt.com/business/1823340-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D8%AD%D9%88%D9%84%D9%88%D9%86-%D8%A3%D9%85%D9%88%D8%A7%D9%84%D8%A7-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B4%D9%83%D9%84-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B3%D8%A8%D9%88%D9%82/",
+    "published": "Thu, 20 Aug 2026 13:30:16 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "بمناسبة الذكرى الـ81 لتأسيس قطاع الطاقة الذرية الروسي.. أبرز مشاريع \"روساتوم\" الدولية",
+    "summary": "تحتفل روسيا اليوم بالذكرى الـ81 لتأسيس قطاع الطاقة الذرية لديها، وتمثل مسيرة \"روساتوم\" قصة تحول مذهلة من برنامج سري للأسلحة إلى أكبر شركة نووية في العالم تشكل مشهد الطاقة العالمي.",
+    "link": "https://arabic.rt.com/business/1823338-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D9%8081-%D9%84%D8%AA%D8%A3%D8%B3%D9%8A%D8%B3%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A3%D8%A8%D8%B1%D8%B2-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%B1%D9%88%D8%B3%D8%A7%D8%AA%D9%88%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9/",
+    "published": "Thu, 20 Aug 2026 13:29:35 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "\"روساتوم\" تواصل بناء وحدات جديدة في محطة بوشهر الإيرانية",
+    "summary": "أعلن مدير مؤسسة \"روساتوم\" الروسية للطاقة الذرية أليكسي ليخاتشوف أن المؤسسة تواصل بناء وحدات توليد جديدة في محطة بوشهر للطاقة النووية في إيران.",
+    "link": "https://arabic.rt.com/business/1823322-%D8%B1%D9%88%D8%B3%D8%A7%D8%AA%D9%88%D9%85-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D8%B7%D8%A9-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/",
+    "published": "Thu, 20 Aug 2026 13:29:13 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "أعداد كبيرة لوفيات موجة الحر في إسبانيا وألمانيا",
+    "summary": "كشفت بيانات رسمية، الخميس، أن موجات الحر الشديدة التي ضربت أوروبا هذا الصيف تسببت في وفاة الآلاف في كل من إسبانيا وألمانيا، في أرقام هي الأكبر منذ سنوات.",
+    "link": "https://www.skynewsarabia.com/varieties/1887174-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%84%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+    "published": "Thu, 20 Aug 2026 12:14:05 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "توضيح من \"روبلوكس\" بعد تقارير عن ثغرات \"تهدد سلامة الأطفال\"",
+    "summary": "قالت شركة \"روبلوكس\" إنها تعهدت بمواصلة تعزيز إجراءات حماية الأطفال على منصتها عقب حوار مع مفوضية السلامة الإلكترونية في أستراليا، وذلك بعد اختبارات كشفت إمكان وصول مستخدمين بالغين إلى حسابات أطفال والتواصل معهم.",
+    "link": "https://www.skynewsarabia.com/varieties/1887148-%D8%AA%D9%88%D8%B6%D9%8A%D8%AD-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+    "published": "Thu, 20 Aug 2026 12:14:03 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "\"اكتشف أنه ميت\" صدفة.. الداخلية المصرية تفسر الواقعة الغريبة",
+    "summary": "اكتشف شاب مصري أنه مسجل متوفى في الأوراق الرسمية أثناء محاولته استخراج بطاقة الرقم القومي (الهوية)، قبل أن يتبين أن تكرار قيد ميلاده أدى إلى تسجيل وفاته بالخطأ.",
+    "link": "https://www.skynewsarabia.com/varieties/1887134-%D8%A7%D9%83%D8%AA%D8%B4%D9%81-%D8%A3%D9%86%D9%87-%D9%85%D9%8A%D8%AA-%D8%B5%D8%AF%D9%81%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D8%B3%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9",
+    "published": "Thu, 20 Aug 2026 09:00:15 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "اختبار يكشف ثغرة \"روبلوكس\".. هكذا يصل البالغون إلى الأطفال",
+    "summary": "كشفت اختبارات أجرتها هيئة السلامة الإلكترونية في أستراليا، ثغرات تسمح لمستخدمين بالغين برؤية حسابات أطفال والتواصل معهم عبر منصة الألعاب الشهيرة \"روبلوكس\"، رغم تطبيق الشركة إجراءات قالت إنها تمنع اتصال الغرباء بالصغار.",
+    "link": "https://www.skynewsarabia.com/varieties/1887068-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+    "published": "Thu, 20 Aug 2026 04:15:58 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
+    "summary": "في الأثناء، ثمة اتصالات وزيارات إيرانية متزامنة لعدد من العواصم في المنطقة وسط تداول أخبار عن تهديدات إيرانية قد تصل إلى أوروبا",
+    "link": "https://www.bbc.com/arabic/articles/c8dnz068y8vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 07:25:03 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "نحو شراكة بريطانية أوكرانية لإنتاج المسيّرات رغم التهديد الروسي - مقال في الإندبندنت",
+    "summary": "في جولة الصحف البريطانية اليوم اهتمام واسع بعودة هاري وميغان إلى بريطانيا هذا الشهر، وأبعاد الشراكة البريطانية الأوكرانية لإنتاج الطائرات المسيّرة رغم التهديد الروسي، بالإضافة إلى تعليق حول تفشّي إيبولا غير المسبوق في الكونغو الديمقراطية.",
+    "link": "https://www.bbc.com/arabic/articles/cvgvrrm5mrlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 11:47:27 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
+    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذّر من \"صدمة المياه الباردة\".",
+    "link": "https://www.bbc.com/arabic/articles/c5y3n4j4vn3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 10:04:21 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "الأمير هاري وميغان يعودان إلى المملكة المتحدة هذا الشهر",
+    "summary": "تم تسجيل طفلي الزوجين، الأمير آرتشي البالغ من العمر سبع سنوات والأميرة ليليبيت البالغة من العمر خمس سنوات، للالتحاق بمدرسة في المملكة المتحدة في سبتمبر/أيلول.",
+    "link": "https://www.bbc.com/arabic/articles/cx2v3z99e7qo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 09:12:17 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "منظمة الصحة العالمية ترسل 70 ألف جرعة من لقاح إيبولا إلى الكونغو الديمقراطية",
+    "summary": "أعلنت منظمة الصحة العالمية إرسال 70 ألف جرعة من لقاح إرفيبو المضاد لفيروس إيبولا إلى جمهورية الكونغو الديمقراطية، لحماية العاملين في المجال الصحي وإجراء تجارب سريرية.",
+    "link": "https://arabic.rt.com/health/1823350-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B1%D8%B3%D9%84-70-%D8%A3%D9%84%D9%81-%D8%AC%D8%B1%D8%B9%D8%A9-%D9%85%D9%86-%D9%84%D9%82%D8%A7%D8%AD-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9/",
+    "published": "Thu, 20 Aug 2026 14:00:21 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "فيديو مسرب لسماعات \"آبل\" الجديدة يثير موجة غضب وجدلا أخلاقيا",
+    "summary": "في تسريب غير متوقع، كشفت \"آبل\" بالخطأ عن منتجها الجديد الذي لم يعلن عنه رسميا بعد، وهو سماعات \"آيربودز\" (AirPods) مزودة بكاميرات صغيرة.",
+    "link": "https://arabic.rt.com/it/1823238-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D8%B3%D8%B1%D8%A8-%D9%84%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%A8%D9%84-%D8%BA%D8%B6%D8%A8-%D8%AC%D8%AF%D9%84%D8%A7-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7/",
+    "published": "Thu, 20 Aug 2026 13:58:58 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "نجا من الإعدام 8 مرات.. وفاة أكبر سجين في الولايات المتحدة (صور)",
+    "summary": "أفادت قناة \"بي بي سي\" بوفاة فرانسيس سميث، سجين الأكبر عمرا في الولايات المتحدة، والذي نجا من عقوبة الإعدام 8 مرات، عن عمر يناهز 101 عاما.",
+    "link": "https://arabic.rt.com/funny/1823362-%D9%86%D8%AC%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-8-%D9%85%D8%B1%D8%A7%D8%AA-%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B3%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B5%D9%88%D8%B1/",
+    "published": "Thu, 20 Aug 2026 13:56:55 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  },
+  {
+    "title": "عالم روسي يشرح آلية عمل الدواء الجديد لعلاج سرطان الثدي",
+    "summary": "أوضح المدير العلمي لمركز \"غاماليا\" الوطني للبحوث في الأوبئة والأحياء الدقيقة التابع لوزارة الصحة الروسية، ألكسندر غينسبورغ مبدأ عمل الدواء الجديد المضاد لسرطان الثدي.",
+    "link": "https://arabic.rt.com/health/1823282-%D8%B9%D8%A7%D9%84%D9%85-%D8%B1%D9%88%D8%B3%D9%8A-%D8%A2%D9%84%D9%8A%D8%A9-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B9%D9%84%D8%A7%D8%AC-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A/",
+    "published": "Thu, 20 Aug 2026 13:49:15 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787234925
+  }
+]
