@@ -2,6 +2,7 @@ import os
 import json
 import re
 import time
+from datetime import datetime
 import requests
 import feedparser
 
@@ -19,7 +20,6 @@ RSS_FEEDS = [
     {"url": "https://feeds.feedburner.com/TheHackersNews", "source": "The Hacker News", "category": "أمن سيبراني", "lang": "en"},
     
     # --- رياضة ---
-    {"url": "https://www.kooora.com/rss.xml", "source": "كووورة", "category": "رياضة"},
     {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سكاي نيوز رياضة", "category": "رياضة"},
     
     # --- اقتصاد ---
@@ -37,14 +37,21 @@ RSS_FEEDS = [
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 def fetch_feed_data(url, source_name):
+    # استخدام User-Agent متصفح حديث جداً للالتفاف على حظر GitHub Runners
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+        'Accept-Language': 'ar,en-US;q=0.7,en;q=0.3',
+        'Cache-Control': 'no-cache'
     }
     try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        return feedparser.parse(response.content)
+        session = requests.Session()
+        response = session.get(url, headers=headers, timeout=15)
+        if response.status_code == 200:
+            return feedparser.parse(response.content)
+        else:
+            print(f"⚠️ {source_name} returned status code {response.status_code}")
+            return None
     except Exception as e:
         print(f"🚫 Error fetching {source_name}: {e}")
         return None
@@ -82,9 +89,9 @@ def is_security_news(item):
 def main():
     all_news = []
     seen_titles = set()
-    current_time = int(time.time())
+    current_timestamp = int(time.time())
     
-    print(f"[*] Starting News Aggregator...")
+    print(f"[*] Starting News Aggregator at {datetime.now()}...")
     
     for feed_info in RSS_FEEDS:
         source = feed_info["source"]
@@ -92,12 +99,13 @@ def main():
         lang = feed_info.get("lang", "ar")
         
         feed = fetch_feed_data(feed_info["url"], source)
-        if not feed or not hasattr(feed, 'entries'):
+        if not feed or not hasattr(feed, 'entries') or len(feed.entries) == 0:
+            print(f"⚠️ No entries for {source}")
             continue
             
         count = 0
         for entry in feed.entries:
-            if count >= 5: # أخذ حتى 5 أخبار لكل مصدر
+            if count >= 4:
                 break
                 
             title = entry.get('title', '').strip()
@@ -106,7 +114,6 @@ def main():
                 
             seen_titles.add(title)
             
-            # تنظيف العنوان
             title = title.replace(f"- {source}", "").replace(f"| {source}", "").strip()
             raw_summary = entry.get('summary', entry.get('description', ''))
             
@@ -121,12 +128,13 @@ def main():
                 "source": source,
                 "category": final_category,
                 "lang": lang,
-                "timestamp": current_time
+                "fetched_at": current_timestamp
             })
             count += 1
 
     print(f"\n[✓] Collected {len(all_news)} unique articles.")
     
+    # حفظ الملف دائماً مع Overwrite للبيانات القديمة
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(all_news, f, ensure_ascii=False, indent=2)
 
