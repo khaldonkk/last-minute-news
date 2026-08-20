@@ -1,140 +1,5 @@
 [
   {
-    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-    "summary": "<p>A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/\">Hackers Using AI to Target Siemens PLCs in Critical US Sectors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-    "published": "Thu, 20 Aug 2026 07:02:02 +0000",
-    "source": "SecurityWeek",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Tufin expands Unified Control Plane with AI intelligence and multi-vendor automation",
-    "summary": "<p>Tufin has announced the availability of Tufin Orchestration Suite (TOS) 5.3, helping enterprises further simplify security operations and maintain consistent control across increasingly complex multi-vendor, hybrid environments. As enterprise security environments continue to expand across cloud, firewalls, SASE, SD-WAN, microsegmentation, and distributed infrastructure, organizations increasingly struggle to govern connectivity across a growing mix of vendor-specific tools and management platforms. In fact, recent research shows that almost half (49%) of organizations have more than 20 security &#8230; <a href=\"https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/\">Tufin expands Unified Control Plane with AI intelligence and multi-vendor automation</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/",
-    "published": "Thu, 20 Aug 2026 07:31:56 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
-    "summary": "<p>CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/\">Critical GitLab Flaw Exploited Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-    "published": "Thu, 20 Aug 2026 07:48:24 +0000",
-    "source": "SecurityWeek",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
-    "summary": "<p>Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/\">Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-    "published": "Thu, 20 Aug 2026 08:33:25 +0000",
-    "source": "SecurityWeek",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "US agencies warn of AI-powered attacks on Siemens industrial controllers",
-    "summary": "<p>Threat actors are using AI to write exploit scripts targeting internet-exposed Siemens S7 Series programmable logic controllers (PLCs) used across water, energy, manufacturing, and other critical infrastructure sectors, according to US federal agencies. PLCs are the small industrial computers that open valves, run pumps, and control machinery in factories, water plants, and power stations. The NSA, CISA, FBI, Department of Energy (DOE), and Environmental Protection Agency (EPA) issued the joint advisory Wednesday, warning that &#8220;this &#8230; <a href=\"https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/\">US agencies warn of AI-powered attacks on Siemens industrial controllers</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/",
-    "published": "Thu, 20 Aug 2026 09:07:34 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "OpenAI previews privacy-focused system for detecting AI misuse",
-    "summary": "<p>OpenAI is previewing Private Safety Processing with early customers seeking greater certainty about how their data will be protected as AI systems become more capable. The system identifies patterns across related interactions while restricting OpenAI personnel from accessing the underlying content. The company plans to start rolling it out and publish a technical white paper in September. “No AI lab can address emerging risks alone. Private Safety Processing reflects that approach and is being shaped &#8230; <a href=\"https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/\">OpenAI previews privacy-focused system for detecting AI misuse</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/",
-    "published": "Thu, 20 Aug 2026 09:09:12 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
-    "summary": "<p>The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. </p>\n<p>The post <a href=\"https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/\">OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-    "published": "Thu, 20 Aug 2026 10:36:14 +0000",
-    "source": "SecurityWeek",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Fake Gemini installer delivers Vidar infostealer via Google Colab lure",
-    "summary": "<p>A malicious executable masquerading as a Google Gemini installer was used to deliver the Vidar infostealer on a company network in the EMEA region, according to Darktrace researchers who investigated the incident. “During the initial analysis, it was noted that the top search result for the suspicious filename associated pointed to a file hosted on Google Colab, a cloud-based Jupyter notebook platform, commonly used by developers, researchers, and data scientists to run code and machine &#8230; <a href=\"https://www.helpnetsecurity.com/2026/08/20/fake-google-gemini-installer-vidar-infostealer/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/08/20/fake-google-gemini-installer-vidar-infostealer/\">Fake Gemini installer delivers Vidar infostealer via Google Colab lure</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/08/20/fake-google-gemini-installer-vidar-infostealer/",
-    "published": "Thu, 20 Aug 2026 10:46:49 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-    "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type.\n\n\"The flaw lives in the Forms module's File",
-    "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-    "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-    "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-    "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-    "published": "Tue, 18 Aug 2026 21:25:58 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
-    "summary": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
-    "published": "Wed, 19 Aug 2026 01:00:00 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-    "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
-    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-    "published": "Wed, 19 Aug 2026 16:58:23 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
-    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-    "published": "Wed, 19 Aug 2026 20:32:09 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
     "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
     "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.\n\n\"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
     "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
@@ -144,199 +9,10 @@
     "lang": "en"
   },
   {
-    "title": "وداعا كاليفورنيا.. هاري وميغان يعيدان حقائبهما إلى بريطانيا",
-    "summary": "يستعد الأمير هاري وزوجته ميغان للعودة إلى بريطانيا برفقة طفليهما، في خطوة لافتة تأتي بعد 6 سنوات من تنحيهما عن مهامهما الملكية وانتقالهما للإقامة في الولايات المتحدة.",
-    "link": "https://www.skynewsarabia.com/varieties/1887102-%D9%88%D8%AF%D8%A7%D8%B9%D8%A7-%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%86%D9%8A%D8%A7-%D9%87%D8%A7%D8%B1%D9%8A-%D9%88%D9%85%D9%8A%D8%BA%D8%A7%D9%86-%D9%8A%D8%B9%D9%8A%D8%AF%D8%A7%D9%86-%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%D9%87%D9%85%D8%A7-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7",
-    "published": "Thu, 20 Aug 2026 01:08:59 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar"
-  },
-  {
-    "title": "اختبار يكشف ثغرة \"روبلوكس\".. هكذا يصل البالغون إلى الأطفال",
-    "summary": "كشفت اختبارات أجرتها هيئة السلامة الإلكترونية في أستراليا، ثغرات تسمح لمستخدمين بالغين برؤية حسابات أطفال والتواصل معهم عبر منصة الألعاب الشهيرة \"روبلوكس\"، رغم تطبيق الشركة إجراءات قالت إنها تمنع اتصال الغرباء بالصغار.",
-    "link": "https://www.skynewsarabia.com/varieties/1887068-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
-    "published": "Thu, 20 Aug 2026 04:15:58 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar"
-  },
-  {
-    "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
-    "summary": "في الأثناء، ثمة اتصالات وزيارات إيرانية متزامنة لعدد من العواصم في المنطقة وسط تداول أخبار عن تهديدات إيرانية قد تصل إلى أوروبا",
-    "link": "https://www.bbc.com/arabic/articles/c8dnz068y8vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:25:03 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "سوريا.. خطط متسارعة لزيادة إنتاج النفط والغاز",
-    "summary": "استعاد قطاع النفط والغاز خلال النصف الأول من هذا العام جزءا من دوره في دعم الاقتصاد السوري وتعزيز أمن الطاقة، من خلال زيادة الإنتاج وتطوير البنية التحتية.",
-    "link": "https://arabic.rt.com/business/1823210-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%85%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2/",
-    "published": "Thu, 20 Aug 2026 08:05:01 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "إسرائيل تفتح باب العطاءات لمشروع استيطاني بالغ الحساسية في الضفة الغربية",
-    "summary": "فتحت إسرائيل باب العطاءات لبناء نحو 1,200 وحدة استيطانية في جزء ذي أهمية إستراتيجية من الضفة الغربية المحتلة، في وقت تسعى خلاله حكومة نتنياهو إلى إنهاء أي فرصة لإقامة دولة فلسطينية.",
-    "link": "https://www.bbc.com/arabic/articles/cvgx03d488yo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 08:35:23 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "لبنان يستأنف صادراته للسعودية",
-    "summary": "شهد معبر المصنع الحدودي، احتفالا ببدء استئناف الصادرات اللبنانية إلى السعودية، بحضور وزير الأشغال فايز رسامني، الذي أكد أن هذه الخطوة تمثل مرحلة مهمة في مسيرة الاقتصاد اللبناني.",
-    "link": "https://arabic.rt.com/business/1823232-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87-%D9%84%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9-%D9%88%D8%B1%D8%B3%D8%A7%D9%85%D9%86%D9%8A-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D9%88%D9%86%D8%AD%D8%AA%D8%A7%D8%AC-%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/",
-    "published": "Thu, 20 Aug 2026 08:50:39 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "\"اكتشف أنه ميت\" صدفة.. الداخلية المصرية تفسر الواقعة الغريبة",
-    "summary": "اكتشف شاب مصري أنه مسجل متوفى في الأوراق الرسمية أثناء محاولته استخراج بطاقة الرقم القومي (الهوية)، قبل أن يتبين أن تكرار قيد ميلاده أدى إلى تسجيل وفاته بالخطأ.",
-    "link": "https://www.skynewsarabia.com/varieties/1887134-%D8%A7%D9%83%D8%AA%D8%B4%D9%81-%D8%A3%D9%86%D9%87-%D9%85%D9%8A%D8%AA-%D8%B5%D8%AF%D9%81%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D8%B3%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9",
-    "published": "Thu, 20 Aug 2026 09:00:15 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar"
-  },
-  {
-    "title": "اليابان تدفع ثمن الين الرخيص.. من المستفيد ومن الخاسر؟",
-    "summary": "بسبب ضعف الين، أصبحت اليابان وجهة أرخص بشكل متزايد بالنسبة للسياح الأجانب. فبعدما كانت اليابان تُعد دائماً من المقاصد السياحية الباهظة التكلفة للغاية، أصبحت الإقامة في الفنادق وتناول الطعام في المطاعم في الوقت الراهن في متناول اليد بدرجة كبيرة، ولا سيما بالنسبة للأشخاص الذين يتقاضون دخولهم باليورو. وخلال السنوات الخمس الماضية وحدها، فقد الين ثلث قيمته مقابل العملة الأوروبية الموحدة.",
-    "link": "https://www.skynewsarabia.com/business/1887135-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D8%AF%D9%81%D8%B9-%D8%AB%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF-%D9%88%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B3%D8%B1",
-    "published": "Thu, 20 Aug 2026 09:06:57 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "الأمير هاري وميغان يعودان إلى المملكة المتحدة هذا الشهر",
-    "summary": "تم تسجيل طفلي الزوجين، الأمير آرتشي البالغ من العمر سبع سنوات والأميرة ليليبيت البالغة من العمر خمس سنوات، للالتحاق بمدرسة في المملكة المتحدة في سبتمبر/أيلول.",
-    "link": "https://www.bbc.com/arabic/articles/cx2v3z99e7qo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 09:12:17 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "ميرك وموديرنا تحققان إنجازاً جديداً في مواجهة سرطان الجلد",
-    "summary": "أعلنت شركتا الأدوية الأميركيتان \"ميرك\" و\"موديرنا\" أمس الأربعاء عن نتائج إيجابية للمرحلة النهائية من التجارب السريرية للقاحهما التجريبي القائم على تقنية الحمض النووي الريبوزي المرسال (mRNA) لعلاج سرطان الجلد، والمخصص للمرضى المصابين بالميلانوما (الورم الميلانيني) في مراحل متقدمة.",
-    "link": "https://www.skynewsarabia.com/business/1887139-%D9%85%D9%8A%D8%B1%D9%83-%D9%88%D9%85%D9%88%D8%AF%D9%8A%D8%B1%D9%86%D8%A7-%D8%AA%D8%AD%D9%82%D9%82%D8%A7%D9%86-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%84%D8%AF",
-    "published": "Thu, 20 Aug 2026 09:21:18 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "مصر تخطط لجذب 2 مليار دولار من الصين",
-    "summary": "بحث نائب رئيس مجلس الوزراء للشؤون الاقتصادية في مصر حسين عيسى، مع وفد لشركة صينية رائدة في صناعة الألومنيوم، خطط ضخ استثمارات جديدة في السوق المصرية بقيمة تصل إلى 2 مليار دولار.",
-    "link": "https://arabic.rt.com/business/1823249-%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B7%D8%B7-%D9%84%D8%AC%D8%B0%D8%A8-2-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 09:33:16 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "أرقام قياسية تعكس عمق العلاقات التجارية بين روسيا والصين",
-    "summary": "شهدت العلاقات التجارية بين روسيا والصين في الأشهر السبعة الأولى من 2026 زخما غير مسبوق تجلى في قفزات نوعية بمختلف القطاعات، حيث قفزت واردات الصين من القمح الروسي بأكثر من 240 ضعفا.",
-    "link": "https://arabic.rt.com/business/1823236-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D9%83%D8%B3-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 09:35:22 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "\"أوبر\" تطلق مركبات ذاتية القيادة في دبي",
-    "summary": "أعلنت شركة أوبر تكنولوجيز (المدرجة في بورصة نيويورك) الخميس، عن توفر مركبات Apollo Go ذاتية القيادة بالكامل من شركة بايدو (المدرجة في بورصة ناسداك وبورصة هونغ كونغ) رسمياً للركاب على منصة أوبر في دبي، على أن تتولى شركة نيو هورايزون للنقل الفاخر تشغيل مركبات الأسطول.",
-    "link": "https://www.skynewsarabia.com/business/1887144-%D8%A3%D9%88%D8%A8%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AF%D8%A8%D9%8A",
-    "published": "Thu, 20 Aug 2026 09:56:36 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
-    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذر من \"صدمة المياه الباردة\".",
-    "link": "https://www.bbc.com/arabic/articles/c5y3n4j4vn3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 10:04:21 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "تحذير بحري من اختطاف ناقلة قبالة سواحل اليمن واقتيادها إلى الصومال",
-    "summary": "أصدرت هيئة عمليات التجارة البحرية البريطانية تحذيرا، بشأن حادثة خطيرة وقعت على بعد 136 ميلا بحريا شرق مدينة المكلا اليمنية.",
-    "link": "https://arabic.rt.com/middle_east/1823278-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A8%D8%AD%D8%B1%D9%8A-%D9%85%D9%86-%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D8%A7%D9%82%D8%AA%D9%8A%D8%A7%D8%AF%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84/",
-    "published": "Thu, 20 Aug 2026 10:28:26 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "موسكو: خطر تحول الفضاء إلى ساحة للمواجهة ليس أمرا افتراضيا",
-    "summary": "أعلن مندوب روسيا لدى هيئات الأمم المتحدة في جنيف غينادي غاتيلوف أن مخاطر تحول الفضاء الخارجي إلى ساحة للصراع المسلح لم تعد مجرد افتراضات.",
-    "link": "https://arabic.rt.com/world/1823274-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AE%D8%B7%D8%B1-%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D8%A5%D9%84%D9%89-%D8%B3%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%84%D9%8A%D8%B3-%D8%A3%D9%85%D8%B1%D8%A7-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A7/",
-    "published": "Thu, 20 Aug 2026 10:30:58 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "5 طرق يؤثر بها الصيف الحار سلباً على اقتصاد أوروبا",
-    "summary": "لم تعد موجات الحر الشديدة التي تضرب أوروبا مجرد أزمة مناخية موسمية، بل تحولت إلى تحدٍ اقتصادي يضغط على عدد من القطاعات الحيوية ويكبّدها خسائر متزايدة.",
-    "link": "https://www.skynewsarabia.com/business/1887130-5-%D8%B7%D8%B1%D9%82-%D9%8A%D8%A4%D8%AB%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%81-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1-%D8%B3%D9%84%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
-    "published": "Thu, 20 Aug 2026 10:41:42 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "بالفيديو.. ميسي يسجل أول أهدافه بعد وفاة والده",
-    "summary": "سجل الأرجنتيني ليونيل ميسي هدفه الأول منذ وفاة والده خورخي ميسي خلال تعادل إنتر ميامي مع مضيفه فيلادلفيا يونيون بنتيجة 2-2، اليوم الخميس ضمن منافسات الدوري الأمريكي لكرة القدم.",
-    "link": "https://arabic.rt.com/sport/1823178-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D9%88%D9%84-%D8%A3%D9%87%D8%AF%D8%A7%D9%81%D9%87-%D8%A8%D8%B9%D8%AF-%D9%88%D9%81%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%87/",
-    "published": "Thu, 20 Aug 2026 10:49:54 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "الرئيس اللبناني يدعو لإلزام إسرائيل بتنفيذ \"اتفاق الإطار\" ووقف اعتداءاتها على لبنان",
-    "summary": "دعا الرئيس اللبناني جوزيف عون من الفاتيكان، اليوم الخميس، إلى إلزام إسرائيل بتنفيذ بنود صيغة \"اتفاق الإطار\" الموقعة برعاية واشنطن، ووقف اعتداءاتها على لبنان  فورا.",
-    "link": "https://arabic.rt.com/middle_east/1823276-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D9%88%D9%88%D9%82%D9%81-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86/",
-    "published": "Thu, 20 Aug 2026 10:50:25 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "حمزة يهز شباك الأهلي المصري.. وبرشلونة يتوج بكأس جامبر",
-    "summary": "توج برشلونة بكأس خوان جامبر الودية للمرة الـ48 في تاريخه، بعد فوزه على الأهلي المصري 2-1، الأربعاء، في المباراة التي اختتم بها الفريق الكتالوني استعداداته للموسم الجديد.",
-    "link": "https://www.skynewsarabia.com/sport/1887076-%D8%AD%D9%85%D8%B2%D8%A9-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A8%D8%B5%D9%85%D8%AA-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D9%83%D8%A3%D8%B3-%D8%AC%D8%A7%D9%85%D8%A8%D8%B1",
-    "published": "Wed, 19 Aug 2026 20:32:28 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar"
-  },
-  {
-    "title": "خلف أبواب مغلقة.. ريال مدريد يقدم برناردو سيلفا",
-    "summary": "نظم نادي ريال مدريد حفل الترحيب الرسمي ببرناردو سيلفا، لاعب الوسط البرتغالي المنضم حديثا إلى صفوف الفريق الملكي، في أجواء خاصة بعيدا عن أعين الصحافة.",
-    "link": "https://www.skynewsarabia.com/sport/1887045-%D8%AE%D9%84%D9%81-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%82%D8%AF%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D8%B1%D8%AF%D9%88-%D8%B3%D9%8A%D9%84%D9%81%D8%A7",
-    "published": "Wed, 19 Aug 2026 20:38:05 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar"
-  },
-  {
-    "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
-    "summary": "أعلنت الوكالة الدولية لنزاهة التنس إيقاف الأسترالي نيك كيريوس مؤقتاً، بعد ثبوت إيجابية عينة فحص للكوكايين خلال مشاركته في بطولة من فئة ATP 250 في جزيرة مايوركا الإسبانية، في 22 يونيو الماضي.",
-    "link": "https://www.skynewsarabia.com/sport/1887050-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D8%B3-%D9%86%D9%8A%D9%83-%D9%83%D9%8A%D8%B1%D9%8A%D9%88%D8%B3-%D8%AB%D8%A8%D9%88%D8%AA-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
-    "published": "Wed, 19 Aug 2026 20:39:57 GMT",
+    "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
+    "summary": "أعلنت نجمة كرة السلة الأميركية ننيكا أوجومايكي، الأربعاء، اعتزالها اللعب بنهاية الموسم الحالي، لتسدل الستار على مسيرة امتدت 15 موسما في دوري كرة السلة الأميركي للسيدات \"WNBA\".",
+    "link": "https://www.skynewsarabia.com/sport/1887094-15-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%82-%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%AF%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8",
+    "published": "Wed, 19 Aug 2026 23:29:03 GMT",
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar"
@@ -351,12 +27,336 @@
     "lang": "ar"
   },
   {
-    "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
-    "summary": "أعلنت نجمة كرة السلة الأميركية ننيكا أوجومايكي، الأربعاء، اعتزالها اللعب بنهاية الموسم الحالي، لتسدل الستار على مسيرة امتدت 15 موسما في دوري كرة السلة الأميركي للسيدات \"WNBA\".",
-    "link": "https://www.skynewsarabia.com/sport/1887094-15-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%82-%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%AF%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8",
-    "published": "Wed, 19 Aug 2026 23:29:03 GMT",
+    "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
+    "summary": "أعلنت الوكالة الدولية لنزاهة التنس إيقاف الأسترالي نيك كيريوس مؤقتاً، بعد ثبوت إيجابية عينة فحص للكوكايين خلال مشاركته في بطولة من فئة ATP 250 في جزيرة مايوركا الإسبانية، في 22 يونيو الماضي.",
+    "link": "https://www.skynewsarabia.com/sport/1887050-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D8%B3-%D9%86%D9%8A%D9%83-%D9%83%D9%8A%D8%B1%D9%8A%D9%88%D8%B3-%D8%AB%D8%A8%D9%88%D8%AA-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
+    "published": "Wed, 19 Aug 2026 20:39:57 GMT",
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar"
+  },
+  {
+    "title": "خلف أبواب مغلقة.. ريال مدريد يقدم برناردو سيلفا",
+    "summary": "نظم نادي ريال مدريد حفل الترحيب الرسمي ببرناردو سيلفا، لاعب الوسط البرتغالي المنضم حديثا إلى صفوف الفريق الملكي، في أجواء خاصة بعيدا عن أعين الصحافة.",
+    "link": "https://www.skynewsarabia.com/sport/1887045-%D8%AE%D9%84%D9%81-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%85%D8%BA%D9%84%D9%82%D8%A9-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D9%82%D8%AF%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D8%B1%D8%AF%D9%88-%D8%B3%D9%8A%D9%84%D9%81%D8%A7",
+    "published": "Wed, 19 Aug 2026 20:38:05 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar"
+  },
+  {
+    "title": "حمزة يهز شباك الأهلي المصري.. وبرشلونة يتوج بكأس جامبر",
+    "summary": "توج برشلونة بكأس خوان جامبر الودية للمرة الـ48 في تاريخه، بعد فوزه على الأهلي المصري 2-1، الأربعاء، في المباراة التي اختتم بها الفريق الكتالوني استعداداته للموسم الجديد.",
+    "link": "https://www.skynewsarabia.com/sport/1887076-%D8%AD%D9%85%D8%B2%D8%A9-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A8%D8%B5%D9%85%D8%AA-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D9%83%D8%A3%D8%B3-%D8%AC%D8%A7%D9%85%D8%A8%D8%B1",
+    "published": "Wed, 19 Aug 2026 20:32:28 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar"
+  },
+  {
+    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+    "published": "Wed, 19 Aug 2026 20:32:09 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
+    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+    "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+    "published": "Wed, 19 Aug 2026 16:58:23 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "Decoding Origin: Cursor’s GitHub rival that was launched during the latter’s outage",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">AI coding tools are increasingly becoming the place where developers write and modify software. SpaceX-owned Cursor now wants to bring code hosting into that same environment, potentially challenging GitHub’s position as the center of the software development lifecycle (SDLC).</p>\n\n\n\n<p class=\"wp-block-paragraph\">The company, earlier this week, launched <a href=\"https://cursor.com/changelog/origin-code-hosting\">Origin</a>, an early-beta code-hosting platform that brings repositories, pull requests, and code browsing into its AI coding environment, on the same day that Microsoft-owned GitHub faced an <a href=\"https://www.infoworld.com/article/4210864/github-restores-services-after-nearly-8-hour-outage-disrupts-actions-apis-prs-and-copilot.html\">outage</a> for nearly eight hours, disrupting several of its services, including Actions, API requests, Git operations, and Copilot.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The move puts Cursor and GitHub on opposite sides of the same software development stack. GitHub built its position as the code-hosting and collaboration platform before expanding into <a href=\"https://www.infoworld.com/article/2269266/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html\">CI/CD</a>, security, project management, and AI-assisted development. Cursor is moving in the opposite direction, starting with an AI coding environment and adding code hosting around it.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In essence, that means Origin wants to change the traditional software development model, where developers typically use GitHub as their codebase and collaboration layer while relying on separate tools for coding, AI assistance, and other parts of the development lifecycle.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The rationale is that Origin’s model could reduce the number of tools involved in writing, reviewing, and managing code by bringing those workflows closer to the AI agents that are increasingly taking on software development tasks.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For enterprises and their CIOs, however, the question is whether Origin’s tighter integration with AI agents makes the code-hosting layer compelling enough to justify moving core development workflows away from a mature platform with a broader ecosystem and established enterprise controls, and eventually rethink where their canonical codebase should live.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"origin-has-a-long-way-to-go-on-enterprise-controls\">Origin has a long way to go on enterprise controls</h2>\n\n\n\n<p class=\"wp-block-paragraph\">As of today, analysts say GitHub remains the safer enterprise choice.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Primarily because Origin is still in early beta and doesn’t match GitHub’s depth in enterprise controls, compliance, audit, and third-party integrations, said <a href=\"https://se.linkedin.com/in/manoj-chandra-jha-b5ab0a13\" rel=\"noreferrer noopener\" target=\"_blank\">Manoj Chandra Jha</a>, principal analyst at Nord-IQ Research.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Specifically, it lacks enterprise controls and security capabilities, such as branch protection and rulesets, CODEOWNERS, required reviewers, signed commits, SSO, SCIM, granular roles, IP allowlisting, audit logs you can ship to a SIEM, secret scanning with push protection, dependency alerts, SBOM, package registries, and GitHub’s broader CI/CD ecosystem, echoed <a href=\"https://www.linkedin.com/in/advaitpatel93\" rel=\"noreferrer noopener\" target=\"_blank\">Advait Patel</a>, senior site reliability engineer (SRE) at Broadcom.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This is despite Origin’s integrations with <a href=\"https://depot.dev/\" rel=\"noreferrer noopener\" target=\"_blank\">Depot</a> and <a href=\"https://buildkite.com/home/\" rel=\"noreferrer noopener\" target=\"_blank\">Buildkite to</a> support CI, Patel said, adding that “trusting a third party for CI” could introduce additional trust and operational considerations.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Another challenge for enterprises, when moving to Origin, would be reproducing the depth of GitHub’s Actions ecosystem, self-hosted runners, and integrations such as OpenID Connect (<a href=\"https://docs.github.com/en/actions/concepts/security/openid-connect\" rel=\"noreferrer noopener\" target=\"_blank\">OIDC</a>) for connecting CI workflows to cloud accounts, Patel further pointed out.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Beyond these capabilities, the senior SRE cautioned that CIOs would also need to consider compliance and operational safeguards, including certifications such as <a href=\"https://www.csoonline.com/article/567039/whip-your-information-security-into-shape-with-iso-27001.html\">ISO 27001</a>, data-residency options, clear terms on whether hosted code can be used to train AI models, and <a href=\"https://www.csoonline.com/article/568817/what-is-fedramp-how-cloud-providers-get-authorized-to-work-with-the-u-s-government.html\">FedRAMP</a> support for public-sector customers.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Those considerations, Patel added, should also extend to requirements around backup and restore guarantees, recovery point and recovery time objectives (RPO and RTO), a published <a href=\"https://www.cio.com/article/274740/outsourcing-sla-definitions-and-solutions.html\">SLA</a>, an established incident history, and a documented way to export code in bulk.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That option to export code, according to Jha, is particularly important because Origin’s tight integration between AI coding and code hosting could also create a new form of vendor lock-in, where a single AI vendor ends up controlling the entire development loop, from writing and modifying code to hosting and managing it.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"origin-could-add-another-layer-before-it-removes-one\">Origin could add another layer before it removes one</h2>\n\n\n\n<p class=\"wp-block-paragraph\">There are other reasons to consider GitHub over Origin despite its promise of less tool switching to deliver a simpler, tighter development workflow.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For its initial release, Origin still relies on GitHub for parts of the development workflow, meaning enterprises adopting it would not necessarily replace GitHub outright but might end up running two systems in parallel.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That could limit some of the tool-consolidation benefits Origin is designed to offer while adding another layer of integration and management for engineering teams, Patel pointed out.</p>\n\n\n\n<p class=\"wp-block-paragraph\">And that distinction may become an important factor in Origin’s enterprise adoption, echoed Jha.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Rather than treating Origin as a replacement for GitHub, CIOs should keep GitHub as the system of record while testing Origin on lower-risk repositories and expanding its use only as its enterprise capabilities mature, he advised.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That approach, however, could change if GitHub responds by building tighter AI-agent workflows of its own, Jha added.</p>\n</div></div></div></div>",
+    "link": "https://www.infoworld.com/article/4211505/decoding-origin-cursors-github-rival-that-was-launched-during-the-latters-outage.html",
+    "published": "Wed, 19 Aug 2026 12:03:31 +0000",
+    "source": "InfoWorld",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "Cerebras reimagines AI cluster design with switchless CS-4 architecture",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Cerebras Systems has unveiled the CS-4, a new rack-scale AI system that can connect its wafer-scale processors across racks without network switches, an approach designed to reduce communication latency as AI infrastructure grows more complex.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Cerebras, which competes with Nvidia and other AI accelerator suppliers, said the CS-4 can run up to twice as fast as its previous-generation CS-3.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In a test using the GPT-OSS-120B model, the company said it also delivered up to 30 times the per-user inference speed of GPU-based systems. Cerebras said actual throughput can vary depending on the model and serving configuration.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The CS-4 is the first system based on Cerebras’ new Nexus rack-scale architecture and includes Direct Wafer Links, which the company said can reduce wafer-to-wafer latency to as little as two microseconds.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The system also supports RoCE v2 over Ethernet, allowing it to connect with existing data-center networks. Cerebras said each CS-4 provides up to 7.2 Tbps of system I/O bandwidth.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For infrastructure teams, the more important question is what happens to the rest of the network when some of the switching between accelerators disappears.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"switchless-links-could-cut-complexity\">Switchless links could cut complexity</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Eliminating switches between Cerebras systems could reduce both infrastructure costs and power consumption, according to <a href=\"https://counterpointresearch.com/en/opinion-leader/10\" rel=\"noreferrer noopener\" target=\"_blank\">Neil Shah</a>, vice president for research at Counterpoint Research.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“When you link wafer-scale chips directly rack-to-rack using Direct Wafer Links, you eliminate a huge, complex layer of networking hardware that typically eats up a big chunk of an AI cluster’s budget and up to a third of its electricity,” Shah said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">But the approach comes with a trade-off: point-to-point connections can offer less flexibility for rerouting traffic or handling failures than conventional switched fabrics.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The architecture could reduce dependence on traditional switching layers between Cerebras systems, but would not eliminate conventional networking requirements, said <a href=\"https://www.linkedin.com/in/manish-rawat-80a72590/\" rel=\"noreferrer noopener\" target=\"_blank\">Manish Rawat</a>, semiconductor analyst at TechInsights.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“External connectivity, storage, orchestration, and communication with heterogeneous compute will still require conventional networking,” Rawat said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">He said the bigger test is whether the architecture lowers infrastructure costs and makes production deployments easier to scale.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Data ingestion and cluster management would still rely on traditional Ethernet infrastructure, while external systems in disaggregated inference would communicate with the CS-4 over RoCE v2, said <a href=\"https://www.linkedin.com/in/dr-danish-faruqui/\" rel=\"noreferrer noopener\" target=\"_blank\">Danish Faruqui</a>, CEO of Fab Economics.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"roce-support-eases-data-center-integration\">RoCE support eases data-center integration</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cerebras has taken a standards-based approach to external connectivity, with RoCE v2 allowing the CS-4 to plug into existing <a href=\"https://www.networkworld.com/article/4058889/ethernet-infiniband-and-omni-path-battle-for-the-ai-optimized-data-center.html\">high-speed Ethernet</a> infrastructure.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Rawat said this could also make the system easier to use alongside other compute platforms, particularly in disaggregated inference deployments.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Inside the Cerebras fabric, the trade-off is different. Direct Wafer Links are proprietary, so third-party accelerators cannot be added to the fabric. Scaling it requires additional Cerebras systems, Shah said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Faruqui said the operational divide may be more significant than the physical networking challenge. Existing orchestration environments are generally designed around conventional multi-accelerator nodes, while CS-4 relies on Cerebras’ own software stack to manage workloads across its internal wafer-scale fabric.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That could leave enterprises operating a separate management domain alongside their existing GPU infrastructure, he said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“The key industry test will be whether customers see the architecture as an open component of a broader AI infrastructure or as a highly optimized but relatively proprietary stack,” Rawat said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The proprietary model extends to software. Cerebras supports frameworks including PyTorch, but workloads run through the company’s CSoft software platform. Shah said the ecosystem lacks the maturity and breadth of <a href=\"https://www.computerworld.com/article/4127119/intel-sets-sights-on-data-center-gpus-amid-ai-driven-infrastructure-shifts-2.html\">Nvidia’s CUDA environment</a>, which enterprises would have to weigh against the benefits of Cerebras’ wafer-scale approach.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"faster-inference-puts-pressure-elsewhere\">Faster inference puts pressure elsewhere</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Faster inference could put more pressure on <a href=\"https://www.networkworld.com/article/4076565/storage-constraints-add-to-ai-data-center-bottleneck.html\">storage and data-ingestion systems</a> to keep the accelerators supplied with work.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“The challenge flips from the speed of token generation to the speed of feeding the input tokens and context data,” Shah said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Faruqui said one pressure point could emerge during the prefill phase of inference, when a model processes the incoming prompt before generating tokens. In disaggregated deployments, that work may be handled outside the CS-4 and then transferred over Ethernet into the Cerebras system.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In that architecture, external network performance can become more important because model state and context data must be moved into the CS-4 quickly enough to keep the decoding engine busy, he said.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"power-density-remains-a-constraint\">Power density remains a constraint</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Cerebras is also positioning the CS-4 around power efficiency, saying it can deliver up to 10 times more throughput per watt than the CS-3.<br /><br />Rawat said the efficiency gain could help as AI compute density rises but would not eliminate power and cooling constraints at scale. At the rack level, Faruqui said wafer-scale systems concentrate compute into a relatively small footprint, potentially placing greater demands on local power delivery and liquid cooling.</p>\n</div></div></div></div>",
+    "link": "https://www.networkworld.com/article/4211472/cerebras-reimagines-ai-cluster-design-with-switchless-cs-4-architecture.html",
+    "published": "Wed, 19 Aug 2026 10:24:06 +0000",
+    "source": "Network World",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "IBM moves closer to fault-tolerant quantum computing with modular cryogenic systems",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">As it pursues its goal of producing a fault-tolerant quantum computer, IBM today announced that it has achieved another milestone: It has successfully joined two cryogenic modules to create a single environment designed, it said, “to scale into the modular, shared, and ultra-cold system required to link hundreds of quantum chips into a more powerful quantum computer.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">The company plans to deliver the fault-tolerant <a href=\"https://www.networkworld.com/article/4185154/ibm-sends-signals-with-its-10-billion-quantum-pledge.html\">IBM Quantum Starling system</a>, capable of running circuits composed of 100 million quantum gates on 200 logical qubits, in 2029. It is investing $10 billion to create and commercialize the necessary technology.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The pair of cryogenic modules together stand more than 8 feet tall and is 8 feet wide, and testing showed that they can cool to <a href=\"https://www.facebook.com/watch/?v=1159719565502111\">4 degrees Kelvin (-452.5 Fahrenheit)</a>, about the temperature of liquid helium, in under five days, and can achieve an even more frigid final temperature of below 15 millikelvin (-459.6 Fahrenheit) shortly thereafter.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The modules’ boxy shape lets them connect in a tight row and directly link quantum processors with <a href=\"https://www.networkworld.com/article/4003986/ibm-claims-to-have-only-realistic-path-to-quantum-computing.html\">IBM’s L-coupler technology,</a> which connects separate chips and lets them function as a single processor.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Once the modules have been assembled and tested, they can be separated for shipping then put together on the client site to build an “arbitrarily large” system, IBM said.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The dilution refrigerator, rather than being cylindrical, is rectangular, leaving more room for wiring and other components.</p>\n\n\n<div class=\"extendedBlock-wrapper block-coreImage undefined\"><figure class=\"wp-block-image size-large is-resized\"> width=\"1024\" height=\"768\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\"&gt;<figcaption class=\"wp-element-caption\">The box-shaped design allows modules to connect in a tight row and use the space to directly link quantum processors with IBM’s L-coupler technology. </figcaption></figure><p class=\"imageCredit\">IBM</p></div>\n\n\n\n<p class=\"wp-block-paragraph\">“This is our first shared ultra cold environment that allows multiple chips within to be connected together, and it really provides enough space for all the high-density wiring that’s needed,” explained <a href=\"https://www.linkedin.com/in/jerrymchow/\">IBM Fellow Jerry Chow</a>, CTO, quantum-centric supercomputing, during a media briefing. “So we’re really starting to architect the entire system towards one unified powerful system.”</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://research.ibm.com/people/oliver-dial\">Oliver Dial</a>, IBM Fellow and VP of quantum systems, added, “one of the great things about this modular design is it lets us co-optimize the volume that’s inside, the amount of space that we have for wiring, and the amount of cooling power we have. This has about 12 times more area for wiring than <a href=\"https://www.networkworld.com/article/4144645/ibm-proposes-unified-architecture-for-hybrid-quantum-classical-computing.html\">Quantum System One</a>. We really need that to be able to install the super complicated, sophisticated quantum processors of the future.”</p>\n\n\n\n<p class=\"wp-block-paragraph\">The importance of the box-shaped design, he noted, is that when adding modules, it minimizes the distance that L couplers need to go from processor to processor.</p>\n\n\n\n<p class=\"wp-block-paragraph\">IBM’s quantum roadmap includes plans to use L-couplers to link multiple processors into a larger quantum computer with at least 1,000 programmable qubits which can directly use to perform computations by 2027. Later this year, it will install IBM Quantum Nighthawk processors into the cryogenic modules as part of its performance testing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">“Bringing fault-tolerant quantum computers to industries depends on several fundamental advances,” said <a href=\"https://www.linkedin.com/in/jay-gambetta-a274753a/\">Jay Gambetta</a>, director of IBM Research and IBM Fellow, in a statement. “The successful connection and operation of these cryogenic modules signals a leap forward in that direction and will accelerate our progress alongside continued innovation in quantum hardware, software, and algorithms.”</p>\n</div></div></div></div>",
+    "link": "https://www.networkworld.com/article/4211187/ibm-moves-closer-to-fault-tolerant-quantum-computing-at-scale.html",
+    "published": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "source": "Network World",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
+    "summary": "In the first purported &quot;near-autonomous&quot; attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+    "published": "Wed, 19 Aug 2026 01:00:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
+    "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
+    "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+    "published": "Tue, 18 Aug 2026 21:25:58 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "Reports: Google partnering with AMD  for next-gen hybrid TPU",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Google is <a href=\"https://seekingalpha.com/news/4634245-google-working-with-amd-on-a-future-tpu-could-be-significant-wedbush-says\">reportedly</a> working with AMD on the design of a next generation <a href=\"https://www.networkworld.com/article/4093957/what-are-tpus-your-guide-to-tensor-processing-units-and-ai-acceleration.html\">Tensor Processing Unit</a> (TPU) aimed at workloads that increasingly combine artificial intelligence acceleration with conventional computing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">According to a <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning\">number</a> of <a href=\"https://x.com/sean_________/status/2088311185791660061\">industry</a> reports, the companies are exploring a hybrid AI accelerator that could integrate CPU cores directly into the TPU processor package. The design would be intended in part for reinforcement learning and emerging agentic AI workloads, where AI accelerators need to interact more closely with general-purpose processors.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The integration of TPU and CPU resources into one package is not a new concept. AMD and later Intel integrated GPU technology with their CPUs and have done so for some time. But the GPU that is in the CPU is considerably less powerful than a discreet GPU. It’s not known if the TPU integrated with the AMD CPU package would be equivalent to a discrete TPU card.</p>\n\n\n\n<p class=\"wp-block-paragraph\">However, it will meet much faster performance. Google uses its TPU processors now in servers with standard X86 CPU processors, but there is a considerable lag in communication between the two chips as the data has to transfer from one physical chip to another, according to the <a href=\"https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive\">company</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">With the CPU and TPU in one package, there is considerably less distance to be covered and a potential great reduction in latency. How much is unclear at this time.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That approach could be particularly useful for reinforcement learning, in which an AI system repeatedly generates actions, evaluates the results and uses that feedback to improve its behavior. Such workloads can involve frequent interaction between accelerator and CPU resources, potentially making data movement and communication overhead significant.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The concept also fits Google’s broader push toward hardware optimized for increasingly sophisticated AI systems. Google has already been developing TPUs for more than a decade TPU family is now in its <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/\">eighth- generation</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Google is also reportedly developing other specialized AI hardware. A project known as “<a href=\"https://www.networkworld.com/article/4200581/google-transforms-its-data-center-architecture-for-agent-era.html\">Frozen v2</a>” is said to be targeting highly specialized AI inference and could potentially deliver substantially higher token efficiency than Google’s conventional TPUs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For its part, AMD has been pursuing increasingly integrated AI systems for some time. The company recently announced a <a href=\"https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference\">partnership</a> with Cerebras to combine AMD EPYC processors and Instinct accelerators with Cerebras’ wafer-scale AI processors in a system designed to divide AI workloads between different types of processors.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For AMD, meanwhile, a role in Google’s next-generation TPU program would provide another indication that its CPU and chip-design technologies are becoming relevant to the rapidly expanding custom AI accelerator market.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One analyst approved of the proposed alliance. “I think it makes good sense. AMD has more than proven that they’re good at custom, high-performance, and affordable APUs, and that they are a trustworthy partner, and Google needs diversity,” said <a href=\"https://www.linkedin.com/in/jon-g-peddie-author-140237203/\">Jon Peddie</a>, president of <a href=\"https://www.jonpeddie.com/about-us/\">Jon Peddie Research</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Peddie’s referring to AMD’s custom video game silicon. More than a decade ago, the console makers wanted to get away from using their own specialized processors and switch to X86 CPU and DirectX GPU technology to be compatible with PC gaming.</p>\n\n\n\n<p class=\"wp-block-paragraph\">AMD won because Intel didn’t have a GPU and NVIDIA didn’t have a CPU. For several years, the CPU/GPU combination being used by Microsoft Xbox and Sony PlayStation was the only thing keeping AMD alive. It still dominates video game consoles with its SoC technology.</p>\n</div></div></div></div>",
+    "link": "https://www.networkworld.com/article/4211138/reports-google-partnering-with-amd-for-next-gen-hybrid-tpu.html",
+    "published": "Tue, 18 Aug 2026 19:15:07 +0000",
+    "source": "Network World",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+    "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.\n\nThe vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type.\n\n\"The flaw lives in the Forms module's File",
+    "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+    "published": "Thu, 20 Aug 2026 11:34:34 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "الحلقة الـ56",
+    "summary": "",
+    "link": "https://arabic.rt.com/prg/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D9%8056-1823281/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AA%D8%B1%D9%88%D9%8A%D9%83%D8%A7/",
+    "published": "Thu, 20 Aug 2026 10:59:43 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
+    "summary": "عززت روسيا موقعها كأكبر مورد للنفط الخام إلى الصين خلال يوليو، مع ارتفاع الشحنات الروسية خمسة بالمئة على أساس سنوي، في وقت أعادت فيه بكين توزيع مشترياتها بين عدد من الموردين، وسط اضطراب الإمدادات القادمة من الشرق الأوسط.",
+    "link": "https://www.skynewsarabia.com/business/1887152-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%B5%D8%AF%D8%A7%D8%B1%D8%AA%D9%87%D8%A7-%D9%84%D9%85%D9%88%D8%B1%D8%AF%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%8A%D9%88%D9%84%D9%8A%D9%88",
+    "published": "Thu, 20 Aug 2026 10:58:23 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "هل يواجه منتخب مصر عقوبات؟.. \"فيفا\" يبدأ التحقيق في أحداث المباراة المونديالية أمام الأرجنتين",
+    "summary": "تلقى الاتحاد المصري لكرة القدم 3 خطابات رسمية من الاتحاد الدولي لكرة القدم \"فيفا\"، على خلفية الأحداث التي شهدتها مواجهة مصر والأرجنتين في دور الـ16 من كأس العالم 2026.",
+    "link": "https://arabic.rt.com/sport/1823228-%D9%87%D9%84-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D8%B5%D8%B1-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86/",
+    "published": "Thu, 20 Aug 2026 10:56:12 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "الرئيس اللبناني يدعو لإلزام إسرائيل بتنفيذ \"اتفاق الإطار\" ووقف اعتداءاتها على لبنان",
+    "summary": "دعا الرئيس اللبناني جوزيف عون من الفاتيكان، اليوم الخميس، إلى إلزام إسرائيل بتنفيذ بنود صيغة \"اتفاق الإطار\" الموقعة برعاية واشنطن، ووقف اعتداءاتها على لبنان  فورا.",
+    "link": "https://arabic.rt.com/middle_east/1823276-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D9%88%D9%88%D9%82%D9%81-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86/",
+    "published": "Thu, 20 Aug 2026 10:50:25 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "بالفيديو.. ميسي يسجل أول أهدافه بعد وفاة والده",
+    "summary": "سجل الأرجنتيني ليونيل ميسي هدفه الأول منذ وفاة والده خورخي ميسي خلال تعادل إنتر ميامي مع مضيفه فيلادلفيا يونيون بنتيجة 2-2، اليوم الخميس ضمن منافسات الدوري الأمريكي لكرة القدم.",
+    "link": "https://arabic.rt.com/sport/1823178-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D9%88%D9%84-%D8%A3%D9%87%D8%AF%D8%A7%D9%81%D9%87-%D8%A8%D8%B9%D8%AF-%D9%88%D9%81%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%87/",
+    "published": "Thu, 20 Aug 2026 10:49:54 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "5 طرق يؤثر بها الصيف الحار سلباً على اقتصاد أوروبا",
+    "summary": "لم تعد موجات الحر الشديدة التي تضرب أوروبا مجرد أزمة مناخية موسمية، بل تحولت إلى تحدٍ اقتصادي يضغط على عدد من القطاعات الحيوية ويكبّدها خسائر متزايدة.",
+    "link": "https://www.skynewsarabia.com/business/1887130-5-%D8%B7%D8%B1%D9%82-%D9%8A%D8%A4%D8%AB%D8%B1-%D8%A7%D9%84%D8%B5%D9%8A%D9%81-%D8%A7%D9%84%D8%AD%D8%A7%D8%B1-%D8%B3%D9%84%D8%A8%D8%A7-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7",
+    "published": "Thu, 20 Aug 2026 10:41:42 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
+    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذر من \"صدمة المياه الباردة\".",
+    "link": "https://www.bbc.com/arabic/articles/c5y3n4j4vn3o?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 10:04:21 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "\"أوبر\" تطلق مركبات ذاتية القيادة في دبي",
+    "summary": "أعلنت شركة أوبر تكنولوجيز (المدرجة في بورصة نيويورك) الخميس، عن توفر مركبات Apollo Go ذاتية القيادة بالكامل من شركة بايدو (المدرجة في بورصة ناسداك وبورصة هونغ كونغ) رسمياً للركاب على منصة أوبر في دبي، على أن تتولى شركة نيو هورايزون للنقل الفاخر تشغيل مركبات الأسطول.",
+    "link": "https://www.skynewsarabia.com/business/1887144-%D8%A3%D9%88%D8%A8%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AF%D8%A8%D9%8A",
+    "published": "Thu, 20 Aug 2026 09:56:36 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "أرقام قياسية تعكس عمق العلاقات التجارية بين روسيا والصين",
+    "summary": "شهدت العلاقات التجارية بين روسيا والصين في الأشهر السبعة الأولى من 2026 زخما غير مسبوق تجلى في قفزات نوعية بمختلف القطاعات، حيث قفزت واردات الصين من القمح الروسي بأكثر من 240 ضعفا.",
+    "link": "https://arabic.rt.com/business/1823236-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D9%83%D8%B3-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
+    "published": "Thu, 20 Aug 2026 09:35:22 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "مصر تخطط لجذب 2 مليار دولار من الصين",
+    "summary": "بحث نائب رئيس مجلس الوزراء للشؤون الاقتصادية في مصر حسين عيسى، مع وفد لشركة صينية رائدة في صناعة الألومنيوم، خطط ضخ استثمارات جديدة في السوق المصرية بقيمة تصل إلى 2 مليار دولار.",
+    "link": "https://arabic.rt.com/business/1823249-%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B7%D8%B7-%D9%84%D8%AC%D8%B0%D8%A8-2-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
+    "published": "Thu, 20 Aug 2026 09:33:16 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "ميرك وموديرنا تحققان إنجازاً جديداً في مواجهة سرطان الجلد",
+    "summary": "أعلنت شركتا الأدوية الأميركيتان \"ميرك\" و\"موديرنا\" أمس الأربعاء عن نتائج إيجابية للمرحلة النهائية من التجارب السريرية للقاحهما التجريبي القائم على تقنية الحمض النووي الريبوزي المرسال (mRNA) لعلاج سرطان الجلد، والمخصص للمرضى المصابين بالميلانوما (الورم الميلانيني) في مراحل متقدمة.",
+    "link": "https://www.skynewsarabia.com/business/1887139-%D9%85%D9%8A%D8%B1%D9%83-%D9%88%D9%85%D9%88%D8%AF%D9%8A%D8%B1%D9%86%D8%A7-%D8%AA%D8%AD%D9%82%D9%82%D8%A7%D9%86-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%84%D8%AF",
+    "published": "Thu, 20 Aug 2026 09:21:18 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "الأمير هاري وميغان يعودان إلى المملكة المتحدة هذا الشهر",
+    "summary": "تم تسجيل طفلي الزوجين، الأمير آرتشي البالغ من العمر سبع سنوات والأميرة ليليبيت البالغة من العمر خمس سنوات، للالتحاق بمدرسة في المملكة المتحدة في سبتمبر/أيلول.",
+    "link": "https://www.bbc.com/arabic/articles/cx2v3z99e7qo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 09:12:17 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "\"اكتشف أنه ميت\" صدفة.. الداخلية المصرية تفسر الواقعة الغريبة",
+    "summary": "اكتشف شاب مصري أنه مسجل متوفى في الأوراق الرسمية أثناء محاولته استخراج بطاقة الرقم القومي (الهوية)، قبل أن يتبين أن تكرار قيد ميلاده أدى إلى تسجيل وفاته بالخطأ.",
+    "link": "https://www.skynewsarabia.com/varieties/1887134-%D8%A7%D9%83%D8%AA%D8%B4%D9%81-%D8%A3%D9%86%D9%87-%D9%85%D9%8A%D8%AA-%D8%B5%D8%AF%D9%81%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D8%B3%D8%B1-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8%D8%A9",
+    "published": "Thu, 20 Aug 2026 09:00:15 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar"
+  },
+  {
+    "title": "The five walls standing between a demo agent and a deployed one",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Building an AI agent that looks impressive in a demo is now a weekend project. Building one that an enterprise will actually let touch its CRM, its data warehouse, and its customers is a different discipline entirely — and almost none of the challenges associated with shipping an agent live in the model. The challenge is infrastructure around the model, including who it is allowed to be, what it is allowed to see, what it is allowed to do, how it keeps its place across hours of work, and whether anyone trusts the result. These are system problems, not prompting problems.</p>\n\n\n\n<p class=\"wp-block-paragraph\">In this article, I will introduce the five obstacles that reliably stall enterprise agent projects, and the architectural patterns that solve them. The examples come from a production system: an agent platform called <a href=\"https://jean-paul.snaplogic.com/index.html\">Jean-Paul</a> that runs on SnapLogic’s integration fabric and the <a href=\"https://www.infoworld.com/article/4029634/what-is-model-context-protocol-how-mcp-bridges-ai-and-external-services.html\">Model Context Protocol</a> (MCP). But the lessons are meant to apply broadly. If you are building in this space, you will hit all five walls regardless of your stack.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-authentication-wall\">The authentication wall</h2>\n\n\n\n<p class=\"wp-block-paragraph\">While demo agents authenticate with a single god-mode API key, enterprise agents cannot, because security teams need to understand who the agent is acting on behalf of and what it is allowed to access.</p>\n\n\n\n<p class=\"wp-block-paragraph\">MCP gives you the right primitive to answer this. In the protocol, the agent is always the client, and every capability it has is exposed by an MCP server. That separation matters because it decouples what the model can do from what the model is. The agent never holds raw credentials to Salesforce or BigQuery. It holds a connection to a server that fronts those systems, and that server is where identity and authorization get enforced.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The key control point is when an agent’s tool access is assembled. In a well-designed system, this serves as a single enforcement point for each session: access starts at zero, and only the tools permitted by the user’s role are granted. The agent determines server access through group-based permissions, with each user’s available servers defined by the union of grants across their assigned groups. Users without group membership receive no access by default. A second control layer filters individual tools, removing unauthorized capabilities from the model’s context before the session starts. This strengthens security and improves efficiency, as models perform better when selecting from a smaller, role-appropriate toolset.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The hard part is identity propagation. The agent must never be allowed to self-assert its identity. Instead, trusted infrastructure injects the human’s canonical user ID as a transport header that the agent cannot forge, and privileged servers re-check authorization against that header on every call, ensuring that access to a server is necessary but never sufficient. This is also where the integration platform earns its place as the system security layer. The vendor serves as the trust layer, securing credentials, enforcing authorization policies, and propagating user identity so downstream actions execute with the user’s permissions rather than a shared service identity. In practice, most deployments begin with a governed shared service identity at the agent’s MCP boundary and move toward per-user impersonation as the integration layer matures, but the boundary is in the right place from day one.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"data-scale-and-context-window-limits\">Data scale and context window limits</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The second wall is physical. Enterprise data dwarfs any context window. You cannot paste a two-thousand-table warehouse schema into a prompt, and an agent that tries will exhaust its context before it answers anything.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Bigger models help, but do not solve it. A million-token context buys headroom, not infinity. The real answer is architectural: never preload, always fetch on demand<strong>.</strong> MCP is well-suited to this because the tools return only the requested slice.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The pattern that makes it scale is an index-and-leaf design. A one-time discovery pass introspects a system and writes a queryable metadata index — one entry per table, object, or routine — into a context library. At query time, the agent browses the index (cheap, a line per object), fetches the full schema for only the handful of objects in play, and then queries the live data. The context window holds index lines plus a few schemas, never the warehouse. The addressable surface is bounded by the database, not by the model.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Two more techniques help to carry the load. First, work that exceeds a single context is fanned out: a job over 10,000 records is split across many bounded-context sub-processes or a batch API and reassembled, rather than forced through one window. Second, large files are handled out-of-band, generated by code through ordinary libraries, written to disk, and delivered as a hosted URL, so the bytes never enter the model’s context at all. To be precise, the conversation-level mechanics of context compaction and prompt caching come from the model runtime, not the application. The platform’s job is to instrument them for cost accounting and to architect the workload so the window is rarely the binding constraint.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-action-safety-problem\">The action safety problem</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Reading data is reversible. Taking action is not. This is where most teams either over-restrict the agent into uselessness or quietly accept unacceptable risk. The key point is that you cannot enforce safety in the prompt. “Please ask before deleting anything” is a suggestion a sufficiently confused model can be argued out of. Safety has to live in a deterministic infrastructure that the model cannot reason its way past.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A permission prompt that protects a human at a terminal is unusable in a Slack bot; something deterministic must replace it. An agent should layer four such gates. A visibility layer means the agent can’t invoke what it can’t see. A hard deny list embedded in the image and enforced regardless of interactive permissions creates a model-agnostic blacklist: no reading secrets, no destructive shell commands, and no editing the very files that define its own guardrails. An invocation policy cascade resolves each tool call to allow or deny by scope and specificity. And a set of independent preconditions can require, for instance, that the agent has read the relevant schema before it is allowed to write.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The human-in-the-loop gate is the clearest illustration of enforcement at the tool layer. A pre-execution hook intercepts a sensitive call before it runs, writes a pending-approval row, posts an interactive card to the user’s Slack or Teams channel, and then blocks — polling a database latch until a human clicks Approve or Reject. The tool call is physically suspended until the hook’s exit code returns the verdict. The model is not being asked nicely to wait. It is gated. This same mechanism enforces softer policies as hard rules: an agent can be made unable to publish a document until it has demonstrably read the brand guidelines, by requiring a prior read of that file as a precondition for the publish tool.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These gates are tuned to fail open on their own internal errors (an availability choice that keeps a hook bug from bricking the whole agent) while failing closed against the loss of their policy store. Where you set that dial is a real decision, and pretending the gates are infallible is exactly the kind of overclaim that erodes the trust the gates are meant to build.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"multi-step-orchestration-and-state-management\">Multi-step orchestration and state management</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Real enterprise work is multi-step, multi-turn, and long-running. Chat channels are effectively stateless. A new message in Slack carries little reliable context about whether it represents a new request or a continuation of prior work. An agent that treats every message as a fresh start is amnesiac.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A solution to this can be smart routing: put a small, fast, cheap model in front of the expensive agent purely as a dispatcher. For a fraction of a cent per message, it decides whether an incoming message should resume an existing session or start a new one, and which prior session is the relevant one, converting stateless chat into resumable, stateful work. A concurrency guard prevents two processes from writing to the same session at once. A useful discipline when building this is to be conservative. When the router is unsure, start fresh, because a clean context is cheaper to recover from than a corrupted one.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Complexity is managed by delegation. The agent runtime lets the main agent spawn sub-agents with isolated contexts. The platform’s contribution is not the isolation itself but the judgment of when to delegate, which is encoded in the platform’s skills. This keeps the coordinating agent’s context focused on the plan while bulk or parallelizable work happens in separate windows.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Those skills are the agent’s standard operating procedures. A skill is a versioned, reviewable document that encodes a repeatable procedure. It tells the agent what references to review, which tools it can use, how the output should be structured, and how to verify its own work before returning a result. Skills load progressively (only a short description is always in context; the full procedure is read when triggered), and they move through a submit-review-approve life cycle. This is what turns agent behavior from improvisation into something repeatable and auditable. Underneath, a durable substrate ties the pieces together: a session identifier is the join key across the model’s transcript and the orchestration ledger, and an unfinished job left marked “running” after a crash becomes a recovery queue that the system drains on restart.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"organizational-trust-and-adoption\">Organizational trust and adoption</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The last wall is the tallest, and not technical. Industry surveys indicate that the large majority of generative AI pilots deliver no measurable return and only a small fraction at scale. People will not delegate real work to a black box, and leadership will not sanction one.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Explainability has to be a built-in primitive, and not a debugging afterthought. Every tool call an agent performs (its name, the system hit, its inputs, its response, success or failure) should be logged. Your agent must do this and then close the loop in the conversation itself: when a session ends, a hook automatically posts a “here’s what I did, and here are the sources” summary back into the same thread, with a deep link to the full transcript, and configuration changes are captured in a separate before-and-after audit. Attribution must be mechanical rather than a matter of trust. Output honesty — the agent not inventing a number — must be enforced by explicit guardrails in the system prompt plus the after-the-fact audit trail, not by an automatic citation-checker that blocks unsourced claims. The audit log is what lets you verify, which is the point.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Two softer factors matter more than engineers like to admit. First, a distinct agent personality measurably drives engagement — provided the persona governs <em>how</em> the agent communicates and never <em>what</em> it communicates, with factual honesty fenced off as non-negotiable. Second, adoption hinges on a single, low-friction surface: people talk to the agent in the tools they already use, while one dashboard unifies history, skills, hosted deliverables, personalization, cost, and governance. Each tool is labeled by its risk, so personalization itself communicates consequence.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The deepest issue is structural, and it predates AI. <a href=\"https://en.wikipedia.org/wiki/Eric_von_Hippel\">Eric von Hippel</a>’s decades of research on user-driven innovation describes sticky information — knowledge about how work actually gets done that does not survive translation into a requirements document. Most enterprise AI stalls because the people who hold that context are not the people allowed to build. The durable pattern is to invert that: let the people with the context author the workflows, governed end-to-end. AI is the means; governance is the foundation, not a wrapper bolted on afterward.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-hard-part\">The hard part</h2>\n\n\n\n<p class=\"wp-block-paragraph\">None of these obstacles is a model capability problem, so simply throwing a bigger model at them does not help. They are problems of authorization, scale, safety, state, and trust, and each is solved the same way: keep control in deterministic infrastructure around the model, bind every action to a real human identity through an integration layer that holds the credentials, make everything auditable by default, and put authoring in the hands of the people who understand the work. The model is the easy part. The enterprise is the hard part.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><em>—</em></p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://www.infoworld.com/blogs/new-tech-forum\"><strong><em>New Tech Forum</em></strong></a><em><strong> provides a venue for technology leaders—including vendors and other outside contributors—to explore and discuss emerging enterprise technology in unprecedented depth and breadth. The selection is subjective, based on our pick of the technologies we believe to be important and of greatest interest to InfoWorld readers. InfoWorld does not accept marketing collateral for publication and reserves the right to edit all contributed content. Send all </strong></em><em><strong>inquiries to </strong></em><a href=\"mailto:doug_dineley@foundryco.com\"><strong><em>doug_dineley@foundryco.com</em></strong></a><em><strong>.</strong></em></p>\n</div></div></div></div>",
+    "link": "https://www.infoworld.com/article/4209927/the-five-walls-standing-between-a-demo-agent-and-a-deployed-one.html",
+    "published": "Thu, 20 Aug 2026 09:00:00 +0000",
+    "source": "InfoWorld",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "Introducing G#: A Go-like language for .NET",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Microsoft’s open sourcing of .NET not only has sped up the development of the platform, but also has allowed new languages and features to be built on top of the .NET runtime and compilers. At the same time, the extensibility features of <a href=\"https://www.infoworld.com/article/2335960/what-is-visual-studio-code-microsofts-extensible-code-editor.html\">Visual Studio Code</a> make it easy for developers to provide the tooling we need to use those new platform capabilities.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One of the more interesting new projects to build on .NET is a Go-like language, <a href=\"https://davidobando.github.io/gsharp/\">G#</a>, that targets both systems programming and mobile applications, with the intent of delivering small, secure, applications and libraries that can be used in other .NET applications. G# is a way to take the <a href=\"https://davidobando.github.io/gsharp/docs/ref/spec/\">lessons learned in Go, Kotlin, and Swift</a> and deliver code that works with .NET assemblies and libraries, taking advantage of NuGet and other similar repository services to build on top of the mature .NET platform. It’s being developed <a href=\"https://github.com/DavidObando/gsharp\">on GitHub</a>, with an impressively rapid release cycle.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"getting-started-with-g\">Getting started with G#</h2>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://davidobando.github.io/gsharp/docs/getting-started/install\">Getting started with G# is easy</a>. You’ll need a supported version of .NET and the appropriate SDKs for your target operating systems. G# will produce code that’s compatible with .NET 8 through .NET 10, though .NET 10 is preferred. The G# SDK and templates are available from NuGet, which ensures that you can install and run G# from the .NET CLI.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The quickest way to get started is to install the G# templates and then use these <a href=\"https://davidobando.github.io/gsharp/docs/getting-started/quickstart\">to create a console application</a> that you can then open in your choice of development tool and start extending. The structure of a basic application is quite simple, with a project file, the program .gs file, and a NuGet configuration to manage packages and libraries, with support for local SDKs (useful if you’re building G# from source). Building and running the default console template is quick, delivering output in a little over four seconds on an Arm-based Windows PC, which bodes well for building and debugging larger applications.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The installed templates give you options for several different classes of application and library beyond the basic console implementation. Additionally, there’s a <a href=\"https://marketplace.visualstudio.com/items?itemName=gsharplang.vscode-gsharp\">Visual Studio Code extension for G#</a> that can be downloaded from the Visual Studio Marketplace, which should speed up development as it includes the appropriate language server bits. The documentation includes a command-line option for installing the extension, which avoids having to search for the necessary files and gets you ready to start coding with G# next time you open VS Code.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Alternatively, you can use the G# language’s own <code>gsc</code> compiler directly, rather than it being called by MSBuild from the .NET CLI. This approach is useful when you want to output code that targets a specific .NET version or compiles as an assembly for use with other .NET languages. This approach avoids using interpreted code and lets you go straight to delivering pre-compiled binaries.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"inside-the-g-language\">Inside the G# language</h2>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://davidobando.github.io/gsharp/docs/tour/basics\">The G# language itself is straightforward</a>. Code is structured in packages, with executable sections defined as <code>funcs</code>. By default, G# uses the .NET <code>System</code> namespace, so you can use familiar constructs without having to learn different ways to do the usual things. If you don’t want to bring in <code>System</code> by default, you can disable imports as part of the compiler configuration.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Each function can take parameters and return values, with types declared as part of the parameter list. The parameter list can end with type declarations for any returns, so you can ensure that you’re returning the expected data. Most types include lengths, for example <code>int64</code>, though there are aliases for familiar types as used in other languages. Strings allow you to add alignments and formatting information. In addition to functions, you can define structs and classes to help handle variables, with structs handling values and classes handling references. Similarly, data structs and classes let you treat variables as data, applying copies and assigning values.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Much of the language structure will be familiar, especially if you’re used to working with <a href=\"https://www.infoworld.com/article/2253031/whats-the-go-language-really-good-for-3.html\">languages like Go</a>. There are some interesting shortcuts, using features like <code>if let</code> to check for nulls when parsing function parameters. You can use <code>if let</code> alongside G#’s exception handling to manage more complex program flows. Other features include using <code>for in</code> to iterate through collections, allowing you to deliver and use arbitrary length arrays with a function, without having to determine lengths before running operations.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"using-g-in-distributed-systems\">Using G# in distributed systems</h2>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://davidobando.github.io/gsharp/docs/tour/concurrency\">G# is designed to support asynchronous programming</a>, which is essential for working with distributed applications. It uses the familiar async and await constructs, though here it’s an <code>async func</code>. Interestingly, there’s the option to wrap a set of asynchronous operations in a scope, which allows you to run a series of operations and manage failures, keeping the results of successful operations for use elsewhere in your application. This lets you tie together parent and child operations so that the parent always returns after the child. You can use an async sequence to work with streams, but if you prefer, there’s also support for Go-like channels if you use the Go extensions package.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This last option provides alternative asynchronous operations, including fire-and-forget <code>go</code> calls, which allow you to trigger external functions concurrently without needing to wait for a response. Your main function will carry on operating, without needing a success or failure. There’s an interesting option here of mixing and matching .NET style asynchronous programming with Go’s fire-and-forget concurrency, as well as its built-in publish-and-subscribe channels.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"bringing-together-net-and-go\">Bringing together .NET and Go </h2>\n\n\n\n<p class=\"wp-block-paragraph\">The more you drill down into the language structure of G#, the more you can see it as a hybrid of the .NET approach (which comes from it being part of the family of Pascal and similar languages) and Go (with its structured <a href=\"https://www.infoworld.com/article/2261151/why-the-c-programming-language-still-rules.html\">C language</a> heritage). That makes G# a very flexible tool, and one that could work very well with .NET-based <a href=\"https://www.infoworld.com/article/2266945/what-is-kubernetes-scalable-cloud-native-applications.html\">Kubernetes</a> applications.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Another key feature is the ability to interoperate with the rest of the .NET ecosystem, importing namespaces and using methods in functions. Imported packages can be given aliases to simplify calls, with G# supporting .NET types and collections alongside its own constructs. There’s even support for events and delegates, as well as for working with unmanaged code via DLL and library imports.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Usefully, the project documentation includes tables comparing G# with Go and C#, helping you transition between different ways of working by showing direct comparisons with familiar features. If you’re currently working in .NET, it’s worth keeping the C# comparison open while you’re writing your first G# applications.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"what-g-is-good-for\">What G# is good for</h2>\n\n\n\n<p class=\"wp-block-paragraph\">One interesting option for G# is as an educational language. It’s small and predictable, which makes it suitable for the classroom, simplifying both teaching and marking assignments. You can then use G# as an on-ramp into the wider .NET ecosystem, or to move from mobile development with Swift or Kotlin to C# and other .NET languages, using the two together as you develop more enterprise development skills.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Having a smaller surface than other .NET languages makes G# an interesting candidate for <a href=\"https://www.infoworld.com/article/2264032/microsoft-gets-serious-about-webassembly.html\">working with WebAssembly</a> and <a href=\"https://www.infoworld.com/article/3604741/understanding-hyperlight-microsofts-minimal-vm-manager.html\">with microVMs in Hyperlight</a>. By writing code that works in a more constrained environment than C# but still compiles to .NET running on <a href=\"https://www.infoworld.com/article/2255892/what-is-webassembly-the-next-generation-web-platform-explained.html\">WebAssembly</a>, there’s the prospect of using G# to deliver fast modules for use in Kubernetes and other distributed programming environments, where fast-loading serverless components provide the response times needed by both applications and users.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For now, don’t expect to see G# supporting all the language constructs used by C# or VB.NET. It’s still very early days for what is intended to be a smaller language, and not all the intended features are available. That shouldn’t stop you trying it out, especially if you’re coming from an iOS or Android development background and you want to bring your code to Windows and Azure. The similarities of G# to this class of programming language should make it easier both to embrace the new platform and to port your existing code.</p>\n</div></div></div></div>",
+    "link": "https://www.infoworld.com/article/4210637/introducing-g-sharp-a-go-like-language-for-dot-net.html",
+    "published": "Thu, 20 Aug 2026 09:00:00 +0000",
+    "source": "InfoWorld",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "Nobody’s agent fleet fails the way the vendors say it will",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p class=\"wp-block-paragraph\">I run 49 scheduled AI agents on one laptop. Another 24 sit beside them, deliberately switched off.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That distinction matters more than it sounds. After eighteen months, I have stopped being surprised by model errors. Models misunderstand requests and occasionally produce confident nonsense. I expect that. I test for it.</p>\n\n\n\n<p class=\"wp-block-paragraph\">What still catches me is how rarely those errors cause an outage. No serious failure in my fleet has started with a bad model answer. They start lower in the stack: a job never loaded, a shell command that existed only in my terminal, a credential expired between runs, a timeout guard built on a utility the operating system does not ship.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The agent did not go rogue. Unix happened.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Most agent-fleet guidance is written forward from a proposed architecture: a router, specialist agents, tools and memory, clean arrows between boxes. I have drawn those diagrams myself. But every design rule I actually use came backward from an incident, after the arrows stopped moving and the dashboard still looked green.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Three failures from one week explain the gap.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"what-actually-broke-and-why-none-of-it-was-the-model\">What actually broke, and why none of it was the model</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The first failure looked correct everywhere I checked. The job existed on disk, its configuration was valid, a symlink pointed into the expected directory, and the script ran when I invoked it by hand.</p>\n\n\n\n<p class=\"wp-block-paragraph\">It had never been registered with the scheduler. I had written the definition, moved it into place, confirmed the file was where it belonged and never once asked the scheduler whether it had picked it up.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For several days it did nothing, and produced no error, because no process existed to fail. I had inspected the desired state and mistaken it for the actual one.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That sounds embarrassingly basic. It is also a small version of a familiar systems problem. Richard Cook’s paper on <a href=\"https://www.adaptivecapacitylabs.com/HowComplexSystemsFail.pdf\">how complex systems fail</a> argues that incidents are usually attributed to a nearby, obvious cause even though failure emerges from several normally tolerated conditions. My nearby cause was an unloaded job. The conditions around it mattered more: manual execution passed, the file tree looked right, no freshness alarm existed and my review stopped at configuration.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I now treat a scheduler definition as a claim about behavior, not evidence of it. The evidence is the live registry, the last start time, the last successful completion and a fresh artifact produced through the scheduled path.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A file can tell me what should run. It cannot tell me what is running.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The second failure began with an agent command I use dozens of times a day. I had shortened the executable and its arguments to an alias. In my terminal, the short name worked. Inside a non-interactive script, it did not exist.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The failed command should have made this obvious. Instead the wrapper continued, ran a harmless bookkeeping line and returned that line’s status. The scheduler recorded exit code 0. The agent had not run, and the wrapper announced success.</p>\n\n\n\n<p class=\"wp-block-paragraph\">There were two bugs, not one. I had relied on an interactive-shell convenience in production code, and I had allowed a later command to erase the failure signal. The first stopped the work. The second stopped me from knowing, and that one cost far more. A job that dies loudly gets fixed the same morning. A job that dies quietly gets fixed whenever somebody happens to go looking for output that was never there. In my case that was four days, and only because I wanted to read the report, not because anything told me to.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Shell portability is old work. The current <a href=\"https://pubs.opengroup.org/onlinepubs/9799919799/\">POSIX operating-system specification</a> still has to spell out command execution and environment behavior in exhaustive detail, because those assumptions really do change between an interactive shell and a script. This is settled ground. Agent projects just make it easy to walk back onto. The model call feels like the sophisticated part, so the three-line wrapper around it escapes the scrutiny I would give ordinary production code.</p>\n\n\n\n<p class=\"wp-block-paragraph\">My fix was not clever. Scheduled scripts now call absolute paths, or resolve and validate them at startup, and run with a deliberately small environment. They fail on an unset variable. Most importantly they verify the intended effect before reporting success. Exit code 0 is necessary. It is not proof that work happened.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The third failure was a timeout guard. An agent could occasionally stall on a tool call, so I wrapped it with a 40-minute limit and moved on.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The guard depended on a command common on Linux but not installed by default on macOS. My wrapper treated the missing utility like a non-event and continued through its fallback path. For a week, I believed every run had a hard ceiling. None did. Nothing hung during that week, which is the part I keep turning over. The protection was absent and the system looked fine, because the condition it existed for simply did not arise. I got no signal at all — I got lucky, and luck reads exactly like working code right up until it doesn’t.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This bothered me more than a stalled job would have. A broken feature reveals itself when someone uses it. A broken safety mechanism stays invisible until the moment the system is already in trouble.</p>\n\n\n\n<p class=\"wp-block-paragraph\">So I added a rule: every guardrail has to fail its own startup test. The timeout now proves itself against a process I deliberately hang, which is how I found the missing utility in the first place – it took one afternoon and I should have done it a year earlier. Locks, credential checks and circuit breakers get the same treatment. If I cannot force a protection to fire on demand, I do not get to count it as protection.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That instinct is not just mine. A 2025 USENIX OSDI paper on <a href=\"https://www.usenix.org/system/files/osdi25-lou.pdf\">silent semantic failures</a> argues the same thing at far larger scale: process survival and surface-level success are weak substitutes for checking the behavior a system promised. My fleet is tiny next to the systems in that paper. The lesson transfers anyway. I need an oracle for the guardrail, not just an absence of errors.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"a-good-agent-says-unknown\">A good agent says unknown</h2>\n\n\n\n<p class=\"wp-block-paragraph\">The most important failure was quieter.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One agent summarizes a small set of email inputs. During a scheduled run its token expired. It could have returned “zero new items,” which would have matched the empty response in front of it and been, operationally, a lie. It had not seen an empty inbox. It had failed to see the inbox.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Instead, the run reported <strong>unknown</strong>, named the inaccessible source and refused to produce a summary. It then carried on with the parts of the job it could still do, and said which those were. The report that morning was shorter than usual and honest about why. That took me ten seconds to read. Reconstructing the same fact from a confident zero would have taken a week.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That is what I now want from every agent in the fleet. A good agent reports unknown. A bad one reports zero.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The difference is not philosophical. Zero is a measurement. Unknown is a statement about whether measurement was possible. Collapse them and the fleet looks healthiest when it is blind.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Observability guidance usually begins with logs, metrics and traces. The <a href=\"https://opentelemetry.io/docs/concepts/observability-primer/\">OpenTelemetry observability primer</a> gives the conventional framing: a properly instrumented application emits enough signals to answer questions about its behavior. That is necessary, but agent fleets need another layer. I also need evidence about the boundaries of observation: which sources were reachable, which credentials were valid, how fresh each input was and which expected jobs emitted nothing at all.</p>\n\n\n\n<p class=\"wp-block-paragraph\">A trace explains what a process did. It cannot explain a process that never ran, unless something outside it was watching for the absence.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I now model each scheduled run with more than success and failure. A run can have succeeded, failed, arrived late, been skipped by policy or be unknown because an input could not be observed. That last state is the awkward one, and it is the one that earns its keep. Every expected run has a freshness deadline. Every important data source has an availability result separate from its item count. A heartbeat is accepted only after the job produces the artifact the schedule exists to produce.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This creates more yellow on the dashboard. Good. I would rather investigate an honest yellow than trust a fabricated green. The fleet is not less reliable than it was before I started tracking this. It is exactly as reliable as it always was, and I can finally see it.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"read-the-running-state\">Read the running state</h2>\n\n\n\n<p class=\"wp-block-paragraph\">None of this is new computer science, which is exactly why it is easy to miss. Agent systems arrive wrapped in new language — planners, tool use, memory, reflection — but they still depend on schedulers, shells, paths, credentials, clocks and exit codes. The new layer does not repeal the old ones. It gives the old ones more ways to fail quietly.</p>\n\n\n\n<p class=\"wp-block-paragraph\">I still evaluate model quality. I still test prompts, tool selection and output grounding. But the questions I ask first are less fashionable. Did the scheduler load the job? Did it start when expected? Did the wrapper invoke the binary I thought it did? Did the safety check prove itself?</p>\n\n\n\n<p class=\"wp-block-paragraph\">The rule I wrote down, and then broke anyway, is simple: <strong>Never infer a system’s current behavior from a configuration file. Read the running state.</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\">That is also why 24 agents are switched off rather than deleted. Each one was useful enough to build and not useful enough to keep watching. Every agent I add is another scheduled job that can quietly stop, another credential that can lapse, another silence I have to notice. The cost of a fleet is not the tokens. It is the number of things that can fail without telling you.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The architecture diagram tells me what I intended to build. The running state tells me what I actually have. Only one of them gets to wake me up at 3 a.m.</p>\n</div></div></div></div>",
+    "link": "https://www.infoworld.com/article/4211603/nobodys-agent-fleet-fails-the-way-the-vendors-say-it-will.html",
+    "published": "Thu, 20 Aug 2026 09:00:00 +0000",
+    "source": "InfoWorld",
+    "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "لبنان يستأنف صادراته للسعودية",
+    "summary": "شهد معبر المصنع الحدودي، احتفالا ببدء استئناف الصادرات اللبنانية إلى السعودية، بحضور وزير الأشغال فايز رسامني، الذي أكد أن هذه الخطوة تمثل مرحلة مهمة في مسيرة الاقتصاد اللبناني.",
+    "link": "https://arabic.rt.com/business/1823232-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87-%D9%84%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9-%D9%88%D8%B1%D8%B3%D8%A7%D9%85%D9%86%D9%8A-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D9%88%D9%86%D8%AD%D8%AA%D8%A7%D8%AC-%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/",
+    "published": "Thu, 20 Aug 2026 08:50:39 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "إسرائيل تفتح باب العطاءات لمشروع استيطاني بالغ الحساسية في الضفة الغربية",
+    "summary": "فتحت إسرائيل باب العطاءات لبناء نحو 1,200 وحدة استيطانية في جزء ذي أهمية إستراتيجية من الضفة الغربية المحتلة، في وقت تسعى خلاله حكومة نتنياهو إلى إنهاء أي فرصة لإقامة دولة فلسطينية.",
+    "link": "https://www.bbc.com/arabic/articles/cvgx03d488yo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 08:35:23 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "سوريا.. خطط متسارعة لزيادة إنتاج النفط والغاز",
+    "summary": "استعاد قطاع النفط والغاز خلال النصف الأول من هذا العام جزءا من دوره في دعم الاقتصاد السوري وتعزيز أمن الطاقة، من خلال زيادة الإنتاج وتطوير البنية التحتية.",
+    "link": "https://arabic.rt.com/business/1823210-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%85%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2/",
+    "published": "Thu, 20 Aug 2026 08:05:01 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
+    "summary": "في الأثناء، ثمة اتصالات وزيارات إيرانية متزامنة لعدد من العواصم في المنطقة وسط تداول أخبار عن تهديدات إيرانية قد تصل إلى أوروبا",
+    "link": "https://www.bbc.com/arabic/articles/c8dnz068y8vo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 07:25:03 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "اختبار يكشف ثغرة \"روبلوكس\".. هكذا يصل البالغون إلى الأطفال",
+    "summary": "كشفت اختبارات أجرتها هيئة السلامة الإلكترونية في أستراليا، ثغرات تسمح لمستخدمين بالغين برؤية حسابات أطفال والتواصل معهم عبر منصة الألعاب الشهيرة \"روبلوكس\"، رغم تطبيق الشركة إجراءات قالت إنها تمنع اتصال الغرباء بالصغار.",
+    "link": "https://www.skynewsarabia.com/varieties/1887068-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
+    "published": "Thu, 20 Aug 2026 04:15:58 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar"
+  },
+  {
+    "title": "وداعا كاليفورنيا.. هاري وميغان يعيدان حقائبهما إلى بريطانيا",
+    "summary": "يستعد الأمير هاري وزوجته ميغان للعودة إلى بريطانيا برفقة طفليهما، في خطوة لافتة تأتي بعد 6 سنوات من تنحيهما عن مهامهما الملكية وانتقالهما للإقامة في الولايات المتحدة.",
+    "link": "https://www.skynewsarabia.com/varieties/1887102-%D9%88%D8%AF%D8%A7%D8%B9%D8%A7-%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%88%D8%B1%D9%86%D9%8A%D8%A7-%D9%87%D8%A7%D8%B1%D9%8A-%D9%88%D9%85%D9%8A%D8%BA%D8%A7%D9%86-%D9%8A%D8%B9%D9%8A%D8%AF%D8%A7%D9%86-%D8%AD%D9%82%D8%A7%D8%A6%D8%A8%D9%87%D9%85%D8%A7-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7",
+    "published": "Thu, 20 Aug 2026 01:08:59 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar"
+  },
+  {
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "Why 6 GHz Wi-Fi will make or break the modern enterprise",
+    "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">I recently attended a CXO roundtable hosted by <a href=\"https://www.extremenetworks.com/\">Extreme Networks</a> for sports technology executives, and 6 GHz Wi-Fi was one of the hot topics. Given how reliant sports fans are on their mobile devices today, I wasn’t surprised by the interest among sports technology executives in next-generation Wi-Fi. However, sports venues aren’t the only facilities to benefit from 6 GHz Wi-Fi. It’s the first major innovation <a href=\"https://www.networkworld.com/article/4170841/wi-fi-8-is-closer-than-you-think-heres-what-you-need-to-know.html\">Wi-Fi</a> has seen in years and should be on the radar for all industries.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Modern enterprises have evolved far beyond traditional offices where employees simply sit at desks and use a few core applications. Today’s organizations operate as digital platforms, delivering immersive experiences for employees and customers, driving new revenue streams, and operating at peak efficiency. From digital workplace tools and hybrid work collaboration to real-time analytics and AI-driven operations, the modern enterprise is among the most demanding networking environments across industries. </p>\n\n\n\n<p class=\"wp-block-paragraph\">While much of the focus in digital transformation has centered on applications and user experience, the underlying network infrastructure remains the most critical component. In particular, the emergence of 6 GHz Wi-Fi, <a href=\"https://www.networkworld.com/article/3998013/extreme-networks-wants-your-complicated-wi-fi-environments.html\">enabled by Wi-Fi 6E and Wi-Fi 7</a>, is quickly becoming a cornerstone of enterprise modernization. Without it, many of the next-generation experiences that IT and business leaders are planning simply will not scale.</p>\n\n\n\n<p class=\"wp-block-paragraph\">To date, 6 GHz Wi‑Fi deployments across enterprises remain in their early stages, with only a subset of organizations moving aggressively beyond Wi‑Fi 6 and legacy bands. Most corporate campuses, manufacturing plants, healthcare facilities, and retail environments continue to run primarily on 2.4 GHz and 5 GHz, even as their digital demands increase year over year.</p>\n\n\n\n<p class=\"wp-block-paragraph\">At the event, I spoke with <a href=\"https://www.linkedin.com/in/mistermultipath/\">David Coleman</a>, director of wireless networking at the office of the CTO for Extreme, about this technology transition. He said: “The biggest paradigm shift in Wi-Fi today is the availability of this spectrum, and the 6 GHz spectrum is effectively double the 2.4 and 5 GHz bands. At the end of the day, there are more devices and more bandwidth-intensive applications. AI is driving all kinds of new traffic onto your network and your Wi-Fi, and there has to be a highway that can handle it, and 6 GHz is going to be that road.”</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"the-unique-challenge-of-enterprise-connectivity\">The unique challenge of enterprise connectivity</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Enterprises face a perfect storm of wireless challenges, especially as hybrid work, IoT, and AI converge. Knowledge workers, frontline employees, and guests expect seamless connectivity across offices, campuses, branches, and warehouses. At any given moment, thousands of devices may connect simultaneously, with users participating in high-definition video meetings, accessing cloud applications, collaborating in real time, and interacting with vertical-specific digital services such as clinical systems, manufacturing controls, or retail point-of-sale systems. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The traditional Wi‑Fi bands at 2.4 GHz and 5 GHz are already stretched to their limits in these environments. Even with careful RF design and dense access point deployments, interference, congestion, and inconsistent performance persist. As organizations add more digital services—IoT sensors, mobile apps, and edge analytics—the strain only increases.</p>\n\n\n\n<p class=\"wp-block-paragraph\">This is where 6 GHz Wi‑Fi changes the equation. With up to 1,200 MHz of additional spectrum available in the U.S., it effectively triples wireless capacity compared with legacy bands. More importantly, it provides clean, uncongested spectrum, free from many legacy devices that crowd the 2.4 GHz and 5 GHz bands. For enterprises, this translates into a step‑function improvement in capacity and performance—two factors that directly impact employee productivity, customer experience, and operational efficiency. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Coleman added this comment, “There’s what I call the GHz dividend, where the technology is improving performance for 5 GHz endpoints by opening up precious airtime that was not available to them, moving some of those clients, devices, and mission-critical applications over to the new spectrum, so it’s a win-win for everybody.”</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"enabling-the-next-generation-of-digital-workplace\">Enabling the next generation of digital workplace</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Employee expectations have changed dramatically over the past decade. Workers now expect the same level of connectivity at offices, campuses, and remote sites as at home—often better. This includes high-quality video conferencing, real-time collaboration, immersive training, augmented reality workflows, and frictionless access to cloud and SaaS applications. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Many of these experiences are bandwidth-intensive and latency-sensitive. For example, multi-stream video conferencing with content sharing and virtual whiteboarding requires both high throughput and low latency to avoid productivity losses. Augmented reality overlays for field service, warehousing, or remote assistance depend on consistent, real-time data delivery to mobile and wearable devices.</p>\n\n\n\n<p class=\"wp-block-paragraph\">6 GHz Wi‑Fi enables these experiences by supporting wider channels—up to 320 MHz with Wi‑Fi 7—and by reducing interference from legacy devices. This allows networks to deliver higher speeds and more predictable performance, even in ultra‑dense office floors, shared spaces, and conference areas. It also enables more effective traffic segmentation: IT teams can dedicate portions of the 6 GHz spectrum to collaboration suites, business‑critical applications, or specific departments, ensuring that key experiences are not affected by general best‑effort traffic. </p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"powering-ai%e2%80%91driven-enterprise-operations\">Powering AI‑driven enterprise operations</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Beyond user experience, enterprises are increasingly leveraging AI to optimize operations across every function. This includes facility and space optimization, <a href=\"https://www.networkworld.com/article/4202950/why-the-future-of-network-security-is-the-convergence-of-sase-and-firewalls.html\">security monitoring</a>, predictive maintenance, supply chain visibility, and dynamic staffing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These AI-driven use cases rely heavily on data from cameras, sensors, and connected devices across the organization. Much of this data is processed at the edge or through near-real-time cloud services, where low latency is essential for timely decision-making. For example, AI-powered video analytics can identify congestion in office lobbies or on manufacturing lines and trigger adjustments to routing, staffing, or signage. Similarly, security systems can detect anomalies and alert personnel instantly, while predictive maintenance applications analyze equipment telemetry to schedule repairs before failures occur.</p>\n\n\n\n<p class=\"wp-block-paragraph\">6 GHz Wi‑Fi provides the foundation for these capabilities by delivering clean spectrum that reduces packet loss and latency, ensuring smooth data flow between devices and edge compute resources. It also supports higher device densities, which is critical as the number of connected endpoints—from cameras and robots to environmental sensors and handhelds—continues to grow across enterprise environments.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"supporting-high%e2%80%91density-iot-and-smart-infrastructure\">Supporting high‑density IoT and smart infrastructure</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Modern enterprises are rapidly becoming IoT‑rich environments. Smart lighting, building management systems, digital signage, environmental sensors, connected manufacturing equipment, clinical devices, and retail endpoints are all adding to the device count on corporate networks.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Each of these devices both generates and consumes data, placing additional demands on the wireless infrastructure. In legacy Wi‑Fi bands, this often leads to contention and degraded performance, particularly during peak usage periods or in high‑density spaces such as open offices, plant floors, and public areas. </p>\n\n\n\n<p class=\"wp-block-paragraph\">The additional spectrum in the 6 GHz band enables more granular network design, allowing different device types and applications to be assigned to specific channels or frequency ranges within that band. This level of control is essential for maintaining performance in high-density environments, where even small inefficiencies can have a significant impact at scale. </p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"unlocking-new-revenue-and-service-opportunities\">Unlocking new revenue and service opportunities</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Connectivity is no longer just an operational requirement for enterprises—it is a revenue driver and a differentiator. Organizations are increasingly monetizing digital services or directly tying them to business outcomes, from premium customer experiences in retail and hospitality to digital services in healthcare, education, and manufacturing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">These revenue and service streams depend on reliable, high-performance connectivity. If customers or employees experience slow speeds or dropped connections, adoption, satisfaction, and productivity suffer. 6 GHz Wi-Fi helps ensure these offerings perform consistently, even during peak demand across sites and campuses. It also enables new experiences that were previously impractical, such as real-time, data-rich customer engagements, immersive remote support, and advanced industrial applications that rely on deterministic wireless performance. </p>\n\n\n\n<p class=\"wp-block-paragraph\">In this sense, investing in 6 GHz Wi-Fi is not just about improving network metrics—it is about unlocking new business models and enabling digital initiatives that directly drive growth and competitiveness.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"future%e2%80%91proofing-enterprise-infrastructure-investments\">Future‑proofing enterprise infrastructure investments</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Network modernization projects in enterprises are long‑term investments, often designed to support business requirements for a decade or more. As such, technology decisions made today must account for future demand rather than simply meeting current needs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The trajectory is clear: more devices, more data, and more real-time applications across every industry. AI will play an increasingly central role in user engagement and <a href=\"https://www.networkworld.com/article/4152655/ai-for-it-stalls-as-network-complexity-rises.html\">operations</a>, further increasing network requirements for throughput, reliability, and deterministic performance.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Deploying 6 GHz Wi‑Fi—particularly with Wi‑Fi 7 capabilities—provides the headroom needed to support these future use cases. Features such as multi‑link operation and enhanced quality of service help ensure that networks can adapt to changing demands without constant redesign or forklift upgrades. For enterprise leaders, this reduces risk and protects the value of their infrastructure investments over time by aligning the wireless layer with their long‑term digital strategy. </p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"final-thoughts\">Final thoughts</h2>\n\n\n\n<p class=\"wp-block-paragraph\">Enterprises are among the most challenging wireless environments, and the demands placed on their networks will continue to grow as <a href=\"https://www.networkworld.com/article/4154581/cisco-ai-simplifies-wireless-operations-but-also-taxes-legacy-wi-fi-networks.html\">digital and AI initiatives expand</a>. Traditional Wi‑Fi bands are no longer sufficient to support the scale and complexity of modern experiences for employees, customers, or connected machines.</p>\n\n\n\n<p class=\"wp-block-paragraph\">6 GHz Wi‑Fi marks a fundamental shift, providing the capacity, performance, and flexibility needed to power next‑generation enterprises. It enables richer digital workplace experiences, supports AI‑driven operations, and creates new opportunities for revenue and service innovation across industries. For any organization looking to modernize its campuses, offices, plants, or customer‑facing environments, 6 GHz Wi‑Fi is not a “nice to have.” It is a critical foundation for delivering the connected enterprise experience that stakeholders now.</p>\n</div></div></div></div>",
+    "link": "https://www.networkworld.com/article/4208690/why-6-ghz-wi-fi-will-make-or-break-the-modern-enterprise.html",
+    "published": "Fri, 14 Aug 2026 15:15:18 +0000",
+    "source": "Network World",
+    "category": "شبكات",
+    "lang": "en"
   }
 ]
