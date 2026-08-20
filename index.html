@@ -209,8 +209,6 @@
     };
     const DEFAULT_STYLE = { dot: 'bg-slate-soft', text: 'text-slate-soft' };
 
-    // Guards against missing/undefined/null fields from the feed so the UI
-    // never renders the literal string "undefined" — falls back gracefully instead.
     function safeText(value, fallback) {
       if (value === undefined || value === null) return fallback;
       const str = String(value).trim();
@@ -268,7 +266,6 @@
       const breaking = items.filter(n => n.breaking);
       const source = breaking.length ? breaking : items.slice(0, 5);
       const strip = source.map(n => `<span class="px-6 py-0 inline-flex items-center gap-2">${n.title}<span class="opacity-50">•</span></span>`).join('');
-      // duplicate content for seamless loop
       document.getElementById('ticker').innerHTML = strip + strip;
     }
 
@@ -312,7 +309,7 @@
         <h2 class="font-display font-800 text-base leading-snug mb-2 clamp-2">${n.title}</h2>
         <p class="text-sm text-ink/70 dark:text-ink-light/70 leading-relaxed clamp-3 mb-4">${n.summary}</p>
         <div class="mt-auto flex items-center justify-between gap-2">
-          <a href="${n.link}" class="inline-flex items-center gap-1 text-sm font-semibold text-signal hover:gap-2 transition-all">
+          <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 text-sm font-semibold text-signal hover:gap-2 transition-all">
             اقرأ المزيد
             <span aria-hidden="true">←</span>
           </a>
@@ -379,7 +376,8 @@
     async function loadNews() {
       renderSkeleton();
       try {
-        const res = await fetch('./news.json?v=' + new Date().getTime());
+        // Fetch news.json directly from GitHub Pages to bypass build dependencies
+        const res = await fetch('https://khaldonkk.github.io/last-minute-news/news.json?v=' + new Date().getTime());
         if (!res.ok) throw new Error('تعذّر تحميل الأخبار');
         allNews = await res.json();
         renderTicker(allNews);
@@ -389,7 +387,7 @@
         document.getElementById('news-grid').innerHTML = `
           <div class="col-span-full text-center py-16">
             <p class="font-display font-700 mb-1">تعذّر تحميل الأخبار</p>
-            <p class="text-sm text-slate-soft">تأكد من تشغيل الصفحة عبر خادم محلي حتى يعمل fetch('./news.json') بشكل صحيح.</p>
+            <p class="text-sm text-slate-soft">تأكد من الاتصال بالإنترنت ومطابقة رابط GitHub Pages.</p>
           </div>`;
         console.error(err);
       }
