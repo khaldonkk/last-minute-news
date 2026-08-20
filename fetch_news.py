@@ -4,28 +4,18 @@ import re
 import requests
 import feedparser
 
-# ==================== إعدادات المصادر (مُحسّنة لمهندس شبكات وأمن معلومات) ====================
+# ==================== إعدادات المصادر ====================
 RSS_FEEDS = [
     # --- تقنية (مصادر عربية موثوقة) ---
     {"url": "https://ayon-tech.com/feed/", "source": "عُيون التقنية", "category": "تقنية"},
     {"url": "https://www.takni.com/feed/", "source": "تقني", "category": "تقنية"},
     {"url": "https://arabeed.com/feed/", "source": "عُرب تيد", "category": "تقنية"},
     
-    # --- أمن سيبراني (مصادر عالمية احترافية - الذهب الحقيقي للمهندسين) ---
-    # SANS ISC: يراقب الثغرات والهجمات لحظياً (مرجع عالمي)
+    # --- أمن سيبراني (مصادر عالمية احترافية) ---
     {"url": "https://isc.sans.edu/feeds/latest", "source": "SANS ISC", "category": "أمن سيبراني", "lang": "en"},
-    # Dark Reading: أخبار الأمن المؤسسي
     {"url": "https://www.darkreading.com/rss.xml", "source": "Dark Reading", "category": "أمن سيبراني", "lang": "en"},
-    # BleepingComputer: سريع جداً في نشر الـ CVEs والاختراقات
     {"url": "https://www.bleepingcomputer.com/feed/", "source": "BleepingComputer", "category": "أمن سيبراني", "lang": "en"},
-    # The Hacker News
     {"url": "https://feeds.feedburner.com/TheHackersNews", "source": "The Hacker News", "category": "أمن سيبراني", "lang": "en"},
-    
-    # --- شبكات وبنية تحتية (Networking & Infra) ---
-    # Network World: متخصص في الشبكات والسيرفرات
-    {"url": "https://www.networkworld.com/feed/", "source": "Network World", "category": "شبكات", "lang": "en"},
-    # InfoWorld: بنية تحتية وتكنولوجيا المعلومات
-    {"url": "https://www.infoworld.com/feed/", "source": "InfoWorld", "category": "شبكات", "lang": "en"},
     
     # --- رياضة ---
     {"url": "https://www.kooora.com/rss.xml", "source": "كووورة", "category": "رياضة"},
@@ -54,7 +44,7 @@ def fetch_feed_data(url, source_name):
         'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     }
     try:
-        response = requests.get(url, headers=headers, timeout=20) # زدنا الوقت قليلاً للمصادر الخارجية
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         return feedparser.parse(response.content)
     except Exception as e:
@@ -62,11 +52,10 @@ def fetch_feed_data(url, source_name):
         return None
 
 def summarize_with_gemini(title, summary, lang="ar"):
-    """تلخيص الخبر مع الحفاظ على الدقة التقنية للمهندسين"""
+    """تلخيص الخبر مع الحفاظ على الدقة التقنية وتفادي الانهيار عند فشل API"""
     if not GEMINI_API_KEY:
         return summary
 
-    # تحسين البرومبت: نطلب من الـ AI الحفاظ على المصطلحات التقنية بالإنجليزية
     prompt = f"""
     أنت خبير تقني وأمني. قم بتلخيص الخبر التالي باللغة العربية.
     **مهم:** احتفظ بالمصطلحات التقنية بالإنجليزية إذا كانت الأكثر شيوعاً (مثل: CVE-XXXX, DDoS, Firewall, Zero-day, DNS, Phishing).
@@ -78,20 +67,23 @@ def summarize_with_gemini(title, summary, lang="ar"):
     payload = {"contents": [{"parts": [{"text": prompt}]}]}
     
     try:
-        res = requests.post(url, json=payload, timeout=20)
+        res = requests.post(url, json=payload, timeout=12)
         if res.status_code == 200:
-            return res.json()['candidates'][0]['content']['parts'][0]['text']
+            result_json = res.json()
+            return result_json['candidates'][0]['content']['parts'][0]['text']
+        else:
+            print(f"⚠️ Gemini API returned status code {res.status_code} for '{title[:20]}...'")
     except Exception as e:
-        print(f"🤖 Gemini Error for '{title[:30]}...': {e}")
+        print(f"🤖 Gemini Error for '{title[:20]}...': {e}")
     
+    # العودة للملخص الأصلي دون إيقاف البرنامج في حال حدوث أي خطأ
     return summary
 
 def is_security_news(item):
     """كشف ذكي للأخبار الأمنية حتى لو كانت في مصدر عام"""
     text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
-    # كلمات مفتاحية تقنية دقيقة
     tech_keywords = [
-        r"CVE-|XSS|SQLi|DDoS|MITM|ransomware|phishing|firewall|encryption|zero-day|exploit|vulnerability|threat|incident|breach|cyber|اختراق|ثغرة|برمجية|هجوم"
+        r"cve-|xss|sqli|ddos|mitm|ransomware|phishing|firewall|encryption|zero-day|exploit|vulnerability|threat|incident|breach|cyber|اختراق|ثغرة|برمجية|هجوم"
     ]
     return any(re.search(kw, text) for kw in tech_keywords)
 
@@ -109,19 +101,19 @@ def main():
         print(f"📥 Fetching [{cat}] from {source}...")
         feed = fetch_feed_data(feed_info["url"], source)
         
-        if not feed:
+        if not feed or not hasattr(feed, 'entries'):
             continue
             
         count = 0
         for entry in feed.entries:
-            if count >= 4: # نأخذ عدد مناسب للتنوع
+            if count >= 4:
                 break
                 
             title = entry.get('title', '').strip()
             if not title:
                 continue
-            
-            # تنظيف العنوان (بعض المصادر تضيف نص إضافي مثل " - Source Name")
+                
+            # تنظيف العنوان
             if f"- {source}" in title:
                 title = title.replace(f"- {source}", "").strip()
             elif f"| {source}" in title:
@@ -148,7 +140,7 @@ def main():
             })
             count += 1
 
-    # ترتيب الأخبار (الأحدث أولاً)
+    # ترتيب الأخبار
     all_news.sort(key=lambda x: x.get('published', ''), reverse=True)
 
     print(f"\n[✓] Successfully collected {len(all_news)} articles.")
