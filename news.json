@@ -1,5 +1,25 @@
 [
   {
+    "title": "N-able Bug Exposes Password Vault Master Keys",
+    "summary": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+    "published": "Thu, 20 Aug 2026 17:39:24 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787251752
+  },
+  {
+    "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+    "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+    "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+    "published": "Thu, 20 Aug 2026 17:32:51 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787251752
+  },
+  {
     "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
     "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
@@ -7,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
@@ -17,27 +37,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-    "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-    "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-    "published": "Wed, 19 Aug 2026 20:32:09 GMT",
-    "source": "Dark Reading",
+    "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+    "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+    "published": "Thu, 20 Aug 2026 13:53:52 -0400",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-    "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-    "published": "Wed, 19 Aug 2026 19:54:43 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
@@ -47,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "How MSPs can catch phishing attacks email filters miss",
@@ -57,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -67,17 +77,27 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-    "published": "Thu, 20 Aug 2026 07:06:14 -0400",
-    "source": "BleepingComputer",
+    "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+    "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.\n\nThe activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+    "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+    "published": "Thu, 20 Aug 2026 22:29:44 +0530",
+    "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
+  },
+  {
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page.\n\nThe AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+    "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "published": "Thu, 20 Aug 2026 20:06:27 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787251752
   },
   {
     "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
@@ -87,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
@@ -97,27 +117,17 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution.\n\n\"A remote code execution vulnerability exists in Zimbra",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-    "published": "Thu, 20 Aug 2026 18:54:28 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-    "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.\n\nThe attack, which the researchers named \"Zombie Card,\" requires physical",
-    "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-    "published": "Thu, 20 Aug 2026 17:31:24 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787240378
+    "title": "مباراة الأرجنتين.. الاتحاد المصري يرد على فيفا بشأن حسام حسن",
+    "summary": "أكد الاتحاد المصري لكرة القدم، يوم الخميس، أنه سيقدم ردا رسميا للاتحاد الدولي (فيفا) بشأن ما تلقاه من استفسار يخص موقف حسام حسن المدير الفني للمنتخب وشقيقه إبراهيم حسن مدير المنتخب.",
+    "link": "https://www.skynewsarabia.com/sport/1887198-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B1%D8%AF-%D9%81%D9%8A%D9%81%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86",
+    "published": "Thu, 20 Aug 2026 16:48:47 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787251752
   },
   {
     "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
@@ -127,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
@@ -137,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
@@ -147,17 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
-    "summary": "أعلنت الوكالة الدولية لنزاهة التنس إيقاف الأسترالي نيك كيريوس مؤقتاً، بعد ثبوت إيجابية عينة فحص للكوكايين خلال مشاركته في بطولة من فئة ATP 250 في جزيرة مايوركا الإسبانية، في 22 يونيو الماضي.",
-    "link": "https://www.skynewsarabia.com/sport/1887050-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%AA%D9%86%D8%B3-%D9%86%D9%8A%D9%83-%D9%83%D9%8A%D8%B1%D9%8A%D9%88%D8%B3-%D8%AB%D8%A8%D9%88%D8%AA-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A%D9%87-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
-    "published": "Wed, 19 Aug 2026 20:39:57 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "\"باركن\" الإماراتية تستكشف إدارة المواقف والتنقل الذكي بمصر",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "رويترز: قطاعات جديدة تعيد رسم خريطة النفوذ في واشنطن",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "أسواق التنبؤ تضاعف مخاطر الاستطلاعات المزيفة",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
@@ -197,47 +197,67 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "خوفا من التضخم.. قرار جديد من المركزي المصري بشأن أسعار الفائدة",
-    "summary": "أعلن البنك المركزي المصري، الخميس، تثبيت أسعار الفائدة الأساسية دون تغيير، وذلك للمرة الرابعة على التوالي.",
-    "link": "https://arabic.rt.com/business/1823406-%D8%AE%D9%88%D9%81%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%82%D8%B1%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9/",
-    "published": "Thu, 20 Aug 2026 15:25:21 +0000",
+    "title": "وقف التبادل التجاري والمالي مع إيران.. ما دوافع القرار الإماراتي؟",
+    "summary": "أعلنت الإمارات قطع التبادل التجاري والمالي مع إيران، بالتزامن مع حملة أمريكية جديدة للضغط الاقتصادي على طهران، وبعد نحو ستة أشهر من اندلاع الحرب في الشرق الأوسط.",
+    "link": "https://arabic.rt.com/business/1823467-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A7-%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A/",
+    "published": "Thu, 20 Aug 2026 18:48:31 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "النقد الدولي يعلق على تعديل لبنان قانون مصارفه لتجاوز أسوأ أزمة اقتصاد عالمية منذ منتصف القرن الـ19",
-    "summary": "أشاد صندوق النقد الدولي بتعديلات قانون معالجة أوضاع البنوك في لبنان، واعتبرها خطوة مهمة، محذرا من أن تحديات التنفيذ قد تؤخر تعافي الاقتصاد المتضرر من الأزمة المالية والحرب.",
-    "link": "https://arabic.rt.com/business/1823395-%D8%A7%D9%84%D9%86%D9%82%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%85%D8%B5%D8%A7%D8%B1%D9%81%D9%87-%D9%84%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A3%D8%B3%D9%88%D8%A3-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%85%D9%86%D8%B0-%D9%85%D9%86%D8%AA%D8%B5%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D9%86-%D8%A7%D9%84%D9%8019/",
-    "published": "Thu, 20 Aug 2026 15:08:53 +0000",
+    "title": "تونس.. إضراب مفاجئ لسائقي صهاريج المحروقات يعطل توزيع الوقود (فيديو)",
+    "summary": "قالت مراسلة RT في تونس إن العديد من شوارع وطرقات العاصمة شهدت يوم الخميس اختناقا بعد توافد أعداد كبيرة من السيارات على محطات الوقود بسبب إضراب مفاجئ لسائقي صهاريج المحروقات.",
+    "link": "https://arabic.rt.com/business/1823449-%D8%AA%D9%88%D9%86%D8%B3-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%8A%D8%B9%D8%B7%D9%84-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%88%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D9%88%D9%81/",
+    "published": "Thu, 20 Aug 2026 17:38:55 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "بوتين يعلن عن خطة لإضافة نحو 30 غيغاواط من القدرات الكهربائية النووية في روسيا",
-    "summary": "أعلن الرئيس الروسي فلاديمير بوتين، اليوم الخميس، عن خطة طموحة لإدخال نحو 30 غيغاواط إضافية من القدرات الذرية الكهربائية في روسيا، تشمل محطات نووية محدودة السعة.",
-    "link": "https://arabic.rt.com/business/1823344-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AE%D8%B7%D8%A9-%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D9%86%D8%AD%D9%88-30-%D8%BA%D9%8A%D8%BA%D8%A7%D9%88%D8%A7%D8%B7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7/",
-    "published": "Thu, 20 Aug 2026 14:10:19 +0000",
+    "title": "مؤسس \"فيسبوك\" يوسع استثماراته العقارية باقتنائه قصرا إيرلنديا",
+    "summary": "حصل مارك زوكربيرغ، مؤسس \"فيسبوك\" ورئيس مجموعة \"ميتا\"، على ملكية قصر تاريخي بإيرلندا، في صفقة عقارية جديدة، من دون الكشف عن قيمتها.",
+    "link": "https://arabic.rt.com/business/1823446-%D9%85%D8%A4%D8%B3%D8%B3-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%8A%D9%88%D8%B3%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%82%D8%AA%D9%86%D8%A7%D8%A6%D9%87-%D9%82%D8%B5%D8%B1%D8%A7-%D8%A5%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D9%8A%D8%A7/",
+    "published": "Thu, 20 Aug 2026 17:26:31 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "تراجع طلبات إعانة البطالة في الولايات المتحدة الأسبوع الماضي",
-    "summary": "انخفض عدد الأمريكيين المتقدمين للمرة الأولى بطلبات للحصول على إعانة البطالة الأسبوع الماضي، في مؤشر على استمرار استقرار سوق العمل رغم التراجع المفاجئ في وتيرة التوظيف خلال يوليو.",
-    "link": "https://arabic.rt.com/business/1823364-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A5%D8%B9%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D9%84%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A/",
-    "published": "Thu, 20 Aug 2026 14:03:46 +0000",
+    "title": "صادرات النفط السعودية تنتعش في يونيو مع زيادة الإنتاج",
+    "summary": "أظهرت بيانات مبادرة البيانات المشتركة \"جودي\"، الخميس، ارتفاع صادرات  النفط الخام السعودية في يونيو إلى 3.993 مليون برميل يوميا، مقارنة مع 3.434 مليون برميل يوميا في مايو.",
+    "link": "https://arabic.rt.com/business/1823423-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D8%AA%D8%B9%D8%B4-%D9%81%D9%8A-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC/",
+    "published": "Thu, 20 Aug 2026 17:05:31 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
+  },
+  {
+    "title": "70 ساعة عمل.. مغاربة في قبضة \"مافيا الحقول\" الإيطالية",
+    "summary": "كشفت تحقيقات أمنية في إيطاليا تفاصيل استغلال عمال زراعيين مغاربة داخل مزارع في جزيرة صقلية، شملت تشغيلهم 70 ساعة أسبوعيا مقابل يورو واحد عن كل صندوق برتقال، وإسكانهم في مبنى متهالك بلا مياه أو كهرباء.",
+    "link": "https://www.skynewsarabia.com/varieties/1887065-70-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%B9%D9%85%D9%84-%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%82%D8%A8%D8%B6%D8%A9-%D9%85%D8%A7%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9",
+    "published": "Thu, 20 Aug 2026 17:34:18 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787251752
+  },
+  {
+    "title": "مصر.. خلاف عمل بمشروع \"القطار السريع\" يتحول إلى جريمة قتل",
+    "summary": "شهد طريق أسيوط الغربي بمحافظة الفيوم في مصر، واقعة إطلاق نار داخل موقع أعمال \"محطة العياط\" التابعة لمشروع القطار السريع الجديد، إذ تحول الخلاف في العمل ومحاولة بعض العمال مغادرة الموقع بعد مشاجرة مع أحد حراسه إلى جريمة قتل.",
+    "link": "https://www.skynewsarabia.com/varieties/1887196-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%81-%D8%B9%D9%85%D9%84-%D8%A8%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%82%D8%AA%D9%84",
+    "published": "Thu, 20 Aug 2026 16:38:19 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787251752
   },
   {
     "title": "النظارات الذكية.. هواجس الخصوصية والقرصنة في دور السينما",
@@ -247,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
     "title": "بعد تقارير عن اعتناقه الإسلام.. روبرتو كارلوس يحسم الجدل",
@@ -257,37 +277,27 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "\"يوتيوب\" و\"نتفلكس\".. صراع على صناع المحتوى",
-    "summary": "يعرض موقع \"يوتيوب\" على صناع المحتوى المشهورين فرصة للحصول على أموال تقدر بملايين الدولارات، مقابل التزامهم بنشر محتواهم حصريا على منصته، في تصعيد لمنافسته مع \"نتفلكس\" على استقطاب بعضٍ من ألمع نجوم الإنترنت.",
-    "link": "https://www.skynewsarabia.com/varieties/1887183-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%88-%D9%86%D8%AA%D9%81%D9%84%D9%83%D8%B3-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%B5%D9%86%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89",
-    "published": "Thu, 20 Aug 2026 14:15:16 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "أعداد كبيرة لوفيات موجة الحر في إسبانيا وألمانيا",
-    "summary": "كشفت بيانات رسمية، الخميس، أن موجات الحر الشديدة التي ضربت أوروبا هذا الصيف تسببت في وفاة الآلاف في كل من إسبانيا وألمانيا، في أرقام هي الأكبر منذ سنوات.",
-    "link": "https://www.skynewsarabia.com/varieties/1887174-%D8%A3%D8%B9%D8%AF%D8%A7%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%84%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%85%D9%88%D8%AC%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
-    "published": "Thu, 20 Aug 2026 12:14:05 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
-    "summary": "في الأثناء، ثمة اتصالات وزيارات إيرانية متزامنة لعدد من العواصم في المنطقة وسط تداول أخبار عن تهديدات إيرانية قد تصل إلى أوروبا",
-    "link": "https://www.bbc.com/arabic/articles/c8dnz068y8vo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 07:25:03 GMT",
+    "title": "طهران تندد بـ \"الإرهاب الاقتصادي\"، تزامناً مع وصول حاملة الطائرات جورج واشنطن إلى الشرق الأوسط",
+    "summary": "صعّدت واشنطن حملتها ضد طهران بعقوبات غير مسبوقة وتعزيزات عسكرية شملت نشر حاملة طائرات جديدة، لترد الأخيرة بوصف الإجراءات بـ \"الإرهاب الاقتصادي\" مع تلويح برلماني بالانسحاب من معاهدة حظر الانتشار النووي.",
+    "link": "https://www.bbc.com/arabic/articles/crmrg2xg1yeo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 18:31:00 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
+  },
+  {
+    "title": "تونس تواجه أزمة \"المياه المعدنية\"، والجزائر تنفي إرسال مياه نحو جارتها الشرقية",
+    "summary": "تواجه تونس أزمة حادة في نقص المياه المعدنية بسبب موجات الحر، وانقطاع الكهرباء، واحتكار بعض التجار، مما دفع الحكومة لفرض تسعيرة رسمية للعبوات للسيطرة على الأسواق.",
+    "link": "https://www.bbc.com/arabic/articles/ckg9lgvg9dlo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 18:00:08 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787251752
   },
   {
     "title": "المدرب المغربي بادو الزاكي يعمل لوصول الأردن لنصف نهائي كأس آسيا 2027، فمن هو الزاكي؟",
@@ -297,66 +307,56 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "نحو شراكة بريطانية أوكرانية لإنتاج المسيّرات رغم التهديد الروسي - مقال في الإندبندنت",
-    "summary": "في جولة الصحف البريطانية اليوم اهتمام واسع بعودة هاري وميغان إلى بريطانيا هذا الشهر، وأبعاد الشراكة البريطانية الأوكرانية لإنتاج الطائرات المسيّرة رغم التهديد الروسي، بالإضافة إلى تعليق حول تفشّي إيبولا غير المسبوق في الكونغو الديمقراطية.",
-    "link": "https://www.bbc.com/arabic/articles/cvgvrrm5mrlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 11:47:27 GMT",
+    "title": "لماذا أثار استهداف قاعدة أبو الظهور توتراً بين إسرائيل وتركيا؟",
+    "summary": "غارات إسرائيلية على قاعدة أبو الظهور قرب الحدود التركية تُفجّر مواجهة سياسية بين تركيا وإسرائيل، وسط تحذير أمريكي من \"تصعيد غير ضروري\". فما دوافع الهجوم؟",
+    "link": "https://www.bbc.com/arabic/articles/cn8nw4x027eo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 20 Aug 2026 13:21:00 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
-    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذّر من \"صدمة المياه الباردة\".",
-    "link": "https://www.bbc.com/arabic/articles/c5y3n4j4vn3o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 10:04:21 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787240378
-  },
-  {
-    "title": "عالم زلازل يحذر من خطر وقوع زلزال قوي في منطقة إسطنبول",
-    "summary": "حذر عالم الزلازل التركي عثمان بيكتاش من تزايد النشاط الزلزالي في بحر مرمرة، حيث سجلت مؤخرا هزات أرضية ضعيفة، ولا يستبعد العلماء حدوث زلزال تتجاوز قوته 7 درجات في منطقة إسطنبول.",
-    "link": "https://arabic.rt.com/technology/1823145-%D8%B9%D8%A7%D9%84%D9%85-%D8%B2%D9%84%D8%A7%D8%B2%D9%84-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AE%D8%B7%D8%B1-%D9%88%D9%82%D9%88%D8%B9-%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D9%82%D9%88%D9%8A-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84/",
-    "published": "Thu, 20 Aug 2026 15:38:38 +0000",
+    "title": "4 دول أوربية تدعو إسرائيل إلى التراجع فورا عن خطط الاستيطان في E-1",
+    "summary": "قالت ألمانيا وبريطانيا وإيطاليا وفرنسا، في بيان، إن  قرار إسرائيل بطرح مناقصة لبناء منازل للمستوطنين في منطقة \"E-1\" قرب القدس بأنه أمر \"غير مقبول\".",
+    "link": "https://arabic.rt.com/middle_east/1823469-4-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%81%D9%88%D8%B1%D8%A7-%D8%B9%D9%86-%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86-%D9%81%D9%8A-e-1/",
+    "published": "Thu, 20 Aug 2026 18:35:59 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "صفقة أسلحة ضخمة بين قطر وأمريكا بمليارات الدولارات",
-    "summary": "أعلنت وزارة الخارجية الأمريكية، يوم الخميس، أنها وافقت على بيع محتمل لطائرات \"كيه سي-46 إيه\" (KC-46A) للتزود بالوقود جوا ومعدات ذات صلة إلى قطر بتكلفة تقديرية تبلغ 4.5 مليار دولار.",
-    "link": "https://arabic.rt.com/middle_east/1823404-%D8%B5%D9%81%D9%82%D8%A9-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%B6%D8%AE%D9%85%D8%A9-%D8%A8%D9%8A%D9%86-%D9%82%D8%B7%D8%B1-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A8%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA/",
-    "published": "Thu, 20 Aug 2026 15:37:17 +0000",
+    "title": "زيلينسكي: نقص التمويل أكبر تحد يواجه أوكرانيا وسط ارتفاع تكلفة الحرب",
+    "summary": "أعلن فلاديمير زيلينسكي خلال تقديمه وزير الدفاع الجديد يفغيني خمارا أن نقص تمويل القوات الأوكرانية أصبح التحدي الأكبر الذي تواجهه البلاد، مشتكيا من \"ارتفاع تكلفة الحرب\".",
+    "link": "https://arabic.rt.com/world/1823466-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%AD%D8%AF-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AA%D9%83%D9%84%D9%81%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8/",
+    "published": "Thu, 20 Aug 2026 18:34:02 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "محلل هنغاري: تسجيل \"انقلابي\" لوزير الدفاع الأوكراني السابق شق صف الحلفاء الغربيين",
-    "summary": "تسبب مقطع فيديو نشره وزير الدفاع الأوكراني السابق ميخايلو فيدوروف في حدوث شرخ غير متوقع بين الحلفاء الغربيين لكييف، وفقا لما أكده المحلل الهنغاري زولتان كوشكوفيتش.",
-    "link": "https://arabic.rt.com/world/1823390-%D9%85%D8%AD%D9%84%D9%84-%D9%87%D9%86%D8%BA%D8%A7%D8%B1%D9%8A-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%D9%8A-%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D8%B4%D9%82-%D8%B5%D9%81-%D8%A7%D9%84%D8%AD%D9%84%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 15:28:02 +0000",
+    "title": "لاعب عراقي ينسحب من بطولة العالم للفنون القتالية رفضا لمواجهة لاعب إسرائيلي",
+    "summary": "أعلن اللاعب العراقي في الفنون القتالية المختلطة، ضاري العبيدي، اليوم الخميس، انسحابه رسميا من منافسات بطولة العالم، وذلك بعد أن أوقعته القرعة في مواجهة لاعب يمثل إسرائيل.",
+    "link": "https://arabic.rt.com/sport/1823468-%D9%84%D8%A7%D8%B9%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%86%D8%B3%D8%AD%D8%A8-%D9%85%D9%86-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%B1%D9%81%D8%B6%D8%A7-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A/",
+    "published": "Thu, 20 Aug 2026 18:32:12 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   },
   {
-    "title": "بعد تسلمه من لبنان.. مثول لواء سابق أمام القضاء السوري بتهم القتل والتعذيب",
-    "summary": "مثل اللواء السابق عادل عيسى أمام القضاء السوري لمواجهة تهم القتل والتعذيب، وذلك عقب قيام لبنان بتسليمه للسلطات السورية لمحاكمته على الجرائم التي ارتكبها في محافظة دير الزور.",
-    "link": "https://arabic.rt.com/middle_east/1823400-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D9%84%D9%85%D9%87-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%AB%D9%88%D9%84-%D9%84%D9%88%D8%A7%D8%A1-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8/",
-    "published": "Thu, 20 Aug 2026 15:19:34 +0000",
+    "title": "روسيا.. ابتكار كبسولة ذكية لعلاج السرطان",
+    "summary": "ابتكر علماء جامعة ساراتوف الوطنية للبحوث في روسيا كبسولة ذكية لتدمير الخلايا السرطانية بمساعدة الليزر.",
+    "link": "https://arabic.rt.com/technology/1823146-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7%D8%A7%D8%A8%D8%AA%D9%83%D8%B1-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86/",
+    "published": "Thu, 20 Aug 2026 18:17:57 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787240378
+    "fetched_at": 1787251752
   }
 ]
