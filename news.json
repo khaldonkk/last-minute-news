@@ -1,14 +1,5 @@
 [
   {
-    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-    "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident.\n\n\"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
-    "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-    "published": "Wed, 19 Aug 2026 23:36:44 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
     "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
     "summary": "أعلنت نجمة كرة السلة الأميركية ننيكا أوجومايكي، الأربعاء، اعتزالها اللعب بنهاية الموسم الحالي، لتسدل الستار على مسيرة امتدت 15 موسما في دوري كرة السلة الأميركي للسيدات \"WNBA\".",
     "link": "https://www.skynewsarabia.com/sport/1887094-15-%D8%B9%D8%A7%D9%85%D8%A7-%D8%A7%D9%84%D8%AA%D8%A3%D9%84%D9%82-%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D9%88%D8%AF%D8%B9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%B9%D8%A8",
@@ -45,15 +36,6 @@
     "lang": "ar"
   },
   {
-    "title": "حمزة يهز شباك الأهلي المصري.. وبرشلونة يتوج بكأس جامبر",
-    "summary": "توج برشلونة بكأس خوان جامبر الودية للمرة الـ48 في تاريخه، بعد فوزه على الأهلي المصري 2-1، الأربعاء، في المباراة التي اختتم بها الفريق الكتالوني استعداداته للموسم الجديد.",
-    "link": "https://www.skynewsarabia.com/sport/1887076-%D8%AD%D9%85%D8%B2%D8%A9-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A8%D8%B5%D9%85%D8%AA-%D9%88%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D9%88%D8%AC-%D8%A8%D9%83%D8%A3%D8%B3-%D8%AC%D8%A7%D9%85%D8%A8%D8%B1",
-    "published": "Wed, 19 Aug 2026 20:32:28 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar"
-  },
-  {
     "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
     "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
     "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -63,17 +45,17 @@
     "lang": "en"
   },
   {
-    "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-    "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.\n\nThe intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-    "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-    "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-    "source": "The Hacker News",
+    "title": "Agentic AI Presents New Insider Threat Model for Orgs",
+    "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+    "published": "Wed, 19 Aug 2026 19:54:43 GMT",
+    "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en"
   },
   {
     "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-    "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+    "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
     "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
     "published": "Wed, 19 Aug 2026 16:58:23 GMT",
     "source": "Dark Reading",
@@ -117,21 +99,39 @@
     "lang": "en"
   },
   {
-    "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-    "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-    "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-    "published": "Tue, 18 Aug 2026 21:25:58 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en"
-  },
-  {
     "title": "Reports: Google partnering with AMD  for next-gen hybrid TPU",
     "summary": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p class=\"wp-block-paragraph\">Google is <a href=\"https://seekingalpha.com/news/4634245-google-working-with-amd-on-a-future-tpu-could-be-significant-wedbush-says\">reportedly</a> working with AMD on the design of a next generation <a href=\"https://www.networkworld.com/article/4093957/what-are-tpus-your-guide-to-tensor-processing-units-and-ai-acceleration.html\">Tensor Processing Unit</a> (TPU) aimed at workloads that increasingly combine artificial intelligence acceleration with conventional computing.</p>\n\n\n\n<p class=\"wp-block-paragraph\">According to a <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning\">number</a> of <a href=\"https://x.com/sean_________/status/2088311185791660061\">industry</a> reports, the companies are exploring a hybrid AI accelerator that could integrate CPU cores directly into the TPU processor package. The design would be intended in part for reinforcement learning and emerging agentic AI workloads, where AI accelerators need to interact more closely with general-purpose processors.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The integration of TPU and CPU resources into one package is not a new concept. AMD and later Intel integrated GPU technology with their CPUs and have done so for some time. But the GPU that is in the CPU is considerably less powerful than a discreet GPU. It’s not known if the TPU integrated with the AMD CPU package would be equivalent to a discrete TPU card.</p>\n\n\n\n<p class=\"wp-block-paragraph\">However, it will meet much faster performance. Google uses its TPU processors now in servers with standard X86 CPU processors, but there is a considerable lag in communication between the two chips as the data has to transfer from one physical chip to another, according to the <a href=\"https://cloud.google.com/blog/products/compute/tpu-8t-and-tpu-8i-technical-deep-dive\">company</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">With the CPU and TPU in one package, there is considerably less distance to be covered and a potential great reduction in latency. How much is unclear at this time.</p>\n\n\n\n<p class=\"wp-block-paragraph\">That approach could be particularly useful for reinforcement learning, in which an AI system repeatedly generates actions, evaluates the results and uses that feedback to improve its behavior. Such workloads can involve frequent interaction between accelerator and CPU resources, potentially making data movement and communication overhead significant.</p>\n\n\n\n<p class=\"wp-block-paragraph\">The concept also fits Google’s broader push toward hardware optimized for increasingly sophisticated AI systems. Google has already been developing TPUs for more than a decade TPU family is now in its <a href=\"https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/\">eighth- generation</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Google is also reportedly developing other specialized AI hardware. A project known as “<a href=\"https://www.networkworld.com/article/4200581/google-transforms-its-data-center-architecture-for-agent-era.html\">Frozen v2</a>” is said to be targeting highly specialized AI inference and could potentially deliver substantially higher token efficiency than Google’s conventional TPUs.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For its part, AMD has been pursuing increasingly integrated AI systems for some time. The company recently announced a <a href=\"https://www.cerebras.ai/press-release/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference\">partnership</a> with Cerebras to combine AMD EPYC processors and Instinct accelerators with Cerebras’ wafer-scale AI processors in a system designed to divide AI workloads between different types of processors.</p>\n\n\n\n<p class=\"wp-block-paragraph\">For AMD, meanwhile, a role in Google’s next-generation TPU program would provide another indication that its CPU and chip-design technologies are becoming relevant to the rapidly expanding custom AI accelerator market.</p>\n\n\n\n<p class=\"wp-block-paragraph\">One analyst approved of the proposed alliance. “I think it makes good sense. AMD has more than proven that they’re good at custom, high-performance, and affordable APUs, and that they are a trustworthy partner, and Google needs diversity,” said <a href=\"https://www.linkedin.com/in/jon-g-peddie-author-140237203/\">Jon Peddie</a>, president of <a href=\"https://www.jonpeddie.com/about-us/\">Jon Peddie Research</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Peddie’s referring to AMD’s custom video game silicon. More than a decade ago, the console makers wanted to get away from using their own specialized processors and switch to X86 CPU and DirectX GPU technology to be compatible with PC gaming.</p>\n\n\n\n<p class=\"wp-block-paragraph\">AMD won because Intel didn’t have a GPU and NVIDIA didn’t have a CPU. For several years, the CPU/GPU combination being used by Microsoft Xbox and Sony PlayStation was the only thing keeping AMD alive. It still dominates video game consoles with its SoC technology.</p>\n</div></div></div></div>",
     "link": "https://www.networkworld.com/article/4211138/reports-google-partnering-with-amd-for-next-gen-hybrid-tpu.html",
     "published": "Tue, 18 Aug 2026 19:15:07 +0000",
     "source": "Network World",
     "category": "شبكات",
+    "lang": "en"
+  },
+  {
+    "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+    "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus.\n\nThe chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI",
+    "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+    "published": "Thu, 20 Aug 2026 16:35:11 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+    "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally.\n\nZimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
+    "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+    "published": "Thu, 20 Aug 2026 16:08:28 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en"
+  },
+  {
+    "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+    "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.\n\nAccording to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
+    "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+    "published": "Thu, 20 Aug 2026 14:12:03 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
     "lang": "en"
   },
   {
@@ -144,12 +144,84 @@
     "lang": "en"
   },
   {
-    "title": "الحلقة الـ56",
-    "summary": "",
-    "link": "https://arabic.rt.com/prg/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D9%8056-1823281/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%AA%D8%B1%D9%88%D9%8A%D9%83%D8%A7/",
-    "published": "Thu, 20 Aug 2026 10:59:43 +0000",
+    "title": "وفد هندي كبير يشارك في منتدى الشرق الاقتصادي بفلاديفوستوك",
+    "summary": "أكد سفير الهند لدى موسكو فيناي كومار أن بلاده ستشارك بوفد رفيع المستوى في أعمال منتدى الشرق الاقتصادي لعام 2026، التي ستنطلق في فلاديفوستوك الشهر المقبل.",
+    "link": "https://arabic.rt.com/business/1823302-%D9%88%D9%81%D8%AF-%D9%87%D9%86%D8%AF%D9%8A-%D9%83%D8%A8%D9%8A%D8%B1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A8%D9%81%D9%84%D8%A7%D8%AF%D9%8A%D9%81%D9%88%D8%B3%D8%AA%D9%88%D9%83/",
+    "published": "Thu, 20 Aug 2026 11:30:04 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "وفد هندي كبير يشارك في منتدى الشرق الاقتصادي بفلاديفوستوك",
+    "summary": "أكد سفير الهند لدى موسكو فيناي كومار أن بلاده ستشارك بوفد رفيع المستوى في أعمال منتدى الشرق الاقتصادي لعام 2026، التي ستنطلق في فلاديفوستوك الشهر المقبل.",
+    "link": "https://arabic.rt.com/business/1823302-%D9%88%D9%81%D8%AF-%D9%87%D9%86%D8%AF%D9%8A-%D9%83%D8%A8%D9%8A%D8%B1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A8%D9%81%D9%84%D8%A7%D8%AF%D9%8A%D9%81%D9%88%D8%B3%D8%AA%D9%88%D9%83/",
+    "published": "Thu, 20 Aug 2026 11:30:04 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "بعدما حلقت أسعاره عاليا.. الزراعة السورية تدرس إعادة استيراد الفروج",
+    "summary": "تقوم وزارة الزراعة والإصلاح الزراعي في سوريا بإعداد دراسة لإعادة السماح باستيراد لحم الفروج مع رفع الرسوم الجمركية المفروضة عليه بهدف حماية المنتِج المحلي وتجنب حدوث فجوة في السوق.",
+    "link": "https://arabic.rt.com/business/1823275-%D8%A8%D8%B9%D8%AF%D9%85%D8%A7-%D8%AD%D9%84%D9%82%D8%AA-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1%D9%87-%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%AC/",
+    "published": "Thu, 20 Aug 2026 11:27:25 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "بعدما حلقت أسعاره عاليا.. الزراعة السورية تدرس إعادة استيراد الفروج",
+    "summary": "تقوم وزارة الزراعة والإصلاح الزراعي في سوريا بإعداد دراسة لإعادة السماح باستيراد لحم الفروج مع رفع الرسوم الجمركية المفروضة عليه بهدف حماية المنتِج المحلي وتجنب حدوث فجوة في السوق.",
+    "link": "https://arabic.rt.com/business/1823275-%D8%A8%D8%B9%D8%AF%D9%85%D8%A7-%D8%AD%D9%84%D9%82%D8%AA-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1%D9%87-%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%AC/",
+    "published": "Thu, 20 Aug 2026 11:27:25 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "بغداد لقاليباف: الدستور العراقي يمنع الجماعات المسلحة المهددة لدول الجوار",
+    "summary": "أكد مستشار الأمن القومي العراقي قاسم العبودي، خلال لقائه رئيس مجلس الشورى الإيراني محمد باقر قاليباف في بغداد، أن الدستور العراقي لا يسمح بوجود جماعات مسلحة تهدد أمن دول أخرى.",
+    "link": "https://arabic.rt.com/middle_east/1823290-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%84%D9%82%D8%A7%D9%84%D9%8A%D8%A8%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D8%AF%D8%AF%D8%A9-%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1/",
+    "published": "Thu, 20 Aug 2026 11:24:38 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
+    "summary": "تدرس اتحادات قارية لكرة القدم، هي الاتحاد الأوروبي (اليويفا)، والاتحاد الآسيوي، واتحاد أميركا الشمالية والوسطى والكاريبي (الكونكاكاف) – إمكانية طرح تصويت بحجب الثقة عن رئيس الفيفا جياني إنفانتينو.",
+    "link": "https://www.skynewsarabia.com/sport/1887162-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-122-%D8%B9%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%84%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88",
+    "published": "Thu, 20 Aug 2026 11:23:56 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar"
+  },
+  {
+    "title": "مسؤول مصري يمنع كارثة وشيكة بالصدفة",
+    "summary": "أوقف محافظ المنوفية اللواء عمرو الغريب، سيارة \"ميكروباص\" محملة بالركاب كانت تسير عكس الاتجاه، وذلك أثناء عودته من زيارة مصابي حادث \"كفر داود - البريجات\".",
+    "link": "https://arabic.rt.com/middle_east/1823296-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D9%88%D8%B4%D9%8A%D9%83%D8%A9-%D8%A8%D8%A7%D9%84%D8%B5%D8%AF%D9%81%D8%A9/",
+    "published": "Thu, 20 Aug 2026 11:23:42 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar"
+  },
+  {
+    "title": "البنك المركزي المصري يحذر المواطنين من فخ للاستيلاء على أموالهم",
+    "summary": "جدد البنك المركزي المصري تحذيراته الصارمة لجميع المواطنين من الوقوع في فخ المكالمات الاحتيالية التي تنفذها عصابات تستهدف الاستيلاء على الحسابات المصرفية والأموال.",
+    "link": "https://arabic.rt.com/business/1823294-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D9%81%D8%AE-%D9%84%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A3%D9%85%D9%88%D8%A7%D9%84%D9%87%D9%85/",
+    "published": "Thu, 20 Aug 2026 11:13:34 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar"
+  },
+  {
+    "title": "\"الروبل الرقمي لا يضيع بفقدان الهاتف\".. المركزي الروسي يوضح طريقة استعادة المحفظة الرقمية",
+    "summary": "أكدت مديرة إدارة نظام المدفوعات الوطني في المركزي الروسي ألا باكينا أن المواطنين الروس لن يفقدوا إمكانية الوصول إلى محافظهم الرقمية التي تضم الروبل الرقمي في حال فقدان هواتفهم.",
+    "link": "https://arabic.rt.com/business/1823262-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D8%A7-%D9%8A%D8%B6%D9%8A%D8%B9-%D8%A8%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D9%88%D8%B6%D8%AD-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9/",
+    "published": "Thu, 20 Aug 2026 11:12:48 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar"
   },
   {
@@ -159,33 +231,6 @@
     "published": "Thu, 20 Aug 2026 10:58:23 GMT",
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "هل يواجه منتخب مصر عقوبات؟.. \"فيفا\" يبدأ التحقيق في أحداث المباراة المونديالية أمام الأرجنتين",
-    "summary": "تلقى الاتحاد المصري لكرة القدم 3 خطابات رسمية من الاتحاد الدولي لكرة القدم \"فيفا\"، على خلفية الأحداث التي شهدتها مواجهة مصر والأرجنتين في دور الـ16 من كأس العالم 2026.",
-    "link": "https://arabic.rt.com/sport/1823228-%D9%87%D9%84-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D8%B5%D8%B1-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 10:56:12 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "الرئيس اللبناني يدعو لإلزام إسرائيل بتنفيذ \"اتفاق الإطار\" ووقف اعتداءاتها على لبنان",
-    "summary": "دعا الرئيس اللبناني جوزيف عون من الفاتيكان، اليوم الخميس، إلى إلزام إسرائيل بتنفيذ بنود صيغة \"اتفاق الإطار\" الموقعة برعاية واشنطن، ووقف اعتداءاتها على لبنان  فورا.",
-    "link": "https://arabic.rt.com/middle_east/1823276-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%A5%D9%84%D8%B2%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D9%88%D9%88%D9%82%D9%81-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86/",
-    "published": "Thu, 20 Aug 2026 10:50:25 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "بالفيديو.. ميسي يسجل أول أهدافه بعد وفاة والده",
-    "summary": "سجل الأرجنتيني ليونيل ميسي هدفه الأول منذ وفاة والده خورخي ميسي خلال تعادل إنتر ميامي مع مضيفه فيلادلفيا يونيون بنتيجة 2-2، اليوم الخميس ضمن منافسات الدوري الأمريكي لكرة القدم.",
-    "link": "https://arabic.rt.com/sport/1823178-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AC%D9%84-%D8%A3%D9%88%D9%84-%D8%A3%D9%87%D8%AF%D8%A7%D9%81%D9%87-%D8%A8%D8%B9%D8%AF-%D9%88%D9%81%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%87/",
-    "published": "Thu, 20 Aug 2026 10:49:54 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
     "lang": "ar"
   },
   {
@@ -199,7 +244,7 @@
   },
   {
     "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
-    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذر من \"صدمة المياه الباردة\".",
+    "summary": "أعلنت الشرطة البريطانية أسماء ثلاثة أفراد من عائلة بريطانية من أصول فلسطينية، لقوا حتفهم غرقاً، في حين تم إنقاذ طفلة صغيرة ونقلها إلى المستشفى، ونعى رئيس وزراء بريطانيا الضحايا وحذّر من \"صدمة المياه الباردة\".",
     "link": "https://www.bbc.com/arabic/articles/c5y3n4j4vn3o?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 20 Aug 2026 10:04:21 GMT",
     "source": "BBC عربي",
@@ -212,24 +257,6 @@
     "link": "https://www.skynewsarabia.com/business/1887144-%D8%A3%D9%88%D8%A8%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AF%D8%A8%D9%8A",
     "published": "Thu, 20 Aug 2026 09:56:36 GMT",
     "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "أرقام قياسية تعكس عمق العلاقات التجارية بين روسيا والصين",
-    "summary": "شهدت العلاقات التجارية بين روسيا والصين في الأشهر السبعة الأولى من 2026 زخما غير مسبوق تجلى في قفزات نوعية بمختلف القطاعات، حيث قفزت واردات الصين من القمح الروسي بأكثر من 240 ضعفا.",
-    "link": "https://arabic.rt.com/business/1823236-%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D9%83%D8%B3-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 09:35:22 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
-    "title": "مصر تخطط لجذب 2 مليار دولار من الصين",
-    "summary": "بحث نائب رئيس مجلس الوزراء للشؤون الاقتصادية في مصر حسين عيسى، مع وفد لشركة صينية رائدة في صناعة الألومنيوم، خطط ضخ استثمارات جديدة في السوق المصرية بقيمة تصل إلى 2 مليار دولار.",
-    "link": "https://arabic.rt.com/business/1823249-%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B7%D8%B7-%D9%84%D8%AC%D8%B0%D8%A8-2-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86/",
-    "published": "Thu, 20 Aug 2026 09:33:16 +0000",
-    "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar"
   },
@@ -288,30 +315,12 @@
     "lang": "en"
   },
   {
-    "title": "لبنان يستأنف صادراته للسعودية",
-    "summary": "شهد معبر المصنع الحدودي، احتفالا ببدء استئناف الصادرات اللبنانية إلى السعودية، بحضور وزير الأشغال فايز رسامني، الذي أكد أن هذه الخطوة تمثل مرحلة مهمة في مسيرة الاقتصاد اللبناني.",
-    "link": "https://arabic.rt.com/business/1823232-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA%D9%87-%D9%84%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D8%B5%D9%86%D8%B9-%D9%88%D8%B1%D8%B3%D8%A7%D9%85%D9%86%D9%8A-%D8%AE%D8%B7%D9%88%D8%A9-%D9%85%D9%87%D9%85%D8%A9-%D9%88%D9%86%D8%AD%D8%AA%D8%A7%D8%AC-%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/",
-    "published": "Thu, 20 Aug 2026 08:50:39 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar"
-  },
-  {
     "title": "إسرائيل تفتح باب العطاءات لمشروع استيطاني بالغ الحساسية في الضفة الغربية",
     "summary": "فتحت إسرائيل باب العطاءات لبناء نحو 1,200 وحدة استيطانية في جزء ذي أهمية إستراتيجية من الضفة الغربية المحتلة، في وقت تسعى خلاله حكومة نتنياهو إلى إنهاء أي فرصة لإقامة دولة فلسطينية.",
     "link": "https://www.bbc.com/arabic/articles/cvgx03d488yo?at_medium=RSS&at_campaign=rss",
     "published": "Thu, 20 Aug 2026 08:35:23 GMT",
     "source": "BBC عربي",
     "category": "عالم",
-    "lang": "ar"
-  },
-  {
-    "title": "سوريا.. خطط متسارعة لزيادة إنتاج النفط والغاز",
-    "summary": "استعاد قطاع النفط والغاز خلال النصف الأول من هذا العام جزءا من دوره في دعم الاقتصاد السوري وتعزيز أمن الطاقة، من خلال زيادة الإنتاج وتطوير البنية التحتية.",
-    "link": "https://arabic.rt.com/business/1823210-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%85%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%88%D8%A7%D9%84%D8%BA%D8%A7%D8%B2/",
-    "published": "Thu, 20 Aug 2026 08:05:01 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
     "lang": "ar"
   },
   {
@@ -340,15 +349,6 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar"
-  },
-  {
-    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-    "summary": "Cybersecurity researchers have disclosed details of a&nbsp;remote Spectre attack&nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021.\n\nThe end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-    "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-    "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en"
   },
   {
     "title": "Why 6 GHz Wi-Fi will make or break the modern enterprise",
