@@ -1,5 +1,35 @@
 [
   {
+    "title": "Calling on Cyber Pros to Help Defend City Hall",
+    "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+    "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+    "published": "Fri, 21 Aug 2026 14:00:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787261621
+  },
+  {
+    "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+    "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
+    "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+    "published": "Thu, 20 Aug 2026 20:42:18 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787261621
+  },
+  {
+    "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+    "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
+    "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+    "published": "Thu, 20 Aug 2026 19:11:15 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787261621
+  },
+  {
     "title": "N-able Bug Exposes Password Vault Master Keys",
     "summary": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
     "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
@@ -7,37 +37,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
-    "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-    "published": "Thu, 20 Aug 2026 17:32:51 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-    "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-    "published": "Thu, 20 Aug 2026 14:59:22 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-    "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-    "published": "Thu, 20 Aug 2026 13:30:00 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "Hackers poison arrayref Rust crate to push infostealer malware",
@@ -47,7 +47,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
@@ -57,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "How MSPs can catch phishing attacks email filters miss",
@@ -67,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -77,7 +77,27 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
+  },
+  {
+    "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+    "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S.\n\nThese clusters include UNC6293, UNC7005, and UNC5976.\n\n\"These clusters engage in persistent, adaptive",
+    "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+    "published": "Fri, 21 Aug 2026 01:29:19 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787261621
+  },
+  {
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+    "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.\n\nNothing here needs",
+    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+    "published": "Thu, 20 Aug 2026 22:53:48 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787261621
   },
   {
     "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -87,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
@@ -97,27 +117,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-    "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment.\n\nThe vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
-    "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-    "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-    "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
-    "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-    "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "مباراة الأرجنتين.. الاتحاد المصري يرد على فيفا بشأن حسام حسن",
@@ -127,7 +127,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
@@ -137,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
@@ -147,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
@@ -157,7 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "\"باركن\" الإماراتية تستكشف إدارة المواقف والتنقل الذكي بمصر",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "رويترز: قطاعات جديدة تعيد رسم خريطة النفوذ في واشنطن",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "أسواق التنبؤ تضاعف مخاطر الاستطلاعات المزيفة",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
@@ -197,47 +197,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "وقف التبادل التجاري والمالي مع إيران.. ما دوافع القرار الإماراتي؟",
-    "summary": "أعلنت الإمارات قطع التبادل التجاري والمالي مع إيران، بالتزامن مع حملة أمريكية جديدة للضغط الاقتصادي على طهران، وبعد نحو ستة أشهر من اندلاع الحرب في الشرق الأوسط.",
-    "link": "https://arabic.rt.com/business/1823467-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A7-%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A/",
-    "published": "Thu, 20 Aug 2026 18:48:31 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "تونس.. إضراب مفاجئ لسائقي صهاريج المحروقات يعطل توزيع الوقود (فيديو)",
-    "summary": "قالت مراسلة RT في تونس إن العديد من شوارع وطرقات العاصمة شهدت يوم الخميس اختناقا بعد توافد أعداد كبيرة من السيارات على محطات الوقود بسبب إضراب مفاجئ لسائقي صهاريج المحروقات.",
-    "link": "https://arabic.rt.com/business/1823449-%D8%AA%D9%88%D9%86%D8%B3-%D8%A5%D8%B6%D8%B1%D8%A7%D8%A8-%D9%85%D9%81%D8%A7%D8%AC%D8%A6-%D9%8A%D8%B9%D8%B7%D9%84-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%AF-%D9%88%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D9%88%D9%81/",
-    "published": "Thu, 20 Aug 2026 17:38:55 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "مؤسس \"فيسبوك\" يوسع استثماراته العقارية باقتنائه قصرا إيرلنديا",
-    "summary": "حصل مارك زوكربيرغ، مؤسس \"فيسبوك\" ورئيس مجموعة \"ميتا\"، على ملكية قصر تاريخي بإيرلندا، في صفقة عقارية جديدة، من دون الكشف عن قيمتها.",
-    "link": "https://arabic.rt.com/business/1823446-%D9%85%D8%A4%D8%B3%D8%B3-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%8A%D9%88%D8%B3%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%A7%D9%82%D8%AA%D9%86%D8%A7%D8%A6%D9%87-%D9%82%D8%B5%D8%B1%D8%A7-%D8%A5%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D9%8A%D8%A7/",
-    "published": "Thu, 20 Aug 2026 17:26:31 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787251752
-  },
-  {
-    "title": "صادرات النفط السعودية تنتعش في يونيو مع زيادة الإنتاج",
-    "summary": "أظهرت بيانات مبادرة البيانات المشتركة \"جودي\"، الخميس، ارتفاع صادرات  النفط الخام السعودية في يونيو إلى 3.993 مليون برميل يوميا، مقارنة مع 3.434 مليون برميل يوميا في مايو.",
-    "link": "https://arabic.rt.com/business/1823423-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%86%D8%AA%D8%B9%D8%B4-%D9%81%D9%8A-%D9%8A%D9%88%D9%86%D9%8A%D9%88-%D9%85%D8%B9-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC/",
-    "published": "Thu, 20 Aug 2026 17:05:31 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "70 ساعة عمل.. مغاربة في قبضة \"مافيا الحقول\" الإيطالية",
@@ -247,17 +207,17 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
-    "title": "مصر.. خلاف عمل بمشروع \"القطار السريع\" يتحول إلى جريمة قتل",
-    "summary": "شهد طريق أسيوط الغربي بمحافظة الفيوم في مصر، واقعة إطلاق نار داخل موقع أعمال \"محطة العياط\" التابعة لمشروع القطار السريع الجديد، إذ تحول الخلاف في العمل ومحاولة بعض العمال مغادرة الموقع بعد مشاجرة مع أحد حراسه إلى جريمة قتل.",
-    "link": "https://www.skynewsarabia.com/varieties/1887196-%D9%85%D8%B5%D8%B1-%D8%AE%D9%84%D8%A7%D9%81-%D8%B9%D9%85%D9%84-%D8%A8%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%AC%D8%B1%D9%8A%D9%85%D8%A9-%D9%82%D8%AA%D9%84",
+    "title": "مفاجآت تفجر الجدل بشأن \"مجزرة الشوش\" في سوهاج",
+    "summary": "بعد حديث محامي الدفاع عن المتهم بقتل زوجته وشخصين آخرين في قرية الشوش بمحافظة سوهاج، في القضية المعروفة إعلاميا بـ\"جريمة الشرف\"، عن عدم وجود مقاطع فيديو أو صور توثق خيانة الزوجة، تفجر الجدل في مصر بشأن ما إذا كانت المجزرة جريمة شرف بالفعل.",
+    "link": "https://www.skynewsarabia.com/varieties/1887196-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%AA%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D8%B4-%D8%B3%D9%88%D9%87%D8%A7%D8%AC",
     "published": "Thu, 20 Aug 2026 16:38:19 GMT",
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "النظارات الذكية.. هواجس الخصوصية والقرصنة في دور السينما",
@@ -267,7 +227,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "بعد تقارير عن اعتناقه الإسلام.. روبرتو كارلوس يحسم الجدل",
@@ -277,17 +237,17 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "طهران تندد بـ \"الإرهاب الاقتصادي\"، تزامناً مع وصول حاملة الطائرات جورج واشنطن إلى الشرق الأوسط",
     "summary": "صعّدت واشنطن حملتها ضد طهران بعقوبات غير مسبوقة وتعزيزات عسكرية شملت نشر حاملة طائرات جديدة، لترد الأخيرة بوصف الإجراءات بـ \"الإرهاب الاقتصادي\" مع تلويح برلماني بالانسحاب من معاهدة حظر الانتشار النووي.",
     "link": "https://www.bbc.com/arabic/articles/crmrg2xg1yeo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 20 Aug 2026 18:31:00 GMT",
+    "published": "Thu, 20 Aug 2026 21:30:21 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "تونس تواجه أزمة \"المياه المعدنية\"، والجزائر تنفي إرسال مياه نحو جارتها الشرقية",
@@ -297,7 +257,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "المدرب المغربي بادو الزاكي يعمل لوصول الأردن لنصف نهائي كأس آسيا 2027، فمن هو الزاكي؟",
@@ -307,7 +267,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
     "title": "لماذا أثار استهداف قاعدة أبو الظهور توتراً بين إسرائيل وتركيا؟",
@@ -317,46 +277,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
-    "title": "4 دول أوربية تدعو إسرائيل إلى التراجع فورا عن خطط الاستيطان في E-1",
-    "summary": "قالت ألمانيا وبريطانيا وإيطاليا وفرنسا، في بيان، إن  قرار إسرائيل بطرح مناقصة لبناء منازل للمستوطنين في منطقة \"E-1\" قرب القدس بأنه أمر \"غير مقبول\".",
-    "link": "https://arabic.rt.com/middle_east/1823469-4-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AF%D8%B9%D9%88-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%81%D9%88%D8%B1%D8%A7-%D8%B9%D9%86-%D8%AE%D8%B7%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86-%D9%81%D9%8A-e-1/",
-    "published": "Thu, 20 Aug 2026 18:35:59 +0000",
+    "title": "ناسا تعلن خسارتها في معركة إنقاذ تلسكوب \"سويفت\".. واحتراق مدمر ينتظره قبل نهاية العام",
+    "summary": "أعلنت وكالة ناسا إلغاء مهمة إنقاذ تلسكوبها الفضائي \"سويفت\" بعد تعطل المركبة المكلفة بالإنقاذ، ليكتب له مصير الاحتراق أثناء دخوله الغلاف الجوي للأرض قبل نهاية العام الجاري.",
+    "link": "https://arabic.rt.com/space/1823218-%D9%86%D8%A7%D8%B3%D8%A7-%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%AA%D9%84%D8%B3%D9%83%D9%88%D8%A8-%D8%B3%D9%88%D9%8A%D9%81%D8%AA-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%82-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85/",
+    "published": "Thu, 20 Aug 2026 21:31:22 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
-    "title": "زيلينسكي: نقص التمويل أكبر تحد يواجه أوكرانيا وسط ارتفاع تكلفة الحرب",
-    "summary": "أعلن فلاديمير زيلينسكي خلال تقديمه وزير الدفاع الجديد يفغيني خمارا أن نقص تمويل القوات الأوكرانية أصبح التحدي الأكبر الذي تواجهه البلاد، مشتكيا من \"ارتفاع تكلفة الحرب\".",
-    "link": "https://arabic.rt.com/world/1823466-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%AD%D8%AF-%D9%8A%D9%88%D8%A7%D8%AC%D9%87-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%B3%D8%B7-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%AA%D9%83%D9%84%D9%81%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8/",
-    "published": "Thu, 20 Aug 2026 18:34:02 +0000",
+    "title": "حتى الرسوم المتحركة لم تسلم من زيلينسكي.. عقوبات أوكرانية ضد منتجي مسلسل \"ماشا والدب\"",
+    "summary": "فرض رأس النظام الأوكراني فلاديمير زيلينسكي، في مرسوم أصدره، عقوبات على منتجي مسلسل الرسوم المتحركة الروسي الشهير \"ماشا والدب\".",
+    "link": "https://arabic.rt.com/world/1823512-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%B1%D9%83%D8%A9-%D9%84%D9%85-%D8%AA%D8%B3%D9%84%D9%85-%D9%85%D9%86-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%B6%D8%AF-%D9%85%D9%86%D8%AA%D8%AC%D9%8A-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D9%85%D8%A7%D8%B4%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D8%A8/",
+    "published": "Thu, 20 Aug 2026 21:26:35 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
-    "title": "لاعب عراقي ينسحب من بطولة العالم للفنون القتالية رفضا لمواجهة لاعب إسرائيلي",
-    "summary": "أعلن اللاعب العراقي في الفنون القتالية المختلطة، ضاري العبيدي، اليوم الخميس، انسحابه رسميا من منافسات بطولة العالم، وذلك بعد أن أوقعته القرعة في مواجهة لاعب يمثل إسرائيل.",
-    "link": "https://arabic.rt.com/sport/1823468-%D9%84%D8%A7%D8%B9%D8%A8-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D9%86%D8%B3%D8%AD%D8%A8-%D9%85%D9%86-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%84%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84%D9%8A%D8%A9-%D8%B1%D9%81%D8%B6%D8%A7-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A/",
-    "published": "Thu, 20 Aug 2026 18:32:12 +0000",
+    "title": "روسيا.. أطباء يجرون عملية جراحية لامرأة مصابة بمتلازمة ماي-ترنر النادرة",
+    "summary": "أعلنت وزارة الصحة في إقليم بريموري الروسي أن أطباء المنطقة أجروا لأول مرة عملية جراحية لمريضة تعاني من متلازمة ماي-ترنر النادرة.",
+    "link": "https://arabic.rt.com/health/1823207-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AD%D9%8A%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%85%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9-%D9%85%D8%A7%D9%8A-%D8%AA%D8%B1%D9%86%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D8%B1%D8%A9/",
+    "published": "Thu, 20 Aug 2026 21:26:12 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   },
   {
-    "title": "روسيا.. ابتكار كبسولة ذكية لعلاج السرطان",
-    "summary": "ابتكر علماء جامعة ساراتوف الوطنية للبحوث في روسيا كبسولة ذكية لتدمير الخلايا السرطانية بمساعدة الليزر.",
-    "link": "https://arabic.rt.com/technology/1823146-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7%D8%A7%D8%A8%D8%AA%D9%83%D8%B1-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9-%D8%B0%D9%83%D9%8A%D8%A9-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86/",
-    "published": "Thu, 20 Aug 2026 18:17:57 +0000",
+    "title": "أدوية شائعة لخفض ضغط الدم ترتبط بمضاعفات كلوية خطيرة",
+    "summary": "حذر خبراء من احتمال ارتباط بعض أدوية خفض ضغط الدم بزيادة خطر الإصابة بمضاعفات كلوية خطيرة، خصوصا لدى مرضى السكري النوع الثاني.",
+    "link": "https://arabic.rt.com/health/1823269-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D8%AE%D9%81%D8%B6-%D8%B6%D8%BA%D8%B7-%D8%A7%D9%84%D8%AF%D9%85-%D8%A8%D9%85%D8%B6%D8%A7%D8%B9%D9%81%D8%A7%D8%AA-%D9%83%D9%84%D9%88%D9%8A%D8%A9-%D8%AE%D8%B7%D9%8A%D8%B1%D8%A9/",
+    "published": "Thu, 20 Aug 2026 21:25:38 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787251752
+    "fetched_at": 1787261621
   }
 ]
