@@ -7,7 +7,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
@@ -17,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "Agentic AI Presents New Insider Threat Model for Orgs",
@@ -27,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
@@ -37,7 +37,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "How MSPs can catch phishing attacks email filters miss",
@@ -47,7 +47,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -57,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
@@ -67,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "New Manic Android malware can exfiltrate data through nearby devices",
@@ -77,7 +77,37 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
+  },
+  {
+    "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+    "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment.\n\nThe vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+    "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+    "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787235751
+  },
+  {
+    "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+    "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.\n\nAccording to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+    "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+    "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787235751
+  },
+  {
+    "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+    "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).\n\nThe vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution.\n\n\"A remote code execution vulnerability exists in Zimbra",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+    "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787235751
   },
   {
     "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
@@ -87,37 +117,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787234925
-  },
-  {
-    "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-    "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&nbsp;\n\nThe incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
-    "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-    "published": "Thu, 20 Aug 2026 17:15:00 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787234925
-  },
-  {
-    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-    "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server.\n\nThe attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
-    "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-    "published": "Thu, 20 Aug 2026 17:09:35 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787234925
-  },
-  {
-    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-    "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications.\n\n\"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
-    "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-    "published": "Thu, 20 Aug 2026 16:56:08 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
@@ -127,7 +127,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
@@ -137,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
@@ -147,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
@@ -157,7 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "\"باركن\" الإماراتية تستكشف إدارة المواقف والتنقل الذكي بمصر",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "رويترز: قطاعات جديدة تعيد رسم خريطة النفوذ في واشنطن",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "أسواق التنبؤ تضاعف مخاطر الاستطلاعات المزيفة",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
@@ -197,7 +197,17 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
+  },
+  {
+    "title": "بوتين يعلن عن خطة لإضافة نحو 30 غيغاواط من القدرات الكهربائية النووية في روسيا",
+    "summary": "أعلن الرئيس الروسي فلاديمير بوتين، اليوم الخميس، عن خطة طموحة لإدخال نحو 30 غيغاواط إضافية من القدرات الذرية الكهربائية في روسيا، تشمل محطات نووية محدودة السعة.",
+    "link": "https://arabic.rt.com/business/1823344-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AE%D8%B7%D8%A9-%D9%84%D8%A5%D8%AF%D8%AE%D8%A7%D9%84-%D9%86%D8%AD%D9%88-30-%D8%BA%D9%8A%D8%BA%D8%A7%D9%88%D8%A7%D8%B7-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7/",
+    "published": "Thu, 20 Aug 2026 14:10:19 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787235751
   },
   {
     "title": "تراجع طلبات إعانة البطالة في الولايات المتحدة الأسبوع الماضي",
@@ -207,7 +217,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "المصريون يحولون أموالا بالدولارات من الخارج بشكل غير مسبوق",
@@ -217,7 +227,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "بمناسبة الذكرى الـ81 لتأسيس قطاع الطاقة الذرية الروسي.. أبرز مشاريع \"روساتوم\" الدولية",
@@ -227,17 +237,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
-    "title": "\"روساتوم\" تواصل بناء وحدات جديدة في محطة بوشهر الإيرانية",
-    "summary": "أعلن مدير مؤسسة \"روساتوم\" الروسية للطاقة الذرية أليكسي ليخاتشوف أن المؤسسة تواصل بناء وحدات توليد جديدة في محطة بوشهر للطاقة النووية في إيران.",
-    "link": "https://arabic.rt.com/business/1823322-%D8%B1%D9%88%D8%B3%D8%A7%D8%AA%D9%88%D9%85-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D9%88%D8%AD%D8%AF%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%AD%D8%B7%D8%A9-%D8%A8%D9%88%D8%B4%D9%87%D8%B1-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/",
-    "published": "Thu, 20 Aug 2026 13:29:13 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
+    "title": "\"يوتيوب\" و\"نتفلكس\".. صراع على صناع المحتوى",
+    "summary": "يعرض موقع \"يوتيوب\" على صناع المحتوى المشهورين فرصة للحصول على أموال تقدر ملايين الدولارات، مقابل التزامهم بنشر محتواهم حصريا على منصته، في تصعيد لمنافسته مع \"نتفلكس\" على استقطاب بعضٍ من ألمع نجوم الإنترنت.",
+    "link": "https://www.skynewsarabia.com/varieties/1887183-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%88-%D9%86%D8%AA%D9%81%D9%84%D9%83%D8%B3-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%B5%D9%86%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89",
+    "published": "Thu, 20 Aug 2026 14:15:16 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "أعداد كبيرة لوفيات موجة الحر في إسبانيا وألمانيا",
@@ -247,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "توضيح من \"روبلوكس\" بعد تقارير عن ثغرات \"تهدد سلامة الأطفال\"",
@@ -257,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "\"اكتشف أنه ميت\" صدفة.. الداخلية المصرية تفسر الواقعة الغريبة",
@@ -267,17 +277,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787234925
-  },
-  {
-    "title": "اختبار يكشف ثغرة \"روبلوكس\".. هكذا يصل البالغون إلى الأطفال",
-    "summary": "كشفت اختبارات أجرتها هيئة السلامة الإلكترونية في أستراليا، ثغرات تسمح لمستخدمين بالغين برؤية حسابات أطفال والتواصل معهم عبر منصة الألعاب الشهيرة \"روبلوكس\"، رغم تطبيق الشركة إجراءات قالت إنها تمنع اتصال الغرباء بالصغار.",
-    "link": "https://www.skynewsarabia.com/varieties/1887068-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D8%BA%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84",
-    "published": "Thu, 20 Aug 2026 04:15:58 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
@@ -287,7 +287,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "نحو شراكة بريطانية أوكرانية لإنتاج المسيّرات رغم التهديد الروسي - مقال في الإندبندنت",
@@ -297,7 +297,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
@@ -307,7 +307,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "الأمير هاري وميغان يعودان إلى المملكة المتحدة هذا الشهر",
@@ -317,7 +317,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
+  },
+  {
+    "title": "زاخاروفا: الغرب يريد أوكرانيا \"رأس حربة\" لتهديد روسيا",
+    "summary": "قالت المتحدثة باسم وزارة الخارجية الروسية، ماريا زاخاروفا، إن الغرب لا ينظر إلى أوكرانيا كدولة مستقلة، بل يتخذ منها \"رأس حربة\" لتوجيه التهديدات لروسيا.",
+    "link": "https://arabic.rt.com/world/1823372-%D8%B2%D8%A7%D8%AE%D8%A7%D8%B1%D9%88%D9%81%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B1%D9%8A%D8%AF-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B1%D8%A3%D8%B3-%D8%AD%D8%B1%D8%A8%D8%A9-%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7/",
+    "published": "Thu, 20 Aug 2026 14:20:13 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787235751
   },
   {
     "title": "منظمة الصحة العالمية ترسل 70 ألف جرعة من لقاح إيبولا إلى الكونغو الديمقراطية",
@@ -327,7 +337,7 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "فيديو مسرب لسماعات \"آبل\" الجديدة يثير موجة غضب وجدلا أخلاقيا",
@@ -337,7 +347,7 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   },
   {
     "title": "نجا من الإعدام 8 مرات.. وفاة أكبر سجين في الولايات المتحدة (صور)",
@@ -347,16 +357,6 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787234925
-  },
-  {
-    "title": "عالم روسي يشرح آلية عمل الدواء الجديد لعلاج سرطان الثدي",
-    "summary": "أوضح المدير العلمي لمركز \"غاماليا\" الوطني للبحوث في الأوبئة والأحياء الدقيقة التابع لوزارة الصحة الروسية، ألكسندر غينسبورغ مبدأ عمل الدواء الجديد المضاد لسرطان الثدي.",
-    "link": "https://arabic.rt.com/health/1823282-%D8%B9%D8%A7%D9%84%D9%85-%D8%B1%D9%88%D8%B3%D9%8A-%D8%A2%D9%84%D9%8A%D8%A9-%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B9%D9%84%D8%A7%D8%AC-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%AB%D8%AF%D9%8A/",
-    "published": "Thu, 20 Aug 2026 13:49:15 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787234925
+    "fetched_at": 1787235751
   }
 ]
