@@ -7,7 +7,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
+  },
+  {
+    "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+    "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+    "published": "Thu, 20 Aug 2026 04:15:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787237163
   },
   {
     "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
@@ -17,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Agentic AI Presents New Insider Threat Model for Orgs",
@@ -27,17 +37,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
-    "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-    "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
-    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-    "published": "Wed, 19 Aug 2026 16:58:23 GMT",
-    "source": "Dark Reading",
+    "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+    "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "How MSPs can catch phishing attacks email filters miss",
@@ -47,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -57,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
@@ -67,17 +77,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
-  },
-  {
-    "title": "New Manic Android malware can exfiltrate data through nearby devices",
-    "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-    "published": "Thu, 20 Aug 2026 06:02:02 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
@@ -87,7 +87,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
@@ -97,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
@@ -107,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
@@ -117,7 +117,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
@@ -127,7 +127,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
@@ -137,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "بعد 15 عاما من التألق.. ملكة السلة الأميركية تودع الملاعب",
@@ -147,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "توقيف نجم التنس نيك كيريوس بعد ثبوت تعاطيه الكوكايين",
@@ -157,7 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "\"باركن\" الإماراتية تستكشف إدارة المواقف والتنقل الذكي بمصر",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "رويترز: قطاعات جديدة تعيد رسم خريطة النفوذ في واشنطن",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "أسواق التنبؤ تضاعف مخاطر الاستطلاعات المزيفة",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "روسيا تعزز صدارتها لموردي النفط إلى الصين في يوليو",
@@ -197,7 +197,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "بوتين يعلن عن خطة لإضافة نحو 30 غيغاواط من القدرات الكهربائية النووية في روسيا",
@@ -207,7 +207,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "تراجع طلبات إعانة البطالة في الولايات المتحدة الأسبوع الماضي",
@@ -217,7 +217,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "المصريون يحولون أموالا بالدولارات من الخارج بشكل غير مسبوق",
@@ -227,7 +227,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "بمناسبة الذكرى الـ81 لتأسيس قطاع الطاقة الذرية الروسي.. أبرز مشاريع \"روساتوم\" الدولية",
@@ -237,17 +237,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "\"يوتيوب\" و\"نتفلكس\".. صراع على صناع المحتوى",
-    "summary": "يعرض موقع \"يوتيوب\" على صناع المحتوى المشهورين فرصة للحصول على أموال تقدر ملايين الدولارات، مقابل التزامهم بنشر محتواهم حصريا على منصته، في تصعيد لمنافسته مع \"نتفلكس\" على استقطاب بعضٍ من ألمع نجوم الإنترنت.",
+    "summary": "يعرض موقع \"يوتيوب\" على صناع المحتوى المشهورين فرصة للحصول على أموال تقدر بملايين الدولارات، مقابل التزامهم بنشر محتواهم حصريا على منصته، في تصعيد لمنافسته مع \"نتفلكس\" على استقطاب بعضٍ من ألمع نجوم الإنترنت.",
     "link": "https://www.skynewsarabia.com/varieties/1887183-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%88-%D9%86%D8%AA%D9%81%D9%84%D9%83%D8%B3-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%B5%D9%86%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89",
     "published": "Thu, 20 Aug 2026 14:15:16 GMT",
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "أعداد كبيرة لوفيات موجة الحر في إسبانيا وألمانيا",
@@ -257,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "توضيح من \"روبلوكس\" بعد تقارير عن ثغرات \"تهدد سلامة الأطفال\"",
@@ -267,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "\"اكتشف أنه ميت\" صدفة.. الداخلية المصرية تفسر الواقعة الغريبة",
@@ -277,7 +277,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "ترامب يعلن عن \"العملية الاقتصادية الأكثر سحقاً\" ضد إيران، وطهران تصفها بالـ \"سياسات الفاشلة\"",
@@ -287,7 +287,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "نحو شراكة بريطانية أوكرانية لإنتاج المسيّرات رغم التهديد الروسي - مقال في الإندبندنت",
@@ -297,7 +297,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "صدمة في المملكة المتحدة بعد مأساة غرق عائلة فلسطينية-بريطانية في شوريهام، فما القصة؟",
@@ -307,7 +307,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
     "title": "الأمير هاري وميغان يعودان إلى المملكة المتحدة هذا الشهر",
@@ -317,46 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
-    "title": "زاخاروفا: الغرب يريد أوكرانيا \"رأس حربة\" لتهديد روسيا",
-    "summary": "قالت المتحدثة باسم وزارة الخارجية الروسية، ماريا زاخاروفا، إن الغرب لا ينظر إلى أوكرانيا كدولة مستقلة، بل يتخذ منها \"رأس حربة\" لتوجيه التهديدات لروسيا.",
-    "link": "https://arabic.rt.com/world/1823372-%D8%B2%D8%A7%D8%AE%D8%A7%D8%B1%D9%88%D9%81%D8%A7-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D9%8A%D8%B1%D9%8A%D8%AF-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B1%D8%A3%D8%B3-%D8%AD%D8%B1%D8%A8%D8%A9-%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7/",
-    "published": "Thu, 20 Aug 2026 14:20:13 +0000",
+    "title": "الحوثيون يعلنون قصف أهداف في مطار نجران وأرامكو السعودية",
+    "summary": "أعلن الحوثيون، يوم الخميس، عن تنفيذ عمليتين عسكريتين بطائرتين مسيرتين استهدفتا موقعا حساسا في المملكة العربية السعودية.",
+    "link": "https://arabic.rt.com/middle_east/1823382-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%88%D9%86-%D9%8A%D8%B9%D9%84%D9%86%D9%88%D9%86-%D9%82%D8%B5%D9%81-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D9%85%D8%B7%D8%A7%D8%B1-%D9%86%D8%AC%D8%B1%D8%A7%D9%86-%D9%88%D8%A3%D8%B1%D8%A7%D9%85%D9%83%D9%88-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/",
+    "published": "Thu, 20 Aug 2026 14:45:53 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
-    "title": "منظمة الصحة العالمية ترسل 70 ألف جرعة من لقاح إيبولا إلى الكونغو الديمقراطية",
-    "summary": "أعلنت منظمة الصحة العالمية إرسال 70 ألف جرعة من لقاح إرفيبو المضاد لفيروس إيبولا إلى جمهورية الكونغو الديمقراطية، لحماية العاملين في المجال الصحي وإجراء تجارب سريرية.",
-    "link": "https://arabic.rt.com/health/1823350-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B1%D8%B3%D9%84-70-%D8%A3%D9%84%D9%81-%D8%AC%D8%B1%D8%B9%D8%A9-%D9%85%D9%86-%D9%84%D9%82%D8%A7%D8%AD-%D8%A5%D9%8A%D8%A8%D9%88%D9%84%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9/",
-    "published": "Thu, 20 Aug 2026 14:00:21 +0000",
+    "title": "حقنة أسبوعية قد تنهي عناء الأنسولين اليومي لمرضى السكري",
+    "summary": "أظهرت تجارب حديثة فعالية حقنة أنسولين تؤخذ مرة واحدة أسبوعيا لمرضى السكري من النوع الثاني، ما قد يخفف عنهم عبء الحقن اليومية ويسهل عملية ضبط مستويات السكر في الدم.",
+    "link": "https://arabic.rt.com/health/1823209-%D8%AD%D9%82%D9%86%D8%A9-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D8%B9%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%86%D8%B3%D9%88%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A-%D9%84%D9%85%D8%B1%D8%B6%D9%89-%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A/",
+    "published": "Thu, 20 Aug 2026 14:42:27 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
-    "title": "فيديو مسرب لسماعات \"آبل\" الجديدة يثير موجة غضب وجدلا أخلاقيا",
-    "summary": "في تسريب غير متوقع، كشفت \"آبل\" بالخطأ عن منتجها الجديد الذي لم يعلن عنه رسميا بعد، وهو سماعات \"آيربودز\" (AirPods) مزودة بكاميرات صغيرة.",
-    "link": "https://arabic.rt.com/it/1823238-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D8%B3%D8%B1%D8%A8-%D9%84%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%A8%D9%84-%D8%BA%D8%B6%D8%A8-%D8%AC%D8%AF%D9%84%D8%A7-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A%D8%A7/",
-    "published": "Thu, 20 Aug 2026 13:58:58 +0000",
+    "title": "موسكو تطالب طوكيو بوقف \"تزييف\" تاريخ الحرب العالمية الثانية والاعتراف الكامل بنتائجها",
+    "summary": "دعت موسكو طوكيو إلى الكف عن محاولات تلميع تاريخها وتزييف حقائق الحرب العالمية الثانية والاعتراف الكامل بنتائجها، وذلك على لسان المتحدثة باسم وزارة الخارجية الروسية، ماريا زاخاروفا.",
+    "link": "https://arabic.rt.com/world/1823381-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%B7%D9%88%D9%83%D9%8A%D9%88-%D8%A8%D9%88%D9%82%D9%81-%D8%AA%D8%B2%D9%8A%D9%8A%D9%81-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84-%D8%A8%D9%86%D8%AA%D8%A7%D8%A6%D8%AC%D9%87%D8%A7/",
+    "published": "Thu, 20 Aug 2026 14:40:50 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   },
   {
-    "title": "نجا من الإعدام 8 مرات.. وفاة أكبر سجين في الولايات المتحدة (صور)",
-    "summary": "أفادت قناة \"بي بي سي\" بوفاة فرانسيس سميث، سجين الأكبر عمرا في الولايات المتحدة، والذي نجا من عقوبة الإعدام 8 مرات، عن عمر يناهز 101 عاما.",
-    "link": "https://arabic.rt.com/funny/1823362-%D9%86%D8%AC%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-8-%D9%85%D8%B1%D8%A7%D8%AA-%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D8%B3%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B5%D9%88%D8%B1/",
-    "published": "Thu, 20 Aug 2026 13:56:55 +0000",
+    "title": "سائح سويسري يهين تقليدا مقدسا عند الهندوس ويفجر غضبا واسعا قاده إلى خلف القضبان",
+    "summary": "قضت محكمة في جزيرة بالي الإندونيسية، اليوم الخميس، بسجن سائح سويسري لمدة عام، بعد إدانته بإهانة شعيرة هندوسية مقدسة خلال زيارته للجزيرة.",
+    "link": "https://arabic.rt.com/society/1823378-%D8%B3%D8%A7%D8%A6%D8%AD-%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A-%D9%8A%D9%87%D9%8A%D9%86-%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D8%A7-%D9%85%D9%82%D8%AF%D8%B3%D8%A7-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%88%D8%B3-%D9%88%D9%8A%D9%81%D8%AC%D8%B1-%D8%BA%D8%B6%D8%A8%D8%A7-%D9%88%D8%A7%D8%B3%D8%B9%D8%A7-%D9%82%D8%A7%D8%AF%D9%87-%D8%A5%D9%84%D9%89-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%82%D8%B6%D8%A8%D8%A7%D9%86/",
+    "published": "Thu, 20 Aug 2026 14:37:35 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787235751
+    "fetched_at": 1787237163
   }
 ]
