@@ -7,7 +7,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
@@ -17,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
@@ -27,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "N-able Bug Exposes Password Vault Master Keys",
@@ -37,7 +37,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "Hackers poison arrayref Rust crate to push infostealer malware",
@@ -47,7 +47,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
@@ -57,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "How MSPs can catch phishing attacks email filters miss",
@@ -67,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -77,7 +77,17 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
+  },
+  {
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
+    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "published": "Fri, 21 Aug 2026 12:34:25 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787305375
   },
   {
     "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -87,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
@@ -97,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
@@ -107,17 +117,17 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-    "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.\n\nSigned drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage.\n\nNothing here needs",
-    "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-    "published": "Thu, 20 Aug 2026 22:53:48 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787295388
+    "title": "بايرن يكشف تطورات \"مرض موسيالا\".. وأول تعليق من المدرب",
+    "summary": "تأكد غياب جمال موسيالا مهاجم بايرن ميونيخ عن مواجهة بوروسيا دورتموند في كأس السوبر الألماني، السبت، بسبب آثار جانبية ظهرت عقب تغيير علاجه من نوبات غياب الوعي.",
+    "link": "https://www.skynewsarabia.com/sport/1887291-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B6-%D9%85%D9%88%D8%B3%D9%8A%D8%A7%D9%84%D8%A7-%D9%88%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8",
+    "published": "Fri, 21 Aug 2026 09:29:28 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787305375
   },
   {
     "title": "الساحر يعود في الـ46.. رونالدينيو يطارد الهدف 300",
@@ -127,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "مباراة الأرجنتين.. الاتحاد المصري يرد على فيفا بشأن حسام حسن",
@@ -137,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "مرموش يقترب من وجهته الجديدة.. بعيدا عن \"السيتي\"",
@@ -147,17 +157,37 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "لأول مرة منذ 122 عاما.. تصويت تاريخي لحجب الثقة عن إنفانتينو",
-    "summary": "تدرس اتحادات قارية لكرة القدم، هي الاتحاد الأوروبي (اليويفا)، والاتحاد الآسيوي، واتحاد أميركا الشمالية والوسطى والكاريبي (الكونكاكاف) – إمكانية طرح تصويت بحجب الثقة عن رئيس الفيفا جياني إنفانتينو.",
-    "link": "https://www.skynewsarabia.com/sport/1887162-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-122-%D8%B9%D8%A7%D9%85%D8%A7-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%84%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%AB%D9%82%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88",
-    "published": "Thu, 20 Aug 2026 11:23:56 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
+    "title": "وول ستريت تشكك في \"وصفة\" بيسنت لإنقاذ السندات",
+    "summary": "أرسلت الأسواق المالية في وول ستريت رسالة واضحة مفادها أن مقترح وزير الخزانة الأميركي سكوت بيسنت لإعادة شراء السندات الحكومية لن يكون كافياً لمعالجة المشكلة المتفاقمة التي تواجه الحكومة الفيدرالية فيما يتعلق بارتفاع تكاليف الاقتراض.",
+    "link": "https://www.skynewsarabia.com/business/1887283-%D9%88%D9%88%D9%84-%D8%B3%D8%AA%D8%B1%D9%8A%D8%AA-%D8%AA%D8%B4%D9%83%D9%83-%D9%88%D8%B5%D9%81%D8%A9-%D8%A8%D9%8A%D8%B3%D9%86%D8%AA-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA",
+    "published": "Fri, 21 Aug 2026 08:46:07 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
+  },
+  {
+    "title": "ألمانيا تسجل مستوى متدن غير مسبوق لمخزونات الغاز",
+    "summary": "تبلغ مستويات تخزين الغاز في ألمانيا حاليا أدنى مستوى لها على الإطلاق منذ بدء تسجيل البيانات في عام 2011، وفقا لمبادرة تخزين الطاقة \"إينيس\" المعنية بالقطاع.",
+    "link": "https://www.skynewsarabia.com/business/1887279-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AC%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%85%D8%AA%D8%AF%D9%86-%D9%85%D8%B3%D8%A8%D9%88%D9%82-%D9%84%D9%85%D8%AE%D8%B2%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
+    "published": "Fri, 21 Aug 2026 08:37:41 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787305375
+  },
+  {
+    "title": "\"BofA\" يتوقع أداء استثنائيا لأدنوك للإمداد والخدمات",
+    "summary": "توقعت بنك أوف أميركا (BofA) أن تحقق شركة أدنوك للإمداد والخدمات نمواً قوياً في أرباحها خلال الفترة المقبلة، بدعم من الأداء القوي لسوق ناقلات النفط، إلى جانب التوسع في قطاع الغاز الطبيعي المسال والخدمات اللوجستية المتكاملة.",
+    "link": "https://www.skynewsarabia.com/business/1887278-bofa-%D9%8A%D8%AA%D9%88%D9%82%D8%B9-%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A7-%D9%84%D8%A3%D8%AF%D9%86%D9%88%D9%83-%D9%84%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA",
+    "published": "Fri, 21 Aug 2026 08:24:56 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787305375
   },
   {
     "title": "الصين تعفي 99.8% من صادرات سويسرا من الرسوم الجمركية",
@@ -167,77 +197,57 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "ارتفاع أسعار القطن إلى أعلى مستوياتها خلال عامين",
-    "summary": "ارتفعت أسعار العقود الآجلة للقطن خلال تعاملات أمس الخميس إلى أعلى مستوياتها منذ أكثر من عامين، في ظل استمرار قلق المتعاملين بشأن حالة المحصول في الولايات المتحدة إحدى أكبر الدول المنتجة والمصدرة للقطن في العالم.",
-    "link": "https://www.skynewsarabia.com/business/1887261-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D8%B7%D9%86-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D8%B9%D8%A7%D9%85%D9%8A%D9%86",
-    "published": "Fri, 21 Aug 2026 06:39:19 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787295388
-  },
-  {
-    "title": "\"ميكرون\" تستثمر 10 مليارات دولار في أبحاث رقائق الذاكرة",
-    "summary": "أعلنت شركة صناعة الرقائق الأميركية ميكرون تكنولوجي، أمس الخميس، مشروع إنشاء مركز ميكرون ريسيرش لابس لأبحاث وتطوير رقائق الذاكرة في منطقة بيوس بالولايات المتحدة، مع استثمار 10 مليارات دولار فيه خلال العشر سنوات المقبلة.",
-    "link": "https://www.skynewsarabia.com/business/1887260-%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%86-%D8%AA%D8%B3%D8%AA%D8%AB%D9%85%D8%B1-10-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9",
-    "published": "Fri, 21 Aug 2026 06:28:53 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787295388
-  },
-  {
-    "title": "بروج بي إل سي تقر توزيع أرباح بـ 2.41 مليار درهم للنصف الأول",
-    "summary": "أكدت شركة \"بروج بي إل سي\"، إحدى شركات البتروكيماويات الرائدة في توفير حلول البولي أوليفين المبتكرة والمتنوعة والمدرجة في سوق أبوظبي للأوراق المالية، الموافقة على توزيع أرباح مرحلية عن النصف الأول من عام 2026 بقيمة 2.41 مليار درهم (656 مليون دولار)، وهو ما يعادل 8.1 فلس للسهم.",
-    "link": "https://www.skynewsarabia.com/business/1887259-%D8%A8%D8%B1%D9%88%D8%AC-%D8%A5%D9%84-%D8%B3%D9%8A-%D8%AA%D9%82%D8%B1-%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D8%A8-2-41-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D8%B1%D9%87%D9%85-%D9%84%D9%84%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
-    "published": "Fri, 21 Aug 2026 06:13:33 GMT",
-    "source": "سكاي نيوز اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787295388
-  },
-  {
-    "title": "الذهب يتجه لتحقيق مكاسب للأسبوع الثالث على التوالي",
-    "summary": "صعدت أسعار الذهب، في تعاملات اليوم الجمعة، متجهة لتحقيق مكاسب للأسبوع الثالث على التوالي، مدعومة بتراجع الدولار.",
-    "link": "https://arabic.rt.com/business/1823584-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D9%84%D9%84%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%84%D9%8A/",
-    "published": "Fri, 21 Aug 2026 06:56:25 +0000",
+    "title": "روسيا توفر أكثر من ثلث الصادرات العالمية من البازلاء",
+    "summary": "استحوذت روسيا على حصة بلغت 35% من الصادرات العالمية من البازلاء بحلول نهاية العام الماضي، وكانت الأسواق الرئيسية المستوردة هي الصين والهند وتركيا وباكستان.",
+    "link": "https://arabic.rt.com/business/1823661-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%88%D9%81%D8%B1-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%84%D8%A7%D8%A1/",
+    "published": "Fri, 21 Aug 2026 09:38:21 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "واشنطن تمدد ترخيص المعاملات شهرا مع شركة \"لوك أويل\" الروسية",
-    "summary": "أعلنت وزارة الخزانة الأمريكية تمديد الترخيص العام الذي يسمح بإجراء معاملات معينة مرتبطة بالبيع المحتمل للأصول الأجنبية لشركة النفط الروسية \"لوك أويل\"، حتى 19 سبتمبر المقبل.",
-    "link": "https://arabic.rt.com/business/1823535-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D9%85%D8%AF%D8%AF-%D8%AA%D8%B1%D8%AE%D9%8A%D8%B5-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1%D8%A7-%D9%85%D8%B9-%D8%B4%D8%B1%D9%83%D8%A9-%D9%84%D9%88%D9%83-%D8%A3%D9%88%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9/",
-    "published": "Thu, 20 Aug 2026 23:39:58 +0000",
+    "title": "أسعار الغاز في أوروبا تصعد إلى أعلى مستوى في أكثر من شهر",
+    "summary": "ارتفعت أسعار الغاز في البورصات الأوروبية، اليوم الجمعة، متجاوزة حاجز 800 دولار لكل ألف متر مكعب لأول مرة منذ 19 مارس الماضي.",
+    "link": "https://arabic.rt.com/business/1823646-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%B5%D8%B9%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1/",
+    "published": "Fri, 21 Aug 2026 09:22:22 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "النفط العراقية: نُصدّر حاليا 2.1 مليون برميل من النفط يوميا عبر الموانئ الجنوبية",
-    "summary": "قال المتحدث باسم وزارة النفط العراقية سليم الركابي، إن العراق يصدر ما يصل إلى 2.1 مليون برميل من النفط يومياًعبر موانئ تقع في الجزء الجنوبي من البلاد على ساحل الخليج.",
-    "link": "https://arabic.rt.com/business/1823522-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%86%D8%B5%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84%D9%8A%D8%A7-21-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D9%88%D9%85%D9%8A%D8%A7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%86%D8%A6-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9/",
-    "published": "Thu, 20 Aug 2026 21:51:49 +0000",
+    "title": "\"البيتكوين\" تتجاوز 77 ألف دولار لأول مرة منذ 26 مايو 2026",
+    "summary": "ارتفع سعر \"البيتكوين\" بقوة، في تعاملات اليوم الجمعة، حيث تجاوز حاجز 77 ألف دولار لأول مرة منذ 26 مايو الماضي.",
+    "link": "https://arabic.rt.com/business/1823636-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-77-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%85%D9%86%D8%B0-26-%D9%85%D8%A7%D9%8A%D9%88-2026/",
+    "published": "Fri, 21 Aug 2026 08:58:08 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "وقف التبادل التجاري والمالي مع إيران.. ما دوافع القرار الإماراتي؟",
-    "summary": "أعلنت الإمارات قطع التبادل التجاري والمالي مع إيران، بالتزامن مع حملة أمريكية جديدة للضغط الاقتصادي على طهران، وبعد نحو ستة أشهر من اندلاع الحرب في الشرق الأوسط.",
-    "link": "https://arabic.rt.com/business/1823467-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A7-%D8%AF%D9%88%D8%A7%D9%81%D8%B9-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A/",
-    "published": "Thu, 20 Aug 2026 18:48:31 +0000",
+    "title": "موسكو تستعد لفعالية اقتصادية على هامش القمة الروسية العربية",
+    "summary": "أفاد مستشار الرئيس الروسي أنطون كوبيكوف بأن موسكو تتوقع تنظيم فعالية اقتصادية كبرى على هامش القمة الروسية العربية، على أن يعلن موعدها لاحقا.",
+    "link": "https://arabic.rt.com/business/1823591-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%87%D8%A7%D9%85%D8%B4-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/",
+    "published": "Fri, 21 Aug 2026 08:39:29 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
+  },
+  {
+    "title": "اعتقال نجم كرة سابق أثناء تهريبه 1.5 طن كوكايين",
+    "summary": "اعتقلت السلطات البرتغالية اللاعب الصربي السابق أوروش ميلوسيفيتش، أثناء نقله شاحنة صغيرة محملة بنحو 1.5 طن من الكوكايين، إضافة إلى أسلحة نارية، في عملية أمنية أسفرت عن ضبط مخدرات تقدر قيمتها بنحو 70 مليون يورو.",
+    "link": "https://www.skynewsarabia.com/varieties/1887281-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D9%86%D8%AC%D9%85-%D9%83%D8%B1%D8%A9-%D8%B3%D8%A7%D8%A8%D9%82-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8%D9%87-1-5-%D8%B7%D9%86-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86",
+    "published": "Fri, 21 Aug 2026 08:42:50 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787305375
   },
   {
     "title": "فيديو.. سقوط لاعبة سيرك أثناء عرض في مصر",
@@ -247,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "70 ساعة عمل.. مغاربة في قبضة \"مافيا الحقول\" الإيطالية",
@@ -257,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "مفاجآت تفجر الجدل بشأن \"مجزرة الشوش\" في سوهاج",
@@ -267,27 +277,17 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "النظارات الذكية.. هواجس الخصوصية والقرصنة في دور السينما",
-    "summary": "أعلنت رابطة دور السينما البريطانية، الخميس، أن مشغلي صالات العرض في البلاد بدأوا في تطبيق سياسات تهدف إلى حظر أو تقييد استخدام النظارات الذكية المزودة بكاميرات، بما في ذلك نظارات \"ميتا\" التي تعمل بتقنية الذكاء الاصطناعي.",
-    "link": "https://www.skynewsarabia.com/varieties/1887192-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%87%D9%88%D8%A7%D8%AC%D8%B3-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%82%D8%B1%D8%B5%D9%86%D8%A9-%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D9%86%D9%85%D8%A7",
-    "published": "Thu, 20 Aug 2026 15:09:00 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787295388
-  },
-  {
-    "title": "الولايات المتحدة تحث حلفاءها والصين على الانضمام إلى حملة الضغط الاقتصادي ضد إيران",
+    "title": "قاليباف: لا بد لإيران أن تخطط للتغلب على \"العقوبات الأمريكية الجائرة\"، والصين تقول إن العقوبات ليست الحل",
     "summary": "صعّدت واشنطن حملتها ضد طهران بعقوبات غير مسبوقة وتعزيزات عسكرية شملت نشر حاملة طائرات جديدة، لتردّ الأخيرة بوصف الإجراءات بـ\"الإرهاب الاقتصادي\" مع تلويح في البرلمان بإمكانية الانسحاب من معاهدة حظر الانتشار النووي.",
     "link": "https://www.bbc.com/arabic/articles/crmrg2xg1yeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 06:02:37 GMT",
+    "published": "Fri, 21 Aug 2026 08:49:26 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "الرُّهاب المرضي: لماذا نخاف بشدة من أشياء قد لا تؤذينا؟",
@@ -297,7 +297,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "التغير المناخي: كيف \"انتهزته\" أنواع من الحيتان و\"ظُلمت\" أخرى؟",
@@ -307,7 +307,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
     "title": "موجات الحر في أوروبا تواصل حصد الأرواح.. فما حجم الخسائر البشرية هذا الصيف؟",
@@ -317,46 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "ريابكوف: الوقت يعمل ضد كييف والاتحاد الأوروبي",
-    "summary": "قال نائب وزير الخارجية الروسي سيرغي ريابكوف إن موسكو منفتحة على الحوار مع واشنطن بشأن أوكرانيا، ومستعدة للاستماع إلى أفكار جديدة للتسوية، لكنها لن تتراجع عن مواقفها المبدئية.",
-    "link": "https://arabic.rt.com/world/1823574-%D8%B1%D9%8A%D8%A7%D8%A8%D9%83%D9%88%D9%81-%D8%A7%D9%84%D9%88%D9%82%D8%AA-%D9%8A%D8%B9%D9%85%D9%84-%D8%B6%D8%AF-%D9%83%D9%8A%D9%8A%D9%81-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A/",
-    "published": "Fri, 21 Aug 2026 06:50:49 +0000",
+    "title": "صلاح يخسر ظهوره الأساسي الأول.. وطرابزون في ورطة أوروبية",
+    "summary": "تلقى طرابزون سبور التركي خسارة على أرضه أمام فيرينتسفاروشي الهنغاري بنتيجة 1-0، في ذهاب الدور الفاصل المؤهل إلى مرحلة الدوري في بطولة الدوري الأوروبي.",
+    "link": "https://arabic.rt.com/sport/1823641-%D8%B5%D9%84%D8%A7%D8%AD-%D9%8A%D8%AE%D8%B3%D8%B1-%D8%B8%D9%87%D9%88%D8%B1%D9%87-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D9%88%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D9%81%D9%8A-%D9%88%D8%B1%D8%B7%D8%A9-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9/",
+    "published": "Fri, 21 Aug 2026 09:41:33 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "تصويت جديد في مجلس الأمن لاختيار الأمين العام المقبل للأمم المتحدة",
-    "summary": "يجتمع مجلس الأمن الدولي اليوم الجمعة لإجراء جولة ثانية من \"التصويت الاسترشادي\" لاختيار الأمين العام المقبل للأمم المتحدة، وذلك في ظل انقسامات عميقة داخل المؤسسة.",
-    "link": "https://arabic.rt.com/world/1823586-%D8%AA%D8%B5%D9%88%D9%8A%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%84%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D9%84%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9/",
-    "published": "Fri, 21 Aug 2026 06:44:20 +0000",
+    "title": "مصر.. إصابة 12 مواطنا في حادث مروع",
+    "summary": "أصيب 12 شخصا بجروح وإصابات متفرقة إثر وقوع حادث تصادم بين سيارة أجرة \"ميكروباص\" ودراجة نارية ثلاثية العجلات \"تروسيكل\"، على طريق أسيوط الصحراوي الغربي بمحافظة الفيوم في مصر.",
+    "link": "https://arabic.rt.com/middle_east/1823659-%D9%85%D8%B5%D8%B1-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-12-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A7-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%85%D8%B1%D9%88%D8%B9/",
+    "published": "Fri, 21 Aug 2026 09:34:32 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "عواقب الإفراط في تناول رقائق البطاطس",
-    "summary": "يشير الدكتور إيفان يريمينكو، أخصائي أمراض الباطنية، إلى أن الإفراط في تناول رقائق البطاطس قد يؤدي إلى مشكلات صحية مختلفة بما فيها خطر الإصابة بأمراض القلب والأوعية الدموية.",
-    "link": "https://arabic.rt.com/health/1823548-%D8%B9%D9%88%D8%A7%D9%82%D8%A8-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%B7-%D9%81%D9%8A-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B7%D8%B3/",
-    "published": "Fri, 21 Aug 2026 06:21:20 +0000",
+    "title": "روسيا.. اعتقال 8 أشخاص بتهمة التحضير لهجوم إرهابي على منشأة استراتيجية في مقاطعة موسكو (فيديو)",
+    "summary": "أعلنت هيئة الأمن الفيدرالية الروسية اعتقال 8 أشخاص بتهمة التحضير لهجوم إرهابي على منشأة استراتيجية في مقاطعة موسكو باستخدام 35 مسيرة من طراز FPV.",
+    "link": "https://arabic.rt.com/world/1823653-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-8-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D9%86%D8%B4%D8%A3%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
+    "published": "Fri, 21 Aug 2026 09:27:09 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   },
   {
-    "title": "فوائد وأضرار القهوة بالقرفة",
-    "summary": "يوضح الدكتور ألكسندر أومنوف المحاضر في قسم الجراحة بكلية الطب بجامعة التعليم فوائد وأضرار تناول القهوة بالقرفة.",
-    "link": "https://arabic.rt.com/health/1823550-%D9%81%D9%88%D8%A7%D8%A6%D8%AF-%D9%88%D8%A7%D8%B6%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9-%D8%A8%D8%A7%D9%84%D9%82%D8%B1%D9%81%D8%A9/",
-    "published": "Fri, 21 Aug 2026 06:20:49 +0000",
+    "title": "رئيس الوزراء العراقي: لا تراجع عن حصر السلاح بيد الدولة",
+    "summary": "أكد رئيس مجلس الوزراء العراقي علي فالح الزيدي، أن الحكومة ماضية في حصر السلاح بيد الدولة دون أي تراجع، مشيرا إلى أن جميع القوى السياسية متفقة على هذا الملف.",
+    "link": "https://arabic.rt.com/middle_east/1823656-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%84%D8%A7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%B9%D9%86-%D8%AD%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/",
+    "published": "Fri, 21 Aug 2026 09:26:30 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787295388
+    "fetched_at": 1787305375
   }
 ]
