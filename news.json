@@ -2,12 +2,22 @@
   {
     "title": "Calling on Cyber Pros to Help Defend City Hall",
     "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
-    "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+    "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
     "published": "Fri, 21 Aug 2026 14:00:00 GMT",
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "OpenAI Adds Controls That Should've Been There Already",
+    "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+    "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+    "published": "Fri, 21 Aug 2026 13:30:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787326751
   },
   {
     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
@@ -17,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
@@ -27,17 +37,37 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "N-able Bug Exposes Password Vault Master Keys",
-    "summary": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-    "published": "Thu, 20 Aug 2026 17:39:24 GMT",
-    "source": "Dark Reading",
+    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+    "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "published": "Fri, 21 Aug 2026 10:54:49 -0400",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+    "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+    "published": "Fri, 21 Aug 2026 09:39:35 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787326751
   },
   {
     "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
@@ -47,37 +77,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
-    "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-    "published": "Fri, 21 Aug 2026 07:04:10 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-    "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-    "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "SickKids data breach exposes employee and job applicant info",
-    "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-    "published": "Fri, 21 Aug 2026 06:10:42 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -87,7 +87,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
@@ -97,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -107,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -117,7 +117,17 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "الفيفا يعلن عقوباته على الأرجنتين وباريديس بعد عنف المونديال",
+    "summary": "فرض الاتحاد الدولي لكرة القدم (فيفا)، مجموعة من العقوبات على الاتحاد الأرجنتيني لكرة القدم وعدد من لاعبي وإداريي المنتخب، على خلفية أحداث شهدتها مباريات مختلفة خلال كأس العالم 2026، من بينها أحداث وقعت خلال المباراة النهائية أمام إسبانيا.",
+    "link": "https://www.skynewsarabia.com/sport/1887342-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%88%D8%A8%D8%A7%D8%B1%D9%8A%D8%AF%D9%8A%D8%B3-%D8%B9%D9%86%D9%81-%D8%A7%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84",
+    "published": "Fri, 21 Aug 2026 14:34:27 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787326751
   },
   {
     "title": "اليويفا يحارب إنفانتينو بـ\"خطة دوري الأمم الأوروبية\"",
@@ -127,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "بايرن يكشف تطورات \"مرض موسيالا\".. وأول تعليق من المدرب",
@@ -137,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "الساحر يعود في الـ46.. رونالدينيو يطارد الهدف 300",
@@ -147,17 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "مباراة الأرجنتين.. الاتحاد المصري يرد على فيفا بشأن حسام حسن",
-    "summary": "أكد الاتحاد المصري لكرة القدم، يوم الخميس، أنه سيقدم ردا رسميا للاتحاد الدولي (فيفا) بشأن ما تلقاه من استفسار يخص موقف حسام حسن المدير الفني للمنتخب وشقيقه إبراهيم حسن مدير المنتخب.",
-    "link": "https://www.skynewsarabia.com/sport/1887198-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D8%B1%D8%AF-%D9%81%D9%8A%D9%81%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AD%D8%B3%D8%A7%D9%85-%D8%AD%D8%B3%D9%86",
-    "published": "Thu, 20 Aug 2026 16:48:47 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "ارتفاع عجز الموازنة في بريطانيا بشكل مفاجئ",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "برودكوم تبحث تمويلاً قد يصل إلى 100 مليار دولار لدعم الـ AI",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "%99 نسبة إفصاح الشركات المدرجة في سوق أبوظبي",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "فخ الهيمنة.. هل تعيش أميركا خريفها الاستراتيجي؟",
@@ -197,47 +197,57 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "ارتفاع أسعار الغاز للمستهلكين في مولدوفا بأكثر من 40.8%",
-    "summary": "أفادت الوكالة الوطنية لتنظيم الطاقة في مولدوفا بارتفاع أسعار الغاز الطبيعي للمستهلكين المنزليين منذ فبراير من العام الجاري بنسبة 41%.",
-    "link": "https://arabic.rt.com/business/1823697-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D9%88%D9%84%D8%AF%D9%88%D9%81%D8%A7-%D8%A8%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-408/",
-    "published": "Fri, 21 Aug 2026 12:54:53 +0000",
+    "title": "تحقيق أمريكي في 997 ألف شاحنة وسيارة من \"جنرال موتورز\"",
+    "summary": "أعلنت الإدارة الوطنية الأمريكية لسلامة المرور على الطرق السريعة اليوم  عن فتح تحقيق أولي يشمل 997,743 شاحنة بيك آب وسيارة دفع رباعي من إنتاج شركة \"جنرال موتورز\".",
+    "link": "https://arabic.rt.com/business/1823775-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%81%D9%8A-997-%D8%A3%D9%84%D9%81-%D8%B4%D8%A7%D8%AD%D9%86%D8%A9-%D9%88%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D9%86-%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/",
+    "published": "Fri, 21 Aug 2026 14:55:36 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "المركزي الروسي: عمليات الروبل الرقمي مجانية للمواطنين والبنوك جاهزة للإطلاق في سبتمبر 2026",
-    "summary": "أكدت مديرة إدارة نظام المدفوعات الوطني في المركزي الروسي ألا باكينا، أن جميع عمليات الروبل الرقمي ستكون مجانية للمواطنين، مع عدم وجود أي قيود على التحويلات داخل المنصة الرقمية.",
-    "link": "https://arabic.rt.com/business/1823669-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%AC%D8%A7%D9%87%D8%B2%D8%A9-%D9%84%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%81%D9%8A-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2026/",
-    "published": "Fri, 21 Aug 2026 10:13:41 +0000",
+    "title": "أغنى رجل في إفريقيا يعتزم إنشاء مصفاة نفط عملاقة وإثيوبيا تضع عينها على حصة منها",
+    "summary": "أفاد ديفيد ندي، كبير المستشارين الاقتصاديين للرئيس الكيني وليام روتو  بأن مجموعة \"دانغوتي\" عرضت على دول شرق إفريقيا امتلاك حصة تصل إلى 30% في مصفاة نفط ضخمة في كينيا.",
+    "link": "https://arabic.rt.com/business/1823779-%D8%A3%D8%BA%D9%86%D9%89-%D8%B1%D8%AC%D9%84-%D9%81%D9%8A-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D9%86%D9%81%D8%B7-%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9-%D9%88%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B6%D8%B9-%D8%B9%D9%8A%D9%86%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%AD%D8%B5%D8%A9-%D9%85%D9%86%D9%87%D8%A7/",
+    "published": "Fri, 21 Aug 2026 14:38:42 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "روسيا توفر أكثر من ثلث الصادرات العالمية من البازلاء",
-    "summary": "استحوذت روسيا على حصة بلغت 35% من الصادرات العالمية من البازلاء بحلول نهاية العام الماضي، وكانت الأسواق الرئيسية المستوردة هي الصين والهند وتركيا وباكستان.",
-    "link": "https://arabic.rt.com/business/1823661-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%88%D9%81%D8%B1-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%84%D8%A7%D8%A1/",
-    "published": "Fri, 21 Aug 2026 09:38:21 +0000",
+    "title": "تباين أسواق الإمارات وسط مخاوف بشأن العقوبات على إيران",
+    "summary": "تباين أداء بورصتي الإمارات الجمعة وسط حذر المستثمرين بعد تهديد واشنطن بفرض أشد العقوبات على إيران، بالتزامن مع تراجع حركة الملاحة عبر مضيق هرمز وتأثيرها على معنويات الأسواق.",
+    "link": "https://arabic.rt.com/business/1823769-%D8%AA%D8%A8%D8%A7%D9%8A%D9%86-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86/",
+    "published": "Fri, 21 Aug 2026 13:51:40 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "أسعار الغاز في أوروبا تصعد إلى أعلى مستوى في أكثر من شهر",
-    "summary": "ارتفعت أسعار الغاز في البورصات الأوروبية، اليوم الجمعة، متجاوزة حاجز 800 دولار لكل ألف متر مكعب لأول مرة منذ 19 مارس الماضي.",
-    "link": "https://arabic.rt.com/business/1823646-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%81%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%B5%D8%B9%D8%AF-%D8%A5%D9%84%D9%89-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%81%D9%8A-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1/",
-    "published": "Fri, 21 Aug 2026 09:22:22 +0000",
+    "title": "البنية التحتية المتهالكة تفرض \"سقفا زجاجيا\" على صادرات فنزويلا النفطية وتخنق واشنطن",
+    "summary": "رغم التعافي الملحوظ، تواجه صادرات النفط الفنزويلي عقبة كأداء تتمثل في البنية التحتية المتهالكة للموانئ، مما يحول دون تحقيق الطموحات الأمريكية بزيادة ضخ الخام إلى الأسواق العالمية.",
+    "link": "https://arabic.rt.com/business/1823743-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D8%A7%D9%84%D9%83%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6-%D8%B3%D9%82%D9%81%D8%A7-%D8%B2%D8%AC%D8%A7%D8%AC%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A%D8%A9-%D9%88%D8%AA%D8%AE%D9%86%D9%82-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86/",
+    "published": "Fri, 21 Aug 2026 13:13:56 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "بعد خسارة قضية أمام المحاكم.. الأمير هاري مطالب بدفع ملايين",
+    "summary": "أصدر القاضي ماثيو نيكلين في المحكمة العليا بلندن، الجمعة، حكما يُلزم الأمير هاري والمغني إلتون جون و5 مدعين آخرين بدفع مبلغ قدره 9.54 مليون جنيه إسترليني (نحو 13 مليون دولار).",
+    "link": "https://www.skynewsarabia.com/varieties/1887344-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%87%D8%A7%D8%B1%D9%8A-%D9%85%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D8%AF%D9%81%D8%B9-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86",
+    "published": "Fri, 21 Aug 2026 15:02:17 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1787326751
   },
   {
     "title": "اعتقال نجم كرة سابق أثناء تهريبه 1.5 طن كوكايين",
@@ -247,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "فيديو.. سقوط لاعبة سيرك أثناء عرض في مصر",
@@ -257,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "70 ساعة عمل.. مغاربة في قبضة \"مافيا الحقول\" الإيطالية",
@@ -267,27 +277,27 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "مفاجآت تفجر الجدل بشأن \"مجزرة الشوش\" في سوهاج",
-    "summary": "بعد حديث محامي الدفاع عن المتهم بقتل زوجته وشخصين آخرين في قرية الشوش بمحافظة سوهاج، في القضية المعروفة إعلاميا بـ\"جريمة الشرف\"، عن عدم وجود مقاطع فيديو أو صور توثق خيانة الزوجة، تفجر الجدل في مصر بشأن ما إذا كانت المجزرة جريمة شرف بالفعل.",
-    "link": "https://www.skynewsarabia.com/varieties/1887196-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%AA%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%AC%D8%B2%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D9%88%D8%B4-%D8%B3%D9%88%D9%87%D8%A7%D8%AC",
-    "published": "Thu, 20 Aug 2026 16:38:19 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "قاليباف: لا بد لإيران أن تخطط للتغلب على \"العقوبات الأمريكية الجائرة\"، والصين تقول إن العقوبات ليست الحل",
-    "summary": "صعّدت واشنطن حملتها ضد طهران بعقوبات غير مسبوقة وتعزيزات عسكرية شملت نشر حاملة طائرات جديدة، لتردّ الأخيرة بوصف الإجراءات بـ\"الإرهاب الاقتصادي\" مع تلويح في البرلمان بإمكانية الانسحاب من معاهدة حظر الانتشار النووي.",
-    "link": "https://www.bbc.com/arabic/articles/crmrg2xg1yeo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 08:49:26 GMT",
+    "title": "بزشكيان يدعو لإنهاء الحرب وواشنطن تصعّد \"الحرب الاقتصادية\" على إيران، والصين تقول: \"العقوبات ليست الحل\"",
+    "summary": "دعا الرئيس الإيراني مسعود بزشكيان إلى إنهاء الحرب مع الولايات المتحدة، قائلاً إن طهران في \"موقع قوة\"، بالتزامن مع استعداد واشنطن لفرض عقوبات غير مسبوقة على إيران",
+    "link": "https://www.bbc.com/arabic/articles/c1d1vz65dv2o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 13:32:38 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
+  },
+  {
+    "title": "إلى أي مدى يمكن أن تضر عقوبات \"يوم النصر الاقتصادي\" التي أعلنها ترامب إيران؟",
+    "summary": "أثبتت إيران حتى الآن براعتها في إيجاد طرق للالتفاف على سنوات من العقوبات القاسية المفروضة بالفعل على اقتصادها.",
+    "link": "https://www.bbc.com/arabic/articles/czxqvkj1159o?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 21 Aug 2026 15:11:17 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787326751
   },
   {
     "title": "إسرائيل تعيد افتتاح مستوطنة في الضفة الغربية بعد عقدين على إغلاقها، متحدية كل الاحتجاجات الدولية المتزايدة",
@@ -297,7 +307,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
     "title": "\"نهاية الشرق الأوسط الأمريكي\" - مقال في صحيفة فورين أفيرز",
@@ -307,56 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "الرُّهاب المرضي: لماذا نخاف بشدة من أشياء قد لا تؤذينا؟",
-    "summary": "كثير منا يخاف من أشياء لا تشكل خطراً حقيقياً. لا يعتقد العلماء أن الخوف فطري، فمن أين تأتي هذه المخاوف إذن؟",
-    "link": "https://www.bbc.com/arabic/articles/cj9dkz2ey8zo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 21 Aug 2026 06:41:14 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787317135
-  },
-  {
-    "title": "\"يورونيوز\": أوكرانيا تقترح تمويل شراء أنظمة مضادة للصواريخ الباليستية بأموال قرض الاتحاد الأوروبي",
-    "summary": "أفاد موقع \"يورونيوز\" بأن أوكرانيا اقترحت على المفوضية الأوروبية استخدام أموال الدفعة المقبلة من قرض الاتحاد الأوروبي البالغ 90 مليار يورو لشراء أنظمة دفاع صاروخي.",
-    "link": "https://arabic.rt.com/world/1823711-%D9%8A%D9%88%D8%B1%D9%88%D9%86%D9%8A%D9%88%D8%B2-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D9%82%D8%AA%D8%B1%D8%AD-%D8%AA%D9%85%D9%88%D9%8A%D9%84-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A3%D9%86%D8%B8%D9%85%D8%A9-%D9%85%D8%B6%D8%A7%D8%AF%D8%A9-%D9%84%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D9%8A%D8%B3%D8%AA%D9%8A%D8%A9-%D8%A8%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D9%82%D8%B1%D8%B6-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A/",
-    "published": "Fri, 21 Aug 2026 12:55:47 +0000",
+    "title": "صدمة قوية للأرجنتين.. \"فيفا\" يعلن عقوبات نهائي كأس العالم 2026",
+    "summary": "أصدر الاتحاد الدولي لكرة القدم \"فيفا\" قراراته الرسمية فيما يخص عقوبات نهائي بطولة كأس العالم 2026،التي انتهت في وقت سابق من شهر يوليو الماضي.",
+    "link": "https://arabic.rt.com/sport/1823790-%D8%B5%D8%AF%D9%85%D8%A9-%D9%82%D9%88%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86-%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-2026/",
+    "published": "Fri, 21 Aug 2026 15:36:47 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "السفير البريطاني يتهم فصائل عراقية بتهديد دول الجوار",
-    "summary": "اتهم السفير البريطاني لدى العراق، عرفان صديق، الجمعة، فصائل مسلحة بتهديد دول الجوار، معتبرا أن تهديد الحكومة والقضاء من جانب جماعات \"خارجة عن القانون\" يمثل عملا إرهابيا.",
-    "link": "https://arabic.rt.com/middle_east/1823712-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%87%D9%85-%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A8%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%B1/",
-    "published": "Fri, 21 Aug 2026 12:53:53 +0000",
+    "title": "الخارجية الفنلندية تستدعي السفير الروسي على خلفية الاشتباه بانتهاك طائرة روسية للحدود",
+    "summary": "أفادت وزارة الخارجية الفنلندية بأنها قامت باستدعاء السفير الروسي لدى هلسنكي على خلفية الاشتباه بانتهاك طائرة روسية للمجال الجوي الفنلندي.",
+    "link": "https://arabic.rt.com/world/1823808-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D9%84%D9%86%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87-%D8%A8%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AD%D8%AF%D9%88%D8%AF/",
+    "published": "Fri, 21 Aug 2026 15:34:18 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "سوريا.. قنابل ضوئية إسرائيلية تتسبب بحرائق في الأراضي الزراعية في القنيطرة (صور + فيديو)",
-    "summary": "أفادت مصادر أهلية في القنيطرة لـRT باشتعال حرائق في أراض زراعية بريف القنيطرة الشمالي نتيجة قيام القوات الإسرائيلية بإلقاء قنابل ضوئية بمحيط المنطقة القريبة من خط وقف إطلاق النار .",
-    "link": "https://arabic.rt.com/middle_east/1823741-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%82%D9%86%D8%A7%D8%A8%D9%84-%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%AD%D8%AF%D9%88%D8%AB-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D8%B5%D9%88%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
-    "published": "Fri, 21 Aug 2026 12:45:31 +0000",
+    "title": "على بعد أشهر فقط.. تنبؤ مثير للجدل بنهاية العالم!",
+    "summary": "يقترب العالم من تاريخ أثار جدلا منذ أكثر من ستة عقود، بعدما حدد علماء عام 1960 يوم 13 نوفمبر 2026 موعدا افتراضيا لما أطلقوا عليه \"يوم القيامة\" للبشرية.",
+    "link": "https://arabic.rt.com/technology/1823765-%D8%B9%D9%84%D9%89-%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B4%D9%87%D8%B1-%D9%81%D9%82%D8%B7-%D8%AA%D9%86%D8%A8%D8%A4-%D9%85%D8%AB%D9%8A%D8%B1-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/",
+    "published": "Fri, 21 Aug 2026 15:32:28 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   },
   {
-    "title": "بمشاركة عربية.. انطلاق مهرجان أوركسترا الشباب العالمي الرابع في موسكو",
-    "summary": "تنطلق في موسكو، اليوم 21 أغسطس، فعاليات مهرجان أوركسترا الشباب العالمي الرابع، ويستمر حتى 23 أغسطس في المدرج الكبير بحديقة زاريادي، بمشاركة تسع أوركسترات شبابية.",
-    "link": "https://arabic.rt.com/culture/1823700-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D8%A3%D9%88%D8%B1%D9%83%D8%B3%D8%AA%D8%B1%D8%A7-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
-    "published": "Fri, 21 Aug 2026 12:43:00 +0000",
+    "title": "150 مليون يورو.. برشلونة يتحرك لتحصين حمزة عبد الكريم",
+    "summary": "فرض المهاجم المصري الشاب حمزة عبد الكريم نفسه بقوة على حسابات برشلونة، بعدما قدم مستويات لافتة خلال فترة الإعداد للموسم الجديد ما دفع النادي الكتالوني للتحرك من أجل تأمين مستقبله.",
+    "link": "https://arabic.rt.com/sport/1823791-150-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%8A%D9%88%D8%B1%D9%88-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%8A%D8%AA%D8%AD%D8%B1%D9%83-%D9%84%D8%AA%D8%AD%D8%B5%D9%8A%D9%86-%D8%AD%D9%85%D8%B2%D8%A9-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/",
+    "published": "Fri, 21 Aug 2026 15:31:30 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787317135
+    "fetched_at": 1787326751
   }
 ]
