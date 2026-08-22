@@ -7,7 +7,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "Calling on Cyber Pros to Help Defend City Hall",
@@ -17,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -27,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
@@ -37,7 +37,27 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+    "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "published": "Sat, 22 Aug 2026 09:00:09 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787412426
   },
   {
     "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -47,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
@@ -57,27 +77,17 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-    "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-    "published": "Fri, 21 Aug 2026 10:54:49 -0400",
-    "source": "BleepingComputer",
+    "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+    "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.\n\nAs part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
+    "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+    "published": "Sat, 22 Aug 2026 20:02:41 +0530",
+    "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-    "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-    "published": "Fri, 21 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -87,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -97,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
@@ -107,17 +117,17 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "Wazuh and AI For Enhanced SOC Workflows",
-    "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-    "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-    "published": "Fri, 21 Aug 2026 16:51:39 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787403005
+    "title": "هال سيتي يعود للبريميرليغ ويصعق مان يونايتد بهدفين",
+    "summary": "احتفل هال سيتي بعودته إلى الدوري الإنجليزي الممتاز لكرة القدم \"البريميرليغ\" بعد غياب دام 9 سنوات بفوز مستحق 2-صفر على مانشستر يونايتد اليوم السبت، مما أدى إلى تبديد التفاؤل المحيط بفريق مايكل كاريك بعد التحول الملحوظ الذي شهده الموسم الماضي.",
+    "link": "https://www.skynewsarabia.com/sport/1887604-%D9%87%D8%A7%D9%84-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%8A%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D8%B1%D9%84%D9%8A%D8%BA-%D9%88%D9%8A%D8%B5%D8%B9%D9%82-%D9%85%D8%A7%D9%86-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%A8%D9%87%D8%AF%D9%81%D9%8A%D9%86",
+    "published": "Sat, 22 Aug 2026 13:49:45 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787412426
   },
   {
     "title": "أرسنال يستهل دفاعه عن لقب الدوري بثلاثية في مرمى كوفنتري",
@@ -127,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "الفيفا يعلن عقوباته على الأرجنتين وباريديس بعد عنف المونديال",
@@ -137,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "اليويفا يحارب إنفانتينو بـ\"خطة دوري الأمم الأوروبية\"",
@@ -147,17 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "بايرن يكشف تطورات \"مرض موسيالا\".. وأول تعليق من المدرب",
-    "summary": "تأكد غياب جمال موسيالا مهاجم بايرن ميونيخ عن مواجهة بوروسيا دورتموند في كأس السوبر الألماني، السبت، بسبب آثار جانبية ظهرت عقب تغيير علاجه من نوبات غياب الوعي.",
-    "link": "https://www.skynewsarabia.com/sport/1887291-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%B6-%D9%85%D9%88%D8%B3%D9%8A%D8%A7%D9%84%D8%A7-%D9%88%D8%A3%D9%88%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%A8",
-    "published": "Fri, 21 Aug 2026 09:29:28 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "وكالة: إيران تمنح الإذن لناقلات نفط عراقية بعبور مضيق هرمز",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "ارتفاع عجز الموازنة في بريطانيا بشكل مفاجئ",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "برودكوم تبحث تمويلاً قد يصل إلى 100 مليار دولار لدعم الـ AI",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "%99 نسبة إفصاح الشركات المدرجة في سوق أبوظبي",
@@ -197,7 +197,37 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "أمريكا تنقب عن المعادن النادرة في مناجم الفحم المهجورة",
+    "summary": "تتجه الولايات المتحدة لاستغلال مناجم الفحم المهجورة في جبال الأبالاش لاستخراج المعادن النادرة، وتقليص اعتمادها على الواردات وهيمنة الصين على السوق.",
+    "link": "https://arabic.rt.com/business/1824067-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D9%86%D9%82%D8%A8-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D9%81%D9%8A-%D9%85%D9%86%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D9%81%D8%AD%D9%85-%D8%A7%D9%84%D9%85%D9%87%D8%AC%D9%88%D8%B1%D8%A9/",
+    "published": "Sat, 22 Aug 2026 14:56:14 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "\"فايننشال تايمز\": قطر تقلص الإنفاق الحكومي والمساعدات الخارجية على خلفية تراجع إيرادات الغاز",
+    "summary": "أفادت \"فايننشال تايمز\" بأن قطر خفضت ميزانيات حكومية بنحو 30%، وقلصت الإنفاق على المساعدات الخارجية بنسبة 85%، بسبب تراجع إيرادات الغاز.",
+    "link": "https://arabic.rt.com/business/1824061-%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%82%D8%B7%D8%B1-%D8%AA%D9%82%D9%84%D8%B5-%D8%A7%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2/",
+    "published": "Sat, 22 Aug 2026 14:27:47 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "\"بلومبرغ\": \"آبل\" تعتزم تسريح أكثر من 200 موظف",
+    "summary": "أفادت وكالة \"بلومبرغ\" بأن شركة \"آبل\" الأمريكية قررت الاستغناء عن أكثر من 200 موظف يعملون ضمن فرق تطوير المساعد الصوتي \"سيري\" ونظارة الواقع المختلط \"فيجن برو\".",
+    "link": "https://arabic.rt.com/business/1824055-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D8%B1%D8%BA-%D8%A2%D8%A8%D9%84-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%AA%D8%B3%D8%B1%D9%8A%D8%AD-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-200-%D9%85%D9%88%D8%B8%D9%81/",
+    "published": "Sat, 22 Aug 2026 14:14:01 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787412426
   },
   {
     "title": "\"المقاطعة الصامتة\".. كيف تهدد التبعية الاقتصادية الأمن القومي الإسرائيلي؟",
@@ -207,37 +237,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "فايننشال تايمز: الاتحاد الأوروبي متخلف عن الولايات المتحدة والصين في سباق الحصول على المعادن الهامة",
-    "summary": "أفادت صحيفة \"فايننشال تايمز\" البريطانية، نقلا عن مسؤولين أوروبيين ومصادر في مجال الصناعة، أن الاتحاد الأوروبي متخلف عن الولايات المتحدة والصين في سباق الحصول على المعادن الهامة.",
-    "link": "https://arabic.rt.com/business/1823980-%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%86-%D8%A7%D9%84%D9%87%D8%A7%D9%85%D8%A9/",
-    "published": "Sat, 22 Aug 2026 08:34:39 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "\"ليست فكرتي\".. ترامب يتنصل من التدخل في أسواق السندات ويكشف من يدير هذه العملية",
-    "summary": "تنصل الرئيس الأمريكي دونالد ترامب، من مسؤولية التدخل في أسواق السندات بهدف خفض تكاليف الاقتراض، مؤكدا أنها لم تكن فكرته.",
-    "link": "https://arabic.rt.com/business/1823925-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AA%D9%86%D8%B5%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%84-%D9%81%D9%8A-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D9%88%D9%8A%D9%83%D8%B4%D9%81-%D9%85%D9%86-%D9%8A%D9%82%D9%81-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9/",
-    "published": "Fri, 21 Aug 2026 22:56:58 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "تيك توك ستدفع 400 مليون دولار للولايات المتحدة بعد التوصل إلى اتفاق في المحكمة",
-    "summary": "قالت وزارة العدل الأمريكية إنها توصلت إلى اتفاق عبر القضاء مع شبكة \"تيك توك\" والشركة المؤسسة لها \"بايت دانس\" لدفع 400 مليون دولار للحكومة الأمريكية.",
-    "link": "https://arabic.rt.com/business/1823913-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D8%B3%D8%AA%D8%AF%D9%81%D8%B9-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9/",
-    "published": "Fri, 21 Aug 2026 21:16:56 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "الولاعات في غزة.. سلعة نادرة يصل سعرها إلى 44 دولارا",
@@ -247,7 +247,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "حفل بدأ قبل 25 عاما.. ولن ينتهي قبل عام 2640",
@@ -257,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "إرضاءً للناخبين.. ترامب يسمح باستيراد اللحوم الحمراء \"بخصم\"",
@@ -267,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
     "title": "فطر \"تشيرنوبيل\" الأسود.. هل يتغذى فعلاً على الإشعاع؟",
@@ -277,17 +277,37 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "إيران تتحدث عن ترتيبات \"اقتصادية وأمنية\" جديدة في المنطقة وسط تهديد ترامب بـ\"إنزال اقتصادي\"",
-    "summary": "تقترب الحرب من إكمال شهرها السادس وسط جمود بين واشنطن وطهران، واستمرار تعطل الملاحة في هرمز وارتفاع الكلفة الاقتصادية داخل الولايات المتحدة.",
+    "title": "إيران تتحدث عن ترتيبات إقليمية جديدة، وواشنطن تستعد للإعلان عن \"أقسى العقوبات في التاريخ\"",
+    "summary": "قال رئيس مجلس الشورى الإيراني محمد باقر قاليباف إن طهران تلقت رسائل من دول مجاورة بشأن ترتيبات أمنية واقتصادية جديدة في المنطقة، بالتزامن مع استعداد واشنطن لفرض عقوبات جديدة على إيران وتصاعد الخلاف بشأن مستقبل الملاحة في مضيق هرمز.",
     "link": "https://www.bbc.com/arabic/articles/c04kwww56keo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 11:54:27 GMT",
+    "published": "Sat, 22 Aug 2026 14:35:56 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "كيف أعاد \"الإخوان المسلمون\" في مصر تشكيل استراتيجيتهم الإعلامية؟",
+    "summary": "أعادت جماعة الإخوان المسلمين في مصر تشكيل استراتيجيتها الإعلامية من نموذج مركزي إلى شبكة لامركزية عابرة للحدود تعتمد على القنوات الرقمية، والمواقع، ووسائل التواصل الاجتماعي، رغم القيود السياسية والانقسامات الداخلية.",
+    "link": "https://www.bbc.com/arabic/articles/cvgjg5en6v5o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 13:08:49 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787412426
+  },
+  {
+    "title": "هايدن بانتير ورفاقها: ما الذي يقود النجوم الأطفال إلى الإدمان؟",
+    "summary": "إن ضغوط الشهرة في مرحلة الطفولة يمكن أن تعرض الممثلين لخطر أكبر من المعتاد فيما يتعلق بالإصابة بمشكلات تعاطي المخدرات.",
+    "link": "https://www.bbc.com/arabic/articles/cy4599epvxdo?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 22 Aug 2026 14:45:39 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787412426
   },
   {
     "title": "أولى ثمار زيارة قاليباف: إيران تسمح بعبور سفن عراقية مضيق هرمز",
@@ -297,66 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "عائشة وهاب من دور الرعاية إلى الكونغرس: قصة فوز تاريخي",
-    "summary": "فقدت والديها في طفولتها ودخلت نظام الرعاية البديلة، قبل أن تبدأ مسيرة سياسية قادتها من مجلس مدينة في كاليفورنيا إلى الكونغرس.",
-    "link": "https://www.bbc.com/arabic/articles/c78g23e7j44o?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 09:57:12 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "حتى كارثة بحجم هيروشيما قد لا تكون كافية لدفع البشرية إلى مواجهة مخاطر الذكاء الاصطناعي - الغارديان",
-    "summary": "هل تكفي كارثة بحجم هيروشيما لإجبار العالم على ضبط الذكاء الاصطناعي؟ جولة الصحف تتناول مخاطر التكنولوجيا المتسارعة، وتجربة جيريمي كلاركسون مع تيك توك، واحتمالات عودة ميغان ماركل إلى التمثيل.",
-    "link": "https://www.bbc.com/arabic/articles/cwym4yv0d8no?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 10:31:43 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787403005
-  },
-  {
-    "title": "الجيش الإسرائيلي يعلن إطلاق النار جنوب سوريا باتجاه شخص بزعم تخطيطه لتنفيذ \"مخطط إرهابي\"",
-    "summary": "أعلن الجيش الإسرائيلي اليوم السبت، إطلاق النار في منطقة جنوب سوريا باتجاه شخص بزعم تخطيطه لتنفيذ \"مخطط إرهابي\" ضد قواته.",
-    "link": "https://arabic.rt.com/middle_east/1824032-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%AC%D9%86%D9%88%D8%A8-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%B4%D8%AE%D8%B5-%D8%A8%D8%B2%D8%B9%D9%85-%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%D9%87-%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D9%85%D8%AE%D8%B7%D8%B7-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%B6%D8%AF-%D9%82%D9%88%D8%A7%D8%AA%D9%87/",
-    "published": "Sat, 22 Aug 2026 12:28:00 +0000",
+    "title": "المولد النبوي يثير جدلا واسعا في مصر بعد دعوة أزهرية",
+    "summary": "أثارت دعوة من داخل مسجد المدينة الجامعية بالأزهر الشريف في مصر، حول الاحتفال بالمولد النبوي، جدلا واسعا ومتجددا.",
+    "link": "https://arabic.rt.com/society/1824078-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%AC%D8%AF%D9%84%D8%A7-%D9%88%D8%A7%D8%B3%D8%B9%D8%A7-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%AF%D8%B9%D9%88%D8%A9-%D8%A3%D8%B2%D9%87%D8%B1%D9%8A%D8%A9/",
+    "published": "Sat, 22 Aug 2026 15:24:05 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "بعد قرار \"فيفا\".. تحرك عاجل من الاتحاد الإسباني من أجل عقوبة غافي",
-    "summary": "كشفت تقارير صحفية عن أول خطوة من الاتحاد الإسباني لكرة القدم بعد العقوبة التي حصل عليها غافي لاعب منتخب إسبانيا بسبب أحداث مباراة الأرجنتين في نهائي كأس العالم 2026.",
-    "link": "https://arabic.rt.com/sport/1824030-%D8%A8%D8%B9%D8%AF-%D9%82%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A%D9%81%D8%A7-%D8%AA%D8%AD%D8%B1%D9%83-%D8%B9%D8%A7%D8%AC%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%B9%D9%82%D9%88%D8%A8%D8%A9-%D8%BA%D8%A7%D9%81%D9%8A/",
-    "published": "Sat, 22 Aug 2026 12:24:39 +0000",
+    "title": "الحرب مع إيران أدت إلى تعديل الاستراتيجية البحرية الأمريكية",
+    "summary": "عن التغيير في سياسة نشر حاملات الطائرات الأمريكية في العالم، كتب فلاديمير سكوسيريف، في \"نيزافيسيمايا غازيتا\":",
+    "link": "https://arabic.rt.com/press/1822542-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D8%AF%D8%AA-%D8%A5%D9%84%D9%89-%D8%AA%D8%B9%D8%AF%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9/",
+    "published": "Sat, 22 Aug 2026 15:20:14 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "رابطة الدوري الأمريكي تعاقب ليونيل ميسي (فيديو)",
-    "summary": "أصدرت رابطة الدوري الأمريكي لكرة القدم عقوبة ضد الأسطورة الأرجنتينية ليونيل ميسي قائد الفريق الأول لكرة القدم بنادي إنتر ميامي بعد اعتدائه على لاعب فيلادلفيا.",
-    "link": "https://arabic.rt.com/sport/1824021-%D8%B1%D8%A7%D8%A8%D8%B7%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D8%B9%D8%A7%D9%82%D8%A8-%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%84-%D9%85%D9%8A%D8%B3%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
-    "published": "Sat, 22 Aug 2026 12:23:56 +0000",
+    "title": "\"قاع الهامور\" يثير ضجة في مصر.. ما قصة التريند الجديد؟",
+    "summary": "أثار تريند متداول بصورة واسعة في مصر باسم \"قاع الهامور\" موجة واسعة من السخرية على مواقع التواصل، بعدما تحولت شخصيات \"سبونج بوب\" الكرتونية إلى مادة لكوميكس بالذكاء الاصطناعي.",
+    "link": "https://arabic.rt.com/society/1824072-%D9%82%D8%A7%D8%B9-%D8%A7%D9%84%D9%87%D8%A7%D9%85%D9%88%D8%B1-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%B6%D8%AC%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%85%D8%A7-%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%86%D8%AF-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/",
+    "published": "Sat, 22 Aug 2026 15:16:40 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   },
   {
-    "title": "نتنياهو يرفض طلبا لإقامة صلاة لحاخامات داخل غزة",
-    "summary": "قالت وسائل إعلام عبرية السبت، إن رئيس الوزراء الإسرائيلي بنيامين نتنياهو رفض طلبا للسماح لـ20 حاخاما بدخول قطاع غزة وإقامة صلاة جماعية.",
-    "link": "https://arabic.rt.com/middle_east/1824022-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B1%D9%81%D8%B6-%D8%B7%D9%84%D8%A8%D8%A7-%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%B5%D9%84%D8%A7%D8%A9-%D9%84%D8%AD%D8%A7%D8%AE%D8%A7%D9%85%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%BA%D8%B2%D8%A9/",
-    "published": "Sat, 22 Aug 2026 12:23:20 +0000",
+    "title": "السعودية.. الداخلية تعلن إعدام مواطن \"تعزيرا\" في جازان وتكشف هويته وجريمته",
+    "summary": "أعلنت وزارة الداخلية السعودية، السبت، تنفيذ حكم القتل تعزيرا بحق سعودي في منطقة جازان، قالت إنه أقدم على الاشتراك في ترويج الحشيش المخدر بالبيع للمرة الثانية.",
+    "link": "https://arabic.rt.com/middle_east/1824058-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B1%D8%A7-%D9%81%D9%8A-%D8%AC%D8%A7%D8%B2%D8%A7%D9%86-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D9%87%D9%88%D9%8A%D8%AA%D9%87-%D9%88%D8%AC%D8%B1%D9%8A%D9%85%D8%AA%D9%87/",
+    "published": "Sat, 22 Aug 2026 15:15:53 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787403005
+    "fetched_at": 1787412426
   }
 ]
