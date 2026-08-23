@@ -7,7 +7,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
@@ -17,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "Calling on Cyber Pros to Help Defend City Hall",
@@ -27,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -37,7 +37,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
+  },
+  {
+    "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+    "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+    "published": "Sun, 23 Aug 2026 10:23:46 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787498885
   },
   {
     "title": "Hackers infect Android car head units with proxy botnet malware",
@@ -47,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
@@ -57,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -67,17 +77,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
-  },
-  {
-    "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-    "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-    "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -87,7 +87,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -97,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -107,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
@@ -117,7 +117,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "صافرة مصرية تدير نهائي كأس السوبر الأردني",
@@ -127,7 +127,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "تقرير: مانشستر سيتي يتوصل لاتفاق مع ليل على ضم المغربي بوعدي",
@@ -137,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "جائزة أبوظبي الكبرى للفورمولا 1 تنطلق 3 ديسمبر",
@@ -147,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "مورينيو بعد الفوز: الانتصار بالروح.. ومقاعد البدلاء",
@@ -157,7 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "وكالة: إيران تمنح الإذن لناقلات نفط عراقية بعبور مضيق هرمز",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "ارتفاع عجز الموازنة في بريطانيا بشكل مفاجئ",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "برودكوم تبحث تمويلاً قد يصل إلى 100 مليار دولار لدعم الـ AI",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "%99 نسبة إفصاح الشركات المدرجة في سوق أبوظبي",
@@ -197,7 +197,17 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
+  },
+  {
+    "title": "\"بلومبيرغ\": تضرر الخدمات اللوجستية للنفط السعودي جراء العمليات الحوثية في البحر الأحمر",
+    "summary": "قالت \"بلومبيرغ\" في تقرير نشر يوم الأحد، إن الخدمات اللوجستية للنفط السعودي تضررت جراء عمليات الحوثيين في البحر الأحمر.",
+    "link": "https://arabic.rt.com/business/1824361-%D8%A8%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%B1%D8%BA-%D8%AA%D8%B6%D8%B1%D8%B1-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%84%D9%88%D8%AC%D8%B3%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1/",
+    "published": "Sun, 23 Aug 2026 15:14:29 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787498885
   },
   {
     "title": "ارتفاع الإيرادات العامة لسلطنة عمان 13% في الربع الثاني من 2026 بدعم نفطي قوي",
@@ -207,7 +217,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "إيران تعلن اكتشاف 7.5 تريليون متر مكعب من  ​الغاز ​جنوب ​إقليم ​فارس",
@@ -217,7 +227,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "البنك المركزي المصري يقر قواعد الهوية المالية الرقمية لتسهيل فتح الحسابات عن بعد",
@@ -227,17 +237,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
-    "title": "إسرائيل تراهن على ممر IMEC لاختصار زمن الشحن ومنافسة قناة السويس",
-    "summary": "تخطط إسرائيل لتحويل ميناء حيفا إلى بوابة تجارية عالمية تنافس قناة السويس عبر مشروع ممر IMEC، في خطوة تهدف إلى تحدي الهيمنة المصرية على التجارة البحرية بين الشرق والغرب.",
-    "link": "https://arabic.rt.com/business/1824283-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D9%85%D8%B1-imec-%D9%84%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%AD%D9%86-%D9%88%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3/",
-    "published": "Sun, 23 Aug 2026 09:59:27 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
+    "title": "1.8 مليون في \"قاع الهامور\".. كيف غزت مدينة كرتونية مصر؟",
+    "summary": "تحولت مدينة كرتونية تعيش فيها شخصيات مسلسل \"سبونج بوب\" إلى مجتمع مصري افتراضي يضم، بحسب الأرقام الظاهرة على \"فيسبوك\"، نحو 1.8 مليون عضو، بعدما اجتاح تريند \"قاع الهامور\" المنصات خلال أيام.",
+    "link": "https://www.skynewsarabia.com/varieties/1887769-1-8-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%82%D8%A7%D8%B9-%D8%A7%D9%84%D9%87%D8%A7%D9%85%D9%88%D8%B1-%D8%BA%D8%B2%D8%AA-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%83%D8%B1%D8%AA%D9%88%D9%86%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1",
+    "published": "Sun, 23 Aug 2026 14:40:55 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "غيّر السيارات والهواتف.. توقيف \"دكتور فود\" في لبنان",
@@ -247,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "من مكبات النفايات.. أطفال غزة يجمعون وقود الطهي",
@@ -257,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "بنزين يعطل السيارات.. ضبط 81 ألف لتر غير مطابق بمصر",
@@ -267,17 +277,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787494927
-  },
-  {
-    "title": "\"تشييع افتراضي\" للمخرج المغربي \"الدرقاوي\" يثير الجدل",
-    "summary": "فتح الحضور المحدود في جنازة المخرج المغربي مصطفى الدرقاوي نقاشا داخل الوسط الثقافي، بعدما بدا مشهد وداع أحد رواد السينما المغربية مختلفا عن موجة النعي الواسعة التي ملأت منصات التواصل الاجتماعي عقب وفاته.",
-    "link": "https://www.skynewsarabia.com/varieties/1887699-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D9%85%D8%AE%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%AF%D8%B1%D9%82%D8%A7%D9%88%D9%8A-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%84",
-    "published": "Sun, 23 Aug 2026 02:26:08 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "قائد الجيش الباكستاني يزور طهران لبحث جهود الوساطة، وبزشكيان يقول إن إيران تخوض حرباً ثلاثية الأبعاد",
@@ -287,7 +287,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "الشيباني يدعو إسرائيل إلى اغتنام \"فرصة تاريخية\" ويقول إن باب الدبلوماسية مفتوح",
@@ -297,7 +297,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "\"إسرائيل تسعى إلى تدمير أي احتمال لقيام دولة فلسطينية مستقلة\" - رسالة مفتوحة في لوموند",
@@ -307,7 +307,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
     "title": "محمد بن سلمان في باريس: شراكة تتجاوز العلاقات الثنائية في زمن الحرب",
@@ -317,46 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
-    "title": "\"ليفربول لا يمكنه تعويض محمد صلاح\".. فان دايك يكشف تأثير رحيل \"مو\"",
-    "summary": "أكد قائد ليفربول فان دايك أن رحيل محمد صلاح عن صفوف \"الريدز\" يمثل خسارة يصعب تعويضها، مشددا على أن النجم المصري يستحق كل الإشادة بعد السنوات الاستثنائية التي قضاها داخل \"أنفليد\".",
-    "link": "https://arabic.rt.com/sport/1824349-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%84%D8%A7-%D9%8A%D9%85%D9%83%D9%86%D9%87-%D8%AA%D8%B9%D9%88%D9%8A%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D9%81%D8%A7%D9%86-%D8%AF%D8%A7%D9%8A%D9%83-%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1-%D8%B1%D8%AD%D9%8A%D9%84-%D9%85%D9%88/",
-    "published": "Sun, 23 Aug 2026 14:21:39 +0000",
+    "title": "مؤرخة: زيلينسكي يتظاهر بالحرص على أوكرانيا لكنه مهتم بالحفاظ على سلطته الفاسدة",
+    "summary": "قالت المؤرخة الأوكرانية مارتا غافريشكو، إن فلاديمير زيلينسكي يرفض إجراء الانتخابات بحجة الحرص على مصلحة البلاد، لكن ما يهمه فعلا هو فقط الحفاظ على نظام حكمه الفاسد والاستبدادي.",
+    "link": "https://arabic.rt.com/world/1824371-%D9%85%D8%A4%D8%B1%D8%AE%D8%A9-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D8%B5-%D8%B9%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%83%D9%86%D9%87-%D9%85%D9%87%D8%AA%D9%85-%D8%A8%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%B3%D9%84%D8%B7%D8%AA%D9%87-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D8%AF%D8%A9/",
+    "published": "Sun, 23 Aug 2026 15:27:11 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
-    "title": "درع ترامب الحصينة: السر الخفي وراء الجرأة غير المسبوقة لـ \"توم باراك\" في انتقاد إسرائيل",
-    "summary": "كشف تقرير للقناة الإسرائيلية 12 عن موجة جديدة من الجدل الدبلوماسي الذي أثاره المبعوث الأمريكي الخاص لسوريا والسفير لدى تركيا، توم باراك، بعد توجيهه اتهامات غير مسبوقة لإسرائيل.",
-    "link": "https://arabic.rt.com/world/1824346-%D8%AF%D8%B1%D8%B9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A7%D9%84%D8%AD%D8%B5%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%AE%D9%81%D9%8A-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%B1%D8%A3%D8%A9-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D9%88%D9%82%D8%A9-%D9%84%D9%80-%D8%AA%D9%88%D9%85-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/",
-    "published": "Sun, 23 Aug 2026 14:20:52 +0000",
+    "title": "ميدو يوجه رسالة إلى حمزة عبد الكريم بعد تألقه مع برشلونة (فيديو)",
+    "summary": "وجه ميدو رسالة إلى مواطنه حمزة عبد الكريم مهاجم برشلونة الشاب مشيدا بالفرصة التي حصل عليها اللاعب خلال الفترة التحضيرية ومؤكدا أن شجاعته وقدرته على استغلال الفرص تستحق الإشادة.",
+    "link": "https://arabic.rt.com/sport/1824354-%D9%85%D9%8A%D8%AF%D9%88-%D9%8A%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A5%D9%84%D9%89-%D8%AD%D9%85%D8%B2%D8%A9-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%A3%D9%84%D9%82%D9%87-%D9%85%D8%B9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+    "published": "Sun, 23 Aug 2026 15:22:32 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
-    "title": "فوتشيتش: روسيا لبت طلبنا فورا لإرسال طائرة خاصة لإخماد الحرائق",
-    "summary": "قال الرئيس الصربي ألكسندر فوتشيتش إن روسيا لبت طلب بلاده بسرعة قياسية وأرسلت على الفور طائرة خاصة من طراز \"إيل-76\" تابعة لوزارة الطوارئ لمكافحة حرائق الغابات بصربيا.",
-    "link": "https://arabic.rt.com/world/1824342-%D9%81%D9%88%D8%AA%D8%B4%D9%8A%D8%AA%D8%B4-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D8%A8%D8%AA-%D8%B7%D9%84%D8%A8%D9%86%D8%A7-%D9%81%D9%88%D8%B1%D8%A7-%D9%84%D8%A5%D8%B1%D8%B3%D8%A7%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B5%D8%A9-%D9%84%D8%A5%D8%AE%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82/",
-    "published": "Sun, 23 Aug 2026 14:07:01 +0000",
+    "title": "مسؤول إسرائيلي يحذر: مواجهة وشيكة مع تركيا على الجولان وشواطئ إسرائيل",
+    "summary": "حذر مسؤول استخباراتي إسرائيلي رفيع المستوى من أن إسرائيل قد تجد نفسها قريبا في مواجهة عسكرية مباشرة مع تركيا على هضبة الجولان وقبالة سواحل قيسارية، ما لم ترسم تل أبيب خطوطا حمراء.",
+    "link": "https://arabic.rt.com/world/1824370-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%88%D8%B4%D9%8A%D9%83%D8%A9-%D9%85%D8%B9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D9%88%D8%B4%D9%88%D8%A7%D8%B7%D8%A6-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/",
+    "published": "Sun, 23 Aug 2026 15:22:00 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   },
   {
-    "title": "اندلاع حريق هائل بمجمع الدورة النفطي في بغداد (فيديو)",
-    "summary": "اندلع حريق ضخم، اليوم الأحد، داخل مصفى الدورة في العاصمة العراقية بغداد، إثر نشوب النيران في عدد من الصهاريج الموجودة داخل المصفى.",
-    "link": "https://arabic.rt.com/middle_east/1824341-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%AF%D9%84%D8%A7%D8%B9-%D8%AD%D8%B1%D9%8A%D9%82-%D9%87%D8%A7%D8%A6%D9%84-%D8%A8%D9%85%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
-    "published": "Sun, 23 Aug 2026 14:05:56 +0000",
+    "title": "الجزائر.. توقيف مشتبه به في قضية الإساءة إلى الإسلام والنبي محمد في الشلف",
+    "summary": "أوقفت مصالح أمن ولاية الشلف الجزائرية مشتبهاً به، على خلفية قضية تتعلق بالإساءة للرسول محمد والاستهزاء بالدين الإسلامي عبر تكنولوجيات الإعلام والاتصال والفضاء السيبراني.",
+    "link": "https://arabic.rt.com/society/1824366-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D9%87-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%A7%D8%A1%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D9%85%D8%AD%D9%85%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%84%D9%81/",
+    "published": "Sun, 23 Aug 2026 15:06:30 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787494927
+    "fetched_at": 1787498885
   }
 ]
