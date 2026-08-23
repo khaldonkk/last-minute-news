@@ -1,5 +1,15 @@
 [
   {
+    "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+    "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+    "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+    "published": "Fri, 21 Aug 2026 20:24:42 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787489466
+  },
+  {
     "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
     "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
     "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
@@ -7,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Calling on Cyber Pros to Help Defend City Hall",
@@ -17,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -27,17 +37,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-    "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
-    "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-    "published": "Thu, 20 Aug 2026 20:42:18 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Hackers infect Android car head units with proxy botnet malware",
@@ -47,7 +47,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
@@ -57,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
@@ -67,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
@@ -77,7 +77,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -87,7 +87,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -97,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -107,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
@@ -117,7 +117,17 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "جائزة أبوظبي الكبرى للفورمولا 1 تنطلق 3 ديسمبر",
+    "summary": "تقام فعاليات جائزة الاتحاد للطيران الكبرى للفورمولا 1 في أبوظبي خلال الفترة من 3 حتى 6 ديسمبر المقبل، على حلبة مرسى ياس، في ختام موسم 2026 من بطولة العالم للفورمولا 1.",
+    "link": "https://www.skynewsarabia.com/sport/1887753-%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D9%84%D9%84%D9%81%D9%88%D8%B1%D9%85%D9%88%D9%84%D8%A7-1-%D8%AA%D9%86%D8%B7%D9%84%D9%82-3-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1",
+    "published": "Sun, 23 Aug 2026 12:36:23 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787489466
   },
   {
     "title": "مورينيو بعد الفوز: الانتصار بالروح.. ومقاعد البدلاء",
@@ -127,7 +137,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "ريال مدريد يفتتح الموسم بفوز في الدقيقة 90",
@@ -137,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "وفاة اللاعب البرتغالي كاسترو عقب انهياره خلال مباراة ودية",
@@ -147,17 +157,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "بعد صفع لاعب منافس.. فرض غرامة مالية على ميسي",
-    "summary": "فرضت رابطة الدوري الأميركي لكرة القدم غرامات مالية، لم يتم الكشف عن قيمتها، على الأرجنتيني ليونيل ميسي وزميله في إنتر ميامي إيان فراي، بسبب الاحتكاك بمنطقة الرأس والرقبة لدى منافسين في واقعتين منفصلتين خلال الوقت بدل الضائع من الشوط الثاني في مباراة انتهت بالتعادل 2-2 أمام فيلادلفيا.",
-    "link": "https://www.skynewsarabia.com/sport/1887584-%D8%B5%D9%81%D8%B9-%D9%84%D8%A7%D8%B9%D8%A8-%D9%85%D9%86%D8%A7%D9%81%D8%B3-%D9%81%D8%B1%D8%B6-%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A",
-    "published": "Sat, 22 Aug 2026 15:53:40 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "وكالة: إيران تمنح الإذن لناقلات نفط عراقية بعبور مضيق هرمز",
@@ -167,7 +167,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "ارتفاع عجز الموازنة في بريطانيا بشكل مفاجئ",
@@ -177,7 +177,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "برودكوم تبحث تمويلاً قد يصل إلى 100 مليار دولار لدعم الـ AI",
@@ -187,7 +187,7 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "%99 نسبة إفصاح الشركات المدرجة في سوق أبوظبي",
@@ -197,7 +197,37 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "إيران تعلن اكتشاف 7.5 تريليون متر مكعب من  ​الغاز ​جنوب ​إقليم ​فارس",
+    "summary": "قال وزير ‌النفط الإيراني محسن ​باك ​نجاد، اليوم الأحد، إن ​بلاده ​اكتشفت أكثر من ‌7.5 ⁠تريليون قدم مكعبة من ​الغاز ​في ⁠حقل جنوبي ​إقليم ​فارس.",
+    "link": "https://arabic.rt.com/business/1824313-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-75-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%85%D8%AA%D8%B1-%D9%85%D9%83%D8%B9%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%AC%D9%86%D9%88%D8%A8-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D9%81%D8%A7%D8%B1%D8%B3/",
+    "published": "Sun, 23 Aug 2026 12:14:18 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "البنك المركزي المصري يقر قواعد الهوية المالية الرقمية لتسهيل فتح الحسابات عن بعد",
+    "summary": "أقر البنك المركزي المصري القواعد المنظمة لمنظومة الهوية المالية الرقمية، لتمكين المواطنين من فتح الحسابات والحصول على الخدمات المصرفية إلكترونيا دون الحاجة لزيارة الفروع.",
+    "link": "https://arabic.rt.com/business/1824301-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%82%D8%B1-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%84%D8%AA%D8%B3%D9%87%D9%8A%D9%84-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF/",
+    "published": "Sun, 23 Aug 2026 11:05:59 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "إسرائيل تراهن على ممر IMEC لاختصار زمن الشحن ومنافسة قناة السويس",
+    "summary": "تخطط إسرائيل لتحويل ميناء حيفا إلى بوابة تجارية عالمية تنافس قناة السويس عبر مشروع ممر IMEC، في خطوة تهدف إلى تحدي الهيمنة المصرية على التجارة البحرية بين الشرق والغرب.",
+    "link": "https://arabic.rt.com/business/1824283-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%B1%D8%A7%D9%87%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D9%85%D8%B1-imec-%D9%84%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%AD%D9%86-%D9%88%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3/",
+    "published": "Sun, 23 Aug 2026 09:59:27 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787489466
   },
   {
     "title": "ترامب: كندا تريد امتيازات مفرطة",
@@ -207,37 +237,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "\"نوفوستي\": الصراع في الشرق الأوسط لم يؤثر على مبيعات المنتجات الروسية في قطر",
-    "summary": "أفادت وكالة \"نوفوستي\" بأن الصراع في الشرق الأوسط لم يؤثر على مبيعات المنتجات الروسية في المتاجر القطرية بما في ذلك الحبوب والبذور والقهوة.",
-    "link": "https://arabic.rt.com/business/1824251-%D9%86%D9%88%D9%81%D9%88%D8%B3%D8%AA%D9%8A-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%85-%D9%8A%D8%A4%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D8%B1/",
-    "published": "Sun, 23 Aug 2026 07:32:49 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "\"ذا أتلانتيك\": ترامب يخسر الحرب التجارية مع كندا",
-    "summary": "اعتبرت مجلة \"ذا أتلانتيك\" أن الرئيس الأمريكي دونالد ترامب يخسر النزاع التجاري مع كندا، وأن التهديدات والضغوط التي يمارسها على أوتاوا لا تجدي نفعا.",
-    "link": "https://arabic.rt.com/business/1824236-%D8%B0%D8%A7-%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D9%83-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AE%D8%B3%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9-%D9%83%D9%86%D8%AF%D8%A7/",
-    "published": "Sun, 23 Aug 2026 05:47:36 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "إيران تعلن إيداع 7.5 مليار دولار من عائدات النفط في البنك المركزي",
-    "summary": "أعلن البنك المركزي الإيراني أن وزارة النفط أودعت 7.5 مليار دولار في حسابه الرسمي، تمثل عائدات مبيعات النفط والعملات الأجنبية خلال الأشهر الأربعة الأولى من العام الإيراني الجاري.",
-    "link": "https://arabic.rt.com/business/1824234-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A5%D9%8A%D8%AF%D8%A7%D8%B9-75-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%B9%D8%A7%D8%A6%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A/",
-    "published": "Sun, 23 Aug 2026 05:22:22 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "من مكبات النفايات.. أطفال غزة يجمعون وقود الطهي",
@@ -247,7 +247,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "بنزين يعطل السيارات.. ضبط 81 ألف لتر غير مطابق بمصر",
@@ -257,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "\"تشييع افتراضي\" للمخرج المغربي \"الدرقاوي\" يثير الجدل",
@@ -267,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
     "title": "غريبان يقودان امرأة 7 ساعات إلى عيد ميلادها الـ90",
@@ -277,7 +277,17 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "بزشكيان يقرّ بالأزمات الداخلية وإيران تهدد المشاركين في العقوبات الأمريكية",
+    "summary": "إيران تصعّد لهجتها في مواجهة حملة العقوبات الأمريكية الجديدة، فيما يقرّ الرئيس مسعود بزشكيان بتفاقم الأزمات المعيشية، بالتزامن مع إعدام متهم على خلفية الاحتجاجات، وتحرّكات باكستانية لإنهاء الحرب.",
+    "link": "https://www.bbc.com/arabic/articles/c4gxgewjev7o?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 10:00:13 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787489466
   },
   {
     "title": "الشيباني يدعو إسرائيل إلى اغتنام \"فرصة تاريخية\" ويقول إن باب الدبلوماسية مفتوح",
@@ -287,7 +297,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
+  },
+  {
+    "title": "\"إسرائيل تسعى إلى تدمير أي احتمال لقيام دولة فلسطينية مستقلة\" - رسالة مفتوحة في لوموند",
+    "summary": "في عرض الصحف اليوم، رسالة من دبلوماسيين فرنسيين وبريطانيين سابقين تدعو حكومتي البلدين إلى فرض عقوبات على إسرائيل، وتساؤلات حول ما إذا كان ترامب وراء تراجع مظاهر احتفال طالبان بـ\"يوم النصر\" هذا العام، وأخيراً، كيف انخفض معدل الجوع عالمياً رغم استمرار الصراعات وارتفاع الأسعار؟",
+    "link": "https://www.bbc.com/arabic/articles/c9343jlkwqwo?at_medium=RSS&at_campaign=rss",
+    "published": "Sun, 23 Aug 2026 10:41:46 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787489466
   },
   {
     "title": "محمد بن سلمان في باريس: شراكة تتجاوز العلاقات الثنائية في زمن الحرب",
@@ -297,66 +317,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
-    "title": "إيران تتوعد باستهداف مصالح الدول التي تساعد الولايات المتحدة في شن حرب اقتصادية عليها",
-    "summary": "رئيس البرلمان الإيراني يشير لتلقي طهران رسائل من دول مجاورة بشأن ترتيبات أمنية واقتصادية جديدة في المنطقة، بالتزامن مع استعداد واشنطن لفرض عقوبات جديدة على إيران",
-    "link": "https://www.bbc.com/arabic/articles/c04kwww56keo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 22 Aug 2026 17:50:58 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "موبي ديك: رواية القرن التاسع عشر التي تحدت خوف الإنسان من الحوت \"العملاق\"",
-    "summary": "لا تزال رواية \"موبي ديك\" تتجاوز قصة مطاردة شخص لحوت عملاق وصراع الإنسان معه، ففي أعماقها سؤال أكثر إثارة: لماذا أثارت هذه الكائنات البحرية العملاقة كل هذا الخوف والرهبة في نفوس البشر؟",
-    "link": "https://www.bbc.com/arabic/articles/crmrm7p9emdo?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 23 Aug 2026 05:40:00 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787477617
-  },
-  {
-    "title": "العراق يستعد لإعادة 6 آلاف سجين من 61 جنسية إلى بلدانهم",
-    "summary": "أعلنت وزارة العدل العراقية الأحد تفعيل إجراءات دبلوماسية مكثفة لنقل نحو 6 آلاف سجين من العرب والأجانب المحكومين داخل سجونها إلى بلدانهم الأصلية لاستكمال مدد محكومياتهم.",
-    "link": "https://arabic.rt.com/middle_east/1824269-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-6-%D8%A2%D9%84%D8%A7%D9%81-%D8%B3%D8%AC%D9%8A%D9%86-%D9%85%D9%86-61-%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%84%D8%AF%D8%A7%D9%86%D9%87%D9%85/",
-    "published": "Sun, 23 Aug 2026 09:28:19 +0000",
+    "title": "ميسي يهز شباك تورونتو في خسارة إنتر ميامي بالدوري الأمريكي (فيديو)",
+    "summary": "تعرض نادي إنتر ميامي لخسارة قاسية على أرضه ووسط جماهيره أمام نظيره تورونتو بهدفين مقابل هدف ضمن منافسات بطولة الدوري الأمريكي الممتاز في لقاء شهد مشاركة الأسطورة، ليونيل ميسي.",
+    "link": "https://arabic.rt.com/sport/1824315-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%87%D8%B2-%D8%B4%D8%A8%D8%A7%D9%83-%D8%AA%D9%88%D8%B1%D9%88%D9%86%D8%AA%D9%88-%D9%81%D9%8A-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A5%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D8%A7%D9%85%D9%8A-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+    "published": "Sun, 23 Aug 2026 12:41:05 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
-    "title": "مكتب نتنياهو يشترط نزع سلاح حماس فعليا للانسحاب من غزة ويحذر من إعادة بناء قدراتها",
-    "summary": "شدد المتحدث باسم مكتب رئيس الوزراء الإسرائيلي بنيامين نتنياهو، دورون شبيليمان، على أن الجيش الإسرائيلي لن ينسحب من قطاع غزة، الذي تسيطر قواته على أكثر من 60% من أراضيه.",
-    "link": "https://arabic.rt.com/middle_east/1824260-%D9%85%D9%83%D8%AA%D8%A8-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B4%D8%AA%D8%B1%D8%B7-%D9%86%D8%B2%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AD%D9%85%D8%A7%D8%B3-%D9%81%D8%B9%D9%84%D9%8A%D8%A7-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%88%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A8%D9%86%D8%A7%D8%A1-%D9%82%D8%AF%D8%B1%D8%A7%D8%AA%D9%87%D8%A7/",
-    "published": "Sun, 23 Aug 2026 09:28:12 +0000",
+    "title": "عراقجي: ضغوط ترامب على إيران \"سيناريو مكرر\" والحوار المبني على الاحترام هو أساس الحل",
+    "summary": "أکد وزیر الخارجية الإيراني عباس عراقجي، اليوم الأحد أن الولايات المتحدة الأمريكية لیس أمامها خیار سوی الحدیث بلغة الاحترام وإیجاد حل قائم علی \"العدالة والشرف\".",
+    "link": "https://arabic.rt.com/world/1824319-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D8%B6%D8%BA%D9%88%D8%B7-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B9%D9%84%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88-%D9%85%D9%83%D8%B1%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A8%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%85-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%AD%D9%84/",
+    "published": "Sun, 23 Aug 2026 12:40:15 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
-    "title": "أوشاكوف: بوتين وترامب سيتحدثان في قمة أبيك في الصين حال مشاركتهما",
-    "summary": "قال يوري أوشاكوف مساعد الرئيس الروسي إنه من المؤكد أن الرئيسين الروسي فلاديمير بوتين والأمريكي دونالد ترامب سيلتقيان في قمة \"أبيك\" في الصين في نوفمبر في حال مشاركتهما.",
-    "link": "https://arabic.rt.com/world/1824268-%D8%A3%D9%88%D8%B4%D8%A7%D9%83%D9%88%D9%81-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%B3%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB%D8%A7%D9%86-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D8%A3%D8%A8%D9%8A%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%81%D9%8A-%D8%AD%D8%A7%D9%84-%D8%AD%D8%B6%D8%B1%D8%A7-%D9%83%D9%84%D8%A7%D9%87%D9%85%D8%A7/",
-    "published": "Sun, 23 Aug 2026 09:11:49 +0000",
+    "title": "ممدوح حمادة خلف الكاميرا للمرة الأولى.. رحلة طويلة من سلسلة النجوم إلى ضيعة ضايعة",
+    "summary": "بعد مسيرة طويلة في كتابة الكوميديا والدراما السورية، يستعد الكاتب والسيناريست ممدوح حمادة لخوض تجربة جديدة، بالانتقال للمرة الأولى إلى إخراج عمل تلفزيوني طويل من تأليفه.",
+    "link": "https://arabic.rt.com/culture/1824309-%D9%85%D9%85%D8%AF%D9%88%D8%AD-%D8%AD%D9%85%D8%A7%D8%AF%D8%A9-%D8%AE%D9%84%D9%81-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%B1%D8%AD%D9%84%D8%A9-%D8%B7%D9%88%D9%8A%D9%84%D8%A9-%D9%85%D9%86-%D8%B9%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D8%B6%D9%8A%D8%B9%D8%A9-%D8%B6%D8%A7%D9%8A%D8%B9%D8%A9/",
+    "published": "Sun, 23 Aug 2026 12:35:39 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   },
   {
-    "title": "باحث إسرائيلي يفضح أكاذيب تل أبيب  عن \"محور سني\" ونوايا هجومية مصرية",
-    "summary": "كشف تقرير إسرائيلي عن زيف الفرضيات التي تروج لها القيادة في تل أبيب بشأن تشكل محور سني جديد، مشددا على أن هذه الروايات تشمل تلفيق نوايا هجومية مصرية كجزء من حرب الأوهام السياسية.",
-    "link": "https://arabic.rt.com/middle_east/1824266-%D8%A8%D8%A7%D8%AD%D8%AB-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D9%81%D8%B6%D8%AD-%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%B0%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A9-%D8%B9%D9%86-%D9%85%D8%AD%D9%88%D8%B1-%D8%B3%D9%86%D9%8A-%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%8A%D9%83%D8%B4%D9%81-%D8%AA%D9%84%D9%81%D9%8A%D9%82-%D9%86%D9%88%D8%A7%D9%8A%D8%A7-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/",
-    "published": "Sun, 23 Aug 2026 08:51:37 +0000",
+    "title": "لافروف: دول \"الناتو\" والاتحاد الأوروبي تحاول \"التنصل\" من مسؤولية مساعدتها لأوكرانيا",
+    "summary": "أكد وزير الخارجية الروسي سيرغي لافروف أن دول حلف \"الناتو\" والاتحاد الأوروبي لن تتمكن من \"التنصل\" من مساعداتها العسكرية لأوكرانيا وخطها المعادي لروسيا.",
+    "link": "https://arabic.rt.com/world/1824314-%D9%84%D8%A7%D9%81%D8%B1%D9%88%D9%81-%D8%AA%D8%AD%D8%A7%D9%88%D9%84-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%86%D8%B5%D9%84-%D9%85%D9%86-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7/",
+    "published": "Sun, 23 Aug 2026 12:33:42 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787477617
+    "fetched_at": 1787489466
   }
 ]
