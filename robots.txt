@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# رابط الخريطة لتسهيل الأرشفة
+Sitemap: https://last-minute-news.netlify.app/sitemap.xml
