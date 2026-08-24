@@ -1,5 +1,15 @@
 [
   {
+    "title": "The cat-and-mouse game over 3D-printed guns has begun",
+    "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody [&#8230;]",
+    "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+    "published": "2026-08-24T15:50:00-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787607310
+  },
+  {
     "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
     "summary": "The FTC and Zillow have announced a settlement that ends the case alleging that a 2025 \"partnership\" between Zillow and Redfin violated antitrust laws. The FTC had alleged Zillow agreed to pay Redfin to syndicate its listings, while Redfin would end its own advertising contracts and promise not to compete with Zillow for multifamily listings. [&#8230;]",
     "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
@@ -7,7 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Robotaxis are real now — so is the pushback",
@@ -17,7 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "The Witcher 4 developers target a 2028 release",
@@ -27,97 +37,117 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "ESPN streaming plans are getting more expensive",
-    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while its Unlimited plan will rise to $31.99 from [&#8230;]",
-    "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-    "published": "2026-08-24T11:06:24-04:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "published": "Mon, 24 Aug 2026 18:03:55 +0000",
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "published": "Mon, 24 Aug 2026 21:24:17 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "title": "Zillow and Redfin settle FTC antitrust case",
+    "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
+    "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+    "published": "Mon, 24 Aug 2026 20:45:33 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
+    "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+    "published": "Mon, 24 Aug 2026 20:16:34 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Brake problems in GM EVs draw greater federal scrutiny",
-    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-    "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-    "published": "Mon, 24 Aug 2026 14:18:47 +0000",
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+    "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "published": "Mon, 24 Aug 2026 19:58:17 +0000",
     "source": "TechCrunch",
-    "category": "تقنية",
+    "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-    "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-    "link": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "published": "Mon, 24 Aug 2026 11:00:01 +0000",
+    "title": "GM vehicles under federal scrutiny after hundreds of reports",
+    "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
+    "link": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+    "published": "Mon, 24 Aug 2026 19:42:50 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-    "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-    "published": "Sun, 23 Aug 2026 14:30:16 +0000",
+    "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+    "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+    "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "published": "Mon, 24 Aug 2026 19:19:21 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Volcanoes that made history",
-    "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
-    "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-    "published": "Sun, 23 Aug 2026 11:02:54 +0000",
+    "title": "Buyer beware: Those mummified remains might carry toxic spores",
+    "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
+    "link": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
+    "published": "Mon, 24 Aug 2026 16:59:07 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Putting mice into hibernation causes a major loss of synapses",
-    "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
-    "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-    "published": "Sat, 22 Aug 2026 11:22:32 +0000",
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "published": "Mon, 24 Aug 2026 16:41:45 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "Bitdefender VPN Review: Fast and Affordable Privacy",
+    "summary": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want.",
+    "link": "https://www.wired.com/review/bitdefender-vpn/",
+    "published": "Mon, 24 Aug 2026 21:08:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
+    "summary": "With advice from infectious disease experts, I tested a low-effort way to pasteurize eggs at home.",
+    "link": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
+    "published": "Mon, 24 Aug 2026 20:45:52 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
+    "summary": "Salmonella outbreaks are seemingly everywhere right now. A good temperature probe is the last and best line of defense.",
+    "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
+    "published": "Mon, 24 Aug 2026 20:22:35 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787607310
   },
   {
     "title": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
@@ -127,37 +157,17 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
-    "summary": "With two cameras and built-in climate sensors, the Birdfy Nest Duo let me watch an entire nesting season unfold.",
-    "link": "https://www.wired.com/review/birdfy-nest-duo/",
-    "published": "Mon, 24 Aug 2026 11:30:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
+    "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+    "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+    "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+    "published": "Mon, 24 Aug 2026 20:51:27 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "The Kindle Accessories I Never Want to Read Without (2026)",
-    "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
-    "link": "https://www.wired.com/story/best-kindle-accessories/",
-    "published": "Mon, 24 Aug 2026 11:09:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More",
-    "summary": "Home theater projectors are getting better and better, and have quickly become my favorite way to enjoy movies.",
-    "link": "https://www.wired.com/story/best-home-theater-projector/",
-    "published": "Mon, 24 Aug 2026 11:00:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
@@ -167,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
@@ -177,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
@@ -187,17 +197,27 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-    "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
-    "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-    "published": "Fri, 21 Aug 2026 20:24:42 GMT",
-    "source": "Dark Reading",
+    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+    "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+    "published": "Mon, 24 Aug 2026 17:14:30 -0400",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+    "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+    "published": "Mon, 24 Aug 2026 15:26:32 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787607310
   },
   {
     "title": "TikTok reaches $400M settlement with US over COPPA violations",
@@ -207,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
@@ -217,27 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "Microsoft Teams now lets admins block external bots from meetings",
-    "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-    "published": "Mon, 24 Aug 2026 10:00:19 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "South Korean startup platform breach exposes key management failures",
-    "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-    "published": "Mon, 24 Aug 2026 10:00:10 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "91 Vulnerabilities Patched in Spring Application Framework",
@@ -317,7 +317,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Suspected Iran-linked attack knocked UK power plant offline for days",
@@ -327,7 +327,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Cybersecurity job ads demanding AI skills double in a year",
@@ -337,7 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "CISA’s logging guidance works beyond government",
@@ -347,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Android car head units infected with proxy botnet malware through built-in software updaters",
@@ -357,7 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Read This Before You Buy That TV Streaming Stick",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Criminal Deception in Silicon Valley",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Friday Squid Blogging: Neon Flying Squid",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "AI Is Learning to Write Genetic Code",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "موهبة برازيلية في طريقها إلى مانشستر سيتي",
+    "summary": "توصل نادي بالميراس البرازيلي إلى اتفاق لنقل جناحه الشاب آلان إلى مانشستر سيتي الإنجليزي مقابل 40 مليون يورو، نحو 46.6 مليون دولار، وفق ما أفاد مصدر في النادي وكالة فرانس برس.",
+    "link": "https://www.skynewsarabia.com/sport/1887954-%D9%85%D9%88%D9%87%D8%A8%D8%A9-%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82%D9%87%D8%A7-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A",
+    "published": "Mon, 24 Aug 2026 19:50:51 GMT",
+    "source": "سكای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787607310
   },
   {
     "title": "كرة \"يد مارادونا\" تباع مجددا بـ3.3 مليون دولار",
@@ -487,7 +497,7 @@
     "source": "سكای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "طرابزون يلم شمل صلاح بزميله القديم",
@@ -497,7 +507,7 @@
     "source": "سكای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "رسالة شديدة اللهجة من رئيس اليويفا لإنفانتينو: ارحل",
@@ -507,17 +517,7 @@
     "source": "سكای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "كريم أديمي يتألق في أول ظهور.. فوز كاسح لبرشلونة",
-    "summary": "استهل نادي برشلونة حملة الدفاع عن لقب الدوري الإسباني لكرة القدم، وسعيه للفوز به للمرة الثالثة تواليا بالفوز 5-صفر على مضيفه نادي إلتشي في المباراة التي أقيمت الأحد، في أداء هجومي مميز أكد جاهزية الفريق للموسم الجديد.",
-    "link": "https://www.skynewsarabia.com/sport/1887825-%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D8%AF%D9%8A%D9%85%D9%8A-%D9%8A%D8%AA%D8%A3%D9%84%D9%82-%D8%A3%D9%88%D9%84-%D8%B8%D9%87%D9%88%D8%B1-%D9%81%D9%88%D8%B2-%D9%83%D8%A7%D8%B3%D8%AD-%D9%84%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9",
-    "published": "Sun, 23 Aug 2026 23:00:18 GMT",
-    "source": "سكای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "165 مليار درهم إجمالي أصول قطاع التأمين بنمو 6.1%",
@@ -527,7 +527,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "هل وجدت الصين ثغرة جديدة للالتفاف على الرسوم الأميركية؟",
@@ -537,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "36 مليار يورو.. \"فاتورة مرعبة\" تدفعها ألمانيا بسبب موجة الحر",
@@ -547,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "القهوة الفاخرة في خطر.. والسبب أمطار البرازيل",
@@ -557,7 +557,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "البيتكوين يقفز إلى 80 ألف دولار لأول مرة منذ 15 مايو",
@@ -567,7 +567,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "نائب رئيس الحكومة الروسية: هناك آفاق لإقامة مشاريع جديدة مع الهند بشأن المعادن غير الحديدية والنادرة",
@@ -577,7 +577,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "\"توتال إنرجيز\" تؤكد التزامها بالشرق الأوسط وتستهدف توسيع خطوط التصدير عبر الفجيرة وبغداد",
@@ -587,7 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "المغرب يستأنف دعم استيراد القمح اللين لتعزيز المخزون الوطني",
@@ -597,7 +597,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "مقابض الأبواب تربك \"تيسلا\".. سحب 3 ملايين سيارة",
@@ -607,7 +607,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "المحيطات تسجل أعلى حرارة في التاريخ",
@@ -617,7 +617,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "العراق.. إحباط عمليات لتهريب وبيع قطع أثرية نادرة",
@@ -627,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "\"مسبح للأطفال السود\".. فعالية تثير جدلا في ألمانيا",
@@ -637,7 +637,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "واشنطن تفرض عقوبات جديدة ضد إيران تستهدف 60 شخصاً وكياناً و\"خمسة شرايين حيوية\"، وطهران تحذر من المشاركة فيها",
@@ -647,7 +647,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
+  },
+  {
+    "title": "من تمرد المستعبَدين إلى ولادة هايتي، ما قصة الثورة التي غيّرت تاريخ العبودية؟",
+    "summary": "اختارت اليونسكو 23 أغسطس لإحياء ذكرى تجارة الرقيق وإلغائها، تخليداً لانتفاضة المستعبَدين في سان دومينغو عام 1791. وتروي القصة كيف تحولت الانتفاضة إلى ثورة فرضت إلغاء العبودية وهزمت جيش نابليون وقادت إلى استقلال هايتي، أول دولة حديثة تنشأ من ثورة ناجحة للمستعبَدين.",
+    "link": "https://www.bbc.com/arabic/articles/c9805jpyjmgo?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 19:11:41 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787607310
   },
   {
     "title": "حظر الهواتف الذكية وفرض الرقابة وإدارة شؤون الطلاق، كيف تحكم طالبان أفغانستان؟",
@@ -657,7 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
     "title": "\"دراغون بول\" بحجم ديزني لاند على طاولة بن سلمان وماكرون في باريس",
@@ -667,56 +677,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "الطائرات الورقية في غزة: إسرائيل تحذّر وحماس تقول إنّها ألعاب",
-    "summary": "طائرات ورقية أطلقها أطفال من غزة تثير مخاوف وتحذيرات إسرائيلية من التصعيد، فيما تنفي حماس مسؤوليتها وتقول إنها مجرد ألعاب للأطفال وسط الدمار والنزوح.",
-    "link": "https://www.bbc.com/arabic/articles/ce8e0xj3468o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 09:47:50 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787597371
-  },
-  {
-    "title": "الولايات المتحدة تهدد بعض الدول بالحرمان من \"النظام الدولاري\"",
-    "summary": "هدد وزير الخزانة الأمريكي سكوت بيسنت، اليوم الاثنين، بعض الدول بالحرمان من \"النظام الدولاري\".",
-    "link": "https://arabic.rt.com/world/1824860-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%B9%D8%B6-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A8%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D9%8A/",
-    "published": "Mon, 24 Aug 2026 18:39:05 +0000",
+    "title": "رحيل رابع لاعب وسط.. هجرة لاعبي مانشستر سيتي مستمرة",
+    "summary": "واصل مانشستر سيتي الإنجليزي لكرة القدم، خسارة لاعبي خط الوسط هذا الصيف، بعدما حسم نادي نيوكاسل صفقة جديدة من صفوف الفريق خلال فترة الانتقالات الصيفية الحالية.",
+    "link": "https://arabic.rt.com/sport/1824906-%D8%B1%D8%AD%D9%8A%D9%84-%D8%B1%D8%A7%D8%A8%D8%B9-%D9%84%D8%A7%D8%B9%D8%A8-%D9%88%D8%B3%D8%B7-%D9%87%D8%AC%D8%B1%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D8%B3%D9%8A%D8%AA%D9%8A-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/",
+    "published": "Mon, 24 Aug 2026 21:30:51 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "شاهد.. رونالدو يفاجئ لاعبي نادي النصر السعودي في الدمام",
-    "summary": "فاجأ النجم البرتغالي كريستيانو رونالدو قائد نادي النصر، زملاءه بالالتحاق بمعسكر الفريق في مدينة الدمام، استعدادا للمواجهة ضد الاتفاق، وسط تفاعل كبير من لاعبي \"العالمي\" وجماهيره.",
-    "link": "https://arabic.rt.com/sport/1824858-%D8%B4%D8%A7%D9%87%D8%AF-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D9%81%D8%A7%D8%AC%D8%A6-%D9%84%D8%A7%D8%B9%D8%A8%D9%8A-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/",
-    "published": "Mon, 24 Aug 2026 18:37:22 +0000",
+    "title": "شاهد.. أهداف الاتحاد والحزم",
+    "summary": "انتزع نادي الاتحاد فوزا بشق النفس من ضيفه الحزم (3-2) في المباراة التي جمعتهما مساء يوم الاثنين، وذلك ضمن منافسات الجولة الثالثة من دوري \"روشن\" السعودي لكرة القدم للمحترفين.",
+    "link": "https://arabic.rt.com/sport/1824904-%D8%B4%D8%A7%D9%87%D8%AF-%D8%A7%D9%87%D8%AF%D8%A7%D9%81-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%88%D8%A7%D9%84%D8%AD%D8%B2%D9%85/",
+    "published": "Mon, 24 Aug 2026 21:28:17 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "العراق.. ضربة استخبارية تطيح بشبكة إلكترونية للنصب والاحتيال المالي استدرجت الآلاف",
-    "summary": "أفاد مصدر أمني عراقي، مساء الاثنين، بتفكيك شبكة للنصب والاحتيال الإلكتروني استدرجت الآلاف من المواطنين واعتقال الرأس المدبر لها وعددا من أفرادها.",
-    "link": "https://arabic.rt.com/middle_east/1824859-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%B5%D8%A8-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A-%D8%A7%D8%B3%D8%AA%D8%AF%D8%B1%D8%AC%D8%AA-%D8%A7%D9%84%D8%A2%D9%84%D8%A7%D9%81/",
-    "published": "Mon, 24 Aug 2026 18:32:48 +0000",
+    "title": "وزيرة خارجية هنغاريا تؤكد معارضة بلادها لانضمام أوكرانيا السريع إلى الاتحاد الأوروبي",
+    "summary": "قالت وزيرة خارجية هنغاريا أنيتا أوربان إن حكومة بلادها لا تزال تعارض  قبول أوكرانيا السريع في الاتحاد الأوروبي، وتعتقد أن انضمامها يجب أن يتم وفق معايير الاتحاد العامة.",
+    "link": "https://arabic.rt.com/world/1824893-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%87%D9%86%D8%BA%D8%A7%D8%B1%D9%8A%D8%A7-%D8%AA%D8%A4%D9%83%D8%AF-%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A8%D9%84%D8%A7%D8%AF%D9%87%D8%A7-%D9%84%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A/",
+    "published": "Mon, 24 Aug 2026 21:26:01 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   },
   {
-    "title": "واشنطن تدرج 48 كيانا قانونيا و24 شخصا في قائمة العقوبات ضد إيران",
-    "summary": "أفاد المكتب الإعلامي لوزارة الخزانة الأمريكية بأن إدارة الرئيس دونالد ترامب، أدرجت 48 كيانا قانونيا، و24 شخصا، و6 ناقلات نفط في قائمة العقوبات المفروضة على إيران.",
-    "link": "https://arabic.rt.com/world/1824861-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AF%D8%B1%D8%AC-48-%D9%83%D9%8A%D8%A7%D9%86%D8%A7-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A7-%D9%8824-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86/",
-    "published": "Mon, 24 Aug 2026 18:31:49 +0000",
+    "title": "الخارجية الروسية: كييف تواصل عمليات الاستيلاء على الكنائس الأرثوذكسية الأوكرانية",
+    "summary": "ذكرت وزارة الخارجية الروسية في تقرير أن نظام كييف يواصل حملة الاستيلاء على الكنائس الأرثوذكسية الأوكرانية، باستخدام العنف البدني واللفظي ضد رجال الدين والمصلين.",
+    "link": "https://arabic.rt.com/world/1824879-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D9%83%D9%8A%D9%8A%D9%81-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%84%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%83%D9%86%D8%A7%D8%A6%D8%B3-%D8%A7%D9%84%D8%A3%D8%B1%D8%AB%D9%88%D8%B0%D9%83%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/",
+    "published": "Mon, 24 Aug 2026 21:25:35 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787597371
+    "fetched_at": 1787607310
   }
 ]
