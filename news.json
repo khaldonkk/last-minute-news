@@ -7,7 +7,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
@@ -17,7 +17,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "Calling on Cyber Pros to Help Defend City Hall",
@@ -27,7 +27,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -37,7 +37,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
+  },
+  {
+    "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+    "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+    "published": "Mon, 24 Aug 2026 05:42:05 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1787565262
   },
   {
     "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
@@ -47,7 +57,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "Hackers infect Android car head units with proxy botnet malware",
@@ -57,7 +67,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
@@ -67,17 +77,17 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-    "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-    "published": "Fri, 21 Aug 2026 14:01:30 -0400",
-    "source": "BleepingComputer",
+    "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+    "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
+    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "published": "Mon, 24 Aug 2026 13:38:31 +0530",
+    "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
@@ -87,7 +97,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -97,7 +107,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -107,17 +117,27 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-    "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\nKaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet.\n\n\"The malware spread through the built-in updaters of",
-    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-    "published": "Fri, 21 Aug 2026 21:11:44 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1787555358
+    "title": "طرابزون يلم شمل صلاح بزميله القديم",
+    "summary": "انضم لاعب الوسط البرازايلي فابينيو إلى ⁠زميله السابق النجم المصري محمد صلاح، في صفوف طرابزون سبور التركي.",
+    "link": "https://www.skynewsarabia.com/sport/1887874-%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D9%8A%D9%84%D9%85-%D8%B4%D9%85%D9%84-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A8%D8%B2%D9%85%D9%8A%D9%84%D9%87-%D8%A7%D9%84%D9%82%D8%AF%D9%8A%D9%85",
+    "published": "Mon, 24 Aug 2026 08:02:44 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787565262
+  },
+  {
+    "title": "رسالة شديدة اللهجة من رئيس اليويفا لإنفانتينو: ارحل",
+    "summary": "اعتبر رئيس الاتحاد الأوروبي لكرة القدم (يويفا) ألكسندر تشيفيرين، أن على رئيس الاتحاد الدولي للعبة (الفيفا) جاني إنفانتينو الاستقالة من منصبه، رغم تأكيد على أنه غير مهتم بخلافته.",
+    "link": "https://www.skynewsarabia.com/sport/1887868-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%B4%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D9%84%D9%87%D8%AC%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%8A%D9%88%D9%8A%D9%81%D8%A7-%D9%84%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D8%A7%D8%B1%D8%AD%D9%84",
+    "published": "Mon, 24 Aug 2026 07:24:23 GMT",
+    "source": "سكاي نيوز رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1787565262
   },
   {
     "title": "كريم أديمي يتألق في أول ظهور.. فوز كاسح لبرشلونة",
@@ -127,7 +147,7 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "صلاح يفتتح سجله التهديفي مع طرابزون سبور ويقوده للفوز",
@@ -137,27 +157,37 @@
     "source": "سكاي نيوز رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "رئيس فيفا يتجاهل الضغوط ويؤكد: أريد نشر كرة القدم في العالم",
-    "summary": "قال السويسري جياني إنفانتينو، رئيس الاتحاد الدولي لكرة القدم (فيفا) إنه يرغب في نشر اللعبة في كل مكان في العالم، وذلك في الوقت الذي يتعرض فيه لضغوط متزايدة لترك منصبه بعد فشل محاولته في بيع حصة الفيفا لمستثمرين من القطاع الخاص.",
-    "link": "https://www.skynewsarabia.com/sport/1887792-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D8%AA%D8%AC%D8%A7%D9%87%D9%84-%D8%A7%D9%84%D8%B6%D8%BA%D9%88%D8%B7-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D8%B1%D9%8A%D8%AF-%D9%86%D8%B4%D8%B1-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
-    "published": "Sun, 23 Aug 2026 18:04:44 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
+    "title": "مليونا ريال للدولار.. سقوط تاريخي للعملة الإيرانية",
+    "summary": "سجل الريال الإيراني أدنى مستوى قياسي جديد له عند مليوني ريال مقابل الدولار الواحد في السوق غير الرسمية خلال التعاملات الصباحية، وسط تصاعد الحملة الأميركية الرامية إلى شلّ اقتصاد البلاد بعد نحو ستة أشهر من الحرب.",
+    "link": "https://www.skynewsarabia.com/business/1887885-%D9%85%D9%84%D9%8A%D9%88%D9%86%D8%A7-%D8%B1%D9%8A%D8%A7%D9%84-%D9%84%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%84%D9%84%D8%B9%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
+    "published": "Mon, 24 Aug 2026 08:58:56 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "صافرة مصرية تدير نهائي كأس السوبر الأردني",
-    "summary": "طلب الاتحاد الأردني لكرة القدم الاستعانة بطاقم تحكيم مصري لإدارة المباراة النهائية لكأس السوبر الأردني، المقررة الجمعة المقبل على استاد عمان الدولي.",
-    "link": "https://www.skynewsarabia.com/sport/1887757-%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AF%D9%8A%D8%B1-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A",
-    "published": "Sun, 23 Aug 2026 14:08:09 GMT",
-    "source": "سكاي نيوز رياضة",
-    "category": "رياضة",
+    "title": "\"SHEIN\" تستهدف جمع 1.7 مليار دولار عبر طرح أسهمها في البورصة",
+    "summary": "أعلنت شركة \"شي إن -SHEIN\" العملاقة للأزياء السريعة الاثنين، أنها ستطرح أسهمها للاكتتاب العام في بورصة هونغ كونغ في الأول من سبتمبر، مشيرة إلى سعيها لتحقيق قيمة سوقية تصل إلى نحو 26,8 مليار دولار أميركي.",
+    "link": "https://www.skynewsarabia.com/business/1887871-shein-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D9%85%D8%B9-1-7-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%A3%D8%B3%D9%87%D9%85%D9%87%D8%A7-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9",
+    "published": "Mon, 24 Aug 2026 07:56:44 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
+  },
+  {
+    "title": "واشنطن تبدأ \"الإنزال الاقتصادي\" على إيران",
+    "summary": "قال وزير الخزانة الأميركي سكوت بيسنت إن الولايات المتحدة تبدأ ما وصفه بـ\"إنزال اقتصادي\" يستهدف قطع جميع الشرايين المالية والتجارية المتبقية لإيران، محذراً الدول والشركات والمؤسسات التي تواصل التعامل مع طهران من أنها قد تواجه العزلة عن الاقتصاد والنظام المالي العالميين.",
+    "link": "https://www.skynewsarabia.com/business/1887870-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+    "published": "Mon, 24 Aug 2026 07:43:45 GMT",
+    "source": "سكاي نيوز اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787565262
   },
   {
     "title": "مصر والإمارات تبحثان توسيع الشراكة في مجال البترول والطاقة",
@@ -167,37 +197,37 @@
     "source": "سكاي نيوز اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "ماذا تعني عودة ظاهرة النينيو لقناة بنما وللتجارة العالمية؟",
-    "summary": "بعد مرور عامين فقط على أسوأ موجة جفاف في تاريخ قناة بنما، والتي أجبرت السفن على الانتظار لأسابيع حتى تتمكن من العبور وأدت إلى منافسات حامية ومزايدات بملايين الدولارات على الفترات المتاحة للعبور، تهدد ظاهرة النينيو مرة أخرى هطول الأمطار التي تغذي هذا الممر المائي.",
-    "link": "https://www.skynewsarabia.com/business/1887862-%D8%AA%D8%B9%D9%86%D9%8A-%D8%B9%D9%88%D8%AF%D8%A9-%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%8A%D9%86%D9%8A%D9%88-%D9%84%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%86%D9%85%D8%A7-%D9%88%D9%84%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9",
-    "published": "Mon, 24 Aug 2026 06:51:15 GMT",
-    "source": "سكاي نيوز اقتصاد",
+    "title": "سويسرا توضح سبب ارتفاع قيمة الأصول الروسية المجمدة لديها",
+    "summary": "يعود ارتفاع حجم الأصول الروسية المجمدة لدى سويسرا إلى اكتشاف أصول جديدة وارتفاع أسعار الذهب، حسبما نقلت وكالة \"نوفوستي\" عن وزارة الاقتصاد السويسرية.",
+    "link": "https://arabic.rt.com/business/1824651-%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D8%A8%D8%A8-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%82%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D8%AF%D8%A9-%D9%84%D8%AF%D9%8A%D9%87%D8%A7/",
+    "published": "Mon, 24 Aug 2026 09:54:20 +0000",
+    "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "الإمارات وروسيا تدشّنان مرحلة جديدة من الشراكة الشاملة",
-    "summary": "دخلت اتفاقية التجارة في الخدمات والاستثمار بين دولة الإمارات وروسيا الاتحادية حيز التنفيذ رسمياً، بما يدشن مرحلة جديدة في مسار الشراكة الاقتصادية الشاملة بين البلدين ويفتح آفاقاً أوسع للتعاون في قطاعات الخدمات والاستثمارات المتبادلة في القطاعات ذات القيمة المضافة.",
-    "link": "https://www.skynewsarabia.com/business/1887860-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AF%D8%B4%D9%86%D8%A7%D9%86-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9",
-    "published": "Mon, 24 Aug 2026 06:18:36 GMT",
-    "source": "سكاي نيوز اقتصاد",
+    "title": "انهيار تاريخي للعملة الإيرانية",
+    "summary": "سجلت العملة الإيرانية تراجعا تاريخيا غير مسبوق، متجاوزة حاجز الـ 200 ألف تومان (مليوني ريال) مقابل الدولار الأمريكي للمرة الأولى.",
+    "link": "https://arabic.rt.com/business/1824634-%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%84%D9%84%D8%B9%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D9%88%D9%86%D9%8A-%D8%B1%D9%8A%D8%A7%D9%84/",
+    "published": "Mon, 24 Aug 2026 09:42:44 +0000",
+    "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "\"علي بابا\" تستهدف جمع 80 مليار دولار عبر طرح أسهم جديدة",
-    "summary": "أعلنت مجموعة \"علي بابا\" القابضة الصينية عن خطط لجمع نحو 80 مليار دولار هونغ كونغ (10 مليارات دولار أميركي) من خلال طرح أسهم جديدة في بورصة هونغ كونغ، في أحدث خطوة لها لتعزيز قدرتها على المنافسة على الريادة العالمية في مجال الذكاء الاصطناعي.",
-    "link": "https://www.skynewsarabia.com/business/1887858-%D8%B9%D9%84%D9%8A-%D8%A8%D8%A7%D8%A8%D8%A7-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%AC%D9%85%D8%B9-80-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B9%D8%A8%D8%B1-%D8%B7%D8%B1%D8%AD-%D8%A3%D8%B3%D9%87%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9",
-    "published": "Mon, 24 Aug 2026 05:31:58 GMT",
-    "source": "سكاي نيوز اقتصاد",
+    "title": "أوزبكستان وأذربيجان تعتزمان إنشاء أسطول مشترك في بحر قزوين",
+    "summary": "أعلن المتحدث باسم رئاسة أوزبكستان شيرزود أسادوف أن بلاده وأذربيجان تكثفان جهودهما لإنشاء أسطول مشترك في بحر قزوين.",
+    "link": "https://arabic.rt.com/world/1824585-%D8%A3%D9%88%D8%B2%D8%A8%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D8%A3%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85%D8%A7%D9%86-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%A3%D8%B3%D8%B7%D9%88%D9%84-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D9%81%D9%8A-%D8%A8%D8%AD%D8%B1-%D9%82%D8%B2%D9%88%D9%8A%D9%86/",
+    "published": "Mon, 24 Aug 2026 07:28:22 +0000",
+    "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "إثر أزمة المياه المعدنية في تونس.. العثور على أكثر من 80 ألف قارورة مخفية في مستودع وسعيد يتوعد!",
@@ -207,37 +237,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "خبير اقتصادي: العقوبات الأمريكية الجديدة ضد إيران استمرار لسياسة العزل وستؤثر على الصين والهند",
-    "summary": "اعتبر كايل شوستاك مدير شركة الاستثمار الأمريكية \"نافيجيتور برينسيبال إنفستورز\" أن العقوبات الأمريكية الأخيرة ضد إيران لا يوجد فيها أي جديد وستؤثر سلبا على الشركات الصينية والهندية.",
-    "link": "https://arabic.rt.com/business/1824543-%D8%AE%D8%A8%D9%8A%D8%B1-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B6%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B9%D8%B2%D9%84-%D9%88%D8%B3%D8%AA%D8%A4%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%87%D9%86%D8%AF/",
-    "published": "Mon, 24 Aug 2026 05:10:26 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
+    "title": "اليونان.. \"البحيرة الوردية\" تحيّر السلطات",
+    "summary": "أصابت الحيرة السلطات اليونانية إثر تحول بحيرة صغيرة شمال غربي البلاد إلى اللون الوردي.",
+    "link": "https://www.skynewsarabia.com/varieties/1887881-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AD%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA",
+    "published": "Mon, 24 Aug 2026 08:28:05 GMT",
+    "source": "سكاي نيوز منوعات",
+    "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787555358
-  },
-  {
-    "title": "بيلد: ألمانيا مهددة بفقدان التصنيف الائتماني AAA بسبب الدين القياسي وتراجع النمو",
-    "summary": "حذرت وكالة التصنيف الائتماني \"S&amp;P Global Ratings\" من أن ألمانيا قد تفقد أعلى تصنيف ائتماني لها (AAA) إذا استمرت مؤشراتها الاقتصادية في التدهور.",
-    "link": "https://arabic.rt.com/business/1824463-%D8%A8%D9%8A%D9%84%D8%AF-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D9%87%D8%AF%D8%AF%D8%A9-%D8%A8%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%A7%D8%A6%D8%AA%D9%85%D8%A7%D9%86%D9%8A-aaa-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%B3%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D8%A7%D9%84%D9%86%D9%85%D9%88/",
-    "published": "Sun, 23 Aug 2026 19:49:41 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787555358
-  },
-  {
-    "title": "رئيس فولكس فاغن: الشركة تمر بأكبر محنة في تاريخها",
-    "summary": "حذر رئيس فولكس فاغن أوليفر بلومه من وضع أكثر من حرج تمر به الشركة، مؤكدا أن صناعة السيارات الألمانية تواجه أكبر عاصفة في تاريخها بفعل ضعف الاقتصاد والمنافسة الصينية.",
-    "link": "https://arabic.rt.com/business/1824432-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%81%D9%88%D9%84%D9%83%D8%B3-%D9%81%D8%A7%D8%BA%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D9%85%D8%B1-%D8%A8%D8%A3%D9%83%D8%A8%D8%B1-%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7/",
-    "published": "Sun, 23 Aug 2026 18:34:01 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "ابنة \"أكثر أم شريرة في بريطانيا\".. تتحدث عن خداع الأطباء",
@@ -247,7 +257,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "بالصور.. جمع الحطب مهنة محفوفة بالمخاطر قرب الخط الأصفر بغزة",
@@ -257,7 +267,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "مصر.. دواء للسمنة تحت الاختبار يُباع على \"تيك توك\"",
@@ -267,17 +277,7 @@
     "source": "سكاي نيوز منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1787555358
-  },
-  {
-    "title": "الحر يجفف تربة لندن.. خطر تاريخي يهدد أساسات المنازل",
-    "summary": "تواجه منازل في لندن مستويات قياسية من خطر الهبوط الأرضي، بعدما تسببت خمس موجات حر متتالية في جفاف وانكماش التربة الطينية التي أقيمت عليها أجزاء واسعة من المدينة.",
-    "link": "https://www.skynewsarabia.com/varieties/1887761-%D8%A7%D9%84%D8%AD%D8%B1-%D9%8A%D8%AC%D9%81%D9%81-%D8%AA%D8%B1%D8%A8%D8%A9-%D9%84%D9%86%D8%AF%D9%86-%D8%AE%D8%B7%D8%B1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A3%D8%B3%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84",
-    "published": "Sun, 23 Aug 2026 18:06:20 GMT",
-    "source": "سكاي نيوز منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
     "title": "قائد الجيش الباكستاني إلى طهران استباقاً للعقوبات الأمريكية",
@@ -287,76 +287,76 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "وزير الدفاع الأوكراني المُقال لبي بي سي: يجب سؤال زيلينسكي عن مدى علمه بشأن الفساد الحكومي",
+    "title": "الطائرات الورقية في غزة: إسرائيل تحذّر وحماس تقول إنّها ألعاب",
+    "summary": "",
+    "link": "https://www.bbc.com/arabic/articles/ce8e0xj3468o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 09:47:50 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787565262
+  },
+  {
+    "title": "الحكم بالسجن المؤبد على مفتي سوريا السابق أحمد بدر الدين حسون",
+    "summary": "حسون عاشر شخصية مرتبطة بالحكم السابق يصدر القضاء السوري حكماً بحقها منذ تولي السلطات الانتقالية الحكم.",
+    "link": "https://www.bbc.com/arabic/articles/czrzgl3vr31o?at_medium=RSS&at_campaign=rss",
+    "published": "Mon, 24 Aug 2026 09:26:46 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787565262
+  },
+  {
+    "title": "وزير دفاع أوكرانيا المُقال يثير تساؤلات بشأن علم زيلينسكي بقضايا الفساد",
     "summary": "في مقابلة مع بي بي سي، دافع ميخايلو فيدوروف عن \"حقه الأخلاقي\" في بدء الحديث عن الانتخابات، ورأى أنه لا ينبغي الخشية من مناقشة الأمر لأنه جوهر الديمقراطية",
     "link": "https://www.bbc.com/arabic/articles/c0jlj0lge47o?at_medium=RSS&at_campaign=rss",
     "published": "Mon, 24 Aug 2026 07:06:18 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "شي إن تستعدّ لدخول بورصة هونغ كونغ بقيمة تصل إلى 27 مليار دولار",
-    "summary": "من المقرر أن تبدأ أسهم عملاق الأزياء السريعة التداول في هونغ كونغ في الأول من سبتمبر/ أيلول المقبل.",
-    "link": "https://www.bbc.com/arabic/articles/c4gldz3xpd6o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 06:19:22 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787555358
-  },
-  {
-    "title": "\"قاع الهامور\" يصعد إلى الترند في مصر، ما القصة؟",
-    "summary": "تصدرت مجموعة تحت اسم \"شكاوي أهالي قاع الهامور\" على فيسبوك الحديث على مواقع التواصل الاجتماعي في مصر، غير أن جدلاً واسعاً أثيرَ إثر تفاعل ضخم على المجموعة التي أعلنت تعليقها مؤقتاً تزامناً مع تقارير بأن الأمن المصري يفحص توجهات القائمين عليها",
-    "link": "https://www.bbc.com/arabic/articles/cy8e82xz1e8o?at_medium=RSS&at_campaign=rss",
-    "published": "Mon, 24 Aug 2026 06:28:48 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1787555358
-  },
-  {
-    "title": "إلى ماذا يشير الانخفاض الحاد في ضغط الدم؟",
-    "summary": "يشير الدكتور إيفان كوركوف، أخصائي أمراض القلب والأوعية الدموية والدهون، إلى أن انخفاض مستوى ضغط الدم قد يكون مهددا للحياة أحيانا، ويوضح متى يجب استدعاء الإسعاف.",
-    "link": "https://arabic.rt.com/health/1824523-%D8%A5%D9%84%D9%89-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%B4%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AE%D9%81%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF-%D9%81%D9%8A-%D8%B6%D8%BA%D8%B7-%D8%A7%D9%84%D8%AF%D9%85/",
-    "published": "Mon, 24 Aug 2026 07:04:33 +0000",
+    "title": "الدفاع الروسية: صاروخ \"سويوز\" يطلق أقمارا صناعية عسكرية إلى المدار حول الأرض",
+    "summary": "أعلنت وزارة الدفاع الروسية أن صاروخ \"سويوز-2.1 بي\" نجح في وضع أجهزة فضائية تابعة لها في مدار محدد له، وأنها أصبحت تحت سيطرة الوسائل الأرضية التابعة للقوات الفضائية الجوية الروسية.",
+    "link": "https://arabic.rt.com/space/1824640-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D8%B3%D9%88%D9%8A%D9%88%D8%B2-%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6/",
+    "published": "Mon, 24 Aug 2026 09:53:59 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "عن شاهد عيان: \"العالم غرق في ليل أبدي\"!",
-    "summary": "وصف الكاتب الروماني بليني الأصغر ثوران بركان فيزوف الكارثي في 24 أغسطس 79 بأنه بدا كما لو أن العالم غرق في \"ليل أبدي، فيما كان النور الوحيد ينبعث من لهيب البركان\".",
-    "link": "https://arabic.rt.com/society/1824578-%D8%B9%D9%86-%D8%B4%D8%A7%D9%87%D8%AF-%D8%B9%D9%8A%D8%A7%D9%86-%D9%88%D8%BA%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-%D9%84%D9%8A%D9%84-%D8%A3%D8%A8%D8%AF%D9%8A/",
-    "published": "Mon, 24 Aug 2026 07:03:34 +0000",
+    "title": "الأردن يوضح تفاصيل استضافة اجتماع بين سوريا وإسرائيل",
+    "summary": "أعلن مصدر رسمي أردني أن المملكة استضافت، أمس الأحد، اجتماعا بين مسؤولين سوريين وإسرائيليين، بناء على طلب من الحكومة السورية، لبحث سبل خفض التصعيد وتحقيق التهدئة.",
+    "link": "https://arabic.rt.com/middle_east/1824638-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D9%88%D8%B6%D8%AD-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84/",
+    "published": "Mon, 24 Aug 2026 09:39:09 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "اليابان.. تحويل مخلفات جوز الهند إلى وقود للطائرات",
-    "summary": "اكتشف العلماء طريقة لتحويل زيت جوز الهند إلى وقود للطائرات صديق للبيئة بمزجه بالأسيتون والميثانول أو الإيثانول، وسيساهم هذا التطور في حل مشكلات التخلص من النفايات، لا سيما في آسيا.",
-    "link": "https://arabic.rt.com/technology/1824525-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D9%85%D8%AE%D9%84%D9%81%D8%A7%D8%AA-%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A5%D9%84%D9%89-%D9%88%D9%82%D9%88%D8%AF-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA/",
-    "published": "Mon, 24 Aug 2026 06:55:26 +0000",
+    "title": "واشنطن تستبدل القائم بأعمالها في أوكرانيا للمرة الثانية خلال 6 أسابيع",
+    "summary": "وصل القائم بالأعمال الأمريكي الجديد في أوكرانيا بول هيوستن إلى كييف حيث يحل محل ساندرا أودكيرك التي تولت مهامها في يوليو الماضي.",
+    "link": "https://arabic.rt.com/world/1824644-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B3%D8%AA%D8%A8%D8%AF%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85-%D8%A8%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D9%81%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-6-%D8%A3%D8%B3%D8%A7%D8%A8%D9%8A%D8%B9/",
+    "published": "Mon, 24 Aug 2026 09:38:42 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   },
   {
-    "title": "زاخاروفا: فنلندا شريكة في الإرهاب الدولي",
-    "summary": "قالت المتحدثة باسم وزارة الخارجية الروسية ماريا زاخاروفا إن فنلندا، من خلال تعاونها مع أوكرانيا في مجال المسيرات، متواطئة في الإرهاب الدولي وتجر مواطنيها إلى هاوية دموية.",
-    "link": "https://arabic.rt.com/world/1824573-%D8%B2%D8%A7%D8%AE%D8%A7%D8%B1%D9%88%D9%81%D8%A7-%D9%81%D9%86%D9%84%D9%86%D8%AF%D8%A7-%D8%B4%D8%B1%D9%8A%D9%83%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A/",
-    "published": "Mon, 24 Aug 2026 06:54:05 +0000",
+    "title": "أدلة جديدة تحت سطح الأرض تعزز نظرية وجود سفينة نوح في تركيا",
+    "summary": "لطالما اعتبر التشكيل الجيولوجي الغامض الذي يشبه السفينة في جبال شرق تركيا مجرد كتلة صخرية طبيعية، لكن فريقا علميا دوليا يرجح أنه قد يحتوي على بقايا سفينة نوح.",
+    "link": "https://arabic.rt.com/technology/1824629-%D8%A3%D8%AF%D9%84%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B3%D8%B7%D8%AD-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%86%D8%B8%D8%B1%D9%8A%D8%A9-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%86%D9%88%D8%AD-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/",
+    "published": "Mon, 24 Aug 2026 09:34:24 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1787555358
+    "fetched_at": 1787565262
   }
 ]
