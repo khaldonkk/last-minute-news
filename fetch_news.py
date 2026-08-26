@@ -8,7 +8,7 @@ import feedparser
 
 # ==================== إعدادات المصادر ====================
 RSS_FEEDS = [
-    # --- تقنية — عربية ---
+    # --- تقنية ---
     {"url": "https://ayon-tech.com/feed/", "source": "عُيون التقنية", "category": "تقنية"},
     {"url": "https://www.takni.com/feed/", "source": "تقني", "category": "تقنية"},
     {"url": "https://arabeed.com/feed/", "source": "عُرب تيد", "category": "تقنية"},
@@ -31,19 +31,19 @@ RSS_FEEDS = [
     {"url": "https://threatpost.com/feed/", "source": "Threatpost", "category": "أمن سيبراني", "lang": "en"},
     
     # --- رياضة ---
-    {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سكای رياضة", "category": "رياضة"},
+    {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سكاي الرياضة", "category": "رياضة"},
     
     # --- اقتصاد ---
-    {"url": "https://www.skynewsarabia.com/rss/business.xml", "source": "سکای اقتصاد", "category": "اقتصاد"},
+    {"url": "https://www.skynewsarabia.com/rss/business.xml", "source": "سكاي اقتصاد", "category": "اقتصاد"},
     {"url": "https://arabic.rt.com/rss/business/", "source": "روسيا اليوم اقتصاد", "category": "اقتصاد"},
     
     # --- صحة وحياة ---
-    {"url": "https://www.skynewsarabia.com/rss/varieties.xml", "source": "سکای منوعات", "category": "صحة"},
+    {"url": "https://www.skynewsarabia.com/rss/varieties.xml", "source": "سكاي منوعات", "category": "صحة"},
     
-    # --- أخبار عامة ---
+    # --- أخبار عامة (تمت إضافة الجزيرة ✅) ---
     {"url": "https://feeds.bbci.co.uk/arabic/rss.xml", "source": "BBC عربي", "category": "عالم"},
-    {"url": "https://www.aljazeera.net/rss/news", "source": "الجزيرة", "category": "عالم"},
-    {"url": "https://www.skynewsarabia.com/rss/news", "source": "سکای نيوز", "category": "عالم"},
+    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "الجزيرة", "category": "عالم"},       # ✅ تمت الإضافة
+    {"url": "https://www.skynewsarabia.com/rss/news", "source": "سكай نيوز", "category": "عالم"},          # ✅ تمت الإضافة
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"}
 ]
 
@@ -96,17 +96,17 @@ def is_security_news(item):
 
 def main():
     all_news = []
-    seen_titles = set()  # ✅ منع التكرار (مأخوذ من كودك)
+    seen_titles = set()
     current_timestamp = int(time.time())
     
-    print(f"[*] Starting at {datetime.now()}...")
+    print(f"[*] Starting News Aggregator at {datetime.now()}...")
     
     for feed_info in RSS_FEEDS:
         source = feed_info["source"]
         cat = feed_info["category"]
         lang = feed_info.get("lang", "ar")
         
-        try:  # ✅ حماية كل مصدر (من كودي)
+        try:
             print(f"📥 Fetching [{cat}] from {source}...")
             feed = fetch_feed_data(feed_info["url"], source)
             
@@ -120,7 +120,7 @@ def main():
                     break
                 
                 title = entry.get('title', '').strip()
-                if not title or title in seen_titles:  # ✅ منع التكرار
+                if not title or title in seen_titles:
                     continue
                 seen_titles.add(title)
                 
@@ -138,7 +138,7 @@ def main():
                     "source": source,
                     "category": final_category,
                     "lang": lang,
-                    "fetched_at": current_timestamp  # ✅ وقت الجلب
+                    "fetched_at": current_timestamp
                 })
                 count += 1
         except Exception as e:
