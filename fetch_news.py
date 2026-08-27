@@ -42,7 +42,7 @@ RSS_FEEDS = [
     
     # --- أخبار عامة (تمت إضافة الجزيرة ✅) ---
     {"url": "https://feeds.bbci.co.uk/arabic/rss.xml", "source": "BBC عربي", "category": "عالم"},
-    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "الجزيرة", "category": "عالم"},       # ✅ تمت الإضافة
+   {"url": "https://www.aljazeera.net/rss/news", "source": "الجزيرة", "category": "عالم"},       # ✅ تمت الإضافة
     {"url": "https://www.skynewsarabia.com/rss/news", "source": "سكай نيوز", "category": "عالم"},          # ✅ تمت الإضافة
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"}
 ]
