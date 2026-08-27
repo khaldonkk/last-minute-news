@@ -7,9 +7,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "OpenAI&#8217;s executive exodus has one big winner",
@@ -19,9 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Hugging Face’s new robot is an adorable rollerskating duck",
@@ -31,9 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Plaud is launching AI earbuds",
@@ -43,21 +37,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787841478
-  },
-  {
-    "title": "Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale",
-    "summary": "Test drivers for Waymo and Zoox sustained more than two dozen injuries in 2024 and 2025 from hard braking or other sudden movements made by the autonomous vehicles, according to a TechCrunch review of data submitted to OSHA.",
-    "link": "https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/",
-    "published": "Thu, 27 Aug 2026 14:36:37 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
@@ -67,9 +47,7 @@
     "source": "TechCrunch",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "AI’s memory crunch is coming for Android apps",
@@ -79,9 +57,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Here’s all the times AI has gone rogue and hacked other companies",
@@ -91,9 +67,17 @@
     "source": "TechCrunch",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
+  },
+  {
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+    "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "published": "Thu, 27 Aug 2026 13:00:00 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787841015
   },
   {
     "title": "Bentley takes us for a ride in its new EV, the Torcal",
@@ -103,9 +87,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
@@ -115,9 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
@@ -127,9 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "New Twitter launches, says Musk's X gave up the name",
@@ -139,9 +117,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
@@ -151,9 +127,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Best Posture Correctors for Better Body Alignment (2026)",
@@ -163,9 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Submit Your Questions: The Great Data Center Backlash",
@@ -175,9 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
@@ -187,9 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
@@ -199,9 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
@@ -211,9 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
@@ -223,9 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Red Flags That Expose Fake North Korean IT Workers",
@@ -235,9 +197,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
@@ -247,9 +207,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Android 17 adds ECH support to make web browsing harder to track",
@@ -259,9 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
@@ -271,9 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
@@ -283,9 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
@@ -295,9 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
@@ -307,9 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "What the Data Says About AI in Security Operations in 2026",
@@ -319,9 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
@@ -331,9 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
@@ -343,9 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
@@ -355,9 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
@@ -367,9 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
@@ -379,9 +317,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Two alleged TeamPCP hackers arrested over global supply chain attacks",
@@ -391,9 +327,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Cyberattack causes network outage at Boston Scientific, disrupts global operations",
@@ -403,9 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Unknown PaperCut NG/MF vulnerability is under active attack",
@@ -415,9 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Previously patched Citrix NetScaler flaw exploited in the wild (CVE-2026-8452)",
@@ -427,9 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -439,9 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -451,9 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -463,9 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -475,9 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "LLM-Based Social Engineering Scams",
@@ -487,9 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Spyware for Babies",
@@ -499,9 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Black Hat State of Security Vendors",
@@ -511,9 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Criminal Deception in Silicon Valley",
@@ -523,9 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -535,9 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -547,9 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -559,9 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -571,9 +477,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": true,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "ماريسكا: بوعدي جاهز لمواجهة كريستال بالاس ورحيل مرموش",
@@ -583,9 +487,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "في صفقة قياسية.. المغربي بوعدي إلى مانشستر سيتي الإنجليزي",
@@ -595,9 +497,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "مسؤول أوروبي بارز: لا مستقبل لإنفانتينو في الفيفا",
@@ -607,9 +507,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "لاسك يقصي سيلتيك بريمونتادا تاريخية في دوري الأبطال",
@@ -619,9 +517,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "\"أنثروبيك\" توقع صفقة حوسبة للذكاء الاصطناعي بـ45 مليار دولار",
@@ -631,9 +527,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "القمح يرتفع 4% في أوروبا بعد تقارير التصعيد الروسي",
@@ -643,9 +537,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "ملياردير أسترالي يعلن انتقاله للإقامة الدائمة في دبي",
@@ -655,9 +547,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "\"لا نحتاج كندا\".. أرقام النفط والتجارة تفند تصريحات ترامب",
@@ -667,33 +557,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
-  },
-  {
-    "title": "العراق يتيح تسلم شحنات النفط خارج الخليج للمرة الأولى منذ اندلاع الحرب",
-    "summary": "أطلق العراق خيارا لتسلم شحنات النفط الخام خارج الخليج للمرة الأولى منذ اندلاع الحرب على إيران، في خطوة لتقليل مخاطر الاعتماد على مضيق هرمز وتعزيز مرونة صادراته.",
-    "link": "https://arabic.rt.com/business/1825990-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AA%D9%8A%D8%AD-%D8%AA%D8%B3%D9%84%D9%85-%D8%B4%D8%AD%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%84%D9%84%D9%85%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D9%85%D9%86%D8%B0-%D8%A7%D9%86%D8%AF%D9%84%D8%A7%D8%B9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8/",
-    "published": "Thu, 27 Aug 2026 14:32:26 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
-  },
-  {
-    "title": "الشرع يبحث مع رئيس مجلس الأعمال السعودي السوري تعزيز التعاون الاقتصادي والاستثماري",
-    "summary": "استقبل الرئيس السوري أحمد الشرع، اليوم الخميس، في قصر الشعب بدمشق، رئيس مجلس الأعمال السعودي السوري محمد أبو نيان والوفد المرافق له، بحضور وزير الاقتصاد والصناعة نضال الشعار.",
-    "link": "https://arabic.rt.com/business/1825998-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A/",
-    "published": "Thu, 27 Aug 2026 14:31:45 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "رئيس الحكومة الروسية: الاقتصاد الروسي يواصل تطوره",
@@ -703,9 +567,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "دمشق والرياض توقّعان ثلاث اتفاقيات في النقل والاتصالات والطيران",
@@ -715,9 +577,27 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
+  },
+  {
+    "title": "مصر تنهي أكبر مديونية في تاريخ \"ماسبيرو\"",
+    "summary": "قررت الحكومة المصرية تسوية ديون الهيئة الوطنية للإعلام \"ماسبيرو\" التي تمثل الجهاز الإعلامي الرسمي للدولة.",
+    "link": "https://arabic.rt.com/business/1825903-%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%87%D9%8A-%D8%A3%D9%83%D8%A8%D8%B1-%D9%85%D8%AF%D9%8A%D9%88%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D9%85%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%88/",
+    "published": "Thu, 27 Aug 2026 10:52:06 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787841015
+  },
+  {
+    "title": "ارتفاع واردات مصر من الغاز المسال إلى 1.7 مليار كغ في مايو",
+    "summary": "ارتفعت واردات مصر من الغاز الطبيعي المسال خلال مايو 2026 بشكل ملحوظ مسجلة نحو 1.726 مليار كغ بقيمة بلغت 1.219 مليار دولار.",
+    "link": "https://arabic.rt.com/business/1825891-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D9%88%D8%B1%D8%AF-%D8%BA%D8%A7%D8%B2-%D8%A8%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1/",
+    "published": "Thu, 27 Aug 2026 09:43:47 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1787841015
   },
   {
     "title": "بعد حجاج.. مصارع مصري ثانٍ يهرب في \"ترانزيت روما\"",
@@ -727,9 +607,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "فيديو مرعب لفيضان نيبال.. السيول تبتلع بلدات",
@@ -739,9 +617,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "\"أول دفعة بفيزا\" في دمشق بعد رفع سوريا من قائمة الإرهاب",
@@ -751,9 +627,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "الأمير هاري وزوجته ميغان يصلان إلى بريطانيا لبدء حياة جديدة",
@@ -763,9 +637,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "إيران وقطر تناقشان محادثات إنشاء ممر مؤقت عبر هرمز، وواشنطن تؤكد عدم وجود مفاوضات جارية مع طهران",
@@ -775,9 +647,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "البحر الميت ليس \"ميتاً تماماً\": كيف نشأ ولماذا يواجه خطر الانحسار؟",
@@ -787,9 +657,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "انتقادات رئيس وزراء بريطانيا لإسرائيل \"ساذجة بشكل خطير\" - مقال في التلغراف",
@@ -799,9 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
     "title": "مئات المفقودين ومقتل أكثر من 300 شخص جراء فيضانات على الحدود بين نيبال والتبت",
@@ -811,56 +677,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
-    "title": "علامات الإصابة بإنفلونزا الطيور لدى البشر",
-    "summary": "أفاد الدكتور فيكتور زويف، عالم الفيروسات في مركز غاماليا، أن ارتفاع درجة الحرارة إلى 40 درجة مئوية، والضعف، وضيق التنفس، وتلف الجهاز الهضمي قد تشير إلى الإصابة بإنفلونزا الطيور.",
-    "link": "https://arabic.rt.com/health/1825368-%D8%B9%D9%84%D8%A7%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-%D9%84%D8%AF%D9%89-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1/",
-    "published": "Thu, 27 Aug 2026 14:37:47 +0000",
+    "title": "الاتحاد السعودي يعلن موقفه من \"أزمة\" إنفانتينو",
+    "summary": "أصدر مجلس إدارة الاتحاد السعودي لكرة القدم اليوم الخميس بيانا حول الاتحاد الدولي لكرة القدم (FIFA) والتطورات الأخيرة في كرة القدم العالمية.",
+    "link": "https://arabic.rt.com/sport/1825984-%D9%81%D9%8A-%D8%A8%D9%8A%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%D9%8A-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D9%85%D9%88%D9%82%D9%81%D9%87-%D9%85%D9%86-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88/",
+    "published": "Thu, 27 Aug 2026 14:02:30 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
-    "title": "علماء: اختفاء الأشجار له علاقة بارتفاع معدل الوفيات بين سكان المدن",
-    "summary": "قد تكون الأشجار البالغة في شوارع المدن مسألة حياة أو موت، واتبع علماء من جامعة شمال الغرب الأمريكية على مدى 11 عاما الغطاء الشجري في مدينة شيكاغو.",
-    "link": "https://arabic.rt.com/technology/1825416-%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%A7%D8%AE%D8%AA%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B4%D8%AC%D8%A7%D8%B1-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86/",
-    "published": "Thu, 27 Aug 2026 14:37:24 +0000",
+    "title": "البيت الأبيض: لا مفاوضات مع إيران حاليا وجميع الخيارات مطروحة",
+    "summary": "أعلن البيت الأبيض أنه لا تجرى حاليا أي مفاوضات بين واشنطن وطهران مؤكدا استمرار الحصار البحري الأمريكي على الموانئ الإيرانية دون أي تغيير.",
+    "link": "https://arabic.rt.com/world/1825978-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%8A%D9%86%D9%81%D9%8A-%D9%88%D8%AC%D9%88%D8%AF-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%86%D8%A6%D9%87%D8%A7/",
+    "published": "Thu, 27 Aug 2026 13:55:43 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
-    "title": "ما ضرورة تناول الخضار الورقية عند ارتفاع السكر في الدم؟",
-    "summary": "أشارت خبيرة التغذية أولغا ريدينا إلى أهمية تناول الخضراوات الورقية عند ارتفاع مستوى السكر في الدم.",
-    "link": "https://arabic.rt.com/health/1825776-%D9%85%D8%A7-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D9%86%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D8%B6%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%8A%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A7%D9%84%D8%B3%D9%83%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85/",
-    "published": "Thu, 27 Aug 2026 14:36:55 +0000",
+    "title": "قناة مجانية تنقل مباراة طرابزون سبور الحاسمة بالدوري الأوروبي.. الموعد والتفاصيل",
+    "summary": "يخوض فريق طرابزون سبور التركي مواجهة حاسمة أمام مضيفه فرينتسفاروشي الهنغاري مساء اليوم الخميس في إياب الدور الفاصل المؤهل إلى مرحلة الدوري ببطولة الدوري الأوروبي 2026-2027.",
+    "link": "https://arabic.rt.com/sport/1825970-%D9%82%D9%86%D8%A7%D8%A9-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D9%86%D9%82%D9%84-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%85%D8%A9-%D8%A8%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B9%D8%AF-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
+    "published": "Thu, 27 Aug 2026 13:42:27 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   },
   {
-    "title": "مصر.. الأمن يرد على مزاعم حول مبان في العلمين الجديدة",
-    "summary": "نفى مصدر أمني مصري جملة وتفصيلا صحة ما تم تداوله على إحدى القنوات الفضائية التابعة لجماعة \"الإخوان المسلمين\" المحظورة، حول مبان في مدينة العلمين الجديدة.",
-    "link": "https://arabic.rt.com/middle_east/1825956-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A5%D8%AE%D9%88%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D8%A8%D8%A7%D9%86-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/",
-    "published": "Thu, 27 Aug 2026 14:35:53 +0000",
+    "title": "في 4 دقائق.. سرقة \"كنز فيينا\" الذهبي بعملية منظمة في إسبانيا",
+    "summary": "سرق لصوص 59 قطعة أثرية من متحف \"فيينا\" (MUVI) في مدينة أليكانتي الإسبانية اليوم بينها مصوغات ذهبية وفضية تعود للعصر البرونزي المتأخر، و3 تيجان مذهبة.",
+    "link": "https://arabic.rt.com/world/1825987-%D9%81%D9%8A-4-%D8%AF%D9%82%D8%A7%D8%A6%D9%82-%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D9%86%D8%B2-%D9%81%D9%8A%D9%8A%D9%86%D8%A7-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7/",
+    "published": "Thu, 27 Aug 2026 13:33:02 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787841478
+    "fetched_at": 1787841015
   }
 ]
