@@ -1,5 +1,15 @@
 [
   {
+    "title": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+    "summary": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, [&#8230;]",
+    "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+    "published": "2026-08-28T08:00:00-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1787919340
+  },
+  {
     "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
     "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
@@ -7,9 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
@@ -19,9 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "The biggest video game of all time looks like a movie",
@@ -31,21 +37,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787919176
-  },
-  {
-    "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-    "summary": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The company's line of [&#8230;]",
-    "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-    "published": "2026-08-27T17:37:45-04:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "domain": "theverge.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
@@ -55,9 +47,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
@@ -67,9 +57,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -79,9 +67,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Rivian’s CFO is leaving the company",
@@ -91,9 +77,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "domain": "techcrunch.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
@@ -103,9 +87,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
@@ -115,9 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -127,9 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
@@ -139,9 +117,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "domain": "arstechnica.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "The 31 Best Deals From the REI Labor Day Sale",
@@ -151,9 +127,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
@@ -163,9 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
@@ -175,9 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
@@ -187,9 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "domain": "wired.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Chinese Routers Sold Worldwide Contain Backdoors",
@@ -199,9 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
@@ -211,9 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
@@ -223,9 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
@@ -235,9 +197,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "darkreading.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Toy-making giant Hasbro disclose data breach affecting employees",
@@ -247,9 +207,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "ServiceNow warns of three max severity security vulnerabilities",
@@ -259,9 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
@@ -271,9 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
@@ -283,9 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "bleepingcomputer.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
@@ -295,9 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
@@ -307,9 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
@@ -319,9 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
@@ -331,9 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "thehackernews.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
@@ -343,9 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
@@ -355,9 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
@@ -367,9 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
@@ -379,9 +317,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "securityweek.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "North Korean remote workers are broadening their job hunt beyond IT",
@@ -391,9 +327,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Android 17 adds new protections against sneaky Wi-Fi tracking and web snooping",
@@ -403,9 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Manchester Airports Group breached, millions of customers’ data stolen",
@@ -415,9 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "What 90 days and a small budget can buy in AI agent security",
@@ -427,9 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "helpnetsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -439,9 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -451,9 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -463,9 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -475,9 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "krebsonsecurity.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
@@ -487,9 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "LLM-Based Social Engineering Scams",
@@ -499,9 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Spyware for Babies",
@@ -511,9 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Black Hat State of Security Vendors",
@@ -523,9 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "schneier.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -535,9 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -547,9 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -559,9 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -571,9 +477,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "domain": "threatpost.com",
-    "breaking": true,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "تشيلسي وفولهام إلى الدور الثالث بكأس الرابطة",
@@ -583,9 +487,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "\"يويفا\" يعلق مؤقتا مقاطعة منتخباته لمسابقات \"فيفا\"",
@@ -595,9 +497,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "مواجهات نارية في دور المجموعات لدوري أبطال أوروبا",
@@ -607,9 +507,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "يويفا يصعّد معركته ضد إنفانتينو بشكوى جنائية",
@@ -619,9 +517,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "5 مليارات دولار على الأقل.. كلفة مبدئية لإعادة إعمار نيبال",
@@ -631,9 +527,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "الاقتصاد الفرنسي يسجل ركودا في الربع الثاني مخالفا التوقعات",
@@ -643,9 +537,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "هل يكسر كيفن وورش صمته؟.. الأسواق تترقب",
@@ -655,9 +547,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "الإمارات تمنح ستارلينك رخصة لتقديم خدمات الإنترنت الفضائي",
@@ -667,9 +557,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "المفوضية الأوروبية تتجه لإلغاء \"فيتو\" ضم دول جديدة إلى الاتحاد",
@@ -679,9 +567,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "تداعيات الحرّ الشاذ على الاقتصاد الفرنسي.. نمو صفري وخسائر بالمليارات",
@@ -691,9 +577,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "مصر ترغب في امتلاكها من روسيا..  ما هي المفاعلات النووية العائمة؟",
@@ -703,9 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "تعاون سوري سعودي لتطوير الثروة الحيوانية ومشاريع تصدير الأغنام",
@@ -715,9 +597,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "على طريقة هوليوود.. سرقة شحنة دواجن من شاحنة على طريق في مصر",
@@ -727,9 +607,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "تمثال عمره 11 ألف عام لإنسان فوق فهد يثير حيرة العلماء",
@@ -739,9 +617,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "أزمة المياه في تونس.. لماذا أصبحت القارورة \"كنزا\"؟",
@@ -751,9 +627,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "ألوان الفراعنة.. اكتشاف السمسم والمورينغا والغراء",
@@ -763,9 +637,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "domain": "skynewsarabia.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "ترامب يصف إيران بـ\"دولة فاشلة وتتوسل لإبرام صفقة\" وطهران تقول إن \"الضغط لا يجدي نفعاً\"",
@@ -775,9 +647,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "هل الصين الرابح الوحيد في الحرب الأمريكية الإيرانية؟ - مقال في فاينانشال تايمز",
@@ -787,9 +657,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "وفاة \"جزار البوسنة\" راتكو ملاديتش، مراسل بي بي سي يروي قصة لقائه خلال الحرب",
@@ -799,9 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "ما أسباب فيضانات نيبال المدمرة؟",
@@ -811,9 +677,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "domain": "bbc.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
+  },
+  {
+    "title": "لا تنسيق أمني بين روسيا والولايات المتحدة الأمريكية",
+    "summary": "قال رئيس جهاز الاستخبارات الخارجية الروسية سيرغي ناريشكين إن لقاءه مع مدير الاستخبارات المركزية الأمريكية CIA جون راتكليف تناول جملة من القضايا التي تدخل في اختصاص الاستخبارات.",
+    "link": "https://arabic.rt.com/press/1826331-%D9%84%D8%A7-%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A3%D9%85%D9%86%D9%8A-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9/",
+    "published": "Fri, 28 Aug 2026 12:13:37 +0000",
+    "source": "روسيا اليوم",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1787919340
   },
   {
     "title": "مسبار \"سويفت\" الفضائي في طريقه لعودة حرة إلى الأرض تثير المخاوف من حطامه",
@@ -823,9 +697,7 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "أسراب سردين ضخمة تقترب من شواطئ الجزائر وتثير دهشة الصيادين",
@@ -835,9 +707,7 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   },
   {
     "title": "وزير الدفاع الروسي يكرم أبطال العملية الخاصة",
@@ -847,20 +717,6 @@
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
-  },
-  {
-    "title": "تجاوزنا مرحلة النسخ والهندسة العكسية.. الجيش الإيراني يعد مفاجآت تسليحية وتكتيكية لحرب قادمة",
-    "summary": "أكد المتحدث باسم وزارة الدفاع الإيرانية رضا طلائي نيك أن إيران أعدت مفاجآت تسليحية وتقنية وتكتيكية لمواجهة أي حرب محتملة، مع مراعاة مبدأ المباغتة.",
-    "link": "https://arabic.rt.com/world/1826323-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D9%86%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%86%D8%B3%D8%AE-%D9%88%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%B9%D9%83%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D8%AF-%D9%85%D9%81%D8%A7%D8%AC%D8%A2%D8%AA-%D8%AA%D8%B3%D9%84%D9%8A%D8%AD%D9%8A%D8%A9-%D9%88%D8%AA%D9%83%D8%AA%D9%8A%D9%83%D9%8A%D8%A9-%D9%84%D8%AD%D8%B1%D8%A8-%D9%82%D8%A7%D8%AF%D9%85%D8%A9/",
-    "published": "Fri, 28 Aug 2026 12:08:42 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "domain": "arabic.rt.com",
-    "breaking": false,
-    "fetched_at": 1787919176
+    "fetched_at": 1787919340
   }
 ]
