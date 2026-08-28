@@ -5,25 +5,6 @@ import time
 from datetime import datetime
 import requests
 import feedparser
-from urllib.parse import urlparse
-
-# ==================== كلمات العاجل ====================
-BREAKING_KEYWORDS = [
-    r"breaking|urgent|flash|just in|explosion|attack|زلزال|هزة|انفجار|طوارئ|عاجل",
-]
-
-def get_domain(url):
-    """استخراج نطاق الدومين من الرابط"""
-    try:
-        parsed = urlparse(url)
-        return parsed.hostname.replace("www.", "")
-    except Exception:
-        return ""
-
-def is_breaking_news(title, summary=""):
-    """التحقق إذا كان الخبر عاجلًا بناءً على الكلمات المفتاحية"""
-    text = f"{title} {summary}".lower()
-    return any(re.search(kw, text, re.IGNORECASE) for kw in BREAKING_KEYWORDS)
 
 # ==================== إعدادات المصادر ====================
 RSS_FEEDS = [
@@ -148,20 +129,15 @@ def main():
                 
                 final_category = "أمن سيبراني" if is_security_news(entry) and cat == "تقنية" else cat
                 ai_summary = summarize_with_gemini(title, raw_summary, lang)
-                article_link = entry.get('link', '#')
-                domain = get_domain(article_link)
-                is_breaking = is_breaking_news(title, raw_summary)
                 
                 all_news.append({
                     "title": title,
                     "summary": ai_summary,
-                    "link": article_link,
+                    "link": entry.get('link', '#'),
                     "published": entry.get('published', 'الآن'),
                     "source": source,
                     "category": final_category,
                     "lang": lang,
-                    "domain": domain,
-                    "breaking": is_breaking,
                     "fetched_at": current_timestamp
                 })
                 count += 1
