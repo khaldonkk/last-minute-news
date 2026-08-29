@@ -1,5 +1,25 @@
 [
   {
+    "title": "Alt-right troll Milo Yiannopoulos has been deported",
+    "summary": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, [&#8230;]",
+    "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+    "published": "2026-08-29T15:49:59-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [&#8230;]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "published": "2026-08-29T14:19:53-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1788036413
+  },
+  {
     "title": "Distraction-free writing gadget BYOK is adding custom extensions",
     "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text [&#8230;]",
     "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
@@ -7,7 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
@@ -17,27 +37,37 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "The Galaxy Z Flip 8 is at its best when there’s friction",
-    "summary": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola [&#8230;]",
-    "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-    "published": "2026-08-29T09:00:00-04:00",
-    "source": "The Verge",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "published": "2026-08-29T08:00:00-04:00",
-    "source": "The Verge",
+    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+    "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1788036413
   },
   {
     "title": "Hollywood celebs are getting into microdrama apps",
@@ -47,37 +77,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-    "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed [&#8230;]",
-    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-    "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-    "summary": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-    "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-    "published": "Fri, 28 Aug 2026 23:24:27 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "I asked 100 companies for my data. Some deleted it instead.",
@@ -87,7 +87,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
@@ -97,7 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Cities terminate Flock contracts at record pace in August",
@@ -107,7 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
@@ -117,7 +117,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
@@ -127,7 +127,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
@@ -137,7 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
@@ -147,7 +147,7 @@
     "source": "Wired",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "How to Run a Chatbot on Your Own Computer",
@@ -157,7 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
@@ -167,7 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Offensive Security Investments Surge as AI Threats Increase",
@@ -177,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
@@ -187,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
@@ -197,7 +197,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Brave browser adds email aliases to help users evade tracking",
@@ -207,7 +207,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
@@ -217,7 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "PaperCut releases second emergency patch for exploited flaws",
@@ -227,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
@@ -237,7 +237,17 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nThe vulnerabilities, according to Wordfence and Patchstack, are listed below -\n\n\n  CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
+    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "published": "Sat, 29 Aug 2026 21:55:03 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1788036413
   },
   {
     "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -247,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
@@ -257,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
@@ -267,17 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-    "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks.\n\nTopping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on which websites a user is visiting.\n\n\"This new privacy standard works in tandem",
-    "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-    "published": "Fri, 28 Aug 2026 21:50:46 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Hasbro Data Breach Exposed Employee Personal Information",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
@@ -317,7 +317,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "North Korean remote workers are broadening their job hunt beyond IT",
@@ -327,7 +327,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Android 17 adds new protections against sneaky Wi-Fi tracking and web snooping",
@@ -337,7 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Manchester Airports Group breached, millions of customers’ data stolen",
@@ -347,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "What 90 days and a small budget can buy in AI agent security",
@@ -357,7 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Who’s Tracking You? Use This New Service to Find Out",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "LLM-Based Social Engineering Scams",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Spyware for Babies",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "حصاد مصري لامع في المتوسط.. 36 ميدالية حتى الآن",
+    "summary": "رفعت البعثة المصرية رصيدها إلى 36 ميدالية متنوعة في دورة ألعاب البحر المتوسط المقامة في تارانتو الإيطالية، بعدما أضافت ثلاث ميداليات جديدة، السبت، في منافسات تنس الطاولة والجودو.",
+    "link": "https://www.skynewsarabia.com/sport/1888927-%D8%AD%D8%B5%D8%A7%D8%AF-%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D8%A7%D9%85%D8%B9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-36-%D9%85%D9%8A%D8%AF%D8%A7%D9%84%D9%8A%D8%A9-%D8%AD%D8%AA%D9%89",
+    "published": "Sat, 29 Aug 2026 19:48:27 GMT",
+    "source": "سكاي الرياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1788036413
   },
   {
     "title": "واحدا تلو الآخر.. 3 رياضيين يختفون من بعثة تونس",
@@ -487,17 +497,17 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "بداية مربكة لليفربول وتعادل ثان تواليا في البريميليغ",
+    "title": "بداية مربكة لليفربول وتعادل ثان تواليا في البريميرليغ",
     "summary": "أفلت ليفربول من الخسارة على ملعبه أمام نوتنغهام فورست، بعدما خطف تعادلا صعبا بنتيجة 2-2، السبت، ضمن منافسات الجولة الثانية من الدوري الإنجليزي الممتاز.",
     "link": "https://www.skynewsarabia.com/sport/1888905-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D9%85%D8%B1%D8%A8%D9%83%D8%A9-%D9%84%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%88%D8%AA%D8%B9%D8%A7%D8%AF%D9%84-%D8%AB%D8%A7%D9%86-%D8%AA%D9%88%D8%A7%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%84%D9%8A%D8%BA",
     "published": "Sat, 29 Aug 2026 14:09:15 GMT",
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "أول تعليق من بطل مصر في المصارعة بعد \"الهروب\"",
@@ -507,17 +517,7 @@
     "source": "سكاي الرياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "باركولا على أبواب ليفربول بـ123 مليون جنيه إسترليني",
-    "summary": "توصل ليفربول إلى اتفاق نهائي للتعاقد مع المهاجم الفرنسي برادلي باركولا قادما من باريس سان جرمان، حسبما أفادت تقارير إعلامية، السبت.",
-    "link": "https://www.skynewsarabia.com/sport/1888876-%D8%A8%D8%A7%D8%B1%D9%83%D9%88%D9%84%D8%A7-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D8%A8123-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%86%D9%8A%D9%87-%D8%A5%D8%B3%D8%AA%D8%B1%D9%84%D9%8A%D9%86%D9%8A",
-    "published": "Sat, 29 Aug 2026 10:19:46 GMT",
-    "source": "سكاي الرياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "3 دروس استثمارية ينبغي للآباء تعليمها لأبنائهم مبكراً",
@@ -527,7 +527,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "5 مليارات دولار على الأقل.. كلفة مبدئية لإعادة إعمار نيبال",
@@ -537,7 +537,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "الاقتصاد الفرنسي يسجل ركودا في الربع الثاني مخالفا التوقعات",
@@ -547,7 +547,7 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "هل يكسر كيفن وورش صمته؟.. الأسواق تترقب",
@@ -557,47 +557,57 @@
     "source": "سكاي اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "إيرباص تعيد ترتيب أعمالها الفضائية وتدرس بيع أنشطتها الأمريكية",
-    "summary": "أفادت صحيفة \"فايننشال تايمز\" بأن شركة إيرباص تدرس بيع أنشطتها الفضائية في الولايات المتحدة، في خطوة تستهدف التركيز على مشروعها لإقامة شراكة أوروبية مع شركتي تاليس وليوناردو.",
-    "link": "https://arabic.rt.com/business/1826669-%D8%A5%D9%8A%D8%B1%D8%A8%D8%A7%D8%B5-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8-%D8%A3%D8%B9%D9%85%D8%A7%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%AA%D8%AF%D8%B1%D8%B3-%D8%A8%D9%8A%D8%B9-%D8%A3%D9%86%D8%B4%D8%B7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9/",
-    "published": "Sat, 29 Aug 2026 15:47:09 +0000",
+    "title": "وزير الخزانة الأمريكية يحذر من تداعيات اضطراب وضع الين الياباني على الأسواق العالمية",
+    "summary": "حذر وزير الخزانة الأمريكي سكوت بيسنت من أن اضطراب سعر صرف الين الياباني قد يهدد استقرار الأسواق العالمية ويرفع تكاليف الاقتراض على الأسر والشركات الأمريكية.",
+    "link": "https://arabic.rt.com/business/1826736-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/",
+    "published": "Sat, 29 Aug 2026 20:27:48 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "لماذا استهدفت واشنطن بنك مصر في الإمارات؟.. قصة الـ1.8 مليار دولار",
-    "summary": "أعلنت وزارة الخزانة الأمريكية إجراءات تستهدف فروع بنك مصر في الإمارات بسبب ما قالت إنه دور في تمرير أموال مرتبطة بشبكات مصرفية إيرانية في خطوة لا تشمل فرعه داخل مصر أو في دول أخرى.",
-    "link": "https://arabic.rt.com/business/1826662-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%86%D9%83-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D9%8018-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1/",
-    "published": "Sat, 29 Aug 2026 15:15:39 +0000",
+    "title": "العراق يدفع نحو تسريع مشروع خط أنابيب النفط إلى تركيا وسوريا",
+    "summary": "أوعز رئيس الحكومة العراقية علي الزيدي وزارة النفط إلى الإسراع بتنفيذ مشروع خط أنابيب استراتيجي يربط محافظة البصرة بحديثة وفيشخابور الحدودية مع تركيا وميناء بانياس السوري.",
+    "link": "https://arabic.rt.com/business/1826726-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%AF%D9%81%D8%B9-%D9%86%D8%AD%D9%88-%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AE%D8%B7-%D8%A3%D9%86%D8%A7%D8%A8%D9%8A%D8%A8-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A5%D9%84%D9%89-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/",
+    "published": "Sat, 29 Aug 2026 19:50:31 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "بنك مصر يعتزم التواصل مع الخزانة الأمريكية بشأن فرعه في الإمارات",
-    "summary": "أعلن بنك مصر، اليوم السبت، اعتزامه التواصل مع الخزانة الأمريكية لمزيد من المعلومات والتعاون، تمهيدًا لاتخاذ الإجراءات اللازمة وتقديم رده للجهات المعنية خلال المدة المحددة.",
-    "link": "https://arabic.rt.com/business/1826647-%D8%A8%D9%86%D9%83-%D9%85%D8%B5%D8%B1-%D9%8A%D8%B9%D8%AA%D8%B2%D9%85-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D9%81%D8%B1%D8%B9%D9%87-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/",
-    "published": "Sat, 29 Aug 2026 14:56:19 +0000",
+    "title": "تحرك إماراتي عاجل بشأن بنك مصر بعد الإجراء الأمريكي",
+    "summary": "أعلن مصرف الإمارات المركزي إجراء تفتيش خاص وعاجل على فروع بنك مصر العاملة في الدولة عقب إعلان السلطات الأمريكية مقترحا لتقييد وصولها إلى خدمات المراسلة المصرفية في الولايات المتحدة",
+    "link": "https://arabic.rt.com/business/1826714-%D8%AA%D8%AD%D8%B1%D9%83-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D8%B9%D8%A7%D8%AC%D9%84-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A8%D9%86%D9%83-%D9%85%D8%B5%D8%B1%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A/",
+    "published": "Sat, 29 Aug 2026 18:58:53 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "إنجاز هندسي مصري جديد في محطة الضبعة.. تركيب \"الحماية الجافة\" للوحدة الثالثة بنجاح",
-    "summary": "أعلنت هيئة المحطات النووية لتوليد الكهرباء في مصر نجاحها في تنفيذ أعمال تركيب مكون \"الحماية الجافة\" الخاص بالوحدة النووية الثالثة بمحطة الضبعة النووية.",
-    "link": "https://arabic.rt.com/middle_east/1826594-%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D9%87%D9%86%D8%AF%D8%B3%D9%8A-%D9%85%D8%B5%D8%B1%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D8%A8%D8%B9%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A9-%D9%84%D9%84%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%84%D9%84%D9%85%D9%81%D8%A7%D8%B9%D9%84-%D8%A8%D9%86%D8%AC%D8%A7%D8%AD/",
-    "published": "Sat, 29 Aug 2026 11:24:07 +0000",
+    "title": "كردستان العراق تعيد تشغيل قطاعها النفطي والإنتاج يرتفع إلى 230 ألف برميل يوميا",
+    "summary": "أعلن القائم بأعمال وزير الثروات الطبيعية في إقليم كردستان العراق، اليوم السبت، استئناف إنتاج النفط في الإقليم، ليصل إلى ما بين 220 و230 ألف برميل يوميا.",
+    "link": "https://arabic.rt.com/business/1826683-%D9%83%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%AA%D8%B9%D9%8A%D8%AF-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%82%D8%B7%D8%A7%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%88%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%A5%D9%84%D9%89-230-%D8%A3%D9%84%D9%81-%D8%A8%D8%B1%D9%85%D9%8A%D9%84-%D9%8A%D9%88%D9%85%D9%8A%D8%A7/",
+    "published": "Sat, 29 Aug 2026 18:09:46 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "أكثر من 50 ألف شخص يشهدون \"الإمارات تحب فلسطين\" في إكسبو دبي",
+    "summary": "شارك الشيخ نهيان بن مبارك آل نهيان، وزير التسامح والتعايش الإماراتي، يوم السبت، أبناء الجالية الفلسطينية في دولة الإمارات احتفاءهم بثقافتهم وتراثهم وقصص نجاحهم، خلال فعالية \"الإمارات تحب فلسطين\" التي استقطبت أكثر من 50 ألف شخص في مركز دبي للمعارض بمدينة إكسبو دبي.",
+    "link": "https://www.skynewsarabia.com/varieties/1888925-%D9%86%D9%87%D9%8A%D8%A7%D9%86-%D8%A8%D9%86-%D9%85%D8%A8%D8%A7%D8%B1%D9%83-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%A1%D9%87%D9%85-%D8%A8%D8%AB%D9%82%D8%A7%D9%81%D8%AA%D9%87%D9%85-%D8%AF%D8%A8%D9%8A",
+    "published": "Sat, 29 Aug 2026 19:27:24 GMT",
+    "source": "سكاي منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1788036413
   },
   {
     "title": "فيديو.. الدببة الجائعة تغزو مدنا أميركية بأعداد غير مسبوقة",
@@ -607,7 +617,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "مصر تزيح الستار عن مقبرة ومنظومة دفن أثرية في سقارة",
@@ -617,7 +627,7 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "بعد 3 عقود على العرش.. النرويج تودع الملك هارالد",
@@ -627,27 +637,17 @@
     "source": "سكاي منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "فيديو.. كلب يخطف الأنظار وسط جحيم حرائق الجزائر",
-    "summary": "تداولت منصات التواصل الاجتماعي في الجزائر مقطع فيديو، يظهر كلبا وهو يحاول التعامل مع النيران المشتعلة، وسط الحرائق التي تشهدها مناطق في البلاد.",
-    "link": "https://www.skynewsarabia.com/varieties/1888885-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%83%D9%84%D8%A8-%D9%8A%D8%AE%D8%B7%D9%81-%D8%A7%D9%84%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D9%88%D8%B3%D8%B7-%D8%AC%D8%AD%D9%8A%D9%85-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1",
-    "published": "Sat, 29 Aug 2026 11:12:52 GMT",
-    "source": "سكاي منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "إيران تتعهد بمواجهة العقوبات الأمريكية وتؤكد استمرار القيود في مضيق هرمز",
     "summary": "إيران تتعهد بمواجهة العقوبات والضغوط الأمريكية عبر مسارين تقول إنهما \"متكاملان ولا ينفصلان\": الدبلوماسية والدفاع، فيما يرفض الحرس الثوري تأكيدات واشنطن بشأن فتح مضيق هرمز، ويؤكد استمرار القيود على حركة الملاحة.",
     "link": "https://www.bbc.com/arabic/articles/ckg73zk33vvo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 15:29:39 GMT",
+    "published": "Sat, 29 Aug 2026 18:43:53 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
     "title": "تصاعد القرصنة قرب السواحل الصومالية مع اتساع تداعيات الحرب الأمريكية مع إيران",
@@ -657,7 +657,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
+  },
+  {
+    "title": "كيف تعمل إحدى \"أقوى الحيل\" للسيطرة على التوتر؟",
+    "summary": "لا يزال الأرق ينتاب ماريا بين الحين والآخر، لكنها تدرك أن تمارين التنفس المربع تساعدها على تجاوز الفترات التي قد تشعر فيها بالإرهاق. تقول: \"أعتقد أننا ننسى أحياناً أن نتنفس، أن نتنفس حقاً بوعي، ونستهين بالفوائد التي يجلبها ذلك لأجسامنا وعقولنا\".",
+    "link": "https://www.bbc.com/arabic/articles/c1kxejdlg13o?at_medium=RSS&at_campaign=rss",
+    "published": "Sat, 29 Aug 2026 16:47:20 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1788036413
   },
   {
     "title": "رهينة بريطانية-إسرائيلية سابقة لدى حركة حماس تتزوج في تل أبيب",
@@ -667,56 +677,46 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "\"فيضانات نيبال والتبت: هذا هو ثمن عدم التحرك في مواجهة أزمة المناخ\" - الغارديان",
-    "summary": "تتناول الصحف البريطانية تمويل الدول المتضررة من أزمة المناخ، واحتمال تصاعد المواجهة بين بريطانيا وروسيا، ومسؤولية الحكومات في مواجهة مخاطر الذكاء الاصطناعي.",
-    "link": "https://www.bbc.com/arabic/articles/cn74ryn1y1vo?at_medium=RSS&at_campaign=rss",
-    "published": "Sat, 29 Aug 2026 12:18:38 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1788021216
-  },
-  {
-    "title": "\"المونيتور\": معضلة إسرائيل في لبنان.. مواجهة \"حزب الله\" دون إغضاب ترامب وإشعال مواجهة مع إيران",
-    "summary": "وفقا لتقرير في موقع \"المونيتور\"، تواجه إسرائيل معضلة متزايدة في جنوب لبنان، مع سعيها لمواجهة \"حزب الله\" دون التورط في تصعيد أوسع مع إيران أو إغضاب الرئيس الأمريكي دونالد ترامب.",
-    "link": "https://arabic.rt.com/middle_east/1826675-%D8%A7%D9%84%D9%85%D9%88%D9%86%D9%8A%D8%AA%D9%88%D8%B1-%D9%85%D8%B9%D8%B6%D9%84%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D8%AF%D9%88%D9%86-%D8%A5%D8%BA%D8%B6%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A5%D8%B4%D8%B9%D8%A7%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86/",
-    "published": "Sat, 29 Aug 2026 16:20:19 +0000",
+    "title": "زيارة شي جين بينغ لمصر تقلق إسرائيل.. ماذا يخشى الإعلام العبري؟",
+    "summary": "تتجه أنظار دوائر إعلامية إسرائيلية إلى زيارة الرئيس الصيني شي جين بينغ المرتقبة إلى مصر وسط اهتمام بتنامي التعاون بين القاهرة وبكين عسكريا واقتصاديا وأثره على موازين القوى بالمنطقة",
+    "link": "https://arabic.rt.com/middle_east/1826745-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B4%D9%8A-%D8%AC%D9%8A%D9%86-%D8%A8%D9%8A%D9%86%D8%BA-%D9%84%D9%85%D8%B5%D8%B1-%D8%AA%D9%82%D9%84%D9%82-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AE%D8%B4%D9%89-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D9%8A/",
+    "published": "Sat, 29 Aug 2026 20:42:16 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "سلوتسكي: النزاع الأوكراني سينتهي بانتصار روسيا \"في المستقبل المنظور\"",
-    "summary": "أكد رئيس لجنة الشؤون الدولية بمجلس الدوما، ليونيد سلوتسكي، أن النزاع الأوكراني سينتهي بانتصار روسيا في المستقبل المنظور، معتبرا أن ذلك سيمثل هزيمة آخر نظام نازي في تاريخ البشرية.",
-    "link": "https://arabic.rt.com/world/1826685-%D8%B3%D9%84%D9%88%D8%AA%D8%B3%D9%83%D9%8A-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A-%D8%B3%D9%8A%D9%86%D8%AA%D9%87%D9%8A-%D8%A8%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%B1-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D8%B1/",
-    "published": "Sat, 29 Aug 2026 16:18:55 +0000",
+    "title": "الجيش الجزائري يتدخل جوا وبرا للمساهمة في إخماد حرائق جيجل والطارف (فيديو + صور)",
+    "summary": "أكدت وزارة الدفاع الجزائرية، السبت، أن مفارز ووحدات الجيش تواصل تدخلها الميداني المكثف للمساهمة في جهود إخماد الحرائق التي تشهدها ولايتا جيجل والطارف، بالناحية العسكرية الخامسة.",
+    "link": "https://arabic.rt.com/middle_east/1826747-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%AA%D8%AF%D8%AE%D9%84-%D8%AC%D9%88%D8%A7-%D9%88%D8%A8%D8%B1%D8%A7-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9-%D9%81%D9%8A-%D8%A5%D8%AE%D9%85%D8%A7%D8%AF-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%AC%D9%8A%D8%AC%D9%84-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D8%B1%D9%81-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B5%D9%88%D8%B1/",
+    "published": "Sat, 29 Aug 2026 20:42:03 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "مطلب إثيوبي يقلب معادلة سد النهضة.. خبراء يكشفون لـRT ما وراء طرح \"التعويضات\" الجديد",
-    "summary": "أثارت دعوة مسؤول إثيوبي سابق لمطالبة مصر والسودان بتعويضات عن استخدام مياه النيل الأزرق جدلًا واسعا في القاهرة، وسط تحذيرات مصرية من تحويل الخلاف إلى \"تسعير\" للمياه الدولية.",
-    "link": "https://arabic.rt.com/middle_east/1826677-%D9%85%D8%B7%D9%84%D8%A8-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A-%D9%8A%D9%82%D9%84%D8%A8-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%B3%D8%AF-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D9%8A%D9%83%D8%B4%D9%81%D9%88%D9%86-%D9%84%D9%80rt-%D9%85%D8%A7-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B7%D8%B1%D8%AD-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF/",
-    "published": "Sat, 29 Aug 2026 16:18:30 +0000",
+    "title": "لقطات توثق لحظات مميتة.. عمدة لوس أنجلوس تطالب بمراجعة أداء الشرطة (فيديو)",
+    "summary": "دعت عمدة لوس أنجلوس كارين باس إلى إجراء مراجعة مستقلة لمواجهتين مميتتين مع شرطة المدينة الأمريكية، بعدما وثقت كاميرات تفاصيل الحادثتين، ووصفت المشاهد بأنها \"صعبة للغاية\".",
+    "link": "https://arabic.rt.com/society/1826737-%D9%84%D9%82%D8%B7%D8%A7%D8%AA-%D8%AA%D9%88%D8%AB%D9%82-%D9%84%D8%AD%D8%B8%D8%A7%D8%AA-%D9%85%D9%85%D9%8A%D8%AA%D8%A9-%D8%B9%D9%85%D8%AF%D8%A9-%D9%84%D9%88%D8%B3-%D8%A3%D9%86%D8%AC%D9%84%D9%88%D8%B3-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D8%A8%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+    "published": "Sat, 29 Aug 2026 20:27:39 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   },
   {
-    "title": "المصري مصطفى محمد ينتقل إلى الدوري التركي.. الكشف عن تفاصيل الصفقة",
-    "summary": "أفادت تقارير صحفية، بأن الدولي المصري مصطفى محمد مهاجم نادي نانت الفرنسي، أقترب من العودة إلى الدوري التركي لكرة القدم، خلال فترة الانتقالات الصيفية الجارية.",
-    "link": "https://arabic.rt.com/sport/1826681-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B9%D9%86-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%B5%D9%81%D9%82%D8%A9/",
-    "published": "Sat, 29 Aug 2026 16:17:26 +0000",
+    "title": "روسيا تحصد فضية بطولة العالم للتجديف بالقوارب \"الكانو\"",
+    "summary": "فاز الرياضيون الروس بالميدالية الفضية في سباق القوارب الرباعية لمسافة 500 متر، وذلك ضمن منافسات بطولة العالم للتجديف السريع بالقوارب \"الكانو\" المقامة في مدينة بوزنان البولندية.",
+    "link": "https://arabic.rt.com/sport/1826729-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%AD%D8%B5%D8%AF-%D9%81%D8%B6%D9%8A%D8%A9-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%84%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D9%81-%D8%A8%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D9%86%D9%88/",
+    "published": "Sat, 29 Aug 2026 20:27:31 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1788021216
+    "fetched_at": 1788036413
   }
 ]
