@@ -32,27 +32,27 @@ RSS_FEEDS = [
     {"url": "https://threatpost.com/feed/", "source": "Threatpost", "category": "أمن سيبراني", "lang": "en"},
     
     # --- رياضة ---
-    {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سكاي الرياضة", "category": "رياضة"},
+    {"url": "https://www.skynewsarabia.com/rss/sport.xml", "source": "سکای رياضة", "category": "رياضة"},
     {"url": "https://www.kooora.com/rss.xml", "source": "كووورة", "category": "رياضة"},
     {"url": "https://www.alyoum7.com/rss", "source": "اليوم السابع", "category": "رياضة"},
     
     # --- اقتصاد ---
-    {"url": "https://www.skynewsarabia.com/rss/business.xml", "source": "سكاي اقتصاد", "category": "اقتصاد"},
+    {"url": "https://www.skynewsarabia.com/rss/business.xml", "source": "سکای اقتصاد", "category": "اقتصاد"},
     {"url": "https://arabic.rt.com/rss/business/", "source": "روسيا اليوم اقتصاد", "category": "اقتصاد"},
     {"url": "https://www.argaam.com/rss", "source": "أرقام", "category": "اقتصاد"},
     {"url": "https://www.albayan.ae/rss", "source": "البيان", "category": "اقتصاد"},
     {"url": "https://rss.cnn.com/rss/cnn_arabic.rss", "source": "CNN اقتصاد", "category": "اقتصاد"},
     
     # --- صحة وحياة ---
-    {"url": "https://www.skynewsarabia.com/rss/varieties.xml", "source": "سكاي منوعات", "category": "صحة"},
+    {"url": "https://www.skynewsarabia.com/rss/varieties.xml", "source": "سکای منوعات", "category": "صحة"},
     
-    # --- أخبار عامة (تمت إضافة الجزيرة ✅) ---
+    # --- أخبار عامة ---
     {"url": "https://feeds.bbci.co.uk/arabic/rss.xml", "source": "BBC عربي", "category": "عالم"},
-   {"url": "https://www.aljazeera.net/rss/news", "source": "الجزيرة", "category": "عالم"},       # ✅ تمت الإضافة
-    {"url": "https://www.skynewsarabia.com/rss/news", "source": "سكай نيوز", "category": "عالم"},          # ✅ تمت الإضافة
-    {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"}
+    {"url": "https://www.aljazeera.net/rss/news", "source": "الجزيرة", "category": "عالم"},
+    {"url": "https://www.skynewsarabia.com/rss/news", "source": "سکای نيوز", "category": "عالم"},
+    {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"},
     {"url": "https://www.thenationalnews.com/rss", "source": "The National", "category": "عالم"},
-    {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "عالم"},
+    {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "عالم"}
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
