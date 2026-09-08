@@ -52,7 +52,7 @@ RSS_FEEDS = [
     {"url": "https://www.skynewsarabia.com/rss/news", "source": "سکای نيوز", "category": "عالم"},
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"},
     {"url": "https://www.thenationalnews.com/rss", "source": "The National", "category": "عالم"},
-    {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "عالم"}
+   # {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "عالم"}
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
