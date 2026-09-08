@@ -12,7 +12,7 @@ RSS_FEEDS = [
     {"url": "https://ayon-tech.com/feed/", "source": "عُيون التقنية", "category": "تقنية"},
     {"url": "https://www.takni.com/feed/", "source": "تقني", "category": "تقنية"},
     {"url": "https://arabeed.com/feed/", "source": "عُرب تيد", "category": "تقنية"},
-    {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "تقنية"},
+   # {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "تقنية"},
     
     # --- تقنية — إنجليزية (زخم وتنوع) ---
     {"url": "https://www.theverge.com/rss/index.xml", "source": "The Verge", "category": "تقنية", "lang": "en"},
