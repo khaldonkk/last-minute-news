@@ -53,6 +53,10 @@ RSS_FEEDS = [
     {"url": "https://arabic.rt.com/rss/", "source": "روسيا اليوم", "category": "عالم"},
     {"url": "https://www.thenationalnews.com/rss", "source": "The National", "category": "عالم"},
    # {"url": "https://www.middleeasteye.net/rss", "source": "Middle East Eye", "category": "عالم"}
+    # --- أخبار اليمن ---
+    {"url": "https://news.google.com/rss/search?q=%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D9%8A%D9%85%D9%8D&hl=ar&gl=SA&ceid=SA:ar", "source": "أخبار جوجل (اليمن)", "category": "اليمن"},
+    {"url": "https://www.aljazeera.net/rss/topic/yemen", "source": "الجزيرة", "category": "اليمن"},
+    {"url": "https://www.saba.ye/ar/rss.xml", "source": "سبأ", "category": "اليمن"},
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
