@@ -1,123 +1,143 @@
 [
   {
-    "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-    "summary": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last [&#8230;]",
-    "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-    "published": "2026-09-23T16:30:00-04:00",
+    "title": "Meta is making a standalone Muse AI gadget",
+    "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "published": "2026-09-23T20:15:20-04:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-    "summary": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its [&#8230;]",
-    "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-    "published": "2026-09-23T16:30:00-04:00",
+    "title": "Meta Connect 2026: The 7 biggest announcements",
+    "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI [&#8230;]",
+    "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+    "published": "2026-09-23T20:00:33-04:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-    "summary": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-    "published": "2026-09-23T15:00:00-04:00",
+    "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+    "summary": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with [&#8230;]",
+    "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+    "published": "2026-09-23T19:42:10-04:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Data centers are black boxes, but California wants to change that",
-    "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
-    "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-    "published": "2026-09-23T14:22:57-04:00",
+    "title": "Muse is coming to Meta smart glasses",
+    "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging [&#8230;]",
+    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "published": "2026-09-23T19:40:56-04:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-    "summary": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-    "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-    "published": "Wed, 23 Sep 2026 20:35:17 +0000",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "published": "Thu, 24 Sep 2026 01:13:32 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
-    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-    "published": "Wed, 23 Sep 2026 19:31:28 +0000",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "published": "Thu, 24 Sep 2026 00:46:17 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Modal Motors is trying to cut China out of electric motors entirely",
-    "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-    "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-    "published": "Wed, 23 Sep 2026 19:05:00 +0000",
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+    "published": "Wed, 23 Sep 2026 23:47:35 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-    "summary": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
-    "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-    "published": "Wed, 23 Sep 2026 18:06:27 +0000",
+    "title": "Meta introduces camera-free AI glasses",
+    "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "published": "Wed, 23 Sep 2026 23:39:44 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-    "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
-    "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-    "published": "Wed, 23 Sep 2026 20:28:42 +0000",
+    "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+    "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+    "published": "Wed, 23 Sep 2026 22:17:25 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Discord age verification rolls out today with changes spurred by user backlash",
-    "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
-    "link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-    "published": "Wed, 23 Sep 2026 20:05:13 +0000",
+    "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+    "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+    "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+    "published": "Wed, 23 Sep 2026 21:46:36 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "YouTube promises custom feeds and a lot more AI later this year",
-    "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-    "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-    "published": "Wed, 23 Sep 2026 19:35:53 +0000",
+    "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+    "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+    "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "published": "Wed, 23 Sep 2026 21:18:53 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "Contrary to some reports, you don't have two brains",
-    "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
-    "link": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-    "published": "Wed, 23 Sep 2026 18:47:36 +0000",
+    "title": "Here's the Torcal, the first fully electric Bentley",
+    "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+    "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+    "published": "Wed, 23 Sep 2026 21:06:07 +0000",
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+    "summary": "The company is bringing its Private Processing encryption service to its much-maligned smart glasses.",
+    "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+    "published": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "source": "Wired",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+    "summary": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+    "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+    "published": "Wed, 23 Sep 2026 23:42:44 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1790223289
   },
   {
     "title": "A US-China AI Hotline Won't Be Ready For a While",
@@ -127,7 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
@@ -137,27 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
-    "summary": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
-    "link": "https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/",
-    "published": "Wed, 23 Sep 2026 18:15:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-    "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
-    "link": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/",
-    "published": "Wed, 23 Sep 2026 18:03:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
@@ -167,7 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
@@ -177,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
@@ -187,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
@@ -197,7 +197,27 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+    "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+    "published": "Wed, 23 Sep 2026 18:46:01 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "New RemControl Android banking malware targets users in Europe and Canada",
+    "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+    "published": "Wed, 23 Sep 2026 17:25:13 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1790223289
   },
   {
     "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
@@ -207,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Hackers start exploiting critical WordPress flaw for code execution",
@@ -217,27 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-    "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-    "published": "Wed, 23 Sep 2026 12:20:54 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "InfraTrust report warns network management systems under attack",
-    "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-    "published": "Wed, 23 Sep 2026 10:35:26 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
@@ -317,7 +317,27 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "Europe’s technology backbone is becoming a cyber target",
+    "summary": "<p>Disruptive attacks on public-facing services, financially motivated cybercrime and compromises of shared technology providers are increasing cybersecurity risks across Europe. ENISA’s Threat Landscape 2026 identifies cybercrime, state-linked activity, foreign information manipulation and interference, hacktivism and vulnerability exploitation as key threats. Geopolitical developments influence attackers’ targets, and interconnected digital systems allow disruption to spread across organizations. Breakdown of incident types impacting the EU (Source: ENISA) ENISA analyzed 8,257 incidents recorded between January 1 and December 31, &#8230; <a href=\"https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/\">Europe’s technology backbone is becoming a cyber target</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/",
+    "published": "Thu, 24 Sep 2026 04:00:02 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "Americans’ views on data centers have turned more negative",
+    "summary": "<p>American attitudes toward data centers have turned noticeably more negative over the course of 2026, according to a new Pew Research Center survey. 54% of U.S. adults now say data centers are mostly bad for the environment, up from 39% in January. Half say they hurt home energy costs (up from 38%), and 49% say they harm quality of life for people living nearby (up from 30%). Only 4% see a mostly positive impact in &#8230; <a href=\"https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/\">Americans&#8217; views on data centers have turned more negative</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/",
+    "published": "Wed, 23 Sep 2026 22:15:08 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1790223289
   },
   {
     "title": "Cofense measures employee readiness against real-world phishing threats",
@@ -327,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "80,000 relay servers help users in China slip past U.S. AI region bans",
@@ -337,27 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "Portnox detects and removes unauthorized AI applications from managed devices",
-    "summary": "<p>Portnox has announced new capabilities to detect unauthorized AI applications and agents on managed devices and automatically enforce security policy, restricting, quarantining, or removing unapproved or risky applications the moment they&#8217;re detected. The capability addresses shadow AI: generative AI applications that increasingly act as autonomous agents, reaching local files, remote resources, and enterprise data with the same permissions as the logged-in user. As this footprint grows faster than most organizations can track, Portnox gives IT &#8230; <a href=\"https://www.helpnetsecurity.com/2026/09/23/portnox-shadow-ai-control-and-visibility/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/09/23/portnox-shadow-ai-control-and-visibility/\">Portnox detects and removes unauthorized AI applications from managed devices</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/09/23/portnox-shadow-ai-control-and-visibility/",
-    "published": "Wed, 23 Sep 2026 13:49:39 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure",
-    "summary": "<p>Network Solutions has launched Dark Web Monitoring, a new security capability that alerts small businesses when information associated with their domain appears in known breach data and provides steps they can take to reduce risk. Stolen credentials and other information exposed in data breaches can circulate across dark web marketplaces, forums and other sources. For a small business, that exposure can lead to account takeovers, compromised email, impersonation and unauthorized access to sensitive business or &#8230; <a href=\"https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/\">Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/",
-    "published": "Wed, 23 Sep 2026 13:40:14 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Data Broker Radaris Loses Domains in Privacy Fight",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "GPT-6 Astra Breaks an Old Enigma Message",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Reverse-Engineering Flock Cameras",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Friday Squid Blogging: On Squid Egg Sacs",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "\"خليجي 27\".. هدف عكسي يمنح السعودية فوزا صعبا على الكويت",
+    "summary": "استهل المنتخب السعودي مشواره في كأس الخليج لكرة القدم \"خليجي 27\" بفوز صعب على نظيره الكويتي 1-0، الأربعاء، على ملعب الإنماء بمدينة الملك عبدالله الرياضية في جدة، ضمن منافسات المجموعة الأولى.",
+    "link": "https://www.skynewsarabia.com/sport/1894034-%D8%AE%D9%84%D9%8A%D8%AC%D9%8A-27-%D9%87%D8%AF%D9%81-%D8%B9%D9%83%D8%B3%D9%8A-%D9%8A%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%81%D9%88%D8%B2%D8%A7-%D8%B5%D8%B9%D8%A8%D8%A7-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA",
+    "published": "Wed, 23 Sep 2026 21:26:53 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1790223289
   },
   {
     "title": "تعادل العراق وسلطنة عمان في افتتاح خليجي 27",
@@ -487,7 +497,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "وسط الحرب.. \"مدرب الطوارئ\" يقود اليمن في خليجي 27",
@@ -497,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "ريال مدريد يطالب بقيادة جديدة لليغا بعد هجوم تيباس",
@@ -507,17 +517,27 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "قبل صافرة البداية.. غزة تشعل مواجهة أيرلندا وإسرائيل",
-    "summary": "لم تعد المواجهة بين أيرلندا وإسرائيل مرتبطة بنتيجة مباراة أو ترتيب مجموعة في دوري الأمم الأوروبية. فقبل انطلاق المباراتين المرتقبتين بين المنتخبين، انتقلت تداعيات حرب غزة إلى محيط المنتخب الأيرلندي، ووضعت اللاعبين واتحاد الكرة في قلب جدل سياسي ورياضي متصاعد.",
-    "link": "https://www.skynewsarabia.com/sport/1893827-%D8%B5%D8%A7%D9%81%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%B4%D8%B9%D9%84-%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D8%A3%D9%8A%D8%B1%D9%84%D9%86%D8%AF%D8%A7-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
-    "published": "Wed, 23 Sep 2026 05:24:49 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
+    "title": "الإمارات تفرض إجراءات إنفاذ صارمة على فروع \"بنك ملي إيران\"",
+    "summary": "أعلن مصرف الإمارات العربية المتحدة المركزي اتخاذ إجراءات إنفاذ صارمة بحق فروع بنك ملي إيران العاملة في دولة الامارات.",
+    "link": "https://www.skynewsarabia.com/business/1894065-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D9%81%D8%B1%D8%B6-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A5%D9%86%D9%81%D8%A7%D8%B0-%D8%B5%D8%A7%D8%B1%D9%85%D8%A9-%D9%81%D8%B1%D9%88%D8%B9-%D8%A8%D9%86%D9%83-%D9%85%D9%84%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+    "published": "Thu, 24 Sep 2026 03:55:14 GMT",
+    "source": "سکای اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "الديون العالمية تخترق حاجز الـ 365 تريليون دولار",
+    "summary": "ارتفع إجمالي الدين العالمي بأكثر من 10 تريليونات دولار في النصف الأول من عام 2026 ليصل إلى مستوى قياسي تجاوز 365 تريليون دولار، مدفوعا إلى حد كبير بالأسواق الناشئة، بحسب ما ذكر معهد التمويل الدولي.",
+    "link": "https://www.skynewsarabia.com/business/1894063-%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%AE%D8%AA%D8%B1%D9%82-%D8%AD%D8%A7%D8%AC%D8%B2-%D8%A7%D9%84-365-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+    "published": "Thu, 24 Sep 2026 03:45:58 GMT",
+    "source": "سکای اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1790223289
   },
   {
     "title": "المفوضية الأوروبية تقترح رفع إجراءات 2022 الوقائية عن المجر",
@@ -527,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "\"أديبك 2026\" ينطلق في أبوظبي نوفمبر المقبل",
@@ -537,67 +557,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "الإمارات الرابعة عالمياً في حماية المنشآت النووية",
-    "summary": "حققت دولة الإمارات العربية المتحدة تقدماً بارزاً في مؤشر الأمن النووي لعام 2026 الصادر عن مبادرة التهديد النووي، إذ جاءت في المرتبة الرابعة عالمياً من بين 48 دولة شملها التقييم في مجال حماية المنشآت النووية من أعمال التخريب.",
-    "link": "https://www.skynewsarabia.com/business/1893926-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9",
-    "published": "Wed, 23 Sep 2026 10:03:24 GMT",
-    "source": "سکای اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "OECD ترفع توقعات النمو العالمي لعام 2026 إلى 2.9%",
-    "summary": "قالت منظمة التعاون الاقتصادي والتنمية \"OECD\" الأربعاء، إن الاستثمارات المدفوعة بالذكاء الاصطناعي تساعد الاقتصاد العالمي على الصمود بشكل أفضل قليلا مما كان متوقعا هذا العام، لكن أزمة الطاقة تزداد ترسخا، مما يضغط على التوقعات لعام 2027.",
-    "link": "https://www.skynewsarabia.com/business/1893922-oecd-%D8%AA%D8%B1%D9%81%D8%B9-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%85%D9%88-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D8%B9%D8%A7%D9%85-2026-2-9",
-    "published": "Wed, 23 Sep 2026 09:43:50 GMT",
-    "source": "سکای اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "نشرته \"بوليتيكو\" ونفته إدارة ترامب.. \"حظر أمريكا تصدير الديزل مدة 90 يوما\"",
-    "summary": "نفت إدارة الرئيس الأمريكي دونالد ترامب تقريرا لصحيفة \"بوليتيكو\" أفاد بأن البيت الأبيض يعد خطة لفرض حظر على تصدير وقود الديزل لمدة 90 يوما، ووصفت التقرير بـ\"الأخبار الكاذبة\".",
-    "link": "https://arabic.rt.com/business/1836260-%D9%86%D8%B4%D8%B1%D8%AA%D9%87-%D8%A8%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%88%D9%86%D9%81%D8%AA%D9%87-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%AD%D8%B8%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%B2%D9%84-%D9%85%D8%AF%D8%A9-90-%D9%8A%D9%88%D9%85%D8%A7/",
-    "published": "Wed, 23 Sep 2026 19:51:39 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "الصين تعلن اكتشاف مكمن ضخم للنحاس والذهب بكميات هائلة في آنهوي",
-    "summary": "أعلنت الصين اكتشاف مكمن ضخم للنحاس والذهب في مقاطعة آنهوي، يفوق احتياطياتها بعشرات المرات، من المعادن الأساسية ما يدعم إمدادات قطاعات الطاقة الجديدة والتصنيع  التكنولوجي المتقدم.",
-    "link": "https://arabic.rt.com/business/1836291-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D9%85%D9%83%D9%85%D9%86-%D8%B6%D8%AE%D9%85-%D9%84%D9%84%D9%86%D8%AD%D8%A7%D8%B3-%D9%88%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%81%D9%8A-%D8%A2%D9%86%D9%87%D9%88%D9%8A/",
-    "published": "Wed, 23 Sep 2026 19:38:00 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "\"فولفو\" تحذر: صناعة السيارات الأوروبية مهددة بمصير ديترويت الأمريكية",
-    "summary": "حذر الرئيس التنفيذي لشركة \"فولفو\" السويدية، هوكان سامويلسون، من أن صناعة السيارات الأوروبية قد تواجه مصيرا مشابها لما آلت إليه صناعة السيارات في مدينة ديترويت الأمريكية.",
-    "link": "https://arabic.rt.com/business/1836274-%D9%81%D9%88%D9%84%D9%81%D9%88-%D8%AA%D8%AD%D8%B0%D8%B1-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D9%85%D9%87%D8%AF%D8%AF%D8%A9-%D8%A8%D9%85%D8%B5%D9%8A%D8%B1-%D8%AF%D9%8A%D8%AA%D8%B1%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9/",
-    "published": "Wed, 23 Sep 2026 18:25:00 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "بعد تراجعها 1%.. هل تواصل أسعار الذهب الهبوط أم تعود إلى الصعود؟",
-    "summary": "تراجعت أسعار الذهب بأكثر من 1% خلال تعاملات الأربعاء، متأثرة بقوة الدولار الأمريكي وتزايد توقعات الأسواق بشأن مواصلة مجلس الاحتياطي الفيدرالي رفع أسعار الفائدة.",
-    "link": "https://arabic.rt.com/business/1836266-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9%D9%87%D8%A7-1-%D9%87%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D8%A3%D9%85-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%B9%D9%88%D8%AF/",
-    "published": "Wed, 23 Sep 2026 17:55:00 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "تونس.. السجن 6 سنوات لابنة الرئيس الراحل بن علي",
@@ -607,7 +567,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "صيف لم تشهده تونس منذ 76 عاما.. الحرارة تحطم الأرقام",
@@ -617,7 +577,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "أصالة تلتزم الصمت.. وأسرة سيد درويش توقف التصعيد",
@@ -627,7 +587,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "أستراليا تستعد لتجاوز الوفيات عدد المواليد",
@@ -637,17 +597,17 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "الشرع يؤكد أن الجولان سيبقى أرضاً سورية، وبيزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"",
-    "summary": "لقاءات وخطابات قادة العالم تتواصل على هامش اجتماعات الجمعية العامة للأمم المتحدة في نيويورك، التي انطلقت الثلاثاء وتستمر حتى 28 سبتمبر/أيلول",
-    "link": "https://www.bbc.co.uk/arabic/live/cq3d7yy42r5gt?at_medium=RSS&at_campaign=rss",
-    "published": "الآن",
+    "title": "بزشكيان يتعهد بعدم الخضوع ويتهم واشنطن بـ\"الإرهاب\"، وتراشق إسرائيلي سوري بشأن الجولان",
+    "summary": "أعمال الدورة 81 للجمعية العامة للأمم المتحدة تتواصل في مدينة نيويورك الأمريكية، وتشهد الكثير من الأحداث والمناقشات من أبرزها تلك المتعلقة بالأحداث في الشرق الأوسط",
+    "link": "https://www.bbc.com/arabic/articles/c9p80exd62kgo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 24 Sep 2026 02:43:49 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "وكالة أممية ترصد تصاعداً في تقارير العنف ضد النساء في غزة",
@@ -657,7 +617,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
+  },
+  {
+    "title": "إخلاء لامرأة عمرها 87 عاماً يسط الضوء على أزمة السكن في إسبانيا",
+    "summary": "لم تتمكن ماريكارمن، مستأجرة الشقة في مدريد، من دفع الإيجار الذي حددته الشركة التي اشترتها مؤخراً",
+    "link": "https://www.bbc.com/arabic/articles/cqwyzm70kpmlo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 23 Sep 2026 23:05:11 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1790223289
   },
   {
     "title": "هل ترتفع أسعار الخبز في مصر؟",
@@ -667,57 +637,17 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
-    "title": "خليجي 27: السعودية تهزم الكويت وتتصدر المجموعة الأولى بعد تعادل العراق وعُمان",
-    "summary": "تصدرت السعودية المجموعة الأولى في \"خليجي 27\" بفوزها على الكويت 1-0 في جدة، بهدف سجله يوسف الحقان بالخطأ في مرماه، فيما تعادل العراق وعُمان 1-1، ليحصد كل منهما نقطة.",
-    "link": "https://www.bbc.com/arabic/articles/cqgk565g5zevo?at_medium=RSS&at_campaign=rss",
-    "published": "Wed, 23 Sep 2026 20:21:14 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
+    "title": "تاريخ مواجهات الإمارات ضد اليمن في كأس الخليج - 365Scores",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wJBVV95cUxPM3JqSHVFcXU3ZVZnMDhmMUNtMHphY0UyQTd3Rl9uZDRSV3YzdmI4aWdpeW11Sk16Z0N5d0NVMUVQVnVpU0h1VW1pUWtiaGZobnFjVVFXaG1wQXYzVlA3VVdYVWY0c2xpOWQzZUxFN0phRzlMVDhQeFVVSFdxd01temQ3bFFpYTUwN3dFWVZVN2psN1JmbUxvWDc1OTV1dTZhZHpUblY1bHc1U0pFTXBiX0MzNTMxdjJMTWItNDhZc05IeDc2WUF3bDFtV19RUUxaQUFsZ25vcVJtakNTbGVHUDlmRjFaai1lLWhjbEZoVUZfUHI1c2U2QV81QmxXM3EzOWdDaXBhclVxZ2ViV3UyZTFsUG1wLUlGSEZaRFlwOXU4M3F5Z2JDYjBrUndBNEFCRkoyWFZJQkVtVWdwbVJUYTI2dmZnWkRrT3VlV0lBR3RZZWxOcjZaeUx6eUJxZ3M?oc=5\" target=\"_blank\">تاريخ مواجهات الإمارات ضد اليمن في كأس الخليج</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">365Scores</font>",
+    "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPM3JqSHVFcXU3ZVZnMDhmMUNtMHphY0UyQTd3Rl9uZDRSV3YzdmI4aWdpeW11Sk16Z0N5d0NVMUVQVnVpU0h1VW1pUWtiaGZobnFjVVFXaG1wQXYzVlA3VVdYVWY0c2xpOWQzZUxFN0phRzlMVDhQeFVVSFdxd01temQ3bFFpYTUwN3dFWVZVN2psN1JmbUxvWDc1OTV1dTZhZHpUblY1bHc1U0pFTXBiX0MzNTMxdjJMTWItNDhZc05IeDc2WUF3bDFtV19RUUxaQUFsZ25vcVJtakNTbGVHUDlmRjFaai1lLWhjbEZoVUZfUHI1c2U2QV81QmxXM3EzOWdDaXBhclVxZ2ViV3UyZTFsUG1wLUlGSEZaRFlwOXU4M3F5Z2JDYjBrUndBNEFCRkoyWFZJQkVtVWdwbVJUYTI2dmZnWkRrT3VlV0lBR3RZZWxOcjZaeUx6eUJxZ3M?oc=5",
+    "published": "Wed, 23 Sep 2026 11:12:50 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "\"حضارة فضائية تراسلنا\".. رصد انبعاثات راديوية من كوكب خارج المجموعة الشمسية",
-    "summary": "رصد علماء الفلك لأول مرة انبعاثات راديوية متكررة مصدرها كوكب خارج المجموعة الشمسية، وحددوا المصدر بأنه \"بيتا بيكتوريس b\"، وهو عملاق غازي يقع على بعد نحو 63 سنة ضوئية من الأرض.",
-    "link": "https://arabic.rt.com/space/1836306-%D8%AD%D8%B6%D8%A7%D8%B1%D8%A9-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-%D8%B1%D8%B5%D8%AF-%D8%A7%D9%86%D8%A8%D8%B9%D8%A7%D8%AB%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AF%D9%8A%D9%88%D9%8A%D8%A9-%D9%85%D9%86-%D9%83%D9%88%D9%83%D8%A8-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9/",
-    "published": "Wed, 23 Sep 2026 21:21:44 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "تحذير أمريكي بشأن إثيوبيا بعد تصاعد القتال الداخلي شمال البلاد",
-    "summary": "وجهت وزارة الخارجية الأمريكية، الأربعاء، تحذيرات إلى المواطنين الأمريكيين بشأن المناطق التي تشهد اشتباكات مسلحة وسيطرة للقوات المناهضة للحكومة.",
-    "link": "https://arabic.rt.com/world/1836313-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF/",
-    "published": "Wed, 23 Sep 2026 21:19:43 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "الكرملين: ممتنون لدعوة بوتين لقمة G20 وسنحدد موقفنا دبلوماسيا",
-    "summary": "أكد المتحدث باسم الكرملين، دميتري بيسكوف، أن روسيا ممتنة وشاكرة على دعوة الولايات المتحدة للرئيس فلاديمير بوتين إلى قمة مجموعة العشرين (G20) في ميامي.",
-    "link": "https://arabic.rt.com/world/1836315-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D9%85%D9%85%D8%AA%D9%86%D9%88%D9%86-%D9%84%D8%AF%D8%B9%D9%88%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%84%D9%82%D9%85%D8%A9-g20-%D9%88%D8%B3%D9%86%D8%AD%D8%AF%D8%AF-%D9%85%D9%88%D9%82%D9%81%D9%86%D8%A7-%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A7/",
-    "published": "Wed, 23 Sep 2026 21:18:42 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "رونالدو: هناك من يريد قتلي (فيديو)",
-    "summary": "صرح الأسطورة البرتغالية كريستيانو رونالدو، بأن بعض القنوات تحب مهاجمتي ومحاولة قتلي، وذلك خلال مشاركته في مؤتمر قمة كرة القدم في بلاده، قبل انطلاق منافسات بطولة دوري أمم أوروبا.",
-    "link": "https://arabic.rt.com/sport/1836308-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%87%D9%86%D8%A7%D9%83-%D9%85%D9%86-%D9%8A%D8%B1%D9%8A%D8%AF-%D9%82%D8%AA%D9%84%D9%8A/",
-    "published": "Wed, 23 Sep 2026 20:56:43 +0000",
-    "source": "روسيا اليوم",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "اليمن.. غارات ومعارك في 6 محافظات والجيش يسيطر على مواقع بتعز - الجزيرة نت",
@@ -727,7 +657,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "سعر الذهب اليوم في مصر يرتفع مع بداية تعاملات الأربعاء - Masrawy",
@@ -737,7 +667,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   },
   {
     "title": "7 أخبار رياضية لا تفوتك اليوم - اليوم السابع",
@@ -747,16 +677,6 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1790198490
-  },
-  {
-    "title": "الأمم المتحدة تحذر من تداعيات اتساع نطاق النزاع في اليمن - UN News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qaENmaTRBd1dkZDJ3eVNueW5nTTlRWEdldzJoMWp5QlM4UHhhNFA4bDN0Vk1WLU5pQlFKX1Q1ajFubF9yNzdwdzg4bDdDNkxUUTlqdDRPUQ?oc=5\" target=\"_blank\">الأمم المتحدة تحذر من تداعيات اتساع نطاق النزاع في اليمن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qaENmaTRBd1dkZDJ3eVNueW5nTTlRWEdldzJoMWp5QlM4UHhhNFA4bDN0Vk1WLU5pQlFKX1Q1ajFubF9yNzdwdzg4bDdDNkxUUTlqdDRPUQ?oc=5",
-    "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1790198490
+    "fetched_at": 1790223289
   }
 ]
