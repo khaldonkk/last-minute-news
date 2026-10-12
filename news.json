@@ -1,5 +1,15 @@
 [
   {
+    "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+    "summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and [&#8230;]",
+    "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+    "published": "2026-10-11T16:06:43-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1791764566
+  },
+  {
     "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
     "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
@@ -7,7 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
@@ -17,7 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "NASA dumped over 800GB of Artemis II data online",
@@ -27,17 +37,27 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-    "summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it [&#8230;]",
-    "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-    "published": "2026-10-11T11:15:00-04:00",
-    "source": "The Verge",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "published": "Sun, 11 Oct 2026 21:14:40 +0000",
+    "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
+  },
+  {
+    "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+    "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+    "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+    "published": "Sun, 11 Oct 2026 20:51:47 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1791764566
   },
   {
     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
@@ -47,7 +67,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
@@ -57,27 +77,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "published": "Sun, 11 Oct 2026 16:52:33 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1791746755
-  },
-  {
-    "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-    "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-    "published": "Sun, 11 Oct 2026 16:02:00 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
@@ -87,7 +87,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "One with the world? A new look at brains transformed by psychedelics.",
@@ -97,7 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Neanderthal wooden tools from Spain found preserved in stone",
@@ -107,7 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
@@ -117,7 +117,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "I Made Terrible Games With Google’s AI Playground",
@@ -127,7 +127,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "13 Best Gifts for Every Traveler Should Have (2026)",
@@ -137,7 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Inside the Muslim Manosphere Policing Women Online",
@@ -147,7 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "These Midterm Races Will Decide Data Centers’ Political Fate",
@@ -157,7 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
@@ -167,7 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
@@ -177,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "What We Missed: FBI Strikes Back at ShinyHunters",
@@ -187,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
@@ -197,7 +197,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
@@ -207,7 +207,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
@@ -217,7 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
@@ -227,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
@@ -237,7 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Google Domains Impacted by Recent ccTLD Hijacks",
@@ -317,7 +317,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Week in review: FortiBleed is still active, Patch Tuesday forecast",
@@ -327,7 +327,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring",
@@ -337,7 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Anthropic offers free AI security scans to open-source maintainers",
@@ -347,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "FBI disrupts Flax Typhoon hacking tools used in global cyberattacks",
@@ -357,7 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Friday Squid Blogging: I Caught a Squid",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "How Technology Empowers—and Imperils—Dictators",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Apple’s Verified Photography System",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Possible Vulnerability in Apple’s Automatic Reboot",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
+  },
+  {
+    "title": "بعد خسارة القمة.. الزمالك يفتح النار على لجنة الحكام",
+    "summary": "قرر مجلس إدارة نادي الزمالك المصري، برئاسة حسين لبيب، التقدم بشكوى رسمية إلى الاتحاد المصري لكرة القدم ضد لجنة الحكام الرئيسية، احتجاجا على القرارات التحكيمية خلال مباراة القمة أمام الأهلي.",
+    "link": "https://www.skynewsarabia.com/sport/1897730-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%8A%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%85",
+    "published": "Sun, 11 Oct 2026 23:24:50 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1791764566
   },
   {
     "title": "الأهلي يحسم القمة 133 أمام الزمالك ويتصدر الدوري المصري",
@@ -487,7 +497,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "سيتي يسحق ليفربول في عقر داره بثلاثية",
@@ -497,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "تسجيلات \"الفار\" تكشف كواليس طرد فينيسيوس أمام فياريال",
@@ -507,17 +517,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1791746755
-  },
-  {
-    "title": "الفيفا يكشف الوجه المسيء لمونديال 2026",
-    "summary": "أعلن الاتحاد الدولي لكرة القدم \"فيفا\" أن المنتخب الفرنسي كان الأكثر تعرضاً للإساءات عبر منصات التواصل الاجتماعي خلال كأس العالم 2026، بأكثر من 18 ألف حالة، يليه المنتخب الإنجليزي.",
-    "link": "https://www.skynewsarabia.com/sport/1897564-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%88%D8%AC%D9%87-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A1-%D9%84%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2026",
-    "published": "Sat, 10 Oct 2026 18:54:28 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ترامب: 22 مليون برميل عبرت هرمز في ليلة واحدة",
@@ -527,7 +527,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "رويترز: إجراءات ترامب عاجزة عن كبح أسعار الديزل",
@@ -537,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "شبح الـ6% يطارد أسواق السندات الأميركية",
@@ -547,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "فنادق عالمية تراهن على عودة السياحة إلى سوريا",
@@ -557,7 +557,17 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
+  },
+  {
+    "title": "اتفاق جديد بين مصر والسعودية لتعزيز أمن إمدادات الطاقة",
+    "summary": "وقعت مصر والسعودية مذكرة تفاهم لتوسيع التعاون في مجالات البترول والغاز الطبيعي والبتروكيماويات، تشمل تجارة المنتجات ونقلها وتخزينها ودراسة فرص الاستثمار في مشروعات مشتركة.",
+    "link": "https://rtarabic.com/business/1842258-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A8%D9%8A%D9%86-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A3%D9%85%D9%86-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9/",
+    "published": "Sun, 11 Oct 2026 19:50:16 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1791764566
   },
   {
     "title": "رئيس الحكومة العراقية: نخطط لإيقاف استيراد الغاز نهائيا خلال السنوات القليلة القادمة",
@@ -567,7 +577,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "فوتشيتش: الاتفاق الروسي الأمريكي بشأن الديزل كسر حلقة العقوبات المفروضة على موسكو",
@@ -577,7 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "\"دويتشه بنك\" يثير المخاوف بشأن مستقبل الاستثمارات الأجنبية في ألمانيا",
@@ -587,17 +597,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1791746755
-  },
-  {
-    "title": "ماذا يحدث في البورصة المصرية؟.. خسائر مليارية ومخاوف من موجة هبوط جديدة",
-    "summary": "تكبدت البورصة المصرية خسائر بنحو 81 مليار جنيه في ختام تعاملات الأحد وسط تراجع جماعي للمؤشرات بالتزامن مع تصاعد التوترات الجيوسياسية ومخاوف المستثمرين من تداعياتها الاقتصادية.",
-    "link": "https://rtarabic.com/business/1842194-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AE%D8%B3%D8%A7%D8%A6%D8%B1-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D9%8A%D8%A9-%D9%88%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D9%85%D9%86-%D9%85%D9%88%D8%AC%D8%A9-%D9%87%D8%A8%D9%88%D8%B7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9/",
-    "published": "Sun, 11 Oct 2026 14:52:11 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ضحية هجوم مطار الرياض.. هكذا وصل \"الخبر الأليم\" إلى مصر",
@@ -607,7 +607,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "هجوم ذئب يثير الفزع في قرية مصرية.. التفاصيل كاملة",
@@ -617,7 +617,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "الشرطة الألمانية تستدعي الخيالة للبحث عن حيوان مفترس",
@@ -627,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "القبض على سيدة عمرها 83 عاما بسبب \"حيازة المخدرات\"",
@@ -637,17 +637,17 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "السعودية تعلن استهداف مطار الدمام بعد ساعات من وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض",
     "summary": "هيئة الطيران المدني السعودية تعلن تعرض مطار الدمام في شرق المملكة لهجوم مساء الأحد، بعد ساعات من تأكيدها تعرض مطار الرياض لهجوم جديد وارتفاع عدد قتلى هجوم يوم السبت إلى 13",
     "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
-    "published": "Sun, 11 Oct 2026 18:57:55 GMT",
+    "published": "Sun, 11 Oct 2026 20:53:03 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "الهجوم على مطار الرياض: حدث خطير آخر في صراع مشحون بالتوتر",
@@ -657,7 +657,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "كيف تناول مستخدمو مواقع التواصل الاجتماعي \"أزمة البيض\" في العراق؟",
@@ -667,7 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
@@ -677,57 +677,57 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "بيان مصري سعودي باكستاني تركي بعد هجمات الرياض",
-    "summary": "أدانت مصر والسعودية وباكستان وتركيا الهجمات التي تشنها جماعة الحوثيين على المملكة، بما فيها استهداف مطار الملك خالد الدولي، مؤكدة تضامنها مع الرياض ومطالبة بوقف الهجمات فورا.",
-    "link": "https://rtarabic.com/middle_east/1842237-%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D8%B5%D8%B1%D9%8A-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D8%A8%D8%B9%D8%AF-%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6/",
-    "published": "Sun, 11 Oct 2026 19:24:45 +0000",
+    "title": "الاتحاد الأوروبي يحول 3.3 مليار يورو إضافية إلى أوكرانيا لشراء مسيرات وصواريخ",
+    "summary": "أعلنت رئيسة المفوضية الأوروبية أورسولا فون دير لاين أن الاتحاد الأوروبي سيحول الجمعة 3.3 مليار يورو إضافية إلى أوكرانيا لشراء صواريخ ومسيرات، عقب اتصال هاتفي مع زيلينسكي.",
+    "link": "https://rtarabic.com/world/1842310-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D9%8A%D8%AD%D9%88%D9%84-33-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D9%8A%D9%88%D8%B1%D9%88-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D8%B4%D8%B1%D8%A7%D8%A1-%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE/",
+    "published": "Mon, 12 Oct 2026 00:10:36 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "أنقرة ترد على كاتس: تصريحاته بحق أردوغان مؤشر على العجز السياسي",
-    "summary": "وصف رئيس دائرة الاتصال بالرئاسة التركية برهان الدين دوران، الأحد، تصريحات وزير الدفاع الإسرائيلي إسرائيل كاتس بحق أردوغان بأنها مؤشر على \"العجز السياسي\" قبيل انتخابات إسرائيل.",
-    "link": "https://rtarabic.com/world/1842240-%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D9%83%D8%A7%D8%AA%D8%B3-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA%D9%87-%D8%A8%D8%AD%D9%82-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%85%D8%A4%D8%B4%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%AC%D8%B2-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A/",
-    "published": "Sun, 11 Oct 2026 19:24:36 +0000",
+    "title": "السعودية: وفاة مقيم باكستاني وإصابة 11 إثر الهجوم على مطار الملك خالد الدولي",
+    "summary": "أعلنت الهيئة العامة للطيران المدني السعودية وفاة مقيم باكستاني وإصابة 11 آخرين، جراء هجوم استهدف مطار الملك خالد الدولي بالرياض عصر الأحد 11 أكتوبر.",
+    "link": "https://rtarabic.com/middle_east/1842311-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%82%D9%8A%D9%85-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D9%88%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-11-%D8%A5%D8%AB%D8%B1-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A/",
+    "published": "Mon, 12 Oct 2026 00:09:33 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "اتهامات باستغلال نزلاء السجون في مصر.. والداخلية ترد ببيان رسمي",
-    "summary": "نفت وزارة الداخلية المصرية مزاعم بشأن تحقيق صندوق مراكز الإصلاح والتأهيل عوائد مالية عبر استغلال المساجين، مؤكدة أن أنشطته تستهدف التدريب والتأهيل المهني وتحسين أوضاعهم المعيشية.",
-    "link": "https://rtarabic.com/middle_east/1842242-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D9%86%D8%B2%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%B3%D8%AC%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B1%D8%AF-%D8%A8%D8%A8%D9%8A%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%D9%8A/",
-    "published": "Sun, 11 Oct 2026 19:24:23 +0000",
+    "title": "الدفاع المدني السعودي يعلن زوال الخطر عن أبها بعد إطلاق إنذار تحذيري",
+    "summary": "أعلن الدفاع المدني السعودي إطلاق إنذار عبر المنصة الوطنية للإنذار المبكر في مدينة أبها بمنطقة عسير للتحذير من خطر محتمل، داعيا السكان إلى اتباع التعليمات الصادرة عن الجهات المختصة.",
+    "link": "https://rtarabic.com/middle_east/1842318-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%B2%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D8%B7%D8%B1-%D8%B9%D9%86-%D8%A3%D8%A8%D9%87%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D9%8A/",
+    "published": "Sun, 11 Oct 2026 23:58:40 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "الأهلي يهزم الزمالك في القمة الـ133 (فيديو)",
-    "summary": "فاز نادي الأهلي على غريمه التقليدي الزمالك (2-0) في مباراة القمة التي جمعتهما مساء اليوم الأحد، ضمن منافسات الجولة السادسة من الدوري المصري الممتاز لكرة القدم.",
-    "link": "https://rtarabic.com/sport/1842264-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%8A%D9%87%D8%B2%D9%85-%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%84%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%80133-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
-    "published": "Sun, 11 Oct 2026 19:24:12 +0000",
+    "title": "شاهد.. كاميرات داخل مطار الملك خالد في الرياض ترصد لحظة هجوم السبت",
+    "summary": "وثقت لقطات من كاميرات المراقبة لحظة الهجوم الذي استهدف مطار الملك خالد في الرياض يوم السبت وأسفر عن مقتل 12 شخصا وإصابة أكثر من 300 آخرين.",
+    "link": "https://rtarabic.com/videoclub/1842312-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%AE%D8%A7%D9%84%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AA%D8%B3%D8%AC%D9%84-%D9%84%D8%AD%D8%B8%D8%A9-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA/",
+    "published": "Sun, 11 Oct 2026 23:35:38 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
-    "title": "السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13 - BBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLVpkdzBwVm92TVpza01oMDBDLVFFekROVHEtcjV6bWNnTkxldWV6QmdxeWN3U2pVZVBDd2xMRmtMbmZBMjkySVZ0MDltSS1QQlpJVUR1TC16bHI4YlE?oc=5\" target=\"_blank\">السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CLVpkdzBwVm92TVpza01oMDBDLVFFekROVHEtcjV6bWNnTkxldWV6QmdxeWN3U2pVZVBDd2xMRmtMbmZBMjkySVZ0MDltSS1QQlpJVUR1TC16bHI4YlE?oc=5",
-    "published": "Sun, 11 Oct 2026 16:56:15 GMT",
+    "title": "ضحية هجوم مطار الرياض.. هكذا وصل \"الخبر الأليم\" إلى مصر - سكاي نيوز عربية",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxOeWlvYThvNTBDOUluNVRKVDhkYnRYQlhiSndObnZCTkVNLS03OTg1Q1h6aHRtVWlMMFhhdk1mOFBLaldleFMtb3JXb0wta3lHSEx5WEtoblhBdHFUSFpnOHRQYzBDUjZBZnlXNW94ejR2LUdzenByRlN3aUQ1RWJSQjBZZjdhVzhUVmpjckk3T2JzSldUcW1pdjBhRTNkTFlnb19UZFJKMGdlb0h2MWp3emd3bmo0ckYxQ0NrejJXdkQ4VkRQLWNTVENMaDM1djNaUHkzX2dhZ2VCcGhOazE3UTlpeGpVTDVNZVdDNG5QOF9VYXUtaV85SHhPLVdsMktUS0ViblpHbEdMVURZU2JVUDRYTXh2clQtbkZCR2ttQXAzaVN5dExhQnVBXzcycjdRbXowMjBIdHhkUkprX3JVbThQQmVkSzI3bV9TUktFc3BnWDdSOXpoYXNHeHl4NU84WFVXb192ZWF6dEJ2UnVSaFdKREZyWS0zSEJfam130gGDA0FVX3lxTE1FUjNmVkZmZVZ1N3g3Q1hFQzJHQWxGbXBRRWRfd1FuRjJlUXBRMEJNZFloelUzMlRkN1l3SWZHLU5QLWYzNmkzTkdLclFuV1JyekdyMGtjYUtKR1hlZ0RpOGZJOEFFVnBJbHZncXVaSS1mQ3RDcHM5UmZLVE5XY0wxb2VCRXdmZHpKNmZVdVhBSWpqM1ptaVVlYjdBX0loaHF3RXhEOS1EbFpiWWZ1dzN0eVJ2eUVnOUdNWTJNOVp5X21qb2V0SjEyYW9Ja0RndXFUbVJwX24wcVVjZVNUT25jSXhDbWoxLXZYOXJQZWdFNUh4STRCc1Z1ZHFVTXNKRDRvZHJndzF1dG5xYVNGaXV4aE9MRFdfanJ1NUZCU0dlaGJ2Q1RDNlpRRi1GQlBJQ1pDTm5fM0szSjRMNGMya2JPSmJMN0d0Snd1cGp2VUprSkN4MndFTWZVcGhHYy1xajNjZ2RHZTkxMkxjUWJ1aWtFTjhoaWRLMnRRdGJkbWdwSWVJRQ?oc=5\" target=\"_blank\">ضحية هجوم مطار الرياض.. هكذا وصل \"الخبر الأليم\" إلى مصر</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">سكاي نيوز عربية</font>",
+    "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOeWlvYThvNTBDOUluNVRKVDhkYnRYQlhiSndObnZCTkVNLS03OTg1Q1h6aHRtVWlMMFhhdk1mOFBLaldleFMtb3JXb0wta3lHSEx5WEtoblhBdHFUSFpnOHRQYzBDUjZBZnlXNW94ejR2LUdzenByRlN3aUQ1RWJSQjBZZjdhVzhUVmpjckk3T2JzSldUcW1pdjBhRTNkTFlnb19UZFJKMGdlb0h2MWp3emd3bmo0ckYxQ0NrejJXdkQ4VkRQLWNTVENMaDM1djNaUHkzX2dhZ2VCcGhOazE3UTlpeGpVTDVNZVdDNG5QOF9VYXUtaV85SHhPLVdsMktUS0ViblpHbEdMVURZU2JVUDRYTXh2clQtbkZCR2ttQXAzaVN5dExhQnVBXzcycjdRbXowMjBIdHhkUkprX3JVbThQQmVkSzI3bV9TUktFc3BnWDdSOXpoYXNHeHl4NU84WFVXb192ZWF6dEJ2UnVSaFdKREZyWS0zSEJfam130gGDA0FVX3lxTE1FUjNmVkZmZVZ1N3g3Q1hFQzJHQWxGbXBRRWRfd1FuRjJlUXBRMEJNZFloelUzMlRkN1l3SWZHLU5QLWYzNmkzTkdLclFuV1JyekdyMGtjYUtKR1hlZ0RpOGZJOEFFVnBJbHZncXVaSS1mQ3RDcHM5UmZLVE5XY0wxb2VCRXdmZHpKNmZVdVhBSWpqM1ptaVVlYjdBX0loaHF3RXhEOS1EbFpiWWZ1dzN0eVJ2eUVnOUdNWTJNOVp5X21qb2V0SjEyYW9Ja0RndXFUbVJwX24wcVVjZVNUT25jSXhDbWoxLXZYOXJQZWdFNUh4STRCc1Z1ZHFVTXNKRDRvZHJndzF1dG5xYVNGaXV4aE9MRFdfanJ1NUZCU0dlaGJ2Q1RDNlpRRi1GQlBJQ1pDTm5fM0szSjRMNGMya2JPSmJMN0d0Snd1cGp2VUprSkN4MndFTWZVcGhHYy1xajNjZ2RHZTkxMkxjUWJ1aWtFTjhoaWRLMnRRdGJkbWdwSWVJRQ?oc=5",
+    "published": "Sun, 11 Oct 2026 18:45:04 GMT",
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   },
   {
     "title": "سعر الذهب الآن | أخبار الذهب اليوم: لماذا ترتفع أسعار الذهب بقوة؟ - Investing.com",
@@ -737,7 +737,17 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
+  },
+  {
+    "title": "نتيجة مباراة الأهلي والزمالك اليوم وترتيب الدوري المصري بعد القمة - 365Scores",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPaWdmTFZKMnFUZ0ZxWUI4RFRsWjZxdGFDWU5OaEM0ZTgwVV9rZFF0alI4cW1LRHRuQTBsamp4aVV0TVhydGxfNlFNYWI0RG9NMU05VHhrZHVKam9KeWNnSExMdHhQc3E5RnljV1RvX2FVUUtPYm1HWU9iY2RYS0V2OEtmUmFrdm5KUU9nVE5FV29xY19aOTJjMzkxOVkwTDFWWmNjc1hCbGhDRlF5Q1owNU9LOS1iNzY4aE9lRGc3bVZWYWR2dVlmeVFlWUZKcElSbWIxalBSMENWTmlBWURaQUNNNnN4V1NDWlVFeWFydEhCTkxrSnVKWDV1NGlzODVnbDhLOEtiaXBwUXRsNzNFZEl3WlRpUU56WHBMV0tSelg2c3B6SXhZM3Zpdi0?oc=5\" target=\"_blank\">نتيجة مباراة الأهلي والزمالك اليوم وترتيب الدوري المصري بعد القمة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">365Scores</font>",
+    "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPaWdmTFZKMnFUZ0ZxWUI4RFRsWjZxdGFDWU5OaEM0ZTgwVV9rZFF0alI4cW1LRHRuQTBsamp4aVV0TVhydGxfNlFNYWI0RG9NMU05VHhrZHVKam9KeWNnSExMdHhQc3E5RnljV1RvX2FVUUtPYm1HWU9iY2RYS0V2OEtmUmFrdm5KUU9nVE5FV29xY19aOTJjMzkxOVkwTDFWWmNjc1hCbGhDRlF5Q1owNU9LOS1iNzY4aE9lRGc3bVZWYWR2dVlmeVFlWUZKcElSbWIxalBSMENWTmlBWURaQUNNNnN4V1NDWlVFeWFydEhCTkxrSnVKWDV1NGlzODVnbDhLOEtiaXBwUXRsNzNFZEl3WlRpUU56WHBMV0tSelg2c3B6SXhZM3Zpdi0?oc=5",
+    "published": "Sun, 11 Oct 2026 18:59:34 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
+    "lang": "ar",
+    "fetched_at": 1791764566
   },
   {
     "title": "سعر الدولار يقفز مقابل الجنيه منتصف تعاملات اليوم - Masrawy",
@@ -747,16 +757,6 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1791746755
-  },
-  {
-    "title": "اليمن دخل حربا شاملة.. تحذير أممي سعودي من تداعيات التصعيد الحوثي - الجزيرة نت",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRlNYQzFxSXYyNGJNVEp0cm9DbjktWGR0eUd0akR3a3ZYNDU5Y194TnQ3T19jV3duVENSdjBRbnE4UzEyQ0FVNGF6WDZjQ1pHdlR4NjFqSDNGLUpzclgySVpVdVd1MlNUWmZPNDluQ1E1SHBEWWdmcmk2T2t4Uks4LWwzZlJkc2tFV19YcTlldk4yZVJXeHZJTVhNSzNNZi1PcV9ycGRNemxNdnJNaEVWWVppOEZhVjY3Y3ItUEhkMFMtb3pZNHZjd0cxcXVnNjd2UTc0ZGhRVU9UYzRPWW5kMjlVa2VYdWlfa216UUlWc01tMXEwMUhmaXlOcWotZUZ3NUp4OFI3bEhFLUtQRFdrbFdsQ0ZKV3ZmV3VXVFN3RDhQcnJDQldVRXZqVFF5em8xNVRmYmV4R3E2VlNvZDFWMnpNRDRXQTVZUHlOSzdmTnVMRWfSAdgCQVVfeXFMT0wyWi1QNDJ5NTZDbzc5czYxWXRYMERjbm52VHNyUURhcFpRQnFFbVQ4N3dXcHlFZU96RC1pY1pyMTZTRkFydk44OHpWQWIxU0g0Q3p3TmVjNTAyUFJvZ3N6WDVuNlNNRllxMGlVUkpKMDRELS1DMW9BWWQwWXdPaXVsSnhwSkRwR29CYTBpcFR3bzhCbTJiNW1DdW8yTWpHLVh3UzBCU2lJb05QS1hmM29aNzJuM240LVlnSUdEZnhfV2RybmdoaEI0M2IyVUkzcXNjMndCV1d6a1gxNDR2a3NXUmZoQWtXMkVyTFg0REpzV0owTW5lbHA2aEt1V1pYdkVyaHVSRzhLbFRnMVBGNGhXS0htZnJJdG9WWFJ4eWo1b09XSTg2OWpoTkhyRXhjUHF1YUMzWC0wZjhxamE0QnRBdUwyQkZCVm1tS1drT19fTUNrQ05qODE?oc=5\" target=\"_blank\">اليمن دخل حربا شاملة.. تحذير أممي سعودي من تداعيات التصعيد الحوثي</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-    "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRlNYQzFxSXYyNGJNVEp0cm9DbjktWGR0eUd0akR3a3ZYNDU5Y194TnQ3T19jV3duVENSdjBRbnE4UzEyQ0FVNGF6WDZjQ1pHdlR4NjFqSDNGLUpzclgySVpVdVd1MlNUWmZPNDluQ1E1SHBEWWdmcmk2T2t4Uks4LWwzZlJkc2tFV19YcTlldk4yZVJXeHZJTVhNSzNNZi1PcV9ycGRNemxNdnJNaEVWWVppOEZhVjY3Y3ItUEhkMFMtb3pZNHZjd0cxcXVnNjd2UTc0ZGhRVU9UYzRPWW5kMjlVa2VYdWlfa216UUlWc01tMXEwMUhmaXlOcWotZUZ3NUp4OFI3bEhFLUtQRFdrbFdsQ0ZKV3ZmV3VXVFN3RDhQcnJDQldVRXZqVFF5em8xNVRmYmV4R3E2VlNvZDFWMnpNRDRXQTVZUHlOSzdmTnVMRWfSAdgCQVVfeXFMT0wyWi1QNDJ5NTZDbzc5czYxWXRYMERjbm52VHNyUURhcFpRQnFFbVQ4N3dXcHlFZU96RC1pY1pyMTZTRkFydk44OHpWQWIxU0g0Q3p3TmVjNTAyUFJvZ3N6WDVuNlNNRllxMGlVUkpKMDRELS1DMW9BWWQwWXdPaXVsSnhwSkRwR29CYTBpcFR3bzhCbTJiNW1DdW8yTWpHLVh3UzBCU2lJb05QS1hmM29aNzJuM240LVlnSUdEZnhfV2RybmdoaEI0M2IyVUkzcXNjMndCV1d6a1gxNDR2a3NXUmZoQWtXMkVyTFg0REpzV0owTW5lbHA2aEt1V1pYdkVyaHVSRzhLbFRnMVBGNGhXS0htZnJJdG9WWFJ4eWo1b09XSTg2OWpoTkhyRXhjUHF1YUMzWC0wZjhxamE0QnRBdUwyQkZCVm1tS1drT19fTUNrQ05qODE?oc=5",
-    "published": "Fri, 09 Oct 2026 18:05:07 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1791746755
+    "fetched_at": 1791764566
   }
 ]
