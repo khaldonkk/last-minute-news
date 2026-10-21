@@ -1,5 +1,15 @@
 [
   {
+    "title": "YouTube might be testing hiding the dislike button",
+    "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, [&#8230;]",
+    "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+    "published": "2026-10-20T20:00:56-04:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1792556006
+  },
+  {
     "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
     "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
@@ -7,7 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
@@ -17,7 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Google’s more personalized Gemini AI is heading to your car",
@@ -27,17 +37,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-    "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also [&#8230;]",
-    "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-    "published": "2026-10-20T17:30:24-04:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -47,7 +47,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "SpaceX and Tesla boards form special committees to review merger",
@@ -57,7 +57,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
@@ -67,7 +67,7 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Anthropic’s cloud partnerships are getting messy",
@@ -77,7 +77,17 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "source": "Ars Technica",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1792556006
   },
   {
     "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
@@ -87,7 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
@@ -97,7 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
@@ -107,17 +117,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
-    "summary": "A lifetime ad-free subscription is available.",
-    "link": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
-    "published": "Tue, 20 Oct 2026 20:20:12 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
@@ -127,7 +127,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
@@ -137,7 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
@@ -147,7 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
@@ -157,7 +157,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
@@ -167,7 +167,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
@@ -177,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Close Identity Gaps in Software Development Before Unleashing AI",
@@ -187,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
@@ -197,7 +197,27 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+    "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+    "published": "Tue, 20 Oct 2026 21:01:50 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+    "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+    "published": "Tue, 20 Oct 2026 20:46:42 -0400",
+    "source": "BleepingComputer",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1792556006
   },
   {
     "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
@@ -207,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Zeabur shutting down after second security breach in two months",
@@ -217,27 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-    "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-    "published": "Tue, 20 Oct 2026 14:11:03 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "DHS bans DeepSeek products across US federal civilian agencies",
-    "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-    "published": "Tue, 20 Oct 2026 10:19:05 -0400",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
@@ -317,7 +317,17 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier",
+    "summary": "<p>Google released TorchTPU as open source, giving PyTorch developers a native way to run models on the company’s Tensor Processing Units. Google also announced TPU support in the vLLM and SGLang serving engines, the TorchTitan training framework, Ray, and Hugging Face’s libraries. Teams that write their models in PyTorch and run them on GPUs by default have the most to gain. Google says those workloads now move to TPUs, its custom AI chips, with minimal &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/\">Google open-sourced TorchTPU, so PyTorch on TPUs just got a lot easier</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/10/21/torchtpu-pytorch-on-tpus/",
+    "published": "Wed, 21 Oct 2026 03:42:06 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1792556006
   },
   {
     "title": "Chrome flags malicious commands that scammers pass off as fixes",
@@ -327,7 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "AOMEI Backupper servers hijacked for minutes at a time to push backdoor",
@@ -337,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Incomplete security patches show hackers where to look next",
@@ -347,17 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "Abstract links automated response actions directly to SIEM detection rules",
-    "summary": "<p>Abstract has announced new AI SOC capabilities in its agentic SIEM: investigation, hunt, and triage powered by a combination of Abstract&#8217;s own trained and tuned models and frontier foundation models, and SOAR response capabilities with actions assigned directly to detection rules. The capabilities are built into the platform that already collects, routes, and detects on security data in stream. Security teams are facing agentic attacks that move at machine speed while their own tooling spreads &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/\">Abstract links automated response actions directly to SIEM detection rules</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/",
-    "published": "Tue, 20 Oct 2026 13:26:09 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Possible new Cellebrite iPhone Radio Zero-Day",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Training AIs to Solve CAPTCHAs",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Backdooring Open-Weight AI Models",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "ليلة نارية بدوري الأبطال.. باريس يقهر برشلونة وليفربول ينتفض",
+    "summary": "شهدت الجولة الثالثة من مرحلة الدوري في دوري أبطال أوروبا، الثلاثاء، مواجهات مثيرة، أبرزها فوز باريس سان جرمان الفرنسي على برشلونة الإسباني 4-2، وقلب ليفربول الإنجليزي تأخره بهدفين إلى انتصار على فياريال الإسباني 4-3، فيما استعاد مانشستر سيتي توازنه بفوز عريض على آيك أثينا اليوناني 5-1.",
+    "link": "https://www.skynewsarabia.com/sport/1899545-%D9%84%D9%8A%D9%84%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%8A%D9%82%D9%87%D8%B1-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%88%D9%84%D9%8A%D9%81%D8%B1%D8%A8%D9%88%D9%84-%D9%8A%D9%86%D8%AA%D9%81%D8%B6",
+    "published": "Wed, 21 Oct 2026 02:34:16 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1792556006
   },
   {
     "title": "هاتريك فودين يقود مانشستر سيتي لاكتساح آيك أثينا بخماسية",
@@ -487,7 +497,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "من صدمة البداية إلى رباعية الانتصار.. ليفربول يقهر فياريال",
@@ -497,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "اليويفا يحاصر إنفانتينو بأسئلة \"محرجة\".. وينتظر ردا سريعا",
@@ -507,17 +517,17 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "بعد 4 سنوات.. تين هاغ يكشف كواليس صدامه الشهير مع رونالدو",
-    "summary": "اتهم إريك تين هاغ المدير الفني السابق لمانشستر يونايتد الإنجليزي، إدارة النادي بتكريس ما وصفه بـ\"الثقافة السامة\" داخل الفريق، معتبرا أنها تمنح اللاعبين نفوذا أكبر مما ينبغي، على حساب سلطة المدرب والانضباط داخل غرفة الملابس.",
-    "link": "https://www.skynewsarabia.com/sport/1899447-4-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D9%8A%D9%86-%D9%87%D8%A7%D8%BA-%D9%8A%D9%83%D8%B4%D9%81-%D9%83%D9%88%D8%A7%D9%84%D9%8A%D8%B3-%D8%B5%D8%AF%D8%A7%D9%85%D9%87-%D8%A7%D9%84%D8%B4%D9%87%D9%8A%D8%B1-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88",
-    "published": "Tue, 20 Oct 2026 11:45:32 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
+    "title": "ماسك يبحث دمج تسلا وسبيس إكس مع قفزة أرباح شركة الفضاء",
+    "summary": "قال ملياردير التكنولوجيا إيلون ماسك، الثلاثاء، إن شركتي تسلا وسبيس إكس التابعتين له تبحثان إمكانية الاندماج، مضيفا أن الشركتين شكلتا لجانا خاصة بناء على طلب المساهمين لدراسة هذا الاحتمال.",
+    "link": "https://www.skynewsarabia.com/business/1899560-%D9%85%D8%A7%D8%B3%D9%83-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AF%D9%85%D8%AC-%D8%AA%D8%B3%D9%84%D8%A7-%D9%88%D8%B3%D8%A8%D9%8A%D8%B3-%D8%A5%D9%83%D8%B3-%D9%82%D9%81%D8%B2%D8%A9-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1",
+    "published": "Wed, 21 Oct 2026 03:46:49 GMT",
+    "source": "سکای اقتصاد",
+    "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "باريس تدفع ثمن الشكوك المالية: عائد السندات يلامس 4.94%",
@@ -527,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "مصر و\"فيرتيغلوب\" تبحثان إنشاء مجمع للأسمدة الفوسفاتية",
@@ -537,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "فوائد القروض العقارية في ألمانيا تسجل أعلى مستوى منذ 17 عاما",
@@ -547,17 +557,27 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "أبوظبي تقود أول مشاريع التحالف بين أسترازينيكا وأوراكل",
-    "summary": "أعلنت شركة أسترازينيكا، الثلاثاء، إنها تتعاون مع شركة أوراكل لاستخدام الذكاء الاصطناعي والبيانات الواقعية في تحديد المرضى المناسبين للمشاركة في إجراءات من بينها التجارب السريرية ومراقبة مؤشرات السلامة، في إطار سعي الشركة المصنعة للأدوية إلى الارتقاء بالأبحاث السريرية.",
-    "link": "https://www.skynewsarabia.com/business/1899410-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%AA%D9%82%D9%88%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D8%B2%D9%8A%D9%86%D9%8A%D9%83%D8%A7-%D9%88%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D9%84",
-    "published": "Tue, 20 Oct 2026 09:44:53 GMT",
-    "source": "سکای اقتصاد",
+    "title": "ترامب يعلن استثمار 1.5 مليار دولار في إنتاج الرقائق الإلكترونية",
+    "summary": "أعلن الرئيس الأمريكي دونالد ترامب أن وزارة الحرب (البنتاغون) ستستثمر 1.5 مليار دولار في إنتاج الرقائق الإلكترونية المتقدمة في ولاية كارولاينا الشمالية.",
+    "link": "https://rtarabic.com/world/1845502-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-15-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC-%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9/",
+    "published": "Wed, 21 Oct 2026 03:36:26 +0000",
+    "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "الدين العام الأمريكي يقترب من 40.4 تريليون دولار ويسجل مستوى قياسيا جديدا",
+    "summary": "ارتفع الدين العام الأمريكي إلى 40.396 تريليون دولار في 19 أكتوبر، بزيادة تقارب 400 مليار دولار خلال شهرين، وفقا لبيانات وزارة الخزانة الأمريكية.",
+    "link": "https://rtarabic.com/business/1845493-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8-%D9%85%D9%86-404-%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%88%D9%8A%D8%B3%D8%AC%D9%84-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7/",
+    "published": "Wed, 21 Oct 2026 00:34:40 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1792556006
   },
   {
     "title": "تقرير أمريكي: بنك \"جي بي مورغان\" ساعد سوريا في إبرام صفقة منتجات نفط سعودية",
@@ -567,7 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "نوفاك: روسيا تعرض على الشركاء الأجانب محطات طاقة نووية عائمة",
@@ -577,27 +597,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "مصر تؤمن احتياجاتها من الغاز الطبيعي محليا بمشروع جديد",
-    "summary": "أعلنت وزارة البترول والثروة المعدنية المصرية بدء أنشطة تشغيل المرحلة الثانية من مشروع مليحة بالصحراء الغربية، بالشراكة مع شركة إيني الإيطالية، لزيادة إنتاج الغاز الطبيعي محليا.",
-    "link": "https://rtarabic.com/business/1845372-%D9%85%D8%B5%D8%B1-%D8%AA%D8%A4%D9%85%D9%86-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%AC%D8%A7%D8%AA%D9%87%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D9%85%D8%AD%D9%84%D9%8A%D8%A7-%D8%A8%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF/",
-    "published": "Tue, 20 Oct 2026 15:45:39 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "تراجع مبيعات العقارات الفاخرة في دبي عن مستوياتها القياسية",
-    "summary": "واصل المشترون الأثرياء من مختلف أنحاء العالم الإقبال على العقارات الفاخرة في دبي خلال الربع الثالث، رغم تراجع المبيعات بنحو 17% مقارنة بالعام الماضي مع استمرار الحرب.",
-    "link": "https://rtarabic.com/business/1845344-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%AE%D8%B1%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A8%D9%8A-%D8%B9%D9%86-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9/",
-    "published": "Tue, 20 Oct 2026 13:47:29 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "عضتا قرش تقتلان مسنة في جنوب إفريقيا",
@@ -607,7 +607,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "علم يثير غضبا في جامعة موسكو.. والجيش الصيني يتحرك",
@@ -617,7 +617,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "صورة تذكارية تتحول لمشهد مرعب.. تمساح يقتل صيادا في فلوريدا",
@@ -627,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "اتهامات بسرقة شعار وزارة الاتصالات العراقية.. ما الحقيقة؟",
@@ -637,17 +637,27 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
     "summary": "أعلنت المفوضية السامية للأمم المتحدة لشؤون اللاجئين أن أكثر من 250 ألف شخص نزحوا داخل اليمن منذ أغسطس/ آب، فيما طالب مفوض الأمم المتحدة السامي لحقوق الإنسان، فولكر تورك، بفتح ممر لإيصال المساعدات الإنسانية إلى تعز المحاصرة.",
     "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 17:55:21 GMT",
+    "published": "Wed, 21 Oct 2026 03:51:27 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
+  },
+  {
+    "title": "أول رئيسة وزراء في المغرب: بين الملك ورجال الدين والحركة النسوية",
+    "summary": "هل ستعمل فاطمة المنصوري على تعزيز حقوق المرأة في ظل وجود عوائق دينية وسياسية؟",
+    "link": "https://www.bbc.com/arabic/articles/cxp8gjdqzy8jo?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 03:23:41 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1792556006
   },
   {
     "title": "هل الاقتصاد الأمريكي قوي إلى درجة تستحق إشادة ترامب المتكررة؟",
@@ -657,77 +667,67 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "مارسيليا تتهيأ لمزيد من الاضطرابات بعد تحوّل الاحتجاجات إلى فوضى \"كارثية\"",
-    "summary": "مارسيليا، المدينة الثانية في فرنسا، نالت النصيب الأكبر من الفوضى وأعمال الشغب يوم السبت الماضي.",
-    "link": "https://www.bbc.com/arabic/articles/c370p8rlenj0o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 17:47:30 GMT",
+    "title": "لم يُدعَ طفلك إلى حفلة ميلاد صديقه؟ إليك كيف تساعده على تجاوز خيبة الأمل",
+    "summary": "قد يُحزن هذا الموقف الشائع جداً الأطفال الصغار، لكن هناك طرقاً يمكنكم من خلالها مساعدتهم.",
+    "link": "https://www.bbc.com/arabic/articles/cxj0l749m653o?at_medium=RSS&at_campaign=rss",
+    "published": "Wed, 21 Oct 2026 02:17:45 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "\"منتدى مصر\": ظهور مفاجئ لباسم يوسف وسط حديث عن عودة قريبة",
-    "summary": "جدل واسع اندلع في مواقع التواصل الاجتماعي في مصر بعد ظهور الإعلامي الساخر باسم يوسف في فعاليات منتدى مصر 2026 بحضور الرئيس عبد الفتاح السيسي.",
-    "link": "https://www.bbc.com/arabic/articles/c84g1ql03ll7o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 20 Oct 2026 18:34:16 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1792539781
-  },
-  {
-    "title": "مصدر أمريكي: لدينا تقدم في محادثات أوسلو نحو تنسيق المواقف بشأن التفاوض مع روسيا",
-    "summary": "أفاد موقع \"أكسيوس\" نقلا عن مسؤول أمريكي، بأن محادثات أوسلو أحرزت تقدما ملموسا نحو تنسيق مواقف الولايات المتحدة وأوكرانيا وأوروبا بشأن التعامل مع روسيا.",
-    "link": "https://rtarabic.com/world/1845490-%D9%85%D8%B5%D8%AF%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D8%AA%D9%82%D8%AF%D9%85-%D9%81%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A3%D9%88%D8%B3%D9%84%D9%88-%D9%86%D8%AD%D9%88-%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D9%82%D9%81-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D9%88%D8%B6-%D9%85%D8%B9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7/",
-    "published": "Tue, 20 Oct 2026 23:41:38 +0000",
+    "title": "بري: إلغاء قانون مقاطعة إسرائيل لن يمر و \"يخطئ من يعتقد أن البلد فلتان\"",
+    "summary": "أكد رئيس مجلس النواب اللبناني نبيه بري أن إلغاء قانون مقاطعة إسرائيل الصادر عام 1955 لن يمر في المجلس النيابي، مشددا على أنه \"يخطئ من يعتقد أن الأمور فلتانة وأن البلد فلتان\".",
+    "link": "https://rtarabic.com/middle_east/1845501-%D8%A8%D8%B1%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%86-%D9%8A%D9%85%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A/",
+    "published": "Wed, 21 Oct 2026 03:59:09 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "مصر.. القبض على سائحتين بالإسكندرية بشبهة تصوير ونشر مقاطع خادشة للحياء",
-    "summary": "أعلنت وزارة الداخلية المصرية، ضبط سائحتين أجنبيتين في الإسكندرية، أثناء قيامهما بتصوير ونشر مقاطع فيديو تتضمن حركات استعراضية إباحية في شوارع عدة محافظات.",
-    "link": "https://rtarabic.com/society/1845489-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B3%D8%A7%D8%A6%D8%AD%D8%AA%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B5%D9%88%D9%8A%D8%B1-%D9%88%D9%86%D8%B4%D8%B1-%D9%85%D9%82%D8%A7%D8%B7%D8%B9-%D8%AE%D8%A7%D8%AF%D8%B4%D8%A9-%D9%84%D9%84%D8%AD%D9%8A%D8%A7%D8%A1/",
-    "published": "Tue, 20 Oct 2026 23:41:01 +0000",
+    "title": "الملك تشارلز يشيد بجهود عُمان لتعزيز السلام في الشرق الأوسط",
+    "summary": "أشاد الملك تشارلز الثالث بجهود عُمان لتعزيز السلام وخفض التصعيد وحماية الملاحة، خلال مأدبة عشاء بقلعة وندسور تكريما للسلطان هيثم بن طارق.",
+    "link": "https://rtarabic.com/middle_east/1845499-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B2-%D9%8A%D8%B4%D9%8A%D8%AF-%D8%A8%D8%AC%D9%87%D9%88%D8%AF-%D8%B9%D9%85%D8%A7%D9%86-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/",
+    "published": "Wed, 21 Oct 2026 03:40:51 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "بارديلا يتحدث عن نهاية سياسة ماكرون على خلفية الاحتجاجات",
-    "summary": "اعتبر رئيس حزب \"التجمع الوطني\" اليميني المتطرف جوردان بارديلا الاحتجاجات في فرنسا دليلا على نهاية سياسة الرئيس إيمانويل ماكرون.",
-    "link": "https://rtarabic.com/world/1845485-%D8%A8%D8%A7%D8%B1%D8%AF%D9%8A%D9%84%D8%A7-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%AE%D9%84%D9%81%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA/",
-    "published": "Tue, 20 Oct 2026 23:16:16 +0000",
+    "title": "الإمارات وفرنسا تتبادلان إطار الشراكة الدفاعية الاستراتيجية",
+    "summary": "شهد رئيس الإمارات الشيخ محمد بن زايد والرئيس الفرنسي إيمانويل ماكرون، الثلاثاء، تبادل إطار الشراكة الدفاعية الاستراتيجية وترتيبات الصناعات الدفاعية بين البلدين، بحسب \"وام\".",
+    "link": "https://rtarabic.com/middle_east/1845498-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%D8%A7%D9%86-%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9/",
+    "published": "Wed, 21 Oct 2026 03:00:22 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "The Atlantic: أحد أبناء ترامب يعارض الحرب على إيران",
-    "summary": "أفادت The Atlantic بأن دونالد ترامب الابن الأكبر للرئيس دونالد ترامب، واجه والده بأن حربه ضد إيران تتعارض مع وعوده الانتخابية بتجنب صراعات جديدة في الشرق الأوسط.",
-    "link": "https://rtarabic.com/world/1845488-the-atlantic-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%A8%D9%86%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A7%D9%84%D9%86%D8%B2%D8%A7%D8%B9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86/",
-    "published": "Tue, 20 Oct 2026 23:10:45 +0000",
+    "title": "كوريا الشمالية تندد بتدريبات أمريكية مع سيئول وطوكيو وتتوعد بتعزيز الردع",
+    "summary": "أدانت كوريا الشمالية التدريبات المشتركة بين كوريا الجنوبية والولايات المتحدة، والمناورات الأمريكية اليابانية، ووصفتها باستعراض للقوة، متوعدة بتعزيز قدراتها الدفاعية ردا عليها.",
+    "link": "https://rtarabic.com/world/1845497-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%86%D8%AF%D8%AF-%D8%A8%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%85%D8%B9-%D8%B3%D9%8A%D8%A6%D9%88%D9%84-%D9%88%D8%B7%D9%88%D9%83%D9%8A%D9%88-%D9%88%D8%AA%D8%AA%D9%88%D8%B9%D8%AF-%D8%A8%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B1%D8%AF%D8%B9/",
+    "published": "Wed, 21 Oct 2026 02:59:54 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "\"فجر اليمن\" تتواصل على جبهات القتال والعليمي يطلب تحركا أمميا ضد الحوثيين - الجزيرة نت",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcEpNRVVoVGJhS2MxSkNmc0ppSnk3bk5pYnFUc19ERDYxVWU3VTZmN2VheElYeEZkT215aHIyb01HcTZSNDFfNmxtNG9JcS14YUJVUDN3dEx3d9IBX0FVX3lxTE9MNHV4WmhfNDJyUnJPYnk4UnA2blRlMmxGZkN6Q242U0JvQm01RnNSZmZzVENqbDVpVDB5M0hqckxTZmFOdk43MkF2dk5UVVVGSEJRdUVDNGVFdzBfcXBr?oc=5\" target=\"_blank\">\"فجر اليمن\" تتواصل على جبهات القتال والعليمي يطلب تحركا أمميا ضد الحوثيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcEpNRVVoVGJhS2MxSkNmc0ppSnk3bk5pYnFUc19ERDYxVWU3VTZmN2VheElYeEZkT215aHIyb01HcTZSNDFfNmxtNG9JcS14YUJVUDN3dEx3d9IBX0FVX3lxTE9MNHV4WmhfNDJyUnJPYnk4UnA2blRlMmxGZkN6Q242U0JvQm01RnNSZmZzVENqbDVpVDB5M0hqckxTZmFOdk43MkF2dk5UVVVGSEJRdUVDNGVFdzBfcXBr?oc=5",
-    "published": "Tue, 20 Oct 2026 12:53:25 GMT",
+    "title": "بريطانيا ستنشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية، و\"اعتراض\" صاروخ أطلق نحو الرياض - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qWUEwaHNvV3RLYVYtMTZ1aVppZTJ3NW9GRTlHMUZETERNcHZBTXJMUlhLUGJrZ2VMRVRLOGI3aGwzXy1rYTRZRzVYSWktZ3FuRm01aDJkU2NWa1B2YkHSAWNBVV95cUxPblhIeWM1SXE3Z3ZBMFAwaHcyMUZZeFJUZXhGT2tIUzlpQm5FVHZHS2lCb1FDV1lBM0RBUzc0MG4yOEhqU3RzTFBLYkVDdERhbGZ2V00zMjJkM1ZSbllUQmNtd0k?oc=5\" target=\"_blank\">بريطانيا ستنشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية، و\"اعتراض\" صاروخ أطلق نحو الرياض</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qWUEwaHNvV3RLYVYtMTZ1aVppZTJ3NW9GRTlHMUZETERNcHZBTXJMUlhLUGJrZ2VMRVRLOGI3aGwzXy1rYTRZRzVYSWktZ3FuRm01aDJkU2NWa1B2YkHSAWNBVV95cUxPblhIeWM1SXE3Z3ZBMFAwaHcyMUZZeFJUZXhGT2tIUzlpQm5FVHZHS2lCb1FDV1lBM0RBUzc0MG4yOEhqU3RzTFBLYkVDdERhbGZ2V00zMjJkM1ZSbllUQmNtd0k?oc=5",
+    "published": "Tue, 20 Oct 2026 15:30:10 GMT",
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
     "title": "سعر الذهب الآن | أخبار الذهب اليوم: توقعات الذهب اليوم بعد تصريحات رئيس الفيدرالي - Investing.com",
@@ -737,26 +737,26 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "من هم أبرز أطراف الصراع في اليمن، وما الدول التي تدعمهم؟ - BBC",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbWxUSG56NEE4WDd1TEYwSmR2YW9QNTFUN09Ra096TWRxYnZXOEFZRjRDY2VqVE5waVpKYmx6c3lzc1FUTXhRelNyWTJNMjZ2dkpTakpxTXlmZ1lsaUHSAWNBVV95cUxNdXd0MXNvY1hGWk1jeUZIS0VITjBqLVE5bUpWS1FPcTlFbVdaS1R5NE5vSlk1aG5kMExDVFVQNFRlTjJ5UFhrQXRNaV91XzJPdzVPcFVpVHp5OHRkdUxXWHdVS3c?oc=5\" target=\"_blank\">من هم أبرز أطراف الصراع في اليمن، وما الدول التي تدعمهم؟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbWxUSG56NEE4WDd1TEYwSmR2YW9QNTFUN09Ra096TWRxYnZXOEFZRjRDY2VqVE5waVpKYmx6c3lzc1FUTXhRelNyWTJNMjZ2dkpTakpxTXlmZ1lsaUHSAWNBVV95cUxNdXd0MXNvY1hGWk1jeUZIS0VITjBqLVE5bUpWS1FPcTlFbVdaS1R5NE5vSlk1aG5kMExDVFVQNFRlTjJ5UFhrQXRNaV91XzJPdzVPcFVpVHp5OHRkdUxXWHdVS3c?oc=5",
-    "published": "Mon, 19 Oct 2026 14:04:12 GMT",
+    "title": "\"فجر اليمن\" تتواصل على جبهات القتال والعليمي يطلب تحركا أمميا ضد الحوثيين - الجزيرة نت",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcEpNRVVoVGJhS2MxSkNmc0ppSnk3bk5pYnFUc19ERDYxVWU3VTZmN2VheElYeEZkT215aHIyb01HcTZSNDFfNmxtNG9JcS14YUJVUDN3dEx3d9IBX0FVX3lxTE9MNHV4WmhfNDJyUnJPYnk4UnA2blRlMmxGZkN6Q242U0JvQm01RnNSZmZzVENqbDVpVDB5M0hqckxTZmFOdk43MkF2dk5UVVVGSEJRdUVDNGVFdzBfcXBr?oc=5\" target=\"_blank\">\"فجر اليمن\" تتواصل على جبهات القتال والعليمي يطلب تحركا أمميا ضد الحوثيين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mcEpNRVVoVGJhS2MxSkNmc0ppSnk3bk5pYnFUc19ERDYxVWU3VTZmN2VheElYeEZkT215aHIyb01HcTZSNDFfNmxtNG9JcS14YUJVUDN3dEx3d9IBX0FVX3lxTE9MNHV4WmhfNDJyUnJPYnk4UnA2blRlMmxGZkN6Q242U0JvQm01RnNSZmZzVENqbDVpVDB5M0hqckxTZmFOdk43MkF2dk5UVVVGSEJRdUVDNGVFdzBfcXBr?oc=5",
+    "published": "Tue, 20 Oct 2026 12:53:25 GMT",
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   },
   {
-    "title": "سعر الذهب اليوم في مصر ينخفض مع بداية التعاملات الصباحية الثلاثاء - Masrawy",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwRBVV95cUxOXzFXY1VPLXgxbTFkM1BYdWp5QzdJU25kbXFWcHlYUVpVNnRTNVk4VlVKa1RuVEFwMjBQN05JajVSdk5FSUhPMUNoYXpQWG1HUVZzeGg4U2xWc0s4ME5zdnpBXzByMHlfMmRqYllUakhzR29BaGhIQ3htZ1oxbk40NWQxV0l0N1UteXp4Vm1pVE83czVaamtaa0FUWjBkX0JVRDE0REgyRW40X2NqSzVVekF2UFBnaWRONkpfYWE2UUgtR29qRnFZN1RvVWJPcE82ZzJNTDAwQ3IyNEJEUkJqSFFZa3d2SHZPZkpiWjVlT2laVkdTR0lPbENBV2FrdWt1eWp6ODIzZGpFUnZfVGZ4cGY5d2tGaTdCY3lrYXc0RWF5Zmw3c09kUG9abkJFbVZUZ1VBR2xMaFpEVnRqX0JwTDFaNFRiR2wwak5JMFRuZ2Y2YzhUM0J5aWM3MXVUbTNUbm1pbENrV1FwZlBncUxhbmNwTTVhemp5eEo5LWd2ZUFpd21Tbl9DTEVVVFlxeUs4eTRFcEpoU3dTdWlVZG42aUdoX0VtQm41T0x3anlVeDdIT2c3ZTBueHJESnl0VzlyVUgxLUZvaU9HWWFhTE5vNTlWZWRPZ05jRFRPR2FTWjBEOFR5dHNZODZNR1MzUUlEdGtzaFNXYU9yQW03M3E0MkFwTVdHNmFFc3FobURGUGxlcl9lcUNuTzU3UThhc29xMC00QzBwM0E5X1N6UERJaC16Nmlsbi1RV3VzUEU3MNIBxARBVV95cUxOcEpaaGs1VEptZlNGdEhHYjV5akdoSWw2QlNMOUE0RlpOaktQZnJmOXA5NDU5TnRtYVMxTmJQNFhwOFZNUW51RXNTMGJKdkIyd1gxZ0lsTTRUWVIyR21aY3FPY08wSmg5VkNWT2k3STNubWdBSEY2S3ZBSlZJdFE3ZGxELVh4UXpMOTNFbHVRWmJDOFJxT2lxa0JGWDhiVE5OVkg3cWMxNEJZaG1DTTVoS2RzNHp4aGM4em9wbS0zclVrVGM1NUtEWkRjMHFpdUlLQ0NyMEFzOXpwcE5RYzQxSjBfc1ZaZmVDUWdzUFVRdThjWGkwS051WE1YeEU5YlQ2S05xX2ZoWVZ1OXFYVU5LaEg2Rko0bzNSMGkxTDJnUzNtOF9XSnZ0Qm00b3JMSmE1R3BrZXFScGhXS0RRZmJXekRGcTdXRjEzdkxRSGVfSjFBN1k0M0ZHRmFBcWtQMVRjNHlTUElkcjBPd3YzdVMzYzJKMGJIOWk2ZUt2cGwzMmlwc000aTVBSVVRYUVPdkpEZmUycDBUSWpKMC1fdGVjQk45a0VXMllySGVldTlZM1RBZldRZE52MUFPeEdoYVRlM0JmTDZZYmJXdlhMeFYtemJKVlYyTlZfblM3OUVyaW52ZXNqQl9fZ2NzZjRaUnd0MXQ4QmF0VU5ybFJHNmtiSlZsTUZMWVJ6cVphUDdLWjVwcTk4UkNfOUNmaHZVZXJKaDV3b19BV0NjSUhlaHNoekpoRFhrVnNRSklRem50eGQ5MDhT?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر ينخفض مع بداية التعاملات الصباحية الثلاثاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-    "link": "https://news.google.com/rss/articles/CBMivwRBVV95cUxOXzFXY1VPLXgxbTFkM1BYdWp5QzdJU25kbXFWcHlYUVpVNnRTNVk4VlVKa1RuVEFwMjBQN05JajVSdk5FSUhPMUNoYXpQWG1HUVZzeGg4U2xWc0s4ME5zdnpBXzByMHlfMmRqYllUakhzR29BaGhIQ3htZ1oxbk40NWQxV0l0N1UteXp4Vm1pVE83czVaamtaa0FUWjBkX0JVRDE0REgyRW40X2NqSzVVekF2UFBnaWRONkpfYWE2UUgtR29qRnFZN1RvVWJPcE82ZzJNTDAwQ3IyNEJEUkJqSFFZa3d2SHZPZkpiWjVlT2laVkdTR0lPbENBV2FrdWt1eWp6ODIzZGpFUnZfVGZ4cGY5d2tGaTdCY3lrYXc0RWF5Zmw3c09kUG9abkJFbVZUZ1VBR2xMaFpEVnRqX0JwTDFaNFRiR2wwak5JMFRuZ2Y2YzhUM0J5aWM3MXVUbTNUbm1pbENrV1FwZlBncUxhbmNwTTVhemp5eEo5LWd2ZUFpd21Tbl9DTEVVVFlxeUs4eTRFcEpoU3dTdWlVZG42aUdoX0VtQm41T0x3anlVeDdIT2c3ZTBueHJESnl0VzlyVUgxLUZvaU9HWWFhTE5vNTlWZWRPZ05jRFRPR2FTWjBEOFR5dHNZODZNR1MzUUlEdGtzaFNXYU9yQW03M3E0MkFwTVdHNmFFc3FobURGUGxlcl9lcUNuTzU3UThhc29xMC00QzBwM0E5X1N6UERJaC16Nmlsbi1RV3VzUEU3MNIBxARBVV95cUxOcEpaaGs1VEptZlNGdEhHYjV5akdoSWw2QlNMOUE0RlpOaktQZnJmOXA5NDU5TnRtYVMxTmJQNFhwOFZNUW51RXNTMGJKdkIyd1gxZ0lsTTRUWVIyR21aY3FPY08wSmg5VkNWT2k3STNubWdBSEY2S3ZBSlZJdFE3ZGxELVh4UXpMOTNFbHVRWmJDOFJxT2lxa0JGWDhiVE5OVkg3cWMxNEJZaG1DTTVoS2RzNHp4aGM4em9wbS0zclVrVGM1NUtEWkRjMHFpdUlLQ0NyMEFzOXpwcE5RYzQxSjBfc1ZaZmVDUWdzUFVRdThjWGkwS051WE1YeEU5YlQ2S05xX2ZoWVZ1OXFYVU5LaEg2Rko0bzNSMGkxTDJnUzNtOF9XSnZ0Qm00b3JMSmE1R3BrZXFScGhXS0RRZmJXekRGcTdXRjEzdkxRSGVfSjFBN1k0M0ZHRmFBcWtQMVRjNHlTUElkcjBPd3YzdVMzYzJKMGJIOWk2ZUt2cGwzMmlwc000aTVBSVVRYUVPdkpEZmUycDBUSWpKMC1fdGVjQk45a0VXMllySGVldTlZM1RBZldRZE52MUFPeEdoYVRlM0JmTDZZYmJXdlhMeFYtemJKVlYyTlZfblM3OUVyaW52ZXNqQl9fZ2NzZjRaUnd0MXQ4QmF0VU5ybFJHNmtiSlZsTUZMWVJ6cVphUDdLWjVwcTk4UkNfOUNmaHZVZXJKaDV3b19BV0NjSUhlaHNoekpoRFhrVnNRSklRem50eGQ5MDhT?oc=5",
-    "published": "Tue, 20 Oct 2026 06:56:00 GMT",
+    "title": "أخبار البورصة اليوم الثلاثاء 20-10-2026 - اليوم السابع",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgJBVV95cUxQRHczc2lBT3BPWm9ZNkRfYm5qQWt1djFDdDdMSmg2OUpkUE12VnBsUUFvaVRMR3BQT2VzdlkwLW9OamU0ZjQ5Vks0OFNtZDF6NUJIczFCU0gyTzNoZUxnUkVkLTY2THhZekc0a1Z1Wk8xaTQyUGV5OHFDNDlhQjlNaFVQUjVPLVJDOHB4UnFycjFHUE1KR1dqcVIzS2stZDJGSWt6TldKdDRzVmRHdFNGeU1WUXBrMU9CT2hCcDNKMW9pNzZ2Vl9sZDh6SE9WUUp4YjFEdm41SUZMZmp0Z2EyajIwOGM2X3U0eDBET19iM0k1bXN6amk2Tl9Rb2NiNEZ0SmJETlMwTFE3Z0N0U3pPT3FLaGU3N3RoWFlXOU1EbV84WF9rZmQ5bDRhbTBuZnhZLVhRTEtB0gGwAkFVX3lxTE5QS1FkamF2WTJFT3dMSHRvTmtLWndaX1loaTNiN2hZalN0MDdvbHphclVkZFIyY09RTEdRMEZZQjJFREg2cG1Oc2VIUWFFQ1Q1a0hnekFqLTVHUWRoX0kxdzFUNk9PMFZNRmhDNXNMc3R2Ny1SR0RpVkpvVUlTeVI5N3c5b1hvRDlRTXF4Q0pFcGtWYTZOU1FZVEJnMWpUMnRseWZRTFZFQzBUbG1icEQxSmY3SFlOMVRHOFZhTDhyZzJGZnFKQ2prd0ZqTWFSMzY2S1AyTWdCQlJ6R2ZUSGpuZl9odEZYT1JBMVBKQ0R5SEZGdHAtSXdJYzRKNVVwa012OWZPTGVVdW5aUHRyN1QzT2FMTHNpVHhKUGN1SEtub1paMk16dFYzbXNtTXFNZjU?oc=5\" target=\"_blank\">أخبار البورصة اليوم الثلاثاء 20-10-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">اليوم السابع</font>",
+    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQRHczc2lBT3BPWm9ZNkRfYm5qQWt1djFDdDdMSmg2OUpkUE12VnBsUUFvaVRMR3BQT2VzdlkwLW9OamU0ZjQ5Vks0OFNtZDF6NUJIczFCU0gyTzNoZUxnUkVkLTY2THhZekc0a1Z1Wk8xaTQyUGV5OHFDNDlhQjlNaFVQUjVPLVJDOHB4UnFycjFHUE1KR1dqcVIzS2stZDJGSWt6TldKdDRzVmRHdFNGeU1WUXBrMU9CT2hCcDNKMW9pNzZ2Vl9sZDh6SE9WUUp4YjFEdm41SUZMZmp0Z2EyajIwOGM2X3U0eDBET19iM0k1bXN6amk2Tl9Rb2NiNEZ0SmJETlMwTFE3Z0N0U3pPT3FLaGU3N3RoWFlXOU1EbV84WF9rZmQ5bDRhbTBuZnhZLVhRTEtB0gGwAkFVX3lxTE5QS1FkamF2WTJFT3dMSHRvTmtLWndaX1loaTNiN2hZalN0MDdvbHphclVkZFIyY09RTEdRMEZZQjJFREg2cG1Oc2VIUWFFQ1Q1a0hnekFqLTVHUWRoX0kxdzFUNk9PMFZNRmhDNXNMc3R2Ny1SR0RpVkpvVUlTeVI5N3c5b1hvRDlRTXF4Q0pFcGtWYTZOU1FZVEJnMWpUMnRseWZRTFZFQzBUbG1icEQxSmY3SFlOMVRHOFZhTDhyZzJGZnFKQ2prd0ZqTWFSMzY2S1AyTWdCQlJ6R2ZUSGpuZl9odEZYT1JBMVBKQ0R5SEZGdHAtSXdJYzRKNVVwa012OWZPTGVVdW5aUHRyN1QzT2FMTHNpVHhKUGN1SEtub1paMk16dFYzbXNtTXFNZjU?oc=5",
+    "published": "Tue, 20 Oct 2026 18:00:00 GMT",
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1792539781
+    "fetched_at": 1792556006
   }
 ]
