@@ -1,5 +1,15 @@
 [
   {
+    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
+    "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "published": "2026-10-30T05:00:00-04:00",
+    "source": "The Verge",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793353721
+  },
+  {
     "title": "The director of Obsession put a new horror short on YouTube",
     "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary [&#8230;]",
     "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
@@ -7,7 +17,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
@@ -17,7 +27,7 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
@@ -27,57 +37,47 @@
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Patrick Stewart has died at age 86",
-    "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, England, [&#8230;]",
-    "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-    "published": "2026-10-29T16:10:02-04:00",
-    "source": "The Verge",
+    "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+    "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+    "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+    "published": "Fri, 30 Oct 2026 07:01:00 +0000",
+    "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "published": "Fri, 30 Oct 2026 01:20:48 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1793353721
   },
   {
     "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-    "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+    "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
     "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
     "published": "Thu, 29 Oct 2026 23:44:56 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
     "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
     "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
     "published": "Thu, 29 Oct 2026 23:42:22 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-    "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-    "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-    "published": "Thu, 29 Oct 2026 22:27:23 +0000",
-    "source": "TechCrunch",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-    "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-    "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-    "published": "Thu, 29 Oct 2026 21:51:29 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
@@ -87,7 +87,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
@@ -97,7 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
@@ -107,7 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Trump declares robot imports a national security threat",
@@ -117,7 +117,37 @@
     "source": "Ars Technica",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+    "summary": "These are the WIRED-tested gadgets, kitchen tools, and cozy comforts I’d actually buy for my own inner circle.",
+    "link": "https://www.wired.com/story/gifts-for-friends/",
+    "published": "Fri, 30 Oct 2026 09:33:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "The Best Leaf Blower We’ve Tested Is Ready for Halloween",
+    "summary": "Our top Ego pick is discounted, and our resident leaf blower expert demonstrates how to make a TP cannon.",
+    "link": "https://www.wired.com/story/ego-blower-sale-tp-cannon-october-2026/",
+    "published": "Fri, 30 Oct 2026 09:01:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "The Iran War’s Impact on Oil Is Hitting Key Senate Races Hard",
+    "summary": "Democrats are using the high price of diesel, heating oil, and fertilizer to tie Republicans to President Donald Trump’s unpopular, costly war in Iran.",
+    "link": "https://www.wired.com/story/iran-war-impact-on-oil-hits-key-senate-races/",
+    "published": "Fri, 30 Oct 2026 09:00:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1793353721
   },
   {
     "title": "What to Know About China’s Top-Secret Spaceplane",
@@ -127,37 +157,17 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-    "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-    "link": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-    "published": "Thu, 29 Oct 2026 19:51:56 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-    "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-    "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-    "published": "Thu, 29 Oct 2026 19:41:36 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-    "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-    "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-    "published": "Thu, 29 Oct 2026 18:39:43 +0000",
-    "source": "Wired",
+    "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+    "summary": "The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
+    "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+    "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
@@ -167,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Rethinking Cybersecurity Awareness in the AI Era",
@@ -177,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
@@ -187,17 +197,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Threat Modeling With 4 Simple Questions on a White Board",
-    "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
-    "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-    "published": "Thu, 29 Oct 2026 15:44:04 GMT",
-    "source": "Dark Reading",
+    "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+    "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+    "published": "Fri, 30 Oct 2026 05:18:13 -0400",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
@@ -207,7 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Binance probes potential $5.8 billion crypto-theft hack",
@@ -217,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
@@ -227,17 +237,37 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-    "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-    "published": "Thu, 29 Oct 2026 18:08:04 -0400",
-    "source": "BleepingComputer",
+    "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+    "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\n\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\n\"This module enables you to sell goods and services to customers through an included shopping cart",
+    "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+    "published": "Fri, 30 Oct 2026 13:15:30 +0530",
+    "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
+    "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+    "published": "Fri, 30 Oct 2026 12:57:05 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+    "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets.\n\nThe world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far.&nbsp;\n\nTether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
+    "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "published": "Fri, 30 Oct 2026 09:44:59 +0530",
+    "source": "The Hacker News",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793353721
   },
   {
     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
@@ -247,117 +277,87 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-    "summary": "A flaw in the Linux kernel's TCP code, tracked as&nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.\n\nAnthropic said&nbsp;on October 27 that its AI model wrote an exploit that uses the flaw to let a remote attacker with no credentials run commands as root on Linux servers with a",
-    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-    "published": "Thu, 29 Oct 2026 21:27:05 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-    "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.\n\nThe activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called",
-    "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-    "published": "Thu, 29 Oct 2026 20:50:29 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-    "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.\n\n\"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and",
-    "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-    "published": "Thu, 29 Oct 2026 19:12:40 +0530",
-    "source": "The Hacker News",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-    "summary": "<p>Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/\">When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-    "published": "Thu, 29 Oct 2026 16:30:00 +0000",
+    "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+    "summary": "<p>Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds.</p>\n<p>The post <a href=\"https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/\">$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+    "published": "Fri, 30 Oct 2026 09:41:36 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-    "summary": "<p>Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/\">Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-    "published": "Thu, 29 Oct 2026 15:01:00 +0000",
+    "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+    "summary": "<p>Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server.</p>\n<p>The post <a href=\"https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/\">Max-Severity GitLab Vulnerability Exploited Against Alpine Linux</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+    "published": "Fri, 30 Oct 2026 09:32:27 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-    "summary": "<p>Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/\">How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-    "published": "Thu, 29 Oct 2026 15:00:00 +0000",
+    "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+    "summary": "<p>An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system.</p>\n<p>The post <a href=\"https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/\">TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians&#8217; Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+    "published": "Fri, 30 Oct 2026 08:44:49 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-    "summary": "<p>Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/\">Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-    "published": "Thu, 29 Oct 2026 14:18:03 +0000",
+    "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+    "summary": "<p>Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop.</p>\n<p>The post <a href=\"https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/\">$6 Billion Binance Hack Bears Hallmarks of North Korea&#8217;s TraderTraitor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+    "published": "Fri, 30 Oct 2026 08:16:26 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls",
-    "summary": "<p>China-nexus threat actors have exploited a VMware ESX zero-day to hide their tracks and chained PHP2Shell flaws with the &#8220;Fragnesia&#8221; Linux kernel bug to root servers and firewalls, cybersecurity researchers claim. Cisco has also confirmed that attackers are crashing its firewalls with a newly disclosed vulnerability. VMware ESX zero-day helped Chinese spies cover their tracks Chinese APT group Warp Panda has leveraged an insufficient logging vulnerability (CVE-2026-41709) in Broadcom&#8217;s VMware ESX bare-metal hypervisor as a &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/\">Chinese hackers used VMware ESX zero-day; PHP2Shell and Fragnesia chained to root firewalls</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
-    "published": "Thu, 29 Oct 2026 16:25:10 +0000",
+    "title": "Open-weight AI model GLM-5.3 cheated its way to correct answers",
+    "summary": "<p>Irregular evaluated Zhipu AI’s open-weight model GLM-5.3 across 13 offensive cyber scenarios using CyScenarioBench, the company’s framework for measuring an LLM’s ability to plan and execute multistage attacks under realistic constraints. The model refused none of the tasks and completed three scenarios at least once each, carrying attacks through dependent stages to reach objectives in simulated networks. Irregular said this was the strongest result it had recorded for an open-weight model. Offensive cyber capabilities Researchers &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/\">Open-weight AI model GLM-5.3 cheated its way to correct answers</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/",
+    "published": "Fri, 30 Oct 2026 09:23:25 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Yoba malware hides in fake desktop versions of ChatGPT and Claude",
-    "summary": "<p>Fake GitHub projects posing as desktop versions of ChatGPT and Claude have been used to spread a malware chain that ends with a cryptocurrency miner, Check Point has found. The researchers have been tracking the campaign, dubbed Yoba, for the past two months. Its operator set up repositories and GitHub.io pages for supposed apps called GPT-5.6 Sol, GPT-6 Astra and Claude Opus, and hosted the malware as ZIP releases on GitHub. “While the repositories do &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/\">Yoba malware hides in fake desktop versions of ChatGPT and Claude</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
-    "published": "Thu, 29 Oct 2026 14:49:11 +0000",
+    "title": "Binance hit by $6.3 billion theft in what could be the biggest crypto heist on record",
+    "summary": "<p>About $6.3 billion in cryptocurrency was stolen from Binance in what might be the biggest crypto hack in history. “Binance’s initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions,” the exchange said in a security update published early on October 30. The company found no evidence of a wallet private key leak and plans &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/\">Binance hit by $6.3 billion theft in what could be the biggest crypto heist on record</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/",
+    "published": "Fri, 30 Oct 2026 08:26:13 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop",
-    "summary": "<p>Forever Security found ways out of the built-in browsers in five AI coding assistants: Cursor, GitHub Copilot, OpenAI&#8217;s Codex, Microsoft&#8217;s VS Code and Anthropic&#8217;s Claude Desktop. In all five, a web page or a local file reached the computer behind the browser. Cursor ran attacker code, Copilot showed a fake address, and Codex, VS Code and Claude Desktop let a single local file read the rest of the disk. Two of those holes are still &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/\">Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude Desktop</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
-    "published": "Thu, 29 Oct 2026 14:10:49 +0000",
+    "title": "Fake IT help desk callers got by on little more than names and email addresses",
+    "summary": "<p>Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident Response (Talos IR) found across several engagements. In one case, that access ended in ransomware. They knew names and email addresses “The attackers appeared to know employee names and email addresses, as they contacted users directly by email and Teams and used identities &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/\">Fake IT help desk callers got by on little more than names and email addresses</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/",
+    "published": "Fri, 30 Oct 2026 06:30:26 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "Volt Typhoon targeted enterprise control planes via ever-changing “Silent Train” relay network",
-    "summary": "<p>Volt Typhoon, a Chinese state-sponsored APT group that&#8217;s focused on cyberespionage and United States&#8217; critical infrastructure, has been using a covert, constantly rotating relay network to hide its most sensitive intrusions, Lumen&#8217;s Black Lotus Labs revealed on Wednesday. This network, dubbed Silent Train by the researchers, consists of chains of compromised SOHO and IoT devices (e.g., TP-Link and Netgear routers) and enterprise systems (e.g., Fortinet and Cisco appliances, PRTG and CyberPanel servers). Through it, the &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/\">Volt Typhoon targeted enterprise control planes via ever-changing &#8220;Silent Train&#8221; relay network</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/",
-    "published": "Thu, 29 Oct 2026 13:42:13 +0000",
+    "title": "What exactly is ISOC? And what does it mean for you?",
+    "summary": "<p>Gartner recently released a new category of assessing security tools: the Integrated Security Operations Center (ISOC). Even though SIEM isn’t going anywhere, a rapidly evolving threat landscape is forcing a shift in industry logic that is reflected in the emergence of this new category. For years, SIEM has dominated as an all-encompassing category. But SIEMs are no longer sufficient to collect data, support investigations, and manage incidents; instead, the SIEM has separated into distinct architectural &#8230; <a href=\"https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/\">What exactly is ISOC? And what does it mean for you?</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/",
+    "published": "Fri, 30 Oct 2026 06:00:14 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Microsoft Patches More Than 1,400 Security Flaws",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Studying Fraudulent North Korean IT Workers",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Hiding Capabilities in AI Models",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Bias in Qwen3-Coder Model",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,27 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "المغرب والبرتغال يستضيفان نسخة استثنائية من رالي دكار",
+    "summary": "قالت منظمة (أماوري سبورت)، التي تنظم رالي دكار، الجمعة، إن نسخة عام 2027 ستقام في المغرب، بعد إقامة المرحلة التمهيدية والمرحلة الأولى في البرتغال، وذلك بعد 5  أيام من إعلانها أن السباق لن يقام في السعودية.",
+    "link": "https://www.skynewsarabia.com/sport/1901566-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D9%8A%D8%B3%D8%AA%D8%B6%D9%8A%D9%81%D8%A7%D9%86-%D9%86%D8%B3%D8%AE%D8%A9-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B1%D8%A7%D9%84%D9%8A-%D8%AF%D9%83%D8%A7%D8%B1",
+    "published": "Fri, 30 Oct 2026 09:04:24 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "بقي 15 هدفا.. ثلاثية رونالدو مع النصر تقربه من الهدف 1000",
+    "summary": "أحرز النجم البرتغالي كريستيانو رونالدو ثلاثية (هاتريك) بفوز فريق النصر على ضيفه فريق الخلود، ضمن دوري روشن السعودي، ليقترب أكثر من الهدف 1000.",
+    "link": "https://www.skynewsarabia.com/sport/1901563-%D8%A8%D9%82%D9%8A-15-%D9%87%D8%AF%D9%81%D8%A7-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%AA%D9%82%D8%B1%D8%A8%D9%87-%D8%A7%D9%84%D9%87%D8%AF%D9%81-1000",
+    "published": "Fri, 30 Oct 2026 08:48:28 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1793353721
   },
   {
     "title": "بينهما 80 مركزا.. فليتوود تاون يستمتع بإقصاء أرسنال",
@@ -487,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "بايرن ميونيخ يكشف حالة كومباني الصحية بعد \"الوعكة والسقوط\"",
@@ -497,27 +517,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "\"وقتي سيأتي\".. يامال يعلق بعد خسارة الكرة الذهبية",
-    "summary": "خرج النجم الإسباني لامين يامال عن صمته بعد احتلاله المركز الثالث في سباق الكرة الذهبية لعام 2026، خلف الإنجليزي هاري كين، الفائز بالجائزة، والفرنسي كيليان مبابي.",
-    "link": "https://www.skynewsarabia.com/sport/1901142-%D9%88%D9%82%D8%AA%D9%8A-%D8%B3%D9%8A%D8%A3%D8%AA%D9%8A-%D9%8A%D8%A7%D9%85%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%82-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9",
-    "published": "Wed, 28 Oct 2026 11:49:02 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "بعد جدل نكتة مبابي.. ريال مدريد يعتذر للصين",
-    "summary": "قدم نادي ريال مدريد الإسباني، الأربعاء، اعتذارا رسميا إلى الشعب الصيني على خلفية تصريحات أدلى بها نجمه الفرنسي كيليان مبابي، بدا فيها وكأنه يمزح بشأن الزعيم الصيني السابق ماو تسي تونغ، في واقعة أثارت موجة غضب واسعة على منصات التواصل الاجتماعي، وأدت إلى تعليق بث مباريات الدوري الإسباني لكرة القدم في الصين.",
-    "link": "https://www.skynewsarabia.com/sport/1901115-%D8%AC%D8%AF%D9%84-%D9%86%D9%83%D8%AA%D8%A9-%D9%85%D8%A8%D8%A7%D8%A8%D9%8A-%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D9%8A%D8%B9%D8%AA%D8%B0%D8%B1-%D9%84%D9%84%D8%B5%D9%8A%D9%86",
-    "published": "Wed, 28 Oct 2026 10:10:50 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "تقرير: 62% من قيادات الطاقة تضع الذكاء الاصطناعي أولوية",
@@ -527,7 +527,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "16.5 مليار درهم صافي أرباح \"أبوظبي الأول\" خلال 9 أشهر",
@@ -537,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "الطاقة والمعادن واللوجستيات تقود الشراكة الإماراتية الكندية",
@@ -547,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "ما القضايا الاقتصادية الأهم لدى الناخب الأميركي؟",
@@ -557,107 +557,117 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "بوتين: العملات الوطنية تستحوذ على 85% من التسويات التجارية بين روسيا والدول الإفريقية",
-    "summary": "أعلن الرئيس الروسي فلاديمير بوتين أن حصة العملات الوطنية، بما فيها الروبل الروسي، بلغت 85% من التسويات المالية للمعاملات التجارية بين روسيا والدول الإفريقية.",
-    "link": "https://rtarabic.com/business/1848509-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AD%D9%88%D8%B0-%D8%B9%D9%84%D9%89-85-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9/",
-    "published": "Thu, 29 Oct 2026 18:04:57 +0000",
+    "title": "ألمانيا تطلق \"ساعة الإفلاس\".. ومديونيتها تصعد بأكثر من 6000 يورو في الثانية",
+    "summary": "تجاوز الدين العام الألماني حاجز 2.8 تريليون يورو، وفقا لبيانات الأداة التفاعلية \"ساعة الإفلاس\"، التي تصدرها صحيفة \"بيلد\" استنادا إلى تقديرات مبنية على بيانات رسمية.",
+    "link": "https://rtarabic.com/business/1848710-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%B7%D9%84%D9%82-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D9%84%D8%A7%D8%B3-%D9%88%D9%85%D8%AF%D9%8A%D9%88%D9%86%D9%8A%D8%AA%D9%87%D8%A7-%D8%AA%D8%B5%D8%B9%D8%AF-%D8%A8%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-6000-%D9%8A%D9%88%D8%B1%D9%88-%D9%81%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9/",
+    "published": "Fri, 30 Oct 2026 09:38:44 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "روسيا وجنوب السودان تبحثان مشاريع مشتركة في قطاع الطاقة",
-    "summary": "بحث وزير الطاقة الروسي، سيرغي تسيفيليوف، ونظيره من جنوب السودان، دانيال أواو تشوانغ، آفاق تنفيذ مشاريع مشتركة في قطاعات النفط والغاز والطاقة الكهربائية.",
-    "link": "https://rtarabic.com/business/1848501-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%88%D8%AC%D9%86%D9%88%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9/",
-    "published": "Thu, 29 Oct 2026 17:26:37 +0000",
+    "title": "مصر تعلن عن اكتشاف جديد في الصحراء الشرقية",
+    "summary": "حققت مصر اكتشافا نفطيا وغازيا جديدا في الصحراء الشرقية، بعد الانتهاء من حفر واختبار البئر الاستكشافية \"لوركان-6\" بمنطقة شمال خليج الزيت في جبل الزيت.",
+    "link": "https://rtarabic.com/business/1848694-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9/",
+    "published": "Fri, 30 Oct 2026 09:21:39 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "قطر تشتري الغاز الطبيعي المسال من الولايات المتحدة",
-    "summary": "أفادت \"رويترز\"، نقلا عن وزير الدولة القطري لشؤون الطاقة والرئيس التنفيذي لشركة \"قطر للطاقة\"، سعد الكعبي، أن الشركة تشتري الغاز الطبيعي المسال من الولايات المتحدة وموردين آخرين.",
-    "link": "https://rtarabic.com/business/1848486-%D9%82%D8%B7%D8%B1-%D8%AA%D8%B4%D8%AA%D8%B1%D9%8A-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9/",
-    "published": "Thu, 29 Oct 2026 16:45:36 +0000",
+    "title": "13 منطقة روسية تعرض برامجها السياحية في دبي لاستقطاب الزوار من الإمارات والخليج",
+    "summary": "عرضت 13 منطقة روسية برامج ومنتجات سياحية موجهة إلى السوق الإماراتية، خلال فعالية أقيمت في دبي يومي 26 و27 أكتوبر، ضمن البرنامج الدولي لتطوير السياحة الوافدة \"اكتشف روسيا 2.0\".",
+    "link": "https://rtarabic.com/business/1848697-13-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D9%8A%D8%A9-%D9%81%D9%8A-%D8%AF%D8%A8%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B7%D8%A7%D8%A8-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/",
+    "published": "Fri, 30 Oct 2026 09:19:34 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "ماذا طرحت روسيا على الدول الإفريقية في قمة موسكو؟",
-    "summary": "طرح الرئيس الروسي فلاديمير بوتين في القمة الثالثة \"روسيا - إفريقيا\" حزمة من المبادرات الرئيسية على الدول الإفريقية، شملت المدفوعات العابرة للحدود، والذكاء الاصطناعي، والتحول الرقمي",
-    "link": "https://rtarabic.com/business/1848476-%D9%85%D8%A7%D8%B0%D8%A7-%D8%B7%D8%B1%D8%AD%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
-    "published": "Thu, 29 Oct 2026 16:00:00 +0000",
+    "title": "روسيا تبحث إنشاء مصنع جديد من نوعه في مصر",
+    "summary": "أعلنت وزيرة الزراعة الروسية أوكسانا لوت أن روسيا تبحث مع مصر إمكانية إنشاء مصنع لإنتاج وتجهيز التقاوي على الأراضي المصرية، مشيرة إلى وجود مستثمر محتمل مهتم بالمشاركة في المشروع.",
+    "link": "https://rtarabic.com/business/1848682-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D8%B5%D9%86%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D9%86%D9%88%D8%B9%D9%87-%D8%B9%D9%84%D9%89-%D8%A3%D8%B1%D8%B6-%D9%85%D8%B5%D8%B1/",
+    "published": "Fri, 30 Oct 2026 08:55:11 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "مصر.. بيان رسمي بعد واقعة \"اللقطات الخارجة\"",
-    "summary": "أصدرت وزارة الداخلية المصرية بيانا، الخميس، بعد واقعة بث \"لقطات خارجة\" على شاشة إعلانات في محافظة الجيزة.",
-    "link": "https://www.skynewsarabia.com/varieties/1901465-%D9%85%D8%B5%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86-%D8%B1%D8%B3%D9%85%D9%8A-%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%A7%D9%84%D9%84%D9%82%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%A9",
-    "published": "Thu, 29 Oct 2026 22:27:15 GMT",
+    "title": "\"لم ألعب كيك بوكسينغ\".. لاغارد تكشف سر ضمادات وجهها",
+    "summary": "كشفت رئيسة البنك المركزي الأوروبي، كريستين لاغارد، السبب وراء ظهورها مؤخرا مع ضمادات على وجهها.",
+    "link": "https://www.skynewsarabia.com/varieties/1901530-%D9%84%D9%85-%D8%A3%D9%84%D8%B9%D8%A8-%D9%83%D9%8A%D9%83-%D8%A8%D9%88%D9%83%D8%B3%D9%8A%D9%86%D8%BA-%D9%84%D8%A7%D8%BA%D8%A7%D8%B1%D8%AF-%D8%AA%D9%83%D8%B4%D9%81-%D8%B3%D8%B1-%D8%B6%D9%85%D8%A7%D8%AF%D8%A7%D8%AA-%D9%88%D8%AC%D9%87%D9%87%D8%A7",
+    "published": "Fri, 30 Oct 2026 07:32:31 GMT",
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "30 تمساحا على متن قطار في مصر.. ما القصة؟",
-    "summary": "ضبطت السلطات المصرية 30 تمساحا صغيرا داخل حقيبة بحوزة راكب على متن قطار قادم من أسوان ومتجه إلى الإسكندرية، في واقعة أثارت الاشتباه في الاتجار بالحياة البرية.",
-    "link": "https://www.skynewsarabia.com/varieties/1901451-30-%D8%AA%D9%85%D8%B3%D8%A7%D8%AD%D8%A7-%D9%85%D8%AA%D9%86-%D9%82%D8%B7%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D8%B5%D8%A9",
-    "published": "Thu, 29 Oct 2026 18:01:32 GMT",
+    "title": "مقتل 3 أشخاص جراء تصادم مروحيتين في ولاية أوريغون",
+    "summary": "أعلنت السلطات الأميركية مقتل جميع الأشخاص الثلاثة الذين كانوا على متن مروحيتين تحطمتا في حقل زراعي جنوب غرب بورتلاند بولاية أوريغون، بعد اصطدامهما يوم الخميس، مما تسبب في إغلاق طريق سريع رئيسي بالقرب من مطار محلي.",
+    "link": "https://www.skynewsarabia.com/varieties/1901517-%D9%85%D9%82%D8%AA%D9%84-3-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AA%D8%B5%D8%A7%D8%AF%D9%85-%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%AA%D9%8A%D9%86-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D9%88%D8%B1%D9%8A%D8%BA%D9%88%D9%86",
+    "published": "Fri, 30 Oct 2026 06:02:20 GMT",
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "مصر.. إعلانات أدوية \"مضللة\" تلاحق 16 فنانا ومهلة 30 يوما",
-    "summary": "أمهل المركز المصري للحق في الدواء فنانين مشاركين في إعلانات لمستحضرات دوائية ومكملات وصفها بأنها \"مضللة\" 30 يوما قبل اتخاذ إجراءات قانونية، في تحرك شمل إخطار نقابة المهن التمثيلية بمخالفات منسوبة إلى نحو 16 من أعضائها.",
-    "link": "https://www.skynewsarabia.com/varieties/1901432-%D9%85%D8%B5%D8%B1-%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D8%A7%D8%AA-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D9%85%D8%B6%D9%84%D9%84%D8%A9-%D8%AA%D9%84%D8%A7%D8%AD%D9%82-16-%D9%81%D9%86%D8%A7%D9%86%D8%A7-%D9%88%D9%85%D9%87%D9%84%D8%A9-30-%D9%8A%D9%88%D9%85%D8%A7",
-    "published": "Thu, 29 Oct 2026 15:05:43 GMT",
+    "title": "حرب إلكترونية داخل الثلاجات.. هل تم استهداف قواعد أميركية؟",
+    "summary": "تحقق وزارة الدفاع الأميركية \"البنتاغون\" في أعطال غامضة أصابت ثلاجات داخل ست قواعد عسكرية على الأقل، وسط شبهات بأنها ناجمة عن هجوم إلكتروني.",
+    "link": "https://www.skynewsarabia.com/varieties/1901502-%D8%AD%D8%B1%D8%A8-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AC%D8%A7%D8%AA-%D8%AA%D9%85-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9",
+    "published": "Fri, 30 Oct 2026 06:02:03 GMT",
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "مصير غامض لوزيرة إسبانية سابقة بعد حادث القطارين",
-    "summary": "لا يزال مصير وزيرة العمل والضمان الاجتماعي الإسبانية السابقة فاطمة بانييث مجهولا، عقب حادث تصادم قطارين فائقي السرعة في بلدة أوردا بمقاطعة طليطلة، الأربعاء، فيما لم يصدر تأكيد رسمي بشأن وفاتها أو نجاتها حتى الآن.",
-    "link": "https://www.skynewsarabia.com/varieties/1901430-%D9%85%D8%B5%D9%8A%D8%B1-%D8%BA%D8%A7%D9%85%D8%B6-%D9%84%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1%D9%8A%D9%86",
-    "published": "Thu, 29 Oct 2026 14:54:27 GMT",
+    "title": "\"الأشباح\" تخفض أسعار منازل في اليابان.. ما القصة؟",
+    "summary": "قد تسأل عن مساحة الشقة وإيجارها وقربها من العمل. لكن في بعض العقارات اليابانية، يبرز سؤال آخر: ماذا حدث لمن سكن هنا قبلك؟",
+    "link": "https://www.skynewsarabia.com/varieties/1901498-%D8%A7%D9%84%D8%A3%D8%B4%D8%A8%D8%A7%D8%AD-%D8%AA%D8%AE%D9%81%D8%B6-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D8%A9",
+    "published": "Fri, 30 Oct 2026 05:57:53 GMT",
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "ترامب يعلق على رسالة فانس لإيران وتقارير عن خيارات عسكرية جديدة وسط توتر في هرمز",
-    "summary": "حذرت إيران من أنها سترد بشكل أوسع في حال وقوع أي هجوم جديد، وهدد رضائي باستهداف بنية تحتية مرتبطة بالولايات المتحدة.",
+    "title": "اشتعال ناقلات نفط في مضيق هرمز، وتقارير عن خيارات عسكرية أمريكية لضرب إيران",
+    "summary": "أعلنت القوات المسلحة الإيرانية اشتعال النيران في أربع ناقلات على الأقل بعد اصطدامها بألغام بحرية أثناء محاولتها عبور مضيق هرمز، بعد يوم من تأكيد الجيش الأمريكي إزالة الألغام من مسارات الملاحة الرئيسية.",
     "link": "https://www.bbc.com/arabic/articles/cm4g14554xzlo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 22:53:38 GMT",
+    "published": "Fri, 30 Oct 2026 07:56:57 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "الحوثيون يعلنون استهداف مطارات ومصافٍ نفطية سعودية والتحالف يعترض صاروخين فوق الرياض",
-    "summary": "أعلنت السعودية تدمير صاروخين أُطلقوا باتجاه الرياض، فيما قال مصدر في شرطة عدن بأن صاروخاً حوثياً سقط في مطار المدينة قبل إصدار الحوثيين دعوة إلى إخلائه.",
-    "link": "https://www.bbc.com/arabic/articles/cw4g1vz4dxgzo?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 29 Oct 2026 22:55:08 GMT",
+    "title": "الصين تجبر مبابي على الاعتذار، لكن كثيرين لا يعرفون بالضبط ما قاله",
+    "summary": "بدأت العلامات التجارية الصينية بقطع علاقاتها مع مبابي واحدة تلو الأخرى، كما علّقت \"مجموعة الصين للإعلام\" - الجهة الأم لهيئة البث الحكومية \"سي سي تي في\" - بث مباريات الدوري الإسباني الممتاز، فماذا قال النجم الفرنسي؟",
+    "link": "https://www.bbc.com/arabic/articles/cqly3prdpz3po?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 30 Oct 2026 06:35:34 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "التحالف يعلن اعتراض مُسيرة \"أطلقها الحوثيون\" باتجاه مكة",
+    "summary": "أعلن الحوثيون استهداف مطارات ومنشآت نفطية في السعودية، بينها مصفاتا رأس تنورة ورابغ، فيما أعلن التحالف اعتراض صاروخين باليستيين باتجاه الرياض. وفي اليمن، أعلنت الجماعة مقتل 26 شخصاً في غارات تتهم السعودية بتنفيذها، وسط تحذيرات من تدهور الأوضاع الإنسانية وانهيار النظام الصحي.",
+    "link": "https://www.bbc.com/arabic/articles/cw4g1vz4dxgzo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 30 Oct 2026 09:02:49 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1793353721
   },
   {
     "title": "\"ستار تريك\": وفاة النجم الأسطوري باتريك ستيوارت عن 86 عاماً",
@@ -667,67 +677,47 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "كيف يمكنك حماية أسرارك من الذكاء الاصطناعي؟",
-    "summary": "يعتقد العديد من المحللين أننا نعيش في فقاعة الذكاء الاصطناعي ، إذ أن بناء وتشغيل أدوات الذكاء الاصطناعي مكلف للغاية لدرجة أن بعض الشركات قد لا تحقق أرباحاً أبداً",
-    "link": "https://www.bbc.com/arabic/articles/c680zmzr87mpo?at_medium=RSS&at_campaign=rss",
-    "published": "Fri, 30 Oct 2026 00:38:21 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "المثلث الملتهب بين صنعاء وعدن والرياض.. تغطية كاملة لأعنف تصعيد عسكري منذ سنوات لحظة بلحظة",
-    "summary": "اندلعت في الـ5 من أكتوبر مواجهات برية وضربات صاروخية ألهبت الجبهات بين صنعاء وعدن والرياض، في تصعيد هو الأعنف منذ سنوات بين الحوثيين، والقوات الحكومية والتحالف.\n\nالتغطية مستمرة:",
-    "link": "https://rtarabic.com/middle_east/1840067-%D8%A7%D9%84%D9%85%D8%AB%D9%84%D8%AB-%D8%A7%D9%84%D9%85%D9%84%D8%AA%D9%87%D8%A8-%D8%A8%D9%8A%D9%86-%D8%B5%D9%86%D8%B9%D8%A7%D8%A1-%D9%88%D8%B9%D8%AF%D9%86-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AA%D8%BA%D8%B7%D9%8A%D8%A9-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D8%A3%D8%B9%D9%86%D9%81-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A8%D9%84%D8%AD%D8%B8%D8%A9/",
-    "published": "Fri, 30 Oct 2026 01:30:59 +0000",
+    "title": "أوشاكوف: لا تفاصيل زمنية محددة للمفاوضات الثلاثية المرتقبة لتسوية الأزمة الأوكرانية",
+    "summary": "أكد يوري أوشاكوف، مساعد الرئيس الروسي، أن تاريخ انعقاد المفاوضات الثلاثية بين روسيا والولايات المتحدة وأوكرانيا لم يبت فيه بعد.",
+    "link": "https://rtarabic.com/world/1848700-%D8%A3%D9%88%D8%B4%D8%A7%D9%83%D9%88%D9%81-%D9%84%D8%A7-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B2%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%AD%D8%AF%D8%AF%D8%A9-%D9%84%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9-%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A9/",
+    "published": "Fri, 30 Oct 2026 09:39:51 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "اليمن.. دعوات للتحقيق باستخدام الحوثيين قذائف يشتبه باحتوائها مواد سامة محرمة دوليا",
-    "summary": "دعت السلطات التابعة للحكومة اليمنية المعترف بها دوليا إلى إجراء تحقيقات بعد بلاغات باستخدام جماعة الحوثي لقذائف قد تحتوي مواد سامة محرمة دوليا.",
-    "link": "https://rtarabic.com/middle_east/1848577-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D8%AF%D8%B9%D9%88%D8%A7%D8%AA-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D9%82%D8%B0%D8%A7%D8%A6%D9%81-%D9%8A%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A6%D9%87%D8%A7-%D9%85%D9%88%D8%A7%D8%AF-%D8%B3%D8%A7%D9%85%D8%A9-%D9%85%D8%AD%D8%B1%D9%85%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A7/",
-    "published": "Fri, 30 Oct 2026 00:36:35 +0000",
+    "title": "صورة للسيسي من داخل الكرملين تكشف محاولته لحل خلاف إفريقي",
+    "summary": "عقد الرئيس المصري عبد الفتاح السيسي في موسكو بالكرملين لقاء ضم رئيس مجلس السيادة السوداني عبد الفتاح البرهان، والرئيس الكيني ويليام روتو.",
+    "link": "https://rtarabic.com/middle_east/1848701-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%85%D9%86-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%AA%D9%87-%D9%84%D8%AD%D9%84-%D8%AE%D9%84%D8%A7%D9%81-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A/",
+    "published": "Fri, 30 Oct 2026 09:28:48 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "\"خيار لا غنى عنه\".. زعيم كوريا الشمالية يحث على تحقيق التفوق المطلق في تكنولوجيا المسيرات",
-    "summary": "أفادت وكالة الأنباء المركزية بأن زعيم كوريا الشمالية كيم جونغ أون دعا خلال زيارته معرضا لتكنولوجيا الطيران غير المأهول وعرضا للأسلحة، إلى تحقيق التفوق المطلق في تكنولوجيا المسيرات.",
-    "link": "https://rtarabic.com/world/1848579-%D8%AE%D9%8A%D8%A7%D8%B1-%D9%84%D8%A7-%D8%BA%D9%86%D9%89-%D8%B9%D9%86%D9%87-%D8%B2%D8%B9%D9%8A%D9%85-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%AD%D8%AB-%D8%B9%D9%84%D9%89-%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D9%81%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA/",
-    "published": "Fri, 30 Oct 2026 00:34:04 +0000",
+    "title": "حافلة مدرسية تقل نحو 20 طفلا تصطدم بجدار منزل في شمال ألمانيا",
+    "summary": "تعرضت حافلة مدرسية تقل نحو 20 طفلا لحادث صباح اليوم الجمعة في مدينة باد أولدسلوه بولاية شليزفيج-هولشتاين شمالي ألمانيا، حيث اصطدمت بجدار أحد المنازل.",
+    "link": "https://rtarabic.com/world/1848690-%D8%AD%D8%A7%D9%81%D9%84%D8%A9-%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%A9-%D8%AA%D9%82%D9%84-%D9%86%D8%AD%D9%88-20-%D8%B7%D9%81%D9%84%D8%A7-%D8%AA%D8%B5%D8%B7%D8%AF%D9%85-%D8%A8%D8%AC%D8%AF%D8%A7%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%81%D9%8A-%D8%B4%D9%85%D8%A7%D9%84-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/",
+    "published": "Fri, 30 Oct 2026 09:20:56 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
-    "title": "\"إسرائيل على المحك\".. اجتماع لمنافسي نتنياهو لتشكيل ائتلاف حكومي",
-    "summary": "اجتمع سياسيون من المعارضة في إسرائيل عقب الانتخابات البرلمانية لبحث الخيارات المتاحة لتشكيل ائتلاف.",
-    "link": "https://rtarabic.com/world/1848576-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D9%83-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D9%8A-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%84%D8%AA%D8%B4%D9%83%D9%8A%D9%84-%D8%A7%D8%A6%D8%AA%D9%84%D8%A7%D9%81-%D8%AD%D9%83%D9%88%D9%85%D9%8A/",
-    "published": "Fri, 30 Oct 2026 00:31:50 +0000",
+    "title": "الولايات المتحدة تصدر تحذيرا لرعاياها في فرنسا",
+    "summary": "أصدرت السلطات الأمريكية تحذيرا أمنيا موجها إلى رعاياها المتواجدين على الأراضي الفرنسية، عشية احتجاجات جديدة مقررة غدا السبت.",
+    "link": "https://rtarabic.com/world/1848699-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7-%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A7%D9%87%D8%A7-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7/",
+    "published": "Fri, 30 Oct 2026 09:09:38 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "سعر الذهب اليوم في مصر يعود للانخفاض منتصف تعاملات الخميس - Masrawy",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxQS2ZIdjJPMFFpWlc1anRkTURndklaUkpCcFJsUUZST2FuREVHOXFCaTlNelFOcjhpOUFvbDRwVzdldmZCTEVsQ1VqTmNWMDRNbWNUZHNLNExrOW5reG82amRhTDF1b0QzSURYNEhyOHNWUHN3VFJhMVU3bWdSS2s3ME4xOFNTaFo4NmhMRVQwem5BTDR0MWczeFBBbjNTVEROOGpVR1FhanJjUzI3MHY3T2ZiVHB3UmxYV21ldnNCcElWVThvU1E4MVJQck5EUHl5dlZwVHFERXBZRWtURS1wYk81cUg3S25DMGdFdzBMSFVDMmFUUHljaWd4aHBGVEN2NU82TTc4WlRpeXJqY1dIbWs3SUszaEN6QjFOcFVsaFo0NHRXa25JdEcyV3lFc2NLS0dYZmR0Q2h5TGVpTW5CSW8zaGQ0UUkxZG80VXlqQTNvSXdFTFRRaVlfTHg0S3BMNlN1ZDNFUW9DWXpUcUJBYm5fcnpFYkxYWHVmVXFpcmpBUkN1ZktSRlJfLWZKSFFfZmliaFIxdWtNVVFXY3JDdzJUdFoxNm5Gdm12aUVrRzNtaHY3VDIzVFktdElGdU96YzFCSHpuXzFxaU5TSXVDalNnMlAzVnpEOGJZdC00Y2pCVXlobThld2ZzeDlNUVoyT3RYR29GZ1c2Ym0xZkkyeF96cVU?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر يعود للانخفاض منتصف تعاملات الخميس</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
-    "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQS2ZIdjJPMFFpWlc1anRkTURndklaUkpCcFJsUUZST2FuREVHOXFCaTlNelFOcjhpOUFvbDRwVzdldmZCTEVsQ1VqTmNWMDRNbWNUZHNLNExrOW5reG82amRhTDF1b0QzSURYNEhyOHNWUHN3VFJhMVU3bWdSS2s3ME4xOFNTaFo4NmhMRVQwem5BTDR0MWczeFBBbjNTVEROOGpVR1FhanJjUzI3MHY3T2ZiVHB3UmxYV21ldnNCcElWVThvU1E4MVJQck5EUHl5dlZwVHFERXBZRWtURS1wYk81cUg3S25DMGdFdzBMSFVDMmFUUHljaWd4aHBGVEN2NU82TTc4WlRpeXJqY1dIbWs3SUszaEN6QjFOcFVsaFo0NHRXa25JdEcyV3lFc2NLS0dYZmR0Q2h5TGVpTW5CSW8zaGQ0UUkxZG80VXlqQTNvSXdFTFRRaVlfTHg0S3BMNlN1ZDNFUW9DWXpUcUJBYm5fcnpFYkxYWHVmVXFpcmpBUkN1ZktSRlJfLWZKSFFfZmliaFIxdWtNVVFXY3JDdzJUdFoxNm5Gdm12aUVrRzNtaHY3VDIzVFktdElGdU96YzFCSHpuXzFxaU5TSXVDalNnMlAzVnpEOGJZdC00Y2pCVXlobThld2ZzeDlNUVoyT3RYR29GZ1c2Ym0xZkkyeF96cVU?oc=5",
-    "published": "Thu, 29 Oct 2026 10:22:43 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "اليوم السابع يحذر من تداول أخبار مغلوطة بشعار المؤسسة - اليوم السابع",
@@ -737,17 +727,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1793320977
-  },
-  {
-    "title": "سعر الذهب الآن | أخبار الذهب اليوم: سعر الذهب يواجه مقاومة عنيفة ويتراجع - Investing.com",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZWRsNHowU0ExZDFBV2plLUtXcUlOYlBsRDd6N1dJRjhfRnoxd0NHOEJ1eVpCTUFWaGc1RGJ6MUZCeDhBMUpvVTVLZU1JaWlkdUVPM0dnUFBTS0F4a0g5dGhXRzgyUElya0wyYlo2TQ?oc=5\" target=\"_blank\">سعر الذهب الآن | أخبار الذهب اليوم: سعر الذهب يواجه مقاومة عنيفة ويتراجع</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RZWRsNHowU0ExZDFBV2plLUtXcUlOYlBsRDd6N1dJRjhfRnoxd0NHOEJ1eVpCTUFWaGc1RGJ6MUZCeDhBMUpvVTVLZU1JaWlkdUVPM0dnUFBTS0F4a0g5dGhXRzgyUElya0wyYlo2TQ?oc=5",
-    "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
   },
   {
     "title": "من هم أبرز أطراف الصراع في اليمن، وما الدول التي تدعمهم؟ - BBC",
@@ -757,6 +737,26 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1793320977
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "سعر الذهب الآن | أخبار الذهب اليوم: سعر الذهب يمحو المكاسب الصباحية ويهبط - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1IWWhxcF9YM2VGY19WeFpsYTltUWFlMEM4QUp4OVVQYmFxSHRLMFJzaklsT3p5WjNsMEkwUE9laDh0eC1JbWwzcEhTczNLalhXTHM4b2RwQzk1TXZ4dGZVb3BMa1d6T0M1ak5sWnpLOA?oc=5\" target=\"_blank\">سعر الذهب الآن | أخبار الذهب اليوم: سعر الذهب يمحو المكاسب الصباحية ويهبط</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IWWhxcF9YM2VGY19WeFpsYTltUWFlMEM4QUp4OVVQYmFxSHRLMFJzaklsT3p5WjNsMEkwUE9laDh0eC1JbWwzcEhTczNLalhXTHM4b2RwQzk1TXZ4dGZVb3BMa1d6T0M1ak5sWnpLOA?oc=5",
+    "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
+    "lang": "ar",
+    "fetched_at": 1793353721
+  },
+  {
+    "title": "سعر الذهب اليوم في مصر يعود للانخفاض منتصف تعاملات الخميس - Masrawy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxQS2ZIdjJPMFFpWlc1anRkTURndklaUkpCcFJsUUZST2FuREVHOXFCaTlNelFOcjhpOUFvbDRwVzdldmZCTEVsQ1VqTmNWMDRNbWNUZHNLNExrOW5reG82amRhTDF1b0QzSURYNEhyOHNWUHN3VFJhMVU3bWdSS2s3ME4xOFNTaFo4NmhMRVQwem5BTDR0MWczeFBBbjNTVEROOGpVR1FhanJjUzI3MHY3T2ZiVHB3UmxYV21ldnNCcElWVThvU1E4MVJQck5EUHl5dlZwVHFERXBZRWtURS1wYk81cUg3S25DMGdFdzBMSFVDMmFUUHljaWd4aHBGVEN2NU82TTc4WlRpeXJqY1dIbWs3SUszaEN6QjFOcFVsaFo0NHRXa25JdEcyV3lFc2NLS0dYZmR0Q2h5TGVpTW5CSW8zaGQ0UUkxZG80VXlqQTNvSXdFTFRRaVlfTHg0S3BMNlN1ZDNFUW9DWXpUcUJBYm5fcnpFYkxYWHVmVXFpcmpBUkN1ZktSRlJfLWZKSFFfZmliaFIxdWtNVVFXY3JDdzJUdFoxNm5Gdm12aUVrRzNtaHY3VDIzVFktdElGdU96YzFCSHpuXzFxaU5TSXVDalNnMlAzVnpEOGJZdC00Y2pCVXlobThld2ZzeDlNUVoyT3RYR29GZ1c2Ym0xZkkyeF96cVU?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر يعود للانخفاض منتصف تعاملات الخميس</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+    "link": "https://news.google.com/rss/articles/CBMihARBVV95cUxQS2ZIdjJPMFFpWlc1anRkTURndklaUkpCcFJsUUZST2FuREVHOXFCaTlNelFOcjhpOUFvbDRwVzdldmZCTEVsQ1VqTmNWMDRNbWNUZHNLNExrOW5reG82amRhTDF1b0QzSURYNEhyOHNWUHN3VFJhMVU3bWdSS2s3ME4xOFNTaFo4NmhMRVQwem5BTDR0MWczeFBBbjNTVEROOGpVR1FhanJjUzI3MHY3T2ZiVHB3UmxYV21ldnNCcElWVThvU1E4MVJQck5EUHl5dlZwVHFERXBZRWtURS1wYk81cUg3S25DMGdFdzBMSFVDMmFUUHljaWd4aHBGVEN2NU82TTc4WlRpeXJqY1dIbWs3SUszaEN6QjFOcFVsaFo0NHRXa25JdEcyV3lFc2NLS0dYZmR0Q2h5TGVpTW5CSW8zaGQ0UUkxZG80VXlqQTNvSXdFTFRRaVlfTHg0S3BMNlN1ZDNFUW9DWXpUcUJBYm5fcnpFYkxYWHVmVXFpcmpBUkN1ZktSRlJfLWZKSFFfZmliaFIxdWtNVVFXY3JDdzJUdFoxNm5Gdm12aUVrRzNtaHY3VDIzVFktdElGdU96YzFCSHpuXzFxaU5TSXVDalNnMlAzVnpEOGJZdC00Y2pCVXlobThld2ZzeDlNUVoyT3RYR29GZ1c2Ym0xZkkyeF96cVU?oc=5",
+    "published": "Thu, 29 Oct 2026 10:22:43 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
+    "lang": "ar",
+    "fetched_at": 1793353721
   }
 ]
