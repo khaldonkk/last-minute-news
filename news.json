@@ -1,43 +1,53 @@
 [
   {
-    "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-    "summary": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\" says Perkins. \"Sadly, it will also mean saying goodbye to teammates and friends who have [&#8230;]",
-    "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-    "published": "2026-11-03T17:59:36-05:00",
+    "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+    "summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is [&#8230;]",
+    "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+    "published": "2026-11-03T20:15:34-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-    "summary": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you [&#8230;]",
-    "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-    "published": "2026-11-03T17:20:50-05:00",
+    "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+    "summary": "Ahead of the release of Rockstar Games&#8217; Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and [&#8230;]",
+    "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+    "published": "2026-11-03T20:02:53-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-    "summary": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-5 days. Indie developers have recently expressed frustrations over lengthy approval times [&#8230;]",
-    "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-    "published": "2026-11-03T17:15:33-05:00",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "published": "2026-11-03T19:42:10-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-    "summary": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tampered installer apparently spread by a malicious Google ad, exposing details about the engineers [&#8230;]",
-    "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-    "published": "2026-11-03T17:04:02-05:00",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "published": "2026-11-03T18:37:45-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+    "summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+    "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+    "published": "Wed, 04 Nov 2026 04:45:00 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1793771230
   },
   {
     "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -47,37 +57,37 @@
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
     "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "published": "Tue, 03 Nov 2026 22:19:53 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
     "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
     "published": "Tue, 03 Nov 2026 21:43:08 +0000",
     "source": "TechCrunch",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-    "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "published": "Tue, 03 Nov 2026 21:05:55 +0000",
-    "source": "TechCrunch",
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+    "published": "Tue, 03 Nov 2026 22:39:37 +0000",
+    "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
@@ -87,7 +97,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
@@ -97,7 +107,7 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Buttons are back and storage is king when it comes to car interiors",
@@ -107,17 +117,17 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "published": "Tue, 03 Nov 2026 17:54:43 +0000",
-    "source": "Ars Technica",
+    "title": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+    "summary": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
+    "link": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+    "published": "Wed, 04 Nov 2026 04:42:46 +0000",
+    "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "The Lenovo IdeaPad Slim 5x Is Only $900 Right Now",
@@ -127,7 +137,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
@@ -137,7 +147,7 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud",
@@ -147,17 +157,17 @@
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
-    "summary": "Suspected North Korean attackers duped an engineer with a fake job interview and a malicious download to gain a foothold in the crypto firm’s system and steal billions, according to Binance.",
-    "link": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
-    "published": "Tue, 03 Nov 2026 19:04:58 +0000",
-    "source": "Wired",
-    "category": "تقنية",
+    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+    "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+    "published": "Wed, 04 Nov 2026 02:00:00 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
@@ -167,7 +177,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
@@ -177,7 +187,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
@@ -187,17 +197,7 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-    "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
-    "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-    "published": "Tue, 03 Nov 2026 15:35:50 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
@@ -207,7 +207,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
@@ -217,7 +217,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Binance says fake job interview led to $6.3 billion crypto heist",
@@ -227,7 +227,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
@@ -237,7 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Frontline Education Data Breach Impacts Over 1.3 Million",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Critical Node-RED Flaw Exploited in Attacks",
@@ -317,7 +317,37 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "Companies going all in on AI could see their strategy backfire",
+    "summary": "<p>Four of the five highest-ranked enterprise risks in Gartner’s Quarterly Emerging Risk Report were AI-related. AI strategy miscalculation and AI-driven competitive displacement debuted at No. 3 and No. 4, respectively. The AI workforce preparedness gap held fifth place. AI discovery of cyber vulnerabilities and geopolitical energy supply shocks held the top two spots for the second consecutive quarter. The rankings show a composite risk score based on responses from 308 enterprise risk management leaders, auditors &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/\">Companies going all in on AI could see their strategy backfire</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/",
+    "published": "Wed, 04 Nov 2026 05:30:45 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "NIST publishes cybersecurity guide for businesses too small to have IT staff",
+    "summary": "<p>The National Institute of Standards and Technology (NIST) released cybersecurity guidance for small businesses with no paid employees other than their owners. These businesses include freelancers, sole proprietors, and independent contractors. About 82% of the 34.8 million small businesses in the United States fall into this category, according to the U.S. Small Business Administration’s Office of Advocacy. “Because solopreneurs may not have cybersecurity expertise, we wanted to create a resource designed for them,” said NIST’s &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/\">NIST publishes cybersecurity guide for businesses too small to have IT staff</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/",
+    "published": "Wed, 04 Nov 2026 05:00:23 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "Anthropic open-sources FlashProve, its provable inference prototype for MoE models",
+    "summary": "<p>Anthropic’s Frontier Red Team, with collaborators at EPFL, MIT and StarkWare, built FlashProve, a prototype that produces a cryptographic proof that one specific language model generated one specific reply. The prover, two verifiers, the formal proofs behind them and a protocol specification are on GitHub under the Apache 2.0 license. Source: Anthropic When you send a prompt to a hosted API, you can&#8217;t confirm which model answered it. A provider could route the request to &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/\">Anthropic open-sources FlashProve, its provable inference prototype for MoE models</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/",
+    "published": "Wed, 04 Nov 2026 04:36:14 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1793771230
   },
   {
     "title": "Police seize over 100 servers linked to investment fraud with more than €4 million in losses",
@@ -327,37 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "Novee puts forgotten internet-facing assets through penetration testing",
-    "summary": "<p>Novee’s External Surface Testing is a new capability in its AI penetration testing platform that helps security teams discover internet-facing assets and validate exploitable vulnerabilities. It tests newly disclosed CVEs and findings imported from third-party external attack surface management (EASM) tools. “Attackers don&#8217;t limit themselves to the applications you&#8217;re already testing. They look for anything exposed to the internet – forgotten subdomains, staging servers left online, and infrastructure your team may not even know exists. &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/\">Novee puts forgotten internet-facing assets through penetration testing</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/",
-    "published": "Tue, 03 Nov 2026 14:00:26 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "Assured helps recovery teams find clean backups after ransomware attacks",
-    "summary": "<p>Assured Data Protection has announced CleanRoom SCAN, a new managed service designed to strengthen cyber recovery by independently scanning isolated backup data using multiple leading security engines to identify hidden threats before restoration. The service helps organizations identify malware and other indicators of compromise earlier, reducing the risk of reinfecting production environments during recovery. CleanRoom SCAN lets Assured customers scan isolated backup copies away from production environments, helping detect malware or indicators of compromise that &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/03/assured-data-protection-cleanroom-scan/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/03/assured-data-protection-cleanroom-scan/\">Assured helps recovery teams find clean backups after ransomware attacks</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/03/assured-data-protection-cleanroom-scan/",
-    "published": "Tue, 03 Nov 2026 13:59:38 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)",
-    "summary": "<p>Attackers are exploiting an authentication flaw (CVE-2026-58115) in Node-RED, a programming tool built into some industrial control products, to install a Linux bot and backdoors on unprotected servers, VulnCheck has found. Node-RED is a flow-based programming tool built on Node.js that lets users wire together event-driven applications in a browser-based editor. It can run on small devices such as the Raspberry Pi or in the cloud, and it is used in manufacturing, healthcare, and home &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/\">Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/",
-    "published": "Tue, 03 Nov 2026 12:59:51 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "AIs Hacking the Law",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "AI Vulnerability Finding",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Bloatware in Aftermarket Auto Parts",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "انتصارات أوروبية لبرشلونة وبايرن ميونيخ ومانشستر يونايتد",
@@ -487,7 +487,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "بعد تهم القتل.. ماذا رأي القانون الإسباني بشأن حارس أندورا؟",
@@ -497,7 +497,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "لامين يامال: جرأتي وشخصيتي من المغرب وأمي هي أغلى ما أملك",
@@ -507,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "الشرطة الإسبانية تحقق مع حارس مرمى بعد وفاة مهاجم تينيريفي",
@@ -517,7 +517,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "التضخم في سويسرا يسجل أعلى مستوى منذ 3 سنوات",
@@ -527,7 +527,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "غولدمان ساكس يرفع توقعات أسعار الغاز بأوروبا لعام 2027",
@@ -537,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "المزروعي: نستهدف ضخ 200 مليار درهم بقطاع الطاقة بحلول 2030",
@@ -547,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "كيف تعيد انتخابات التجديد النصفي تشكيل اقتصاد أميركا؟",
@@ -557,7 +557,27 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "موسكو: منفتحون على مشروعات مشتركة مع واشنطن إذا كانت مفيدة لنا",
+    "summary": "أكد مدير إدارة التعاون الاقتصادي بالخارجية الروسية دميتري بيريتشيفسكي أن موسكو منفتحة على تنفيذ مشروعات مشتركة مع الولايات المتحدة لكن بشرط أن يكون ذلك مفيدا لروسيا نفسها.",
+    "link": "https://rtarabic.com/business/1850262-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%85%D9%86%D9%81%D8%AA%D8%AD%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D8%A7%D8%AA-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%85%D8%B9-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A5%D8%B0%D8%A7-%D9%83%D8%A7%D9%86%D8%AA-%D9%85%D9%81%D9%8A%D8%AF%D8%A9-%D9%84%D9%86%D8%A7/",
+    "published": "Wed, 04 Nov 2026 05:18:08 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "هل تحسم محادثات أبوظبي مصير أسعار القمح العالمية؟",
+    "summary": "أعلنت كييف وموسكو مشاركتهما في محادثات سلام ثلاثية بحضور الولايات المتحدة في أبوظبي يومي 10 و11 نوفمبر، الأمر الذي دفع أسعار القمح الأوروبية للتراجع قرب أدنى مستوياتها في عدة أشهر.",
+    "link": "https://rtarabic.com/business/1850234-%D9%87%D9%84-%D8%AA%D8%AD%D8%B3%D9%85-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%82%D9%85%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/",
+    "published": "Tue, 03 Nov 2026 23:26:07 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1793771230
   },
   {
     "title": "دميترييف يوضح سبب حاجة أوروبا إلى الغاز الروسي",
@@ -567,7 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "المشغولات الذهبية تسجل أسوأ أداء في مصر منذ 2020",
@@ -577,27 +597,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "شركة قطرية كبرى تحصل على قرض ضخم من بنوك مصرية",
-    "summary": "تسعى شركة \"الديار القطرية\"، الذراع العقارية لجهاز قطر للاستثمار، للحصول على قرض بقيمة 20 مليار جنيه من تحالف بنوك مصرية.",
-    "link": "https://rtarabic.com/business/1850098-%D8%B4%D8%B1%D9%83%D8%A9-%D9%82%D8%B7%D8%B1%D9%8A%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D8%AA%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D9%82%D8%B1%D8%B6-%D8%B6%D8%AE%D9%85-%D9%85%D9%86-%D8%A8%D9%86%D9%88%D9%83-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9/",
-    "published": "Tue, 03 Nov 2026 14:18:03 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
+    "title": "12 خطا باسمه دون علمه.. حفيد كمال الشناوي يقاضي شركة اتصالات",
+    "summary": "تثير واقعة تسجيل خطوط هاتف محمول ومحافظ إلكترونية باسم شخص ما في مصر من دون علمه، تساؤلات تتجاوز حدود الخلاف بين عميل وشركة اتصالات، لتفتح ملف حماية الهوية الرقمية وقدرة إجراءات التحقق من بيانات المستخدمين على منع استغلالها.",
+    "link": "https://www.skynewsarabia.com/varieties/1902415-12-%D8%AE%D8%B7%D8%A7-%D8%A8%D8%A7%D8%B3%D9%85%D9%87-%D8%B9%D9%84%D9%85%D9%87-%D8%AD%D9%81%D9%8A%D8%AF-%D9%83%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A-%D9%8A%D9%82%D8%A7%D8%B6%D9%8A-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA",
+    "published": "Wed, 04 Nov 2026 02:00:52 GMT",
+    "source": "سکای منوعات",
+    "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "الميزانية السعودية تسجل عجزا بنحو 23 مليار دولار",
-    "summary": "سجلت الميزانية السعودية عجزا بقيمة 84.3 مليار ريال (نحو 22.48 مليار دولار) في الربع الثالث من العام الجاري، مقابل 34.3 مليار ريال في الربع الثاني من نفس العام.",
-    "link": "https://rtarabic.com/business/1850095-%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AC%D9%84-%D8%B9%D8%AC%D8%B2%D8%A7-%D8%A8%D9%86%D8%AD%D9%88-23-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1/",
-    "published": "Tue, 03 Nov 2026 13:49:10 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "وضع علم إسرائيل على صورة حكم.. شطب لاعب كرة مصري",
@@ -607,7 +617,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "من دهان السيارات إلى الأفران.. مهن فرضها النزوح في غزة",
@@ -617,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "مصر.. تحذير من دخول أفاعي الكوبرا إلى المنازل شتاء",
@@ -627,27 +637,17 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "تنسى لماذا فتحت هاتفك؟.. الانتباه قد يفسر ما يحدث",
-    "summary": "تلتقط هاتفك للبحث عن معلومة، فتستوقفك رسالة، ثم مقطع قصير، وبعد دقائق تنسى سبب فتح الشاشة. في هذا المشهد المألوف، قد تكون المشكلة في تشتت الانتباه، لا في ضعف الذاكرة وحدها.",
-    "link": "https://www.skynewsarabia.com/varieties/1902031-%D8%AA%D9%86%D8%B3%D9%89-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%81%D8%AA%D8%AD%D8%AA-%D9%87%D8%A7%D8%AA%D9%81%D9%83-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%A8%D8%A7%D9%87-%D9%8A%D9%81%D8%B3%D8%B1-%D9%8A%D8%AD%D8%AF%D8%AB",
-    "published": "Tue, 03 Nov 2026 07:28:05 GMT",
-    "source": "سکای منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "الناخبون الأمريكيون يقررون ما إذا كان الديمقراطيون أم الجمهوريون سيسيطرون على الكونغرس خلال ما تبقى من ولاية ترامب",
-    "summary": "الأمريكيون يصوتون اليوم في انتخابات التجديد النصفي للكونغرس، في اقتراع يُنظر إليه باعتباره اختباراً سياسياً مهماً للرئيس دونالد ترامب وحزبه الجمهوري",
+    "title": "ترامب يعلن استعداده لقبول نتائج انتخابات التجديد النصفي والعمل مع الحزب الديمقراطي",
+    "summary": "شبكة \"سي بي إس\" تتوقع سيطرة الديمقراطيين على مجلس النواب وتحقيق مكاسب مهمة لاستعادة مجلس الشيوخ",
     "link": "https://www.bbc.co.uk/arabic/live/cqwyrmd2z8jjt?at_medium=RSS&at_campaign=rss",
     "published": "الآن",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "وزيرة الداخلية البريطانية \"تتراجع\" عن تشديد شروط الإقامة الدائمة للعاملين المهاجرين في قطاع الرعاية",
@@ -657,7 +657,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "لماذا ينام بعض الأشخاص أربع ساعات فقط يومياً؟",
@@ -667,7 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "هزيمة ساحقة في انتخابات الكونغرس ستجعل ترامب أكثر خطورة - مقال في الإندبندنت",
@@ -677,47 +677,47 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "لحظة بلحظة.. الأمريكيون يصوتون في انتخابات التجديد النصفي",
-    "summary": "يدلي الناخبون الأمريكيون، الثلاثاء، بأصواتهم في انتخابات التجديد النصفي التي تحدد الحزب المسيطر على مجلسي النواب والشيوخ، وسط مؤشرات على إقبال مرتفع.",
+    "summary": "أدلى الناخبون الأمريكيون، الثلاثاء، بأصواتهم في انتخابات التجديد النصفي التي تحدد الحزب المسيطر على مجلسي النواب والشيوخ، وسط مؤشرات على إقبال مرتفع.",
     "link": "https://rtarabic.com/world/1850216-%D9%84%D8%AD%D8%B8%D8%A9-%D8%A8%D9%84%D8%AD%D8%B8%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D9%88%D9%86-%D9%8A%D8%B5%D9%88%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A/",
-    "published": "Tue, 03 Nov 2026 23:59:58 +0000",
+    "published": "Wed, 04 Nov 2026 23:59:58 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "فاغنكنخت لميرتس: دعم  سخي لأوكرانيا وإهمال لا محدود للداخل الألماني",
-    "summary": "صرحت سارة فاغنكنخت زعيمة \"تحالف سارة فاغنكنخت\"، بأن المستشار الألماني فريدريش ميرتس يخصص أموالا لدعم أوكرانيا في حين أن الداخل الألماني بأمس الحاجة إلى هذه الأموال.",
-    "link": "https://rtarabic.com/world/1850228-%D9%81%D8%A7%D8%BA%D9%86%D9%83%D9%86%D8%AE%D8%AA-%D9%84%D9%85%D9%8A%D8%B1%D8%AA%D8%B3-%D8%AF%D8%B9%D9%85-%D8%B3%D8%AE%D9%8A-%D9%84%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D8%A5%D9%87%D9%85%D8%A7%D9%84-%D9%84%D8%A7-%D9%85%D8%AD%D8%AF%D9%88%D8%AF-%D9%84%D9%84%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A/",
-    "published": "Tue, 03 Nov 2026 22:57:03 +0000",
+    "title": "الجيش الروسي يستهدف محطتي كهرباء أوكرانيتين وسفينة في البحر الأسود",
+    "summary": "أعلنت الدفاع الروسية اليوم الأربعاء أن قواتها واصلت الليلة الماضية توجيه ضربات بطائرات مسيرة لمنشآت مجمع الطاقة في أوكرانيا والسفن التي تستخدم لصالح الجيش الأوكراني.",
+    "link": "https://rtarabic.com/russia/1850265-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%AD%D8%B7%D8%AA%D9%8A-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%AA%D9%8A%D9%86-%D9%88%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/",
+    "published": "Wed, 04 Nov 2026 05:38:07 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "لبنان.. مصير التعليم بعد حرب إسرائيل",
-    "summary": "",
-    "link": "https://rtarabic.com/prg/%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%85%D8%B5%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A8%D8%B9%D8%AF-%D8%AD%D8%B1%D8%A8-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-1850227/%D9%86%D9%8A%D9%88%D8%B2%D9%85%D9%8A%D9%83%D8%B1/",
-    "published": "Tue, 03 Nov 2026 22:50:04 +0000",
+    "title": "ترامب  يعلن استعداده للعمل مع الديمقراطيين لخدمة بلاده",
+    "summary": "أعلن الرئيس الأمريكي دونالد ترامب أنه لا يعتزم قضاء العامين المقبلين في استخدام حق النقض ضد قرارات الكونغرس، مؤكدا استعداده للعمل مع الديمقراطيين لما فيه مصلحة الولايات المتحدة.",
+    "link": "https://rtarabic.com/world/1850264-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%D9%87-%D9%84%D9%84%D8%B9%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D9%8A%D9%86-%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A8%D9%84%D8%A7%D8%AF%D9%87/",
+    "published": "Wed, 04 Nov 2026 05:26:48 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
-    "title": "باريس سان جيرمان يكتسح فياريال بسداسية في عقر داره",
-    "summary": "دك نادي باريس سان جيرمان حصون مضيفه فياريال الإسباني (6-0) في اللقاء الذي جمعهما مساء يوم الثلاثاء، ضمن منافسات الجولة الرابعة من مرحلة الدوري لدوري أبطال أوروبا لكرة القدم.",
-    "link": "https://rtarabic.com/sport/1850226-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D9%81%D9%8A%D8%A7%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D8%B3%D8%AF%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%82%D8%B1-%D8%AF%D8%A7%D8%B1%D9%87-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
-    "published": "Tue, 03 Nov 2026 22:43:49 +0000",
+    "title": "انتخاب قاض أردني عضوا في محكمة العدل الدولية",
+    "summary": "انتخب مجلس الأمن والجمعية العامة للأمم المتحدة القاضي الأردني محمود ضيف الله الحمود قاضيا في محكمة العدل الدولية لمدة تسع سنوات.",
+    "link": "https://rtarabic.com/middle_east/1850263-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D9%82%D8%A7%D8%B6-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D8%B9%D8%B6%D9%88%D8%A7-%D9%81%D9%8A-%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9/",
+    "published": "Wed, 04 Nov 2026 05:23:32 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "كيف تؤثر الحرب في اليمن علينا جميعاً؟ - BBC",
@@ -727,7 +727,17 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
+  },
+  {
+    "title": "اليمن.. معارك كرّ وفرّ بين قوات الشرعية والحوثيين قرب باب المندب - الجزيرة نت",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPSF9vRmJVTElUWi1GVklLLWRvcVBrQ1lRLWxBN3JlOWE1bWluU0hYdTJEWVRjU29LVHM4VFdwb0luakRzSm5wY0xzNV93dmZETy1hUWVkYWNzeFQtaVNadlFVelNQUGg5MFNWLVExWmRTWnAzcERKM1RnNWE3NWRWMzJaOUw2UWwwcUNxdHJBbWpTYzV6dUFaSEMtTDJ2aWV4dzBlaS04d1N1NTJRZDk5LTFNamwwWW5zOU5yYnZmdUxNd2lwZjI5aVZxOVhrUXIxNHZ2RTd3NmpCdTlJRm9mSndXYXJJbHN3NEw5bUdZbzhjQUZkSnBYZkJYNWZfZEhudmlOSTJrUjdxWEp1WV9WMmFydkd5S0g4N2VIelhMdmZCRHBPakVTZUJ4enE2VkZ5TmhxdWZSS1dtczltT1Jxek94SzJ2c3BnV1E?oc=5\" target=\"_blank\">اليمن.. معارك كرّ وفرّ بين قوات الشرعية والحوثيين قرب باب المندب</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">الجزيرة نت</font>",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPSF9vRmJVTElUWi1GVklLLWRvcVBrQ1lRLWxBN3JlOWE1bWluU0hYdTJEWVRjU29LVHM4VFdwb0luakRzSm5wY0xzNV93dmZETy1hUWVkYWNzeFQtaVNadlFVelNQUGg5MFNWLVExWmRTWnAzcERKM1RnNWE3NWRWMzJaOUw2UWwwcUNxdHJBbWpTYzV6dUFaSEMtTDJ2aWV4dzBlaS04d1N1NTJRZDk5LTFNamwwWW5zOU5yYnZmdUxNd2lwZjI5aVZxOVhrUXIxNHZ2RTd3NmpCdTlJRm9mSndXYXJJbHN3NEw5bUdZbzhjQUZkSnBYZkJYNWZfZEhudmlOSTJrUjdxWEp1WV9WMmFydkd5S0g4N2VIelhMdmZCRHBPakVTZUJ4enE2VkZ5TmhxdWZSS1dtczltT1Jxek94SzJ2c3BnV1E?oc=5",
+    "published": "Tue, 03 Nov 2026 19:08:44 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
+    "lang": "ar",
+    "fetched_at": 1793771230
   },
   {
     "title": "سعر الذهب اليوم في مصر يعود للارتفاع بحلول التعاملات المسائية - Masrawy",
@@ -737,7 +747,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   },
   {
     "title": "اليمن.. عزل تعز والحملة المضادة - سكاي نيوز عربية",
@@ -747,16 +757,6 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1793747144
-  },
-  {
-    "title": "اليمن – المبعوث الأممي يختتم زيارتين إلى لندن وبرلين لدعم العملية السياسية | أخبار الأمم المتحدة - UN News",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aVld6NThJQng5NF9CdHZpaHZfU2Jta3JUYXAybXh3S3VKMEw4Ql9IVkt1dXlkSENqaENpdEdoWWJjZlFZdGtQaE15YWZ0SU16VzJLXy1nMA?oc=5\" target=\"_blank\">اليمن – المبعوث الأممي يختتم زيارتين إلى لندن وبرلين لدعم العملية السياسية | أخبار الأمم المتحدة</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aVld6NThJQng5NF9CdHZpaHZfU2Jta3JUYXAybXh3S3VKMEw4Ql9IVkt1dXlkSENqaENpdEdoWWJjZlFZdGtQaE15YWZ0SU16VzJLXy1nMA?oc=5",
-    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1793747144
+    "fetched_at": 1793771230
   }
 ]
