@@ -1,163 +1,173 @@
 [
   {
-    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
-    "link": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-    "published": "2026-11-16T18:35:58-05:00",
+    "title": "YouTube found a new way to inflate view counts",
+    "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how people are using its platform. [&#8230;]",
+    "link": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+    "published": "2026-11-17T12:50:22-05:00",
     "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+    "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's one [&#8230;]",
+    "link": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+    "published": "2026-11-17T12:41:22-05:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Inside Microsoft’s giant Outlook outage",
+    "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to Outlook emails for nearly 24 hours. It all started [&#8230;]",
+    "link": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+    "published": "2026-11-17T12:00:00-05:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
+    "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "published": "2026-11-17T11:19:03-05:00",
+    "source": "The Verge",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "As decision model use skyrockets, is customization is the next frontier?",
+    "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "published": "Tue, 17 Nov 2026 18:04:16 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "published": "Tue, 17 Nov 2026 17:32:25 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "published": "Tue, 17 Nov 2026 17:20:41 +0000",
+    "source": "TechCrunch",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+    "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+    "published": "Tue, 17 Nov 2026 18:13:34 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+    "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+    "link": "https://arstechnica.com/space/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+    "published": "Tue, 17 Nov 2026 18:00:51 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "published": "Tue, 17 Nov 2026 16:50:10 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "House Democrats promise a US return to global climate talks",
+    "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+    "published": "Tue, 17 Nov 2026 15:32:43 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+    "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
+    "link": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+    "published": "Tue, 17 Nov 2026 18:03:32 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+    "summary": "Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.",
+    "link": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+    "published": "Tue, 17 Nov 2026 17:32:24 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+    "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
+    "link": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
+    "published": "Tue, 17 Nov 2026 17:00:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
+    "summary": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
+    "link": "https://www.wired.com/review/xreal-aura/",
+    "published": "Tue, 17 Nov 2026 14:00:00 +0000",
+    "source": "Wired",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+    "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+    "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+    "published": "Tue, 17 Nov 2026 13:12:56 GMT",
+    "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
-    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-    "published": "2026-11-16T18:17:34-05:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-    "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier today we experienced a technology-related issue that impacted some departing flights. The issue [&#8230;]",
-    "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-    "published": "2026-11-16T17:54:59-05:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-    "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade [&#8230;]",
-    "link": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-    "published": "2026-11-16T16:41:57-05:00",
-    "source": "The Verge",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "published": "Mon, 16 Nov 2026 23:32:32 +0000",
-    "source": "TechCrunch",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-    "link": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-    "published": "Mon, 16 Nov 2026 22:12:31 +0000",
-    "source": "TechCrunch",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-    "published": "Mon, 16 Nov 2026 22:03:02 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-    "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-    "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-    "published": "Mon, 16 Nov 2026 21:01:02 +0000",
-    "source": "TechCrunch",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-    "published": "Mon, 16 Nov 2026 22:58:27 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Three small failures combined to take down Microsoft 365",
-    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-    "link": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-    "published": "Mon, 16 Nov 2026 21:56:39 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Hyperscale data centers use 2% of US electricity",
-    "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-    "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-    "published": "Mon, 16 Nov 2026 20:52:10 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-    "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-    "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-    "published": "Mon, 16 Nov 2026 20:37:47 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Chewy Promo Codes: 25% Off November 2026",
-    "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
-    "link": "https://www.wired.com/story/chewy-promo-code/",
-    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-    "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-    "link": "https://www.wired.com/story/uber-eats-promo-code/",
-    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "50% Off DoorDash Promo Code | November 2026",
-    "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-    "link": "https://www.wired.com/story/doordash-promo-code/",
-    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Booking.com Promo Codes: 20% Off | November 2026",
-    "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-    "link": "https://www.wired.com/story/booking-com-promo-code/",
-    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
-    "source": "Wired",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
@@ -167,17 +177,17 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+    "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
     "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
     "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
     "published": "Mon, 16 Nov 2026 19:56:05 GMT",
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
@@ -187,177 +197,167 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-    "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-    "published": "Mon, 16 Nov 2026 16:36:55 GMT",
-    "source": "Dark Reading",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-    "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-    "published": "Tue, 17 Nov 2026 02:25:44 -0500",
+    "title": "Tor releases emergency update amid ongoing DDoS attack",
+    "summary": "[...]",
+    "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+    "published": "Tue, 17 Nov 2026 13:04:15 -0500",
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-    "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-    "published": "Mon, 16 Nov 2026 21:12:17 -0500",
+    "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+    "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+    "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+    "published": "Tue, 17 Nov 2026 11:00:00 -0500",
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-    "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-    "published": "Mon, 16 Nov 2026 17:54:00 -0500",
+    "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+    "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+    "published": "Tue, 17 Nov 2026 10:01:11 -0500",
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-    "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-    "published": "Mon, 16 Nov 2026 16:31:44 -0500",
+    "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+    "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+    "published": "Tue, 17 Nov 2026 06:19:51 -0500",
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-    "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.\n\nThe company said additional activity targeting on-premises environments continues to be reported where the identified third-party extensions remain enabled, and",
-    "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-    "published": "Tue, 17 Nov 2026 11:59:27 +0530",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
+    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "published": "Tue, 17 Nov 2026 17:55:06 +0530",
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-    "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM) and Unified Endpoint Management (UEM) platform.\n\n\"HF3 builds on the",
-    "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-    "published": "Tue, 17 Nov 2026 10:30:34 +0530",
+    "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+    "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt.\n\nThe first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks.\n\nNik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
+    "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+    "published": "Tue, 17 Nov 2026 17:44:36 +0530",
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-    "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.\n\nIn tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
-    "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-    "published": "Mon, 16 Nov 2026 19:30:00 +0530",
+    "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+    "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).\n\nThe activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
+    "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+    "published": "Tue, 17 Nov 2026 16:50:18 +0530",
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-    "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.\n\nMeanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
-    "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-    "published": "Mon, 16 Nov 2026 18:57:20 +0530",
+    "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+    "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access.\n\n\"Before granting an app such",
+    "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "published": "Tue, 17 Nov 2026 16:37:31 +0530",
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
-    "summary": "<p>Under the new rule, overseas data centers that serve companies in countries including China, Russia, Iran and Cuba are required to identify their end users.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/\">Trump Administration Moves to Block China From Indirect Access to American AI Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-    "published": "Mon, 16 Nov 2026 20:00:00 +0000",
+    "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
+    "summary": "<p>Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/\">AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+    "published": "Tue, 17 Nov 2026 18:16:17 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Cursor Supply Chain Attack Started at Fireworks AI",
-    "summary": "<p>The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies.</p>\n<p>The post <a href=\"https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/\">Cursor Supply Chain Attack Started at Fireworks AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-    "published": "Mon, 16 Nov 2026 15:45:43 +0000",
+    "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "summary": "<p>The company made the incident public on Monday, November 16, five days after filing a complaint with authorities.</p>\n<p>The post <a href=\"https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/\">Market Research Giant Ipsos Investigating Breach of Internal System </a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
+    "published": "Tue, 17 Nov 2026 14:55:30 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-    "summary": "<p>It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/\">Google Project Zero Sets Course for 30-Day Disclosure Deadline</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
-    "published": "Mon, 16 Nov 2026 15:31:25 +0000",
+    "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+    "summary": "<p>Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed.</p>\n<p>The post <a href=\"https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/\">Fandango Warns Ticket Buyers of Payment Card Data Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
+    "published": "Tue, 17 Nov 2026 14:14:24 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
-    "summary": "<p>Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/\">Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-    "link": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-    "published": "Mon, 16 Nov 2026 15:07:32 +0000",
+    "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+    "summary": "<p>Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm.</p>\n<p>The post <a href=\"https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/\">Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+    "link": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
+    "published": "Tue, 17 Nov 2026 14:00:00 +0000",
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Too many instructions can hold back AI security audits",
-    "summary": "<p>In this Help Net Security interview, Peter Stöckli, Security Researcher at GitHub, explains how the team uses AI agents to audit software for vulnerabilities. The discussion covers why the work started with authentication and authorization bugs, how prompts are tested and trimmed for each model, and what the agent produces during threat modeling. Stöckli also describes how every report is checked by a person before it reaches maintainers, how false positives are filtered out, and &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/\">Too many instructions can hold back AI security audits</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/17/peter-stockli-github-ai-security-audits/",
-    "published": "Tue, 17 Nov 2026 07:00:54 +0000",
+    "title": "Envoy Visitors Critical turns visitor policies into approval workflows",
+    "summary": "<p>Envoy today launched Visitors Critical, an infrastructure-grade visitor security offering that brings identity verification, screening and approval workflows together on a shared security architecture that keeps the record protected and audit-ready. It&#8217;s built for high-consequence environments, where the impact of a security event is unacceptable and one-size-fits-all visitor workflows can leave gaps in security posture. Visitors Critical closes those gaps with the highest level of control, assurance and governance across every visitor scenario. It is &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/envoy-visitors-critical/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/envoy-visitors-critical/\">Envoy Visitors Critical turns visitor policies into approval workflows</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/17/envoy-visitors-critical/",
+    "published": "Tue, 17 Nov 2026 14:28:49 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Anthropic vulnerability disclosure deadline drops to 30 days for serious bugs",
-    "summary": "<p>Anthropic will publicly disclose high- and critical-severity vulnerabilities it reports to vendors and open source maintainers after 30 days, down from 90. Every other bug it reports gets 45 days. The new deadlines cover reports sent on or after January 1, 2027, and reports already open on that date keep the deadlines they started with. The company says it no longer expects a reported vulnerability to stay private for months, because a bug one model &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/anthropic-vulnerability-disclosure-days/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/anthropic-vulnerability-disclosure-days/\">Anthropic vulnerability disclosure deadline drops to 30 days for serious bugs</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/17/anthropic-vulnerability-disclosure-days/",
-    "published": "Tue, 17 Nov 2026 06:46:16 +0000",
+    "title": "Linx Security extends identity governance to AI agent actions",
+    "summary": "<p>Linx Security has announced four new capabilities that bring every agent under identity control, managed or unmanaged, in any gateway. Shadow AI Agent Detection finds the agents no one sanctioned. Agent Runtime Control decides every agent action in the gateway organizations already run. And for identity teams, Autopilots for any use case put governed agents to work, a first among major identity vendors, while Prompt-to-Workflow turns a plain-English description into a tested, agentic workflow. These &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/\">Linx Security extends identity governance to AI agent actions</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/17/linx-security-agent-identity-control/",
+    "published": "Tue, 17 Nov 2026 14:23:26 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "AI security took more than one in three cybersecurity seed funding deals",
-    "summary": "<p>Seed deals for cybersecurity startups dipped slightly in the third quarter of 2026, the second decline in a row, while the wider U.S. venture market had one of its best quarters since 2021. Investment firm DataTribe tracked the split using PitchBook data on U.S. seed through Series E rounds, and sorted the cyber seed deals into categories. Across the market, capital is pooling in fewer, larger rounds, and the bar for the round after seed &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals/\">AI security took more than one in three cybersecurity seed funding deals</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals/",
-    "published": "Tue, 17 Nov 2026 06:19:27 +0000",
+    "title": "Detectify launches Agentic Tooling to verify vulnerabilities in live applications",
+    "summary": "<p>Detectify has launched Agentic Tooling. It lets organizations’ own AI agents, running in their own environments, proactively investigate suspected vulnerabilities and test whether they can be exploited in running applications. A new Security Ledger lets security teams verify agents&#8217; findings against objective evidence, ensuring informed decisions rather than relying solely on probabilistic conclusions. The tools address a growing gap in DevSecOps. Engineering teams have built software factories that move code from commit to production in &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/detectify-agentic-tooling/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/detectify-agentic-tooling/\">Detectify launches Agentic Tooling to verify vulnerabilities in live applications</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/17/detectify-agentic-tooling/",
+    "published": "Tue, 17 Nov 2026 14:13:55 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "Microsoft gives admins one policy to manage Windows patches and fixes for PCs that won’t boot",
-    "summary": "<p>Microsoft has expanded Windows Autopatch’s quality update controls, allowing administrators to manage Windows quality updates, supported .NET Framework updates, and Quick machine recovery updates through a single policy in Microsoft Intune. Windows Autopatch is a cloud service that automates updates for Windows, Microsoft 365 Apps for enterprise, Microsoft Edge, and Microsoft Teams to help improve organizational security and productivity. The new controls support automatic or manual approval for different update types, alongside device monitoring through &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/microsoft-windows-autopatch-controls/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/microsoft-windows-autopatch-controls/\">Microsoft gives admins one policy to manage Windows patches and fixes for PCs that won’t boot</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/17/microsoft-windows-autopatch-controls/",
-    "published": "Tue, 17 Nov 2026 06:00:48 +0000",
+    "title": "AppGate Optimizer helps teams narrow access without disrupting users",
+    "summary": "<p>AppGate has announced the general availability of AppGate Optimizer to help organizations reduce exposure from over-provisioned access, cut the time spent on manual access reviews and prove least privilege access to auditors. AppGate Optimizer analyzes how users access resources and recommends precise changes that administrators review and apply without disrupting user workflows. Key benefits include: Enforce least privilege based on real usage: Narrow entitlements as soon as usage data supports it, not at the next &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/17/appgate-optimizer/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/17/appgate-optimizer/\">AppGate Optimizer helps teams narrow access without disrupting users</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/17/appgate-optimizer/",
+    "published": "Tue, 17 Nov 2026 14:03:16 +0000",
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Who Runs the Ransomware Group Qilin?",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Want to Rent an Internet Address at the White House?",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
@@ -397,7 +397,17 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "Formal Verification of the Signal Protocol Using AI",
+    "summary": "<p><a href=\"https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/\">This</a> seems like a good thing:</p>\n<blockquote><p>Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself.</p>\n<p>Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world&#8217;s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind&#8217;s formal verification capabilities using a new AI framework called AlphaProof Code...</p></blockquote>",
+    "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
+    "published": "Tue, 17 Nov 2026 12:05:43 +0000",
+    "source": "Bruce Schneier",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1794939674
   },
   {
     "title": "Usable Security at Luxury Hotels",
@@ -407,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Upcoming Speaking Engagements",
@@ -417,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
@@ -427,17 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "AI Doesn’t Have to Go Rogue to Break the World",
-    "summary": "<p><em>This essay is adapted from <a href=\"https://www.youtube.com/watch?v=eEBv0STiYhI\">a keynote speech</a> delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in <a href=\"https://www.schneier.com/essays/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html\">CyberScoop</a>.</em></p>\n<p>I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing.</p>\n<p>I started writing about this in 2021 and in my 2022 book, <em>A Hacker&#8217;s Mind</em>. Back then I said it was mostly still science fiction, but not stupid science fiction. We&#8217;re seeing it more and more, especially in the past year. The trends I&#8217;m describing don&#8217;t require a major breakthrough in AI. They&#8217;re starting to happen now, and they&#8217;ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...</p>",
-    "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-    "published": "Fri, 13 Nov 2026 12:03:30 +0000",
-    "source": "Bruce Schneier",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,27 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "مصر تهدر الفرص أمام مالاوي وتؤجل حسم التأهل",
+    "summary": "تعادل منتخب مصر مع مضيفه مالاوي دون أهداف، الثلاثاء، في الجولة الرابعة من تصفيات كأس أمم أفريقيا 2027، ليؤجل حسم تأهله إلى النهائيات رغم تعدد فرصه وتألق محمد صلاح وعمر مرموش في صناعة الخطورة.",
+    "link": "https://www.skynewsarabia.com/sport/1905377-%D9%85%D8%B5%D8%B1-%D8%AA%D9%87%D8%AF%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D8%B5-%D8%A3%D9%85%D8%A7%D9%85-%D9%85%D8%A7%D9%84%D8%A7%D9%88%D9%8A-%D9%88%D8%AA%D8%A4%D8%AC%D9%84-%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D9%84",
+    "published": "Tue, 17 Nov 2026 15:55:52 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "فيديو.. وفاة ملاكم بعد تعرضه لضربة قاضية مروعة",
+    "summary": "توفي الملاكم الإيرلندي لي ريفز عن عمر يناهز 31 عامًا، بعد 3 أشهر من تعرضه لهزيمة قاسية بضربة قاضية مروعة قضاها في غيبوبة طبية إثر إصابة خطيرة بالدماغ.",
+    "link": "https://www.skynewsarabia.com/sport/1905307-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%84%D8%A7%D9%83%D9%85-%D8%AA%D8%B9%D8%B1%D8%B6%D9%87-%D9%84%D8%B6%D8%B1%D8%A8%D8%A9-%D9%82%D8%A7%D8%B6%D9%8A%D8%A9-%D9%85%D8%B1%D9%88%D8%B9%D8%A9",
+    "published": "Tue, 17 Nov 2026 08:48:23 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1794939674
   },
   {
     "title": "\"أديداس\" تنفصل عن منتخب ألمانيا بعد 70 عاما",
@@ -487,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "ألمانيا \"تهين\" هولندا بخماسية نظيفة",
@@ -497,107 +517,107 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "اليويفا يرشح ديالو لمنافسة إنفانتينو على رئاسة الفيفا",
-    "summary": "رشّح الاتحاد الأوروبي لكرة القدم (يويفا)، الاثنين، رئيس الاتحاد الفرنسي فيليب ديالو لخوض انتخابات رئاسة الاتحاد الدولي لكرة القدم (فيفا)، في مواجهة الرئيس الحالي جاني إنفانتينو، والمقررة في مارس 2027 في العاصمة المغربية الرباط.",
-    "link": "https://www.skynewsarabia.com/sport/1905127-%D8%A7%D9%84%D9%8A%D9%88%D9%8A%D9%81%D8%A7-%D9%8A%D8%B1%D8%B4%D8%AD-%D8%AF%D9%8A%D8%A7%D9%84%D9%88-%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D9%81%D8%A7",
-    "published": "Mon, 16 Nov 2026 16:23:52 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "وفاة لاعب أرجنتيني شاب بعد تعرضه لإصابة في الرأس خلال مباراة",
-    "summary": "توفي لاعب كرة قدم أرجنتيني شاب، إثر تعرضه لإصابة في الرأس خلال مباراة لكرة الصالات، حسبما أعلن ناديه فوتبول كلوب إيزايزا.",
-    "link": "https://www.skynewsarabia.com/sport/1905085-%D9%88%D9%81%D8%A7%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8-%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86%D9%8A-%D8%B4%D8%A7%D8%A8-%D8%AA%D8%B9%D8%B1%D8%B6%D9%87-%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%A3%D8%B3-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9",
-    "published": "Mon, 16 Nov 2026 11:49:13 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "إنفيديا: ساعة الحقيقة أم ساعة الحساب؟",
-    "summary": "تحولت أنظار المستثمرين إلى شركة إنفيديا قبيل إعلان نتائجها الفصلية، لكن التركيز هذه المرة لم يعد منصباً على الإيرادات أو هوامش الربح فقط، بل على مستقبل الشركة بعد الرحيل المفاجئ لرئيسها التنفيذي جينسن هوانغ، الشخصية التي ارتبطت بشكل وثيق بصعود عملاق الرقائق إلى قمة طفرة الذكاء الاصطناعي العالمية.",
-    "link": "https://www.skynewsarabia.com/business/1905269-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B3%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8",
-    "published": "Tue, 17 Nov 2026 06:28:04 GMT",
+    "title": "العراق يستأنف عمليات ضخ النفط عبر الأراضي التركية",
+    "summary": "أعلن وزير النفط العراقي، باسم محمد خضير، اليوم الثلاثاء، استئناف عمليات ضخ النفط الخام العراقي عبر خط أنابيب تصدير العراقي - التركي القديم إلى ميناء جيهان بجهود وطنية بعد توقف دام 12عاماً.",
+    "link": "https://www.skynewsarabia.com/business/1905347-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%B6%D8%AE-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+    "published": "Tue, 17 Nov 2026 11:56:18 GMT",
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "أعطال فنية تضرب تطبيقات ومواقع بنوك أميركية كبرى",
-    "summary": "أفاد مستخدمون أميركيون أمس الاثنين بحدوث أعطال في عدد من التطبيقات المصرفية والمواقع الإلكترونية التابعة لمؤسسات مالية كبرى، وفقا لموقع \"داون ديتيكتور\"، فيما استبعد أحد المصارف وقوع هجوم إلكتروني.",
-    "link": "https://www.skynewsarabia.com/business/1905261-%D8%A3%D8%B9%D8%B7%D8%A7%D9%84-%D9%81%D9%86%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A8%D9%86%D9%88%D9%83-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%83%D8%A8%D8%B1%D9%89",
-    "published": "Tue, 17 Nov 2026 06:13:07 GMT",
+    "title": "صادرات ألمانيا إلى أوروبا تتجه لتجاوز التريليون يورو في 2026",
+    "summary": "تزداد أهمية أوروبا بوصفها سوقا رئيسية للصادرات الألمانية في ظل الرسوم الجمركية والنزاعات التجارية.",
+    "link": "https://www.skynewsarabia.com/business/1905332-%D8%B5%D8%A7%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%AA%D8%AA%D8%AC%D9%87-%D9%84%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D8%AA%D8%B1%D9%8A%D9%84%D9%8A%D9%88%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2026",
+    "published": "Tue, 17 Nov 2026 10:59:46 GMT",
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "الفيدرالي يرسم 3 سيناريوهات لمستقبل الذكاء الاصطناعي",
-    "summary": "كشف رئيس مجلس الاحتياطي الفيدرالي الأميركي كيفن وورش أن البنك المركزي بدأ إعداد تصورات وسيناريوهات محتملة لتقييم تأثير الانتشار المتسارع للذكاء الاصطناعي على أكبر اقتصاد في العالم، في ظل تزايد الجدل حول انعكاسات التكنولوجيا الجديدة على النمو والإنتاجية وسوق العمل.",
-    "link": "https://www.skynewsarabia.com/business/1905253-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D8%B1%D8%A7%D9%84%D9%8A-%D9%8A%D8%B1%D8%B3%D9%85-3-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A",
-    "published": "Tue, 17 Nov 2026 05:36:44 GMT",
+    "title": "اقتصاد اليورو يصمد أمام صدمة الطاقة.. والتضخم يعود للواجهة",
+    "summary": "رفع الاتحاد الأوروبي توقعاته لنمو اقتصاد منطقة اليورو خلال العام الجاري، بعدما أظهر الاقتصاد قدرة على تجاوز صدمة ارتفاع أسعار الطاقة الناجمة عن الصراع في الشرق الأوسط بصورة أفضل من المتوقع، لكنه حذّر في المقابل من استمرار الضغوط التضخمية وارتفاع الأسعار.",
+    "link": "https://www.skynewsarabia.com/business/1905330-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D8%B1%D9%88-%D9%8A%D8%B5%D9%85%D8%AF-%D8%A3%D9%85%D8%A7%D9%85-%D8%B5%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%8A%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9",
+    "published": "Tue, 17 Nov 2026 10:45:00 GMT",
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "أسعار الكهرباء في اليابان تسجل أعلى مستوياتها منذ 4 سنوات",
-    "summary": "ارتفعت أسعار الكهرباء في اليابان تسليم اليوم التالي خلال تعاملات أمس الاثنين إلى أعلى مستوياتها منذ أكثر من 4 سنوات، مع زيادة الاعتماد على إنتاج محطات التوليد التي تعمل بالغاز الطبيعي الأعلى تكلفة في بداية فصل الشتاء.",
-    "link": "https://www.skynewsarabia.com/business/1905248-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-4-%D8%B3%D9%86%D9%88%D8%A7%D8%AA",
-    "published": "Tue, 17 Nov 2026 05:21:58 GMT",
+    "title": "كندا والصين تتفقان على خفض إضافي للرسوم الجمركية",
+    "summary": "اتفق رئيس الوزراء الكندي مارك كارني والرئيس الصيني شي جينبينغ الثلاثاء على المضيّ في خفض إضافي للرسوم الجمركية، بحسب بيان صادر عن مكتب كارني عقب محادثات بينهما على هامش قمة منتدى التعاون الاقتصادي لآسيا والمحيط الهادئ (أبيك).",
+    "link": "https://www.skynewsarabia.com/business/1905320-%D9%83%D9%86%D8%AF%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AA%D9%81%D9%82%D8%A7%D9%86-%D8%AE%D9%81%D8%B6-%D8%A5%D8%B6%D8%A7%D9%81%D9%8A-%D9%84%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9",
+    "published": "Tue, 17 Nov 2026 10:01:45 GMT",
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "الملياردير وارن بافيت يتبرع بأسهم قيمتها 5.5 مليار دولار للأعمال الخيرية",
-    "summary": "أعلنت شركة Berkshire Hathaway أن رئيسها الفخري الملياردير الأمريكي وارن بافيت تبرع بحوالي 5.5 مليار دولار من أسهم الشركة الاستثمارية إلى مؤسسات خيرية يديرها أبناؤه.",
-    "link": "https://rtarabic.com/world/1854447-%D8%A7%D9%84%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%AF%D9%8A%D8%B1-%D9%88%D8%A7%D8%B1%D9%86-%D8%A8%D8%A7%D9%81%D9%8A%D8%AA-%D9%8A%D8%AA%D8%A8%D8%B1%D8%B9-%D8%A8%D8%A3%D8%B3%D9%87%D9%85-%D9%82%D9%8A%D9%85%D8%AA%D9%87%D8%A7-55-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1%D9%8A%D8%A9/",
-    "published": "Tue, 17 Nov 2026 04:37:33 +0000",
+    "title": "مصر ضمن أوسع الفجوات بين الفائدة والتضخم في إفريقيا",
+    "summary": "تتجه البنوك المركزية الإفريقية من جنوب إفريقيا إلى مصر لإنهاء 2026 بسياسة نقدية تقييدية، في ظل تعرض عملاتها لضغوط وسط توقعات بأن يمدد الفيدرالي الأمريكي دورة رفع أسعار الفائدة.",
+    "link": "https://rtarabic.com/business/1854659-%D9%85%D8%B5%D8%B1-%D8%B6%D9%85%D9%86-%D8%A3%D9%88%D8%B3%D8%B9-%D8%A7%D9%84%D9%81%D8%AC%D9%88%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85-%D9%81%D9%8A-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/",
+    "published": "Tue, 17 Nov 2026 13:44:41 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "انطلاق قمة أعمال \"آبيك\" في شنتشن بمشاركة دولية واسعة",
-    "summary": "انطلقت في شنتشن قمة الأعمال لمنتدى التعاون الاقتصادي لآسيا والمحيط الهادئ \"آبيك\"، بمشاركة ممثلين عن الأوساط السياسية والاقتصادية لمناقشة ملفات اقتصادية ورقمية رئيسية.",
-    "link": "https://rtarabic.com/business/1854427-%D9%82%D9%85%D8%A9-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A3%D8%A8%D9%8A%D9%83-%D8%AA%D9%86%D8%B7%D9%84%D9%82-%D9%81%D9%8A-%D8%B4%D9%86%D8%AA%D8%B4%D9%86-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D8%B3%D8%B9%D8%A9/",
-    "published": "Tue, 17 Nov 2026 04:18:18 +0000",
+    "title": "\"روساتوم\" تبدأ تجميع \"قلب\" مفاعل وحدة الطاقة المستقبلية",
+    "summary": "بدأ خبراء شركة \"روساتوم\" بتجميع \"قلب\" المفاعل النووي BREST-OD-300 قيد الإنشاء في مقاطعة تومسك، والذي سيشكل أساس \"وحدة الطاقة المستقبلية\" النووية المبتكرة.",
+    "link": "https://rtarabic.com/business/1854646-%D8%B1%D9%88%D8%B3%D8%A7%D8%AA%D9%88%D9%85-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%AC%D9%85%D9%8A%D8%B9-%D9%82%D9%84%D8%A8-%D9%85%D9%81%D8%A7%D8%B9%D9%84-%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%8A%D8%A9/",
+    "published": "Tue, 17 Nov 2026 13:04:08 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "\"البديل من أجل ألمانيا\" يطلب إلغاء ضريبة الكربون لإنقاذ الوظائف",
-    "summary": "أعلنت زعيمة حزب \"البديل من أجل ألمانيا\" أن سياسات برلين تضحي برفاهية المواطنين لإرضاء الأيديولوجيا المناخية، مشيرة إلى فقدان أكثر من 405 آلاف وظيفة منذ 2019.",
-    "link": "https://rtarabic.com/business/1854408-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%8A%D8%B7%D9%84%D8%A8-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%B6%D8%B1%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D9%83%D8%B1%D8%A8%D9%88%D9%86-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0-%D8%A7%D9%84%D9%88%D8%B8%D8%A7%D8%A6%D9%81/",
-    "published": "Mon, 16 Nov 2026 21:56:01 +0000",
+    "title": "هل تتأثر مصر بعد غرق سفينة القمح في البحر الأسود؟",
+    "summary": "أكد مستشار وزير التموين السابق في مصر نعماني نصر، أن غرق سفينة شحن محملة بنحو 3 آلاف طن من القمح الروماني أثناء توجهها إلى مصر، لن يؤثر على منظومة تدبير احتياجات السوق المحلية.",
+    "link": "https://rtarabic.com/business/1854628-%D9%87%D9%84-%D8%AA%D8%AA%D8%A3%D8%AB%D8%B1-%D9%85%D8%B5%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%BA%D8%B1%D9%82-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D9%82%D9%85%D8%AD-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%AF/",
+    "published": "Tue, 17 Nov 2026 12:22:45 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "توقعات بتكبد شركات الطيران أكثر من مليار دولار بسبب وقف حركة الطيران في الولايات المتحدة",
-    "summary": "من المنتظر أن يكبد قرار وقف تحليق الطائرات في مختلف أنحاء الولايات المتحدة يوم 13 نوفمبر 2026، بسبب عطل فني في نظام المراقبة الجوية، شركات الطيران أكثر من مليار دولار.",
-    "link": "https://rtarabic.com/world/1854404-%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A8%D8%AA%D9%83%D8%A8%D8%AF-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%88%D9%82%D9%81-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9/",
-    "published": "Mon, 16 Nov 2026 21:24:44 +0000",
+    "title": "اتفاق سعودي باكستاني لاستكشاف استثمار بـ30 مليار دولار في البنية التحتية للطاقة",
+    "summary": "أعلنت شركتا \"دلتا السعودية للطاقة\" و\"إنتر ستيت جاز سيستمز\" الباكستانية توقيع اتفاقية لاستكشاف سبل تطوير البنية التحتية للطاقة في باكستان، باستثمار يبلغ نحو 30 مليار دولار.",
+    "link": "https://rtarabic.com/business/1854616-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D9%84%D8%A7%D8%B3%D8%AA%D9%83%D8%B4%D8%A7%D9%81-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1-%D8%A8%D9%8030-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9/",
+    "published": "Tue, 17 Nov 2026 11:55:53 +0000",
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "هوانغ يكسر صمته بعد كشف \"خيانته\" واستقالته من \"إنفيديا\"",
+    "summary": "كسر جنسن هوانغ صمته وخرج بأول بيان له منذ استقالته من منصبه رئيسا تنفيذيا لشركة \"إنفيديا\"، بعد كشف إقامته علاقات خارج إطار الزواج، من بينها علاقة مع سيدة يُشتبه في ارتباطها بالاستخبارات الصينية.",
+    "link": "https://www.skynewsarabia.com/varieties/1905383-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%8A%D9%83%D8%B3%D8%B1-%D8%B5%D9%85%D8%AA%D9%87-%D9%83%D8%B4%D9%81-%D8%AE%D9%8A%D8%A7%D9%86%D8%AA%D9%87-%D9%88%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%AA%D9%87-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7",
+    "published": "Tue, 17 Nov 2026 17:56:05 GMT",
+    "source": "سکای منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "أول حشرة في العالم تحصل على حقوق قانونية.. ما هي؟",
+    "summary": "أصبح النحل عديم اللسع أول حشرات في العالم تحصل على حقوق قانونية، بعدما أقرت حكومتان محليتان في بيرو إعلانا يمنحه الحق في الوجود والازدهار والعيش في بيئة صحية، فضلا عن حقه في التمثيل القانوني.",
+    "link": "https://www.skynewsarabia.com/varieties/1905369-%D8%AD%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%AD%D8%B5%D9%84-%D8%AD%D9%82%D9%88%D9%82-%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D8%A9-%D9%87%D9%8A",
+    "published": "Tue, 17 Nov 2026 14:42:50 GMT",
+    "source": "سکای منوعات",
+    "category": "صحة",
+    "lang": "ar",
+    "fetched_at": 1794939674
   },
   {
     "title": "الكونغرس يكرم السادات بعد 45 عاما على اغتياله",
@@ -607,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "عمره 120 عاما.. سرقة جرس كنيسة يزن 130 كيلوغراما في كندا",
@@ -617,107 +637,97 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "ماسك وقادة التكنولوجيا يطالبون بإعادة جينسن هوانغ إلى منصبه",
-    "summary": "طالب إيلون ماسك وعدد من كبار قادة قطاع التكنولوجيا بإعادة جينسن هوانغ إلى منصبه على رأس شركة إنفيديا، بعد أيام من استقالته، وسط تقارير عن تحركات يقودها مقربون منه لحشد الدعم لعودته إلى شركة صناعة الرقائق.",
-    "link": "https://www.skynewsarabia.com/varieties/1905078-%D9%85%D8%A7%D8%B3%D9%83-%D9%88%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%8A%D8%B7%D8%A7%D9%84%D8%A8%D9%88%D9%86-%D8%A8%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AC%D9%8A%D9%86%D8%B3%D9%86-%D9%87%D9%88%D8%A7%D9%86%D8%BA-%D9%85%D9%86%D8%B5%D8%A8%D9%87",
-    "published": "Mon, 16 Nov 2026 11:13:46 GMT",
-    "source": "سکای منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "فيديو.. 3 سجناء يتسلقون سور سجن ويفرون في البرازيل",
-    "summary": "وثقت كاميرات مراقبة فرار 3 سجناء من منشأة \"ليوناردو لاغو\" العقابية في مدينة ريسيفي، شمال شرقي البرازيل، قبل أن تتمكن السلطات من إعادة القبض على أحدهم قرب السجن.",
-    "link": "https://www.skynewsarabia.com/varieties/1904897-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-3-%D8%B3%D8%AC%D9%86%D8%A7%D8%A1-%D9%8A%D8%AA%D8%B3%D9%84%D9%82%D9%88%D9%86-%D8%B3%D9%88%D8%B1-%D8%B3%D8%AC%D9%86-%D9%88%D9%8A%D9%81%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84",
-    "published": "Sun, 15 Nov 2026 15:00:27 GMT",
-    "source": "سکای منوعات",
-    "category": "صحة",
-    "lang": "ar",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "لماذا تتزايد الشراكات الأمنية في منطقة الشرق الأوسط وشمال أفريقيا؟",
-    "summary": "لا توجد بنية أمنية موحدة في المنطقة، لكن الحكومات تتبنى مجموعة متنوعة من الآليات، بدءاً من التحالفات العسكرية الرسمية واتفاقيات الدفاع ومقترحات عدم الاعتداء، وصولاً إلى التحالفات الأمنية.",
-    "link": "https://www.bbc.com/arabic/articles/cvglr9ed7w86o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 05:46:36 GMT",
+    "title": "ترامب يحذر إيران من استهداف واشنطن، وطهران تنفي التخطيط لهجوم بـ \"قنبلة قذرة\"",
+    "summary": "حذر الرئيس الأمريكي دونالد ترامب إيران من عواقب غير مسبوقة في حال استهداف مسؤولين أمريكيين في واشنطن، عقب تقرير استخباري تحدث عن هجوم محتمل باستخدام \"قنبلة قذرة\"، وهو ما نفته طهران. يأتي ذلك وسط هجمات إيرانية جديدة على منشآت أمريكية في البحرين، وتحذيرات قطرية من تأثير التصعيد على جهود الوساطة.",
+    "link": "https://www.bbc.com/arabic/articles/cq4gnp3zl3n0o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 16:43:40 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "أحكام بالمؤبد والسجن 15 عاماً في أكبر محاكمة لرجال دين شيعة في البحرين، والخارجية الإيرانية تندد بالأحكام",
-    "summary": "اعتبر الشيخ محمد المنسي، أحد رجال الدين البحرينيين الذين حوكموا غيابياً وصدر بحقه حكم بالسجن المؤبد، في حديثه لبي بي سي، المحاكمة \"مرفوضة ومستنكرة\"، ووصفها بأنها \"كيدية وباطلة، وتفتقد إلى أبسط المعايير القانونية\"، وفقاً لتعبيره.",
-    "link": "https://www.bbc.com/arabic/articles/cm9q87y2xd29o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 07:22:37 GMT",
+    "title": "الحوثيون يقولون إن التحالف في اليمن يقصف صنعاء والحديدة وصعدة، ويتوعدون بالرد",
+    "summary": "أفادت وسيلتا إعلام تابعتان للحوثيين، بأن التحالف الذي تقوده السعودية شنّ غارات دامية على محافظتي الحديدة وصعدة وصنعاء.",
+    "link": "https://www.bbc.com/arabic/articles/cmde1k1z4dd6o?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 17:40:30 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "بيرنهام: بريطانيا خسرت أكثر مما ربحت من بريكست",
-    "summary": "رئيس الوزراء البريطاني آندي بيرنهام يرى أن بلاده خسرت جراء \"بريكست\"، ويسعى لإبرام اتفاقيات جديدة مع الاتحاد الأوروبي تُمهد لعلاقة أعمق مستقبلاً، وسط انتقادات من المعارضة البريطانية",
-    "link": "https://www.bbc.com/arabic/articles/cqy7rkmde4dxo?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 01:24:26 GMT",
+    "title": "الصين تستضيف قادة العالم في عالمها المذهل للذكاء الاصطناعي. إليكم ما لن يروه",
+    "summary": "ابتعد عن أفق شنتشن الذي تزيّنه مظاهر التكنولوجيا، وستجد نفسك أمام التحديات التي تواجه الصين في عهد شي جينبينغ.",
+    "link": "https://www.bbc.com/arabic/articles/c6grewvjxnnvo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 15:39:04 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "خمس دول في الاتحاد الأوروبي تعلن عن إنشاء مركز لترحيل المهاجرين في رواندا",
-    "summary": "أعلنت كل من ألمانيا والدنمارك والنمسا واليونان وهولندا عن إنشاء \"مركز للعودة\" مخصص لطالبي اللجوء الذين رُفضت طلباتهم.",
-    "link": "https://www.bbc.com/arabic/articles/cw8dvqevm8n6o?at_medium=RSS&at_campaign=rss",
-    "published": "Tue, 17 Nov 2026 03:50:39 GMT",
+    "title": "جيمس بوند: ماذا نعرف حتى الآن عن فيلم العميل 007 المقبل؟",
+    "summary": "بعد دانييل كريغ وشون كونري وروجر مور وغيرهم، جيمس بوند يعود إلى الشاشاة الكبيرة بوجه جديد.",
+    "link": "https://www.bbc.com/arabic/articles/c6pw42gl8njwo?at_medium=RSS&at_campaign=rss",
+    "published": "Tue, 17 Nov 2026 17:33:07 GMT",
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "بيسكوف: لقاء بوتين وترامب وشي \"إشارة للبشرية جمعاء\"",
-    "summary": "أكد المتحدث باسم الكرملين دميتري بيسكوف أن اللقاء الذي يجمع الرئيس الروسي فلاديمير بوتين، ونظيره الصيني شي جين بينغ، والرئيس الأمريكي دونالد ترامب، يعد حدثا بارزا لم يسبق له مثيل.",
-    "link": "https://rtarabic.com/world/1854487-%D8%A8%D9%8A%D8%B3%D9%83%D9%88%D9%81-%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B4%D9%8A-%D8%AD%D8%AF%D8%AB-%D9%84%D9%85-%D9%8A%D8%B3%D8%A8%D9%82-%D9%84%D9%87-%D9%85%D8%AB%D9%8A%D9%84/",
-    "published": "Tue, 17 Nov 2026 07:21:50 +0000",
+    "title": "باريس تعترف بوجود عسكريين فرنسيين في أوكرانيا",
+    "summary": "أقرت الوزيرة المنتدبة لدى وزارة القوات المسلحة الفرنسية أليس روفو، الثلاثاء، بوجود هيكل عسكري فرنسي في أوكرانيا، مشيرة إلى أن مهامهم تقتصر على التدريب والدعم الفني.",
+    "link": "https://rtarabic.com/world/1854732-/",
+    "published": "Tue, 17 Nov 2026 18:20:26 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "\"آسيان\" و\"بريكس\".. أهداف مشتركة تفتح آفاق التعاون",
-    "summary": "تولي دول رابطة جنوب شرق آسيا \"آسيان\" اهتماما متزايدا بتعزيز التعاون مع مجموعة \"بريكس\"، في ظل وجود أهداف مشتركة بين الجانبين، ولا سيما في مجال التجارة الدولية.",
-    "link": "https://rtarabic.com/world/1854459-%D8%A2%D8%B3%D9%8A%D8%A7%D9%86-%D9%88%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A2%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/",
-    "published": "Tue, 17 Nov 2026 07:01:53 +0000",
+    "title": "بوتين يصل إلى الصين للمشاركة في قمة أبيك ولقاء ترامب وشي",
+    "summary": "وصل الرئيس الروسي فلاديمير بوتين، الثلاثاء، إلى مدينة شنجين الصينية للمشاركة في قمة منتدى التعاون الاقتصادي لآسيا والمحيط الهادئ (أبيك)، وإجراء محادثات مع نظيريه الأمريكي والصيني.",
+    "link": "https://rtarabic.com/world/1854758-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D8%A3%D8%A8%D9%8A%D9%83-%D9%88%D9%84%D9%82%D8%A7%D8%A1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B4%D9%8A/",
+    "published": "Tue, 17 Nov 2026 18:13:33 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "منة شلبي تعلن مشاركتها في لجنة تحكيم جوائز إيمي الدولية",
-    "summary": "أعلنت الممثلة المصرية منة شلبي اختيارها عضوا في لجنة تحكيم جوائز إيمي الدولية لعام 2026، في مشاركة هي الثانية لها ضمن لجان تحكيم المسابقة العالمية.",
-    "link": "https://rtarabic.com/culture/1854481-%D9%85%D9%86%D8%A9-%D8%B4%D9%84%D8%A8%D9%8A-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D9%84%D8%AC%D9%86%D8%A9-%D8%AA%D8%AD%D9%83%D9%8A%D9%85-%D8%AC%D9%88%D8%A7%D8%A6%D8%B2-%D8%A5%D9%8A%D9%85%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9/",
-    "published": "Tue, 17 Nov 2026 06:42:10 +0000",
+    "title": "شاهد.. تونس تهز شباك ليبيا بعد خطأ فادح",
+    "summary": "ارتكب المدافع الدولي الليبي علي يوسف خطأ فادحا أسفر عن هدف التقدم لنظيره التونسي في المباراة بينهما اليوم الثلاثاء، ضمن الجولة الرابعة من تصفيات بطولة كأس أمم إفريقيا 2027.",
+    "link": "https://rtarabic.com/sport/1854751-%D8%B4%D8%A7%D9%87%D8%AF-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D9%87%D8%B2-%D8%B4%D8%A8%D8%A7%D9%83-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B7%D8%A3-%D9%81%D8%A7%D8%AF%D8%AD/",
+    "published": "Tue, 17 Nov 2026 17:47:40 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "وزيرا خارجية عمان وإيران يبحثان سبل حماية الممرات البحرية",
-    "summary": "ناقشت سلطنة عمان وإيران سبل حماية الممرات البحرية وضمان انسيابية حركة الملاحة والتجارة الدولية، وإعادة تنشيط مسارات الحوار والتفاوض لمنع التصعيد.",
-    "link": "https://rtarabic.com/middle_east/1854480-%D9%88%D8%B2%D9%8A%D8%B1%D8%A7-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%B3%D8%A8%D9%84-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9/",
-    "published": "Tue, 17 Nov 2026 06:40:13 +0000",
+    "title": "البنتاغون: الولايات المتحدة تركز على مساعدة أوكرانيا في الدفاع عن نفسها",
+    "summary": "أعلن وكيل وزارة الحرب الأمريكية للشؤون السياسية إلبريدج كولبي، أن الولايات المتحدة تركز على مساعدة أوكرانيا في الدفاع عن نفسها.",
+    "link": "https://rtarabic.com/world/1854749-%D8%A7%D9%84%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D9%83%D8%B2-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%B9%D9%86-%D9%86%D9%81%D8%B3%D9%87%D8%A7/",
+    "published": "Tue, 17 Nov 2026 17:45:47 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
+  },
+  {
+    "title": "سعر الذهب اليوم في مصر يواصل الانخفاض منتصف تعاملات الثلاثاء - Masrawy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinARBVV95cUxQTjUybV9nbVdaQ1lZT3VfalZ5T1RXemV2NDROVVgwdXJKUFhpeUVVTDRtamZ5Q1M2d1pORTRBWUdpbVNkNjU4VWlQUVlBOXFOcm9lTnBmUnhNUjJDRkMtRFhmTmNfVkJ5bjJQdEtOTU80NjhVeGp5QjN4a3Fhek5zTENkR01DYkR0bnNMY0xXSENtS0tfTEVUY0pIUEI2Z0pLRUV4YnVFX3pkdUlFaGZzbFJ6WUhzdHlXc0RMNFYtTmhFRlBNSjZUMnhIdVRLb2t6Y3BSMmdfR0s4UTRpWU9QT244VS1UeUNVMUMzaTNfWTRHeTNfbjg5MWV3QVFEN2RRS1JnQWRIN211LW9iWEhjeWJGMklkRUJQM2l0UlViT0dVRjBRTlJDcGlFcEttLXpTNVRuYjJYR0RJSVAwN1hvbUFLdFUxOURwZXJMZmN4aFVkZnI1ZlZhV3hMVWliZDlwYXBkWm5YVklfbFJtZ1k2N0lNUkxjb1FvZTB6YU5VekV5TDZSbTBuZUdZX2JydDl1ZVZOQ0g0M3Vua0J5MmhZc2QwWUpfaTVGTk9wMWtKcEZvTmx3UXF2Wnk0TTM0QzlabExOdFlaUHVtSlgwUDFhWXdHQjNTZ3Bxa0w4cjZlWWFCZHVjSEtzcC14VnR2b0UxZVZoRGFSekRTMm9BZWl3bE1QQzh1OTRfZ2NzUXl0RzRsNGt4T2t1UThXbzbSAaIEQVVfeXFMTWpUVkc4UDkyOG1FaWRycENBcWk5dUpDSzB1WnhXZnR1TF9rUnlUR2M2YW5hTWlMMVZZaGF1cnRIR0x3M2E4M3ludFlhY2VmREE4SkJOSjU2aDJJWUtXaGNVRkZiLUpDVVlScjF4RW9tQ2kyR2ZTWjJoRmZqa2xEVkNEMlVtMnRwYVlCM2dmZVhVck9IX1phRjZXUW5JeW10TlhzRS01Z0N6OVRPUHEydUxjWTlVWW9Fcm9hdm1XdXA2SFhDZ0NWeUVRNlR0NVQyaXp4Y21IQjAyOHVGT3U0Qmdsc2EzZ3FsU1MzSXduZzROWHl0WHBJUUlnUWFEZDlUNmF3MXlWUlFhaDBRZHpLeXB4SXhIVEFHem9mM3AtV2Q3ZDJaMmRIVlFNaWkxVXBtWnpCaktIdGV0b1FKcEhCeHFvMGY1X1RZNjhfcG1HQzdCTHBsRlhQdlBEZ2U0N2FZT1RGZXRyRnJOUUtZemRZcDlVS0U4Nmh4aVVuYUJqbnFoUUVkVjZVQkJiaWxDdDY1MDRwakhQNmNKeFUzVlpxcy1EWVNhZWd4bG9IbWxWVW9PQXNQOUtfS1VKOG9vVUN5SzMtNnZBV0h3Wng1ODhWVXNVYlZpWHl6Zk9GQjBlOUdNSzg5cnBqUzY0UDVoeTBjVEN2OVpaamphVWhjU2FRUGNDWVVRcWZjVmZldWVBMXY1a2VEVFQyTmZfenB2bnhlQ2dB?oc=5\" target=\"_blank\">سعر الذهب اليوم في مصر يواصل الانخفاض منتصف تعاملات الثلاثاء</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Masrawy</font>",
+    "link": "https://news.google.com/rss/articles/CBMinARBVV95cUxQTjUybV9nbVdaQ1lZT3VfalZ5T1RXemV2NDROVVgwdXJKUFhpeUVVTDRtamZ5Q1M2d1pORTRBWUdpbVNkNjU4VWlQUVlBOXFOcm9lTnBmUnhNUjJDRkMtRFhmTmNfVkJ5bjJQdEtOTU80NjhVeGp5QjN4a3Fhek5zTENkR01DYkR0bnNMY0xXSENtS0tfTEVUY0pIUEI2Z0pLRUV4YnVFX3pkdUlFaGZzbFJ6WUhzdHlXc0RMNFYtTmhFRlBNSjZUMnhIdVRLb2t6Y3BSMmdfR0s4UTRpWU9QT244VS1UeUNVMUMzaTNfWTRHeTNfbjg5MWV3QVFEN2RRS1JnQWRIN211LW9iWEhjeWJGMklkRUJQM2l0UlViT0dVRjBRTlJDcGlFcEttLXpTNVRuYjJYR0RJSVAwN1hvbUFLdFUxOURwZXJMZmN4aFVkZnI1ZlZhV3hMVWliZDlwYXBkWm5YVklfbFJtZ1k2N0lNUkxjb1FvZTB6YU5VekV5TDZSbTBuZUdZX2JydDl1ZVZOQ0g0M3Vua0J5MmhZc2QwWUpfaTVGTk9wMWtKcEZvTmx3UXF2Wnk0TTM0QzlabExOdFlaUHVtSlgwUDFhWXdHQjNTZ3Bxa0w4cjZlWWFCZHVjSEtzcC14VnR2b0UxZVZoRGFSekRTMm9BZWl3bE1QQzh1OTRfZ2NzUXl0RzRsNGt4T2t1UThXbzbSAaIEQVVfeXFMTWpUVkc4UDkyOG1FaWRycENBcWk5dUpDSzB1WnhXZnR1TF9rUnlUR2M2YW5hTWlMMVZZaGF1cnRIR0x3M2E4M3ludFlhY2VmREE4SkJOSjU2aDJJWUtXaGNVRkZiLUpDVVlScjF4RW9tQ2kyR2ZTWjJoRmZqa2xEVkNEMlVtMnRwYVlCM2dmZVhVck9IX1phRjZXUW5JeW10TlhzRS01Z0N6OVRPUHEydUxjWTlVWW9Fcm9hdm1XdXA2SFhDZ0NWeUVRNlR0NVQyaXp4Y21IQjAyOHVGT3U0Qmdsc2EzZ3FsU1MzSXduZzROWHl0WHBJUUlnUWFEZDlUNmF3MXlWUlFhaDBRZHpLeXB4SXhIVEFHem9mM3AtV2Q3ZDJaMmRIVlFNaWkxVXBtWnpCaktIdGV0b1FKcEhCeHFvMGY1X1RZNjhfcG1HQzdCTHBsRlhQdlBEZ2U0N2FZT1RGZXRyRnJOUUtZemRZcDlVS0U4Nmh4aVVuYUJqbnFoUUVkVjZVQkJiaWxDdDY1MDRwakhQNmNKeFUzVlpxcy1EWVNhZWd4bG9IbWxWVW9PQXNQOUtfS1VKOG9vVUN5SzMtNnZBV0h3Wng1ODhWVXNVYlZpWHl6Zk9GQjBlOUdNSzg5cnBqUzY0UDVoeTBjVEN2OVpaamphVWhjU2FRUGNDWVVRcWZjVmZldWVBMXY1a2VEVFQyTmZfenB2bnhlQ2dB?oc=5",
+    "published": "Tue, 17 Nov 2026 10:54:38 GMT",
+    "source": "أخبار جوجل (اليمن)",
+    "category": "اليمن",
+    "lang": "ar",
+    "fetched_at": 1794939674
   },
   {
     "title": "ملك السعودية يعيّن رئيس الأركان قائدا للقوات المشتركة لتحالف اليمن - الجزيرة نت",
@@ -727,27 +737,17 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
-    "title": "السعودية تعين قائدا عسكريا جديدا بعد انتكاسة في اليمن - Reuters",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUlUxOTVGTTR2RjdWWDlUYzNPQTNoc3M5M1RFLUw4QjFGMWtnNGRJeWhJdWZJak03ZXF0QzJXRTVXTUxjRW11d09ueTZ1SlBhYnVRUXVwNzVFOHUxb0MxNzlGNW4wNVVTSjFfSmY2enFieS1kVVlFSlg4UQ?oc=5\" target=\"_blank\">السعودية تعين قائدا عسكريا جديدا بعد انتكاسة في اليمن</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUlUxOTVGTTR2RjdWWDlUYzNPQTNoc3M5M1RFLUw4QjFGMWtnNGRJeWhJdWZJak03ZXF0QzJXRTVXTUxjRW11d09ueTZ1SlBhYnVRUXVwNzVFOHUxb0MxNzlGNW4wNVVTSjFfSmY2enFieS1kVVlFSlg4UQ?oc=5",
-    "published": "Mon, 16 Nov 2026 16:50:09 GMT",
+    "title": "مباريات اليوم والقنوات الناقلة.. منتخب مصر وتصفيات إفريقيا ودوري الأمم الأوروبية - FilGoal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wRBVV95cUxNRDcwN2l0VV83RXFid3EyX2VxaEJWWFJSWUlhWFRibTVMMmZLY2FSUHotTTloTnZyYkJid3dtSWdjY1o1STUzZXhVcHNmdUlpRWpCYjlVeG1xUk11a2ZicFFoaFZXbS13YWwzMGtRWnZyQ085dEgtaWVYN1lIU3dHMHdCbVNRNElvd2VEOGlzY3BWRnhwMG91MDFnRWdWbUlrTmZ2ckdyRUpzMC1XdnZxcHNITTdKM25nanVqd1FLTGl5VDRxeTdjVkFzZTlUNGViVzlWQzVxX21qTDZ3eUlIQzNnTy05MFNDang2RHp2ZGpieEFkcW9NOW8zZjBxSnRHMkZmdDcwYkctNDB5dlJnZFdZaUlGTGtOenpmaTI1cFRGYXhzOFNLZC1tenpEZkZac2tRZ25nUTFPaC1NdFY3TEtRd2l6ekVmWDFlWFlkbVhvZGJmV2Z6Vk5YTElmcE1RWWpCekY3X0hGVWhUeTFybGxseVV2S0hpQ1NHbzMxRGwtS0FkSHd3WTlOLVRTenlfaXZ6dTRqT1ZzVGdHc3ZETjZSUkMtMGFMN2UzM1l4WmJZbkJaS1JTOWI1VzRESExlTnRaSkZXMHlDamFKcEstTlF5LUVGcFd2VkNCNXVaQ0UyUHNzR2dMSzFxUFRpR2xlMnlMV0gzckVoakxSOUYyNFFwbV9WNWhpQ3dTUWpJUjd3YWYyazlSVDJqaFdOd1hpQ1pEczlsbjc5QlpHT3hpamRHNUY4cFJhS0UzQzBsc0lNbHpxdUVERFBCV1NRT2JCMU9yQXkwZWc4ZXo5OFBHUjh1Tzd6bXJ3a1NobXd6UUxrZ0FENTFnaGFaNVFLWWvSAYQFQVVfeXFMTmxGRFA3bWYwSXJmb3JMcTN1SVhqSHl2RzVJSGhpcDNnYzR4cWhDOXVOV3R5X2pvWC1FU1p5eDZnQzlfQkQ3U0dEdTdlVHpQMEpGZk5nNER5cHdEVVppNUU3eXFDU2V0TFR3YnFQMldqYmdCYWlVT0NUZXpwYjhiN0QxOU5VVkY2NWNBLVl2UDhaU01qQmN2WDNHeGduWGxzU2dVN25oRWhjaFdKYVQwejJodG9seEwyRllmVFdkMVFneTdUcmNFUDc1anBoUjBMcGo5X0dfN0dXdmNZYWE2a25jOWVuSGdZVmt6WndLd1pFY3hURWE3VHRWU0s2dkFJQ0x6aEZqOHVMYXBNVnk1TWliM0VhVU1Xa25aUjdLZjZJNjRTczBIczZmY0RHdWhYbllFU1J6dm82Z3NSektWeHR0TTJBNFNCVHR0NkV4THFVbXBmUS01TVVBVmhheGFsSTIzSHd0aHg3X0ZvNWI1cDJWVmJUTU9WM2o1bEtjYjNuVm5QNkFqWnhnWjU5bXEyRVpWU0ZLUGJZcEhsNUdfajdOLTlZd2xOLWxFLU5aZkdRZHdNUTlaUGM5Q29PREt3MzVKNFljR0FzM2lDNzNhRHhIbkNWckJXY3IyY1lrYVhQcXA2a3R3YTEtamdkQ194Q0ZEdElGam5nX3pobU9IS05zeW03SF9CZWFJRk5RY01TYm0xZkVodng3ZTFMMTVzeFhYUTdhdk9Rb0padWNmX2hTdWJvRFhPb2gyWUtWbF9MSHViRUtQaGJycjFFaDVIbm5zdEV3S2lQTHNReG1EWnNQY0JBaGNRZU9jY2lob25jbjZEdWJ3MzdzNl9ndkN0bEFnNHg?oc=5\" target=\"_blank\">مباريات اليوم والقنوات الناقلة.. منتخب مصر وتصفيات إفريقيا ودوري الأمم الأوروبية</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FilGoal</font>",
+    "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNRDcwN2l0VV83RXFid3EyX2VxaEJWWFJSWUlhWFRibTVMMmZLY2FSUHotTTloTnZyYkJid3dtSWdjY1o1STUzZXhVcHNmdUlpRWpCYjlVeG1xUk11a2ZicFFoaFZXbS13YWwzMGtRWnZyQ085dEgtaWVYN1lIU3dHMHdCbVNRNElvd2VEOGlzY3BWRnhwMG91MDFnRWdWbUlrTmZ2ckdyRUpzMC1XdnZxcHNITTdKM25nanVqd1FLTGl5VDRxeTdjVkFzZTlUNGViVzlWQzVxX21qTDZ3eUlIQzNnTy05MFNDang2RHp2ZGpieEFkcW9NOW8zZjBxSnRHMkZmdDcwYkctNDB5dlJnZFdZaUlGTGtOenpmaTI1cFRGYXhzOFNLZC1tenpEZkZac2tRZ25nUTFPaC1NdFY3TEtRd2l6ekVmWDFlWFlkbVhvZGJmV2Z6Vk5YTElmcE1RWWpCekY3X0hGVWhUeTFybGxseVV2S0hpQ1NHbzMxRGwtS0FkSHd3WTlOLVRTenlfaXZ6dTRqT1ZzVGdHc3ZETjZSUkMtMGFMN2UzM1l4WmJZbkJaS1JTOWI1VzRESExlTnRaSkZXMHlDamFKcEstTlF5LUVGcFd2VkNCNXVaQ0UyUHNzR2dMSzFxUFRpR2xlMnlMV0gzckVoakxSOUYyNFFwbV9WNWhpQ3dTUWpJUjd3YWYyazlSVDJqaFdOd1hpQ1pEczlsbjc5QlpHT3hpamRHNUY4cFJhS0UzQzBsc0lNbHpxdUVERFBCV1NRT2JCMU9yQXkwZWc4ZXo5OFBHUjh1Tzd6bXJ3a1NobXd6UUxrZ0FENTFnaGFaNVFLWWvSAYQFQVVfeXFMTmxGRFA3bWYwSXJmb3JMcTN1SVhqSHl2RzVJSGhpcDNnYzR4cWhDOXVOV3R5X2pvWC1FU1p5eDZnQzlfQkQ3U0dEdTdlVHpQMEpGZk5nNER5cHdEVVppNUU3eXFDU2V0TFR3YnFQMldqYmdCYWlVT0NUZXpwYjhiN0QxOU5VVkY2NWNBLVl2UDhaU01qQmN2WDNHeGduWGxzU2dVN25oRWhjaFdKYVQwejJodG9seEwyRllmVFdkMVFneTdUcmNFUDc1anBoUjBMcGo5X0dfN0dXdmNZYWE2a25jOWVuSGdZVmt6WndLd1pFY3hURWE3VHRWU0s2dkFJQ0x6aEZqOHVMYXBNVnk1TWliM0VhVU1Xa25aUjdLZjZJNjRTczBIczZmY0RHdWhYbllFU1J6dm82Z3NSektWeHR0TTJBNFNCVHR0NkV4THFVbXBmUS01TVVBVmhheGFsSTIzSHd0aHg3X0ZvNWI1cDJWVmJUTU9WM2o1bEtjYjNuVm5QNkFqWnhnWjU5bXEyRVpWU0ZLUGJZcEhsNUdfajdOLTlZd2xOLWxFLU5aZkdRZHdNUTlaUGM5Q29PREt3MzVKNFljR0FzM2lDNzNhRHhIbkNWckJXY3IyY1lrYVhQcXA2a3R3YTEtamdkQ194Q0ZEdElGam5nX3pobU9IS05zeW03SF9CZWFJRk5RY01TYm0xZkVodng3ZTFMMTVzeFhYUTdhdk9Rb0padWNmX2hTdWJvRFhPb2gyWUtWbF9MSHViRUtQaGJycjFFaDVIbm5zdEV3S2lQTHNReG1EWnNQY0JBaGNRZU9jY2lob25jbjZEdWJ3MzdzNl9ndkN0bEFnNHg?oc=5",
+    "published": "Tue, 17 Nov 2026 11:33:36 GMT",
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1794900576
-  },
-  {
-    "title": "تراجع أسعار الذهب 55 جنيهاً في التعاملات المسائية اليوم الإثنين - بوابة أخبار اليوم الإلكترونية",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWm55dTlXZ2poTnZ3SEtScTR5T3JPaWdIdWttUXV5NWtQaXZGWEJtTk5NUFd2c3h1LVEtemNIQ3J0cnU3NkZKek9ObnRLSm52eUZxaHpIZ1lyNVZzQXNKSHVMQksxR2tfRFpJVnFubnR3UFJ5dkxXY0MyUUsyMGtORkFDb0hMVlhKT2JQdnpIa296eTBIQTdwMzBkQy1hX29PVm83eUNQYjQ2YU9CeXpfejVJVGZ0WG1zMzNmYWg4TF9aMUJYT1ktdTBYeDJoQ293cTN4YVZEQmpTbEhTbnk4NS1POUZLUW81bjV0Tk84WVlDbHcyZHNSYmZ6ajVjem9xTFZwTXloNkVNYjFURXRUQlJXNHhrUUVFRXNLMGxfSVJCZWJIZFlOaGwzOWRWRWNyaXp4YzVIZGNhUmpYNnI0SWdNTkVqTGhlTzFzazBSRmZxQ1JKTEVuSTVIVFZpcTEwYkVvdW4wdkxTUQ?oc=5\" target=\"_blank\">تراجع أسعار الذهب 55 جنيهاً في التعاملات المسائية اليوم الإثنين</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">بوابة أخبار اليوم الإلكترونية</font>",
-    "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOWm55dTlXZ2poTnZ3SEtScTR5T3JPaWdIdWttUXV5NWtQaXZGWEJtTk5NUFd2c3h1LVEtemNIQ3J0cnU3NkZKek9ObnRLSm52eUZxaHpIZ1lyNVZzQXNKSHVMQksxR2tfRFpJVnFubnR3UFJ5dkxXY0MyUUsyMGtORkFDb0hMVlhKT2JQdnpIa296eTBIQTdwMzBkQy1hX29PVm83eUNQYjQ2YU9CeXpfejVJVGZ0WG1zMzNmYWg4TF9aMUJYT1ktdTBYeDJoQ293cTN4YVZEQmpTbEhTbnk4NS1POUZLUW81bjV0Tk84WVlDbHcyZHNSYmZ6ajVjem9xTFZwTXloNkVNYjFURXRUQlJXNHhrUUVFRXNLMGxfSVJCZWJIZFlOaGwzOWRWRWNyaXp4YzVIZGNhUmpYNnI0SWdNTkVqTGhlTzFzazBSRmZxQ1JKTEVuSTVIVFZpcTEwYkVvdW4wdkxTUQ?oc=5",
-    "published": "Mon, 16 Nov 2026 19:20:57 GMT",
-    "source": "أخبار جوجل (اليمن)",
-    "category": "اليمن",
-    "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   },
   {
     "title": "اليمن - مجلس الأمن يمدد نظام العقوبات ويدين تصعيد الحوثيين وهجماتهم | أخبار الأمم المتحدة - UN News",
@@ -757,6 +757,6 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1794900576
+    "fetched_at": 1794939674
   }
 ]
