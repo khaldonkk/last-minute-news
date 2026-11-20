@@ -1,83 +1,113 @@
 [
   {
-    "title": "Google is putting AI chats right on the homepage",
-    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray [&#8230;]",
-    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "published": "2026-11-19T15:05:06-05:00",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "published": "2026-11-19T17:31:41-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-    "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're [&#8230;]",
-    "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-    "published": "2026-11-19T14:40:28-05:00",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "published": "2026-11-19T16:59:35-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-    "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their lowest price ever, just $169.99 at Best [&#8230;]",
-    "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-    "published": "2026-11-19T14:35:52-05:00",
+    "title": "Meta now sells 3D movies on Quest VR headsets",
+    "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
+    "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "published": "2026-11-19T16:12:06-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "You can now buy a Steam Machine without getting on a waitlist",
-    "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: you can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist [&#8230;]",
-    "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-    "published": "2026-11-19T14:33:22-05:00",
+    "title": "Meta’s Muse Charm might cost $300",
+    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "published": "2026-11-19T15:22:17-05:00",
     "source": "The Verge",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "published": "Thu, 19 Nov 2026 20:18:49 +0000",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "published": "Fri, 20 Nov 2026 00:56:01 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Anthropic’s IPO could deliver $156 billion to charity",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "published": "Thu, 19 Nov 2026 19:10:45 +0000",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "published": "Fri, 20 Nov 2026 00:43:50 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+    "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+    "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+    "published": "Fri, 20 Nov 2026 00:26:03 +0000",
+    "source": "TechCrunch",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+    "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
+    "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+    "published": "Thu, 19 Nov 2026 23:37:56 +0000",
     "source": "TechCrunch",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-    "source": "TechCrunch",
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "summary": "Amazon now uses its shopping platform for political purposes.",
+    "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "published": "Thu, 19 Nov 2026 22:16:37 +0000",
+    "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+    "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+    "link": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+    "published": "Thu, 19 Nov 2026 21:19:12 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+    "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "published": "Thu, 19 Nov 2026 20:29:46 +0000",
+    "source": "Ars Technica",
+    "category": "تقنية",
+    "lang": "en",
+    "fetched_at": 1795140604
   },
   {
     "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
@@ -87,77 +117,77 @@
     "source": "Ars Technica",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-    "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-    "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-    "published": "Thu, 19 Nov 2026 19:52:54 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-    "summary": "Some models fare better, but all fail in similar ways.",
-    "link": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-    "published": "Thu, 19 Nov 2026 18:44:39 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "Google will launch Android app verification requirement globally in January 2027",
-    "summary": "Google says almost all developers have already gotten on board with verification.",
-    "link": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
-    "published": "Thu, 19 Nov 2026 18:00:33 +0000",
-    "source": "Ars Technica",
-    "category": "تقنية",
-    "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-    "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+    "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
+    "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+    "link": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+    "published": "Thu, 19 Nov 2026 23:12:17 +0000",
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
-    "summary": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
-    "link": "https://www.wired.com/story/best-home-entertainment-gifts-2026/",
-    "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "title": "Best Amazon Black Friday Deals (2026)",
+    "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
+    "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+    "published": "Thu, 19 Nov 2026 22:02:12 +0000",
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-    "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-    "link": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-    "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "title": "What’s With All These Outages?",
+    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "published": "Thu, 19 Nov 2026 21:57:01 +0000",
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
-    "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
-    "link": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is/",
-    "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+    "title": "The Best Hatch Black Friday Deals (2026)",
+    "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
+    "link": "https://www.wired.com/story/hatch-black-friday-deals-2026/",
+    "published": "Thu, 19 Nov 2026 20:44:44 +0000",
     "source": "Wired",
     "category": "تقنية",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+    "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+    "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+    "published": "Thu, 19 Nov 2026 22:40:03 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Second Norwegian Energy Company Breached in Two Days",
+    "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+    "published": "Thu, 19 Nov 2026 20:14:15 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+    "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
+    "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+    "published": "Thu, 19 Nov 2026 19:57:31 GMT",
+    "source": "Dark Reading",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1795140604
   },
   {
     "title": "Navigating Vulnerability Hysteria in the AI Era",
@@ -167,37 +197,37 @@
     "source": "Dark Reading",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Why Holiday Security Can't Wait for Black Friday",
-    "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.",
-    "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-    "published": "Thu, 19 Nov 2026 14:00:00 GMT",
-    "source": "Dark Reading",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "published": "Thu, 19 Nov 2026 19:26:25 -0500",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-    "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally.",
-    "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-    "published": "Thu, 19 Nov 2026 08:00:00 GMT",
-    "source": "Dark Reading",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "published": "Thu, 19 Nov 2026 17:25:42 -0500",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-    "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-    "published": "Wed, 18 Nov 2026 21:59:46 GMT",
-    "source": "Dark Reading",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+    "published": "Thu, 19 Nov 2026 16:15:59 -0500",
+    "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Transport for London breach exposes 265,000 Oyster card users' data",
@@ -207,37 +237,7 @@
     "source": "BleepingComputer",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-    "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-    "published": "Thu, 19 Nov 2026 11:28:23 -0500",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "Five warning signs of ransomware breach before encryption or data theft",
-    "summary": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-    "published": "Thu, 19 Nov 2026 10:00:10 -0500",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-    "summary": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-    "published": "Thu, 19 Nov 2026 09:57:24 -0500",
-    "source": "BleepingComputer",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
@@ -247,7 +247,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
@@ -257,7 +257,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
@@ -267,7 +267,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
@@ -277,7 +277,7 @@
     "source": "The Hacker News",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
@@ -287,7 +287,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "PHP Patches Seven Critical RCE Vulnerabilities",
@@ -297,7 +297,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Nvidia Responds to Gentlemen Ransomware Claim",
@@ -307,7 +307,7 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
@@ -317,7 +317,17 @@
     "source": "SecurityWeek",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "Android developer verification will reach every install source, with a side door for power users",
+    "summary": "<p>Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose the normal install experience on certified Android devices. The rollout opens with seven app distributors: Google Play, Galaxy Store, Honor, Oppo, Xiaomi, Transsion and Vivo. Over several months it widens to every &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/\">Android developer verification will reach every install source, with a side door for power users</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
+    "link": "https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/",
+    "published": "Thu, 19 Nov 2026 23:03:24 +0000",
+    "source": "HelpNetSecurity",
+    "category": "أمن سيبراني",
+    "lang": "en",
+    "fetched_at": 1795140604
   },
   {
     "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
@@ -327,7 +337,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "PHP 8.6 is out, and here’s what changes for your code",
@@ -337,7 +347,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Russian spies turn one cloud breach into a stepping stone for the next",
@@ -347,17 +357,7 @@
     "source": "HelpNetSecurity",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
-    "summary": "<p>Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint management. Details about the in-the-wild attacks have yet to be made public, but the US Cybersecurity and Infrastructure Security Agency (CISA) added the flaw to its Known Exploited Vulnerabilities catalog on Tuesday and ordered US federal civilian agencies to address it by December 1, 2026. Perforce Puppet explained Perforce &#8230; <a href=\"https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/\" rel=\"nofollow\">More <span class=\"meta-nav\">&#8594;</span></a></p>\n<p>The post <a href=\"https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/\">Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)</a> appeared first on <a href=\"https://www.helpnetsecurity.com\">Help Net Security</a>.</p>",
-    "link": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/",
-    "published": "Thu, 19 Nov 2026 13:07:41 +0000",
-    "source": "HelpNetSecurity",
-    "category": "أمن سيبراني",
-    "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
@@ -367,7 +367,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Who Runs the Ransomware Group Qilin?",
@@ -377,7 +377,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -387,7 +387,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Want to Rent an Internet Address at the White House?",
@@ -397,7 +397,7 @@
     "source": "Krebs on Security",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "France Is Blaming Iran for the Fridge Cyberattack",
@@ -407,7 +407,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Formal Verification of the Signal Protocol Using AI",
@@ -417,7 +417,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Usable Security at Luxury Hotels",
@@ -427,7 +427,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Upcoming Speaking Engagements",
@@ -437,7 +437,7 @@
     "source": "Bruce Schneier",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Student Loan Breach Exposes 2.5M Records",
@@ -447,7 +447,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Watering Hole Attacks Push ScanBox Keylogger",
@@ -457,7 +457,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms",
@@ -467,7 +467,7 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "Ransomware Attacks are on the Rise",
@@ -477,7 +477,17 @@
     "source": "Threatpost",
     "category": "أمن سيبراني",
     "lang": "en",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "الكشف عن رواتب الدوري الأميركي.. ميسي وحده يتجاوز 25 فريقا",
+    "summary": "احتفظ أسطورة الأرجنتين ليونيل ميسي نجم إنتر ميامي بالمركز الأول في قائمة اللاعبين الأعلى أجرا بالدوري الأميركي لكرة القدم (إم إل إس)، بدخل ثابت قيمته 28.3 مليون دولار، حسب كشف للرواتب أصدرته نقابة اللاعبين، الخميس.",
+    "link": "https://www.skynewsarabia.com/sport/1905909-%D8%A7%D9%84%D9%83%D8%B4%D9%81-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%85%D9%8A%D8%B3%D9%8A-%D9%88%D8%AD%D8%AF%D9%87-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-25-%D9%81%D8%B1%D9%8A%D9%82%D8%A7",
+    "published": "Thu, 19 Nov 2026 21:43:01 GMT",
+    "source": "سکای رياضة",
+    "category": "رياضة",
+    "lang": "ar",
+    "fetched_at": 1795140604
   },
   {
     "title": "\"لا تفكروا في النوم\".. أول أوامر بوكيتينو لـ\"الشياطين الحمر\"",
@@ -487,7 +497,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "الملكي يراهن على تشواميني.. عقد جديد حتى 2032",
@@ -497,7 +507,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "تقدم على البرازيل والبرتغال.. المغرب خامسا في تصنيف \"فيفا\"",
@@ -507,17 +517,7 @@
     "source": "سکای رياضة",
     "category": "رياضة",
     "lang": "ar",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "سكالوني يطرح خيارا مثيرا بشأن ميسي.. عودة محتملة",
-    "summary": "فتح ليونيل سكالوني، مدرب المنتخب الأرجنتيني، الباب أمام النجم ليونيل ميسي للانضمام إلى الجهاز الفني للمنتخب بعد انتهاء مسيرته الكروية مع الأندية.",
-    "link": "https://www.skynewsarabia.com/sport/1905486-%D8%B3%D9%83%D8%A7%D9%84%D9%88%D9%86%D9%8A-%D9%8A%D8%B7%D8%B1%D8%AD-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D9%85%D8%AB%D9%8A%D8%B1%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D9%85%D9%8A%D8%B3%D9%8A-%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9",
-    "published": "Wed, 18 Nov 2026 07:35:32 GMT",
-    "source": "سکای رياضة",
-    "category": "رياضة",
-    "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "الإمارات تتصدر العالم بـ73.3% في استخدام الذكاء الاصطناعي",
@@ -527,7 +527,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "\"موريسون\" العالمية تفتتح مكتباً جديداً في أبوظبي العالمي",
@@ -537,7 +537,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "اجتماع الكبار الثلاثة.. الاقتصاد العالمي يواجه اختبار المصير",
@@ -547,7 +547,7 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "محافظ بنك إنجلترا يتوقع زيادة الفائدة حال استمرار الحرب",
@@ -557,7 +557,27 @@
     "source": "سکای اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "سعر الذهب يهبط لأدنى مستوى له منذ سبتمبر 2025",
+    "summary": "انخفض سعر عقود الذهب الآجلة تسليم ديسمبر 2026، في بورصة \"Comex\" إلى ما دون 3650 دولارا للأونصة، للمرة الأولى منذ 8 سبتمبر 2025.",
+    "link": "https://rtarabic.com/business/1855614-%D8%B3%D8%B9%D8%B1-%D8%A7%D9%84%D8%B0%D9%87%D8%A8-%D9%8A%D9%87%D8%A8%D8%B7-%D9%84%D8%A3%D8%AF%D9%86%D9%89-%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D9%84%D9%87-%D9%85%D9%86%D8%B0-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-2025/",
+    "published": "Thu, 19 Nov 2026 22:03:39 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "اختراق إلكتروني يستهدف مزودي خدمات لـ\"جيه.بي مورغان\" و\"فيزا\" و\"ماستركارد\"",
+    "summary": "كشفت مؤسسات مالية كبرى، في مقدمتها بنك \"جيه.بي مورغان تشيس\" وشركتا \"فيزا\" و\"ماستركارد\"، اليوم الخميس، عن تعرض جهات خارجية تقدم خدمات لها لهجمات إلكترونية.",
+    "link": "https://rtarabic.com/business/1855598-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D8%B2%D9%88%D8%AF%D9%8A-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%AC%D9%8A%D9%87%D8%A8%D9%8A-%D9%85%D9%88%D8%B1%D8%BA%D8%A7%D9%86-%D9%88%D9%81%D9%8A%D8%B2%D8%A7-%D9%88%D9%85%D8%A7%D8%B3%D8%AA%D8%B1%D9%83%D8%A7%D8%B1%D8%AF/",
+    "published": "Thu, 19 Nov 2026 20:27:54 +0000",
+    "source": "روسيا اليوم اقتصاد",
+    "category": "اقتصاد",
+    "lang": "ar",
+    "fetched_at": 1795140604
   },
   {
     "title": "قيود أوروبية على 10 شركات طيران ليبية بسبب معايير السلامة",
@@ -567,7 +587,7 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "أسهم \"أنثروبيك\" تقفز بأكثر من 34% في أولى جلسات تداولها ببورصة ناسداك",
@@ -577,27 +597,17 @@
     "source": "روسيا اليوم اقتصاد",
     "category": "اقتصاد",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "مصر تكشف ما سددته من ديون خارجية خلال عام",
-    "summary": "سددت مصر نحو 38.2 مليار دولار لخدمة الدين الخارجي خلال العام المالي 2025-2026، مقابل 38.7 مليار دولار خلال العام السابق، وفق بيانات البنك المركزي المصري.",
-    "link": "https://rtarabic.com/business/1855560-%D9%85%D8%B5%D8%B1-%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D8%A7-%D8%B3%D8%AF%D8%AF%D8%AA%D9%87-%D9%85%D9%86-%D8%AF%D9%8A%D9%88%D9%86-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%B9%D8%A7%D9%85/",
-    "published": "Thu, 19 Nov 2026 17:37:47 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
+    "title": "\"قبعة طائشة\" تقتل أشهر فرس نهر في العالم",
+    "summary": "أعلنت حديقة حيوان سينسيناتي الأميركية، الخميس، نفوق أنثى فرس النهر الشهيرة \"فيونا\"، بعد أيام من ابتلاعها قبعة أحد الزوار.",
+    "link": "https://www.skynewsarabia.com/varieties/1905915-%D9%82%D8%A8%D8%B9%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B4%D8%A9-%D8%AA%D9%82%D8%AA%D9%84-%D8%A3%D8%B4%D9%87%D8%B1-%D9%81%D8%B1%D8%B3-%D9%86%D9%87%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "published": "Thu, 19 Nov 2026 23:07:06 GMT",
+    "source": "سکای منوعات",
+    "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "عمالقة الذكاء الاصطناعي إلى البورصة.. \"أنثروبيك\" تبدأ السباق",
-    "summary": "تتجه شركة \"أنثروبيك\"، المطورة لروبوت الدردشة \"كلود\"، نحو تحقيق قيمة سوقية تقترب من 1.9 تريليون دولار، مع بدء تداول أسهمها اليوم الخميس في بورصة \"ناسداك\".",
-    "link": "https://rtarabic.com/business/1855558-%D8%B9%D9%85%D8%A7%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%A3%D9%86%D8%AB%D8%B1%D9%88%D8%A8%D9%8A%D9%83-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D9%82/",
-    "published": "Thu, 19 Nov 2026 17:24:58 +0000",
-    "source": "روسيا اليوم اقتصاد",
-    "category": "اقتصاد",
-    "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "العراق ينقذ 1150 قطعة أثرية من أيدي مهربين",
@@ -607,7 +617,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "رسوم جديدة رغم الإعفاءات.. أزمة توقف الهواتف تتسع في مصر",
@@ -617,7 +627,7 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "رضيع مقابل سيارة.. صفقة غريبة تثير الجدل في اليونان",
@@ -627,17 +637,27 @@
     "source": "سکای منوعات",
     "category": "صحة",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "خيمة مهترئة وأغطية مبللة.. ليلة عصيبة لعائلة فلسطينية في غزة",
-    "summary": "لم تكن ليلة هطول الأمطار عادية بالنسبة إلى الفلسطينية سعاد زهير الرقب (36 عاما) وأشقائها الأربعة من ذوي الإعاقة؛ فمع تسرب المياه إلى خيمتهم المهترئة في مواصي خان يونس جنوبي قطاع غزة، تحولت فرشهم وأغطيتهم إلى قطع مبللة، وباتت حمايتهم من البرد مهمة شاقة تفوق قدرتهم على الاحتمال، في ظل غياب مأوى يراعي احتياجاتهم الحركية والصحية.",
-    "link": "https://www.skynewsarabia.com/varieties/1905755-%D8%AE%D9%8A%D9%85%D8%A9-%D9%85%D9%87%D8%AA%D8%B1%D8%A6%D8%A9-%D9%88%D8%A3%D8%BA%D8%B7%D9%8A%D8%A9-%D9%85%D8%A8%D9%84%D9%84%D8%A9-%D9%84%D9%8A%D9%84%D8%A9-%D8%B9%D8%B5%D9%8A%D8%A8%D8%A9-%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D8%A9-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9",
-    "published": "Thu, 19 Nov 2026 15:00:48 GMT",
-    "source": "سکای منوعات",
-    "category": "صحة",
+    "title": "جرف النصر أزمة كادت تضع العراق على حافة المواجهة",
+    "summary": "بعد توتر كاد يشعل مواجهة مسلحة، تقر بغداد خطة لإحلال قوات نظامية في جرف النصر وإعادة فتح طرقها، وسط ترقب لمصير عودة النازحين",
+    "link": "https://www.bbc.com/arabic/articles/cjn502xwx3ldo?at_medium=RSS&at_campaign=rss",
+    "published": "Thu, 19 Nov 2026 21:23:37 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
+  },
+  {
+    "title": "ماذا تكشف دراسة جديدة عن تعداد الهندوس والمسلمين في الهند وحول العالم؟",
+    "summary": "تستشرف الدراسة التركيبة الدينية للعالم على مدى السنوات الخمسين القادمة، مستندةً إلى بيانات من نحو 200 دولة وإقليم حول العالم.",
+    "link": "https://www.bbc.com/arabic/articles/c6n83xdp1ezlo?at_medium=RSS&at_campaign=rss",
+    "published": "Fri, 20 Nov 2026 00:17:53 GMT",
+    "source": "BBC عربي",
+    "category": "عالم",
+    "lang": "ar",
+    "fetched_at": 1795140604
   },
   {
     "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن",
@@ -647,7 +667,7 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "ترامب وبوتين وشي يصدرون \"إعلان سلام\" في ختام قمة تاريخية",
@@ -657,67 +677,47 @@
     "source": "BBC عربي",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "محكمة العدل الدولية تدين ميانمار بارتكاب إبادة جماعية بحق الروهينغا وتأمرها بدفع تعويضات",
-    "summary": "قضت محكمة العدل الدولية بأن ميانمار ارتكبت إبادة جماعية بحق أقلية الروهينغا المسلمة خلال عمليات عسكرية عام 2017، وألزمتها بدفع تعويضات للضحايا، والتحقيق مع المشتبه بارتكابهم الانتهاكات، واتخاذ إجراءات تضمن عدم تكرارها، في حكم تاريخي يُعد الأول الذي تحمّل فيه محكمة دولية دولةً مسؤولية ارتكاب إبادة جماعية.",
-    "link": "https://www.bbc.com/arabic/articles/c67423jk2lj4o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 12:45:33 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "طفلك يكذب عليك؟ ربّما ليس في ذلك ما يدعو للقلق!",
-    "summary": "كيف يمكن اعتبار الكذب عند الأطفال علامة على \"سلوك صحيّ\" – وكيف يمكن تشجيعهم على تحرّي الصدق، في المقابل؟",
-    "link": "https://www.bbc.com/arabic/articles/cw7728rvx6p2o?at_medium=RSS&at_campaign=rss",
-    "published": "Thu, 19 Nov 2026 19:15:27 GMT",
-    "source": "BBC عربي",
-    "category": "عالم",
-    "lang": "ar",
-    "fetched_at": 1795119625
-  },
-  {
-    "title": "العراق.. بوادر انفراج في أزمة جرف الصخر",
-    "summary": "أقرت الحكومة العراقية خطة انتشار للجيش والحشد الشعبي في منطقة جرف الصخر.",
-    "link": "https://rtarabic.com/features/1855591-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A8%D9%88%D8%A7%D8%AF%D8%B1-%D8%A7%D9%86%D9%81%D8%B1%D8%A7%D8%AC-%D9%81%D9%8A-%D8%A3%D8%B2%D9%85%D8%A9-%D8%AC%D8%B1%D9%81-%D8%A7%D9%84%D8%B5%D8%AE%D8%B1/",
-    "published": "Thu, 19 Nov 2026 20:19:36 +0000",
+    "title": "خطوات جديدة لتطوير النقل المستدام في موسكو",
+    "summary": "وسعت موسكو شبكة الحافلات الكهربائية وعززت البنية التحتية للشحن، بالتوازي مع تأهيل السائقين وتحديث منظومة النقل الصديق للبيئة.",
+    "link": "https://rtarabic.com/russia/1855437-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
+    "published": "Fri, 20 Nov 2026 00:55:27 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "أوروبا: لا تسوية دون مشاركتنا مع كييف",
-    "summary": "جدّد قادة ما يسمى بتحالف الراغبين في برلين التزامهم بدعم أوكرانيا، رافضين إقصاء أوروبا عن أي تسوية بعد قمة الصين الثلاثية.",
-    "link": "https://rtarabic.com/features/1855589-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%84%D8%A7-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%86%D8%A7-%D9%85%D8%B9-%D9%83%D9%8A%D9%8A%D9%81/",
-    "published": "Thu, 19 Nov 2026 20:17:25 +0000",
+    "title": "انفجارات تهز كييف وتقارير عن استهداف منشآت للطاقة",
+    "summary": "أفادت قناة \"أوبشستفينويه\" الأوكرانية بسماع انفجارات في كييف فجر الجمعة، وسط إنذار جوي، فيما تحدثت مصادر روسية عن ضربات صاروخية استهدفت منشآت للطاقة في العاصمة.",
+    "link": "https://rtarabic.com/world/1855624-/",
+    "published": "Fri, 20 Nov 2026 00:51:34 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "أوكرانيا.. رهانات أوروبا بعد قمة الكبار",
-    "summary": "",
-    "link": "https://rtarabic.com/prg/%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B1%D9%87%D8%A7%D9%86%D8%A7%D8%AA-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%B1-1855586/%D8%A7%D8%B3%D8%A3%D9%84-%D8%A3%D9%83%D8%AB%D8%B1/",
-    "published": "Thu, 19 Nov 2026 20:04:37 +0000",
+    "title": "ويتكوف: الأوروبيون أبدوا التزاما جادا بالتوصل إلى تسوية بشأن أوكرانيا",
+    "summary": "صرح المبعوث الرئاسي الأمريكي الخاص ستيف ويتكوّف، أن القادة الأوروبيين لذين اجتمعوا في برلين ضمن إطار \"تحالف الراغبين\" قد أظهروا التزاما جادا بحل الأزمة الأوكرانية.",
+    "link": "https://rtarabic.com/world/1855627-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88%D9%86-%D8%A3%D8%A8%D8%AF%D9%88%D8%A7-%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D8%A7-%D8%AC%D8%A7%D8%AF%D8%A7-%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7/",
+    "published": "Fri, 20 Nov 2026 00:35:47 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
-    "title": "ترامب يشكك في استمرار المساعدات الأوروبية لأوكرانيا",
-    "summary": "أفادت صحيفة \"بوليتيكو\" بأن الرئيس الأمريكي دونالد ترامب شكك في استمرار تقديم المساعدات العسكرية الأوروبية إلى أوكرانيا، خلال اتصال باجتماع لحلفاء كييف في برلين الخميس.",
-    "link": "https://rtarabic.com/world/1855565-/",
-    "published": "Thu, 19 Nov 2026 19:57:54 +0000",
+    "title": "5 طرق لإبطاء الشيخوخة بمساعدة مادة طبيعية واحدة",
+    "summary": "كشفت دراسة عن وسائل مختلفة مضادة للشيخوخة أثبتت فعاليتها على القوارض ولها سمة مشتركة غير متوقعة. فكل منها يرفع مستوى مضاد الأكسدة الطبيعي إرغوتيونين في دماغ ودم الحيوانات المخبرية.",
+    "link": "https://rtarabic.com/health/1854606-%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%AE%D9%85%D8%B3-%D8%B7%D8%B1%D9%82-%D8%A5%D8%A8%D8%B7%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%D9%88%D8%AE%D8%A9-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%85%D8%A7%D8%AF%D8%A9-%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9/",
+    "published": "Fri, 20 Nov 2026 00:24:22 +0000",
     "source": "روسيا اليوم",
     "category": "عالم",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "أضرار في أطول برج بالرياض إثر هجوم من جماعة أنصار الله وتصاعد المواجهات في اليمن - BBC",
@@ -727,7 +727,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "سعر الذهب اليوم في مصر يواصل الانخفاض بحلول التعاملات المسائية - Masrawy",
@@ -737,7 +737,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "اليونيسف: مقتل عشرات الأطفال في اليمن وسط تصاعد الأعمال العدائية | أخبار الأمم المتحدة - UN News",
@@ -747,7 +747,7 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   },
   {
     "title": "مؤتمر \"علماء اليمن\" في مكة يبحث مساندة الدولة ومواجهة الحوثيين - الجزيرة نت",
@@ -757,6 +757,6 @@
     "source": "أخبار جوجل (اليمن)",
     "category": "اليمن",
     "lang": "ar",
-    "fetched_at": 1795119625
+    "fetched_at": 1795140604
   }
 ]
